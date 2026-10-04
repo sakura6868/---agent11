@@ -42,12 +42,12 @@ Linux/macOS 可运行 `bash start.sh`。Docker 可复制 `.env.example` 为 `.en
 .\venv\Scripts\python.exe scripts/check_submission_materials.py --video demo/演示视频.mp4 --require-video
 ```
 
-本版回归168项及26子测试、正式用例15/15、模板806/806。浏览器检查和视频使用离线模式；模板回归不是独立人工标注准确率，工作量与收益是规划估计，真实学生效果和在线模型效果尚未验证。
+本版回归168项及26子测试、正式用例15/15、模板806/806。浏览器检查使用离线模式；模板回归不是独立人工标注准确率，工作量与收益是规划估计，真实学生效果和在线模型效果尚未验证。
 
 ## 交付内容
 
 - [技术文档](submission/02_技术文档.md) · [架构](docs/ARCHITECTURE.md)
-- [3分40秒实际浏览器演示](demo/演示视频.mp4) · [旁白稿](docs/DEMO_NARRATION.md)
+- [正式演示视频（用户指定，约3分28秒）](demo/演示视频.mp4)
 - [正式评测](docs/QUANTITATIVE_EVALUATION.md) · [模板报告](evals/report.md)
 - [数据与隐私说明](docs/COMPLIANCE.md) · [第三方组件说明](docs/THIRD_PARTY_NOTICES.md)
 

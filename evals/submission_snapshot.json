@@ -34,7 +34,7 @@
   },
   "evaluation_fixture_date": "2026-10-03",
   "dataset_sha256": "12076f99fe5d2b83390b0ef1f945587ba408663c39d711ffc3d5bbe30e9dfcdf",
-  "video_sha256": "ef3a0ce1bff3cedd3a3256371d7577d29fcad0e341bce938c4751322ba46fcda",
+  "video_sha256": "3848660c395a4badd502f0dff0bb3081d1afe59650e50bba816affb891e85c8d",
   "real_user_validation": false,
   "live_model_planning_validated": false,
   "cloud_rotation_verified": false
