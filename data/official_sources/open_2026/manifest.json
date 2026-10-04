@@ -1,0 +1,48 @@
+[
+  {
+    "competition_id": "aic_energy_2026",
+    "source_url": "https://www.aicomp.cn/tracks/4726.html",
+    "document_path": "data/official_sources/open_2026/aic_energy_2026_official.html",
+    "sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+    "acquired_date": "2026-10-04",
+    "source_checked_date": "2026-10-04"
+  },
+  {
+    "competition_id": "aic_interconnect_2026",
+    "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+    "document_path": "data/official_sources/open_2026/aic_interconnect_2026_official.html",
+    "sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+    "acquired_date": "2026-10-04",
+    "source_checked_date": "2026-10-04"
+  },
+  {
+    "source_url": "https://www.aicomp.cn/wp-content/uploads/2026/09/附件1-人工智能6G青年创新创业专项赛作品提交要求-1.pdf",
+    "document_path": "data/official_sources/open_2026/aic_6g_requirements.pdf",
+    "sha256": "26b427d7a113d014d0cf54d6c36e90978596a1086fd7399db60e48e5b60f891e",
+    "acquired_date": "2026-10-04"
+  },
+  {
+    "competition_id": "aic_6g_2026",
+    "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+    "document_path": "data/official_sources/open_2026/aic_6g_2026_official.html",
+    "sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+    "acquired_date": "2026-10-04",
+    "source_checked_date": "2026-10-04"
+  },
+  {
+    "competition_id": "ncccu_office_2026",
+    "source_url": "https://www.ncccu.org.cn/index/Paper/case3.html",
+    "document_path": "data/official_sources/open_2026/ncccu_office_2026_official.html",
+    "sha256": "49757d1440ac625a776f2a0f7cdef879b0a8df367e9dafcd948fd66b7af8a1cc",
+    "acquired_date": "2026-10-04",
+    "source_checked_date": "2026-10-04"
+  },
+  {
+    "competition_id": "ncccu_program_2026",
+    "source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+    "document_path": "data/official_sources/open_2026/ncccu_program_2026_official.html",
+    "sha256": "c9f32d8c7943f11adc7b4c33f88ae55a10e5a0692c8c33e9258813f391a0231c",
+    "acquired_date": "2026-10-04",
+    "source_checked_date": "2026-10-04"
+  }
+]

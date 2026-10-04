@@ -1,0 +1,129 @@
+{
+  "competition_id": "basic_med_2026",
+  "competition_name": "全国大学生医学创新大赛暨\"一带一路\"国际竞赛（原全国大学生基础医学创新研究暨实验设计论坛）",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "高等学校大学生医学创新竞赛委员会",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "生物科学",
+    "生物技术",
+    "基础医学",
+    "药学",
+    "临床医学",
+    "生态学"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": "2026-04-02",
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-01",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": "2026-08-31",
+  "award_settings": "设一、二、三等奖，比例分别不超过参赛总数的10%、20%和30%。分校赛、复赛（区赛）、总决赛暨\"一带一路\"国际竞赛三阶段。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "不超过10%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "不超过20%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "不超过30%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生医学创新大赛暨\"一带一路\"国际竞赛（第十二届，2026；前身\"全国大学生基础医学创新研究暨实验设计论坛\"）是由高等学校大学生医学创新竞赛委员会主办的医学类赛事，主要面向全日制本科生、高职高专专科生，以3-5人团队形式参赛，考察科学性、创新性等能力。",
+  "required_materials": [
+    "实验报告",
+    "研究论文",
+    "海报",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "完成度",
+    "表达"
+  ],
+  "required_skills": [
+    "实验操作",
+    "数据分析",
+    "文献检索",
+    "科研写作"
+  ],
+  "official_source_url": "http://www.jcyxds.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "全国大学生医学创新大赛暨\"一带一路\"国际竞赛(原全国大学生基础医学创新研究暨实验设计论坛)",
+      "document_name": "第十二届全国大学生医学创新大赛暨\"一带一路\"国际竞赛参赛通知",
+      "source_url": "http://www.cmm.zju.edu.cn/2026/0204/c55214a3132746/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由高等学校大学生医学创新竞赛委员会主办",
+      "document_name": "第十二届全国大学生医学创新大赛暨\"一带一路\"国际竞赛参赛通知",
+      "source_url": "http://www.cmm.zju.edu.cn/2026/0204/c55214a3132746/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "学生以团队形式参加，每个队伍3~5人（不少于3人，不超过5人）",
+      "document_name": "第十二届全国大学生医学创新大赛暨\"一带一路\"国际竞赛参赛通知",
+      "source_url": "http://www.cmm.zju.edu.cn/2026/0204/c55214a3132746/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名截止时间：2026年4月2日前",
+      "document_name": "第十二届全国大学生医学创新大赛暨\"一带一路\"国际竞赛参赛通知",
+      "source_url": "http://www.cmm.zju.edu.cn/2026/0204/c55214a3132746/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "各团队负责人登录大赛官方网站 www.jcyxds.com",
+      "document_name": "第十二届全国大学生医学创新大赛暨\"一带一路\"国际竞赛参赛通知",
+      "source_url": "http://www.cmm.zju.edu.cn/2026/0204/c55214a3132746/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：2026年为第十二届，已更名为\"全国大学生医学创新大赛暨'一带一路'国际竞赛\"（前身为基础医学创新研究暨实验设计论坛）；原organizer\"高等学校国家级实验教学示范中心联席会\"为旧设，已更正；原team_min=1/team_max=3有误，已更正为3-5人；研究生一般不在参赛范围内（以本科生、高职高专专科生为主），原eligible_students含\"研究生\"已移除。赛事为多阶段（校赛4月初、复赛5-7月、总决赛8月中下旬上海），submission_deadline置空。",
+  "official_source_status": "found"
+}

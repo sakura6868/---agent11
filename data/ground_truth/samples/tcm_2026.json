@@ -1,0 +1,83 @@
+{
+  "competition_id": "tcm_2026",
+  "competition_name": "全国大学生中医药知识技能竞赛",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "相关中医药学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "生物科学",
+    "生物技术",
+    "基础医学",
+    "药学",
+    "临床医学",
+    "生态学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生中医药知识技能竞赛（待核实）是由相关中医药学会主办的生命科学类赛事，主要面向本科生、研究生。要求生物科学、生物技术、基础医学等的同学以组队形式参与，考察科学性、创新性等能力。注：该赛事名称未能找到官方依据，建议人工确认赛事真实性。",
+  "required_materials": [
+    "实验报告",
+    "研究论文",
+    "海报",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "完成度",
+    "表达"
+  ],
+  "required_skills": [
+    "实验操作",
+    "数据分析",
+    "文献检索",
+    "科研写作"
+  ],
+  "official_source_url": null,
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】未能找到“全国大学生中医药知识技能竞赛”这一名称的全国官方赛事依据。相近且已核实的赛事为“数字本草全国大学生中医药文化知识竞赛”（赛氪平台）与“三省一区高等院校中医药知识与实战技能大赛”（辽宁省教育厅、中国医科大学承办，区域赛），建议人工确认本赛事是否为上述赛事之一的异称或确为虚构。原赛期均为占位值且无来源，已全部置空待人工确认；official_source_url 原 baidu 搜索链接非权威来源，已置空。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。注：名称相近的真实赛事为“全国中医药高等教育技能大赛—中医药社杯中药学类专业学生知识技能大赛”（教育部中药学教指委、全国中医药高等教育学会）与“数字本草全国大学生中医药文化知识竞赛”。"
+}

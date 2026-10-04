@@ -1,0 +1,88 @@
+{
+  "competition_name": "2026年第七届MathorCup数学应用挑战赛（大数据竞赛）",
+  "document_year": 2026,
+  "organizer": "中国优选法统筹法与经济数学研究会",
+  "category": "data",
+  "eligible_students": ["本科生", "研究生", "专科生"],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-10-23",
+  "registration_deadline_at": "2026-10-23T12:00:00+08:00",
+  "deadline_timezone_basis": "campus_default",
+  "submission_deadline": null,
+  "competition_start_date": "2026-10-23",
+  "competition_end_date": "2026-10-30",
+  "required_materials": ["电子版论文", "结果数据集", "计算程序源代码"],
+  "evaluation_dimensions": [],
+  "required_skills": ["数据分析", "数学建模", "Python", "论文写作"],
+  "brief_description": "面向境内外高校在读学生的大数据独立赛项，允许跨校、跨专业、跨年级组队。报名截止为2026年10月23日12:00，初赛为10月23日18:00至10月30日20:00；每队参赛费200元。",
+  "official_source_url": "https://mathorcup.org/detail/2494",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-03",
+  "last_verified_at": "2026-10-03",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "doc_version": "2026_data_official_20261003",
+  "notes": "独立于春季MathorCup赛项。字段来自官网2026-09-03发布通知所链接的7页PDF（含2026年8月修订章程）。原文明确报名截止为10月23日12:00，但未单独说明时区；系统按校园时区UTC+08:00门控并明确标注此假设，境外用户必须另向官网确认时区。复赛为12月4日至12月11日，未混入初赛日期。官网来源已确认不等于人工替代报名审核，最终以官网最新通知为准。",
+  "evidence": [
+    {
+      "field": "registration_deadline_at", "page": 1,
+      "source_text": "报名截止日期为 2026 年 10 月 23 日 12:00，报名截止后不能再更改报名信息。",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    },
+    {
+      "field": "registration_deadline", "page": 1,
+      "source_text": "报名截止日期为 2026 年 10 月 23 日 12:00，报名截止后不能再更改报名信息。",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    },
+    {
+      "field": "eligible_students", "page": 4,
+      "source_text": "竞赛面向境内外各高校在读的研究生、本科生和专科生，具体要求如下：",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    },
+    {
+      "field": "team_min", "page": 4,
+      "source_text": "可以自由组队参赛，每个参赛队伍人数可为 1–3人，参赛队员必须全部为在校生，允许跨年级、跨专业、跨校组队。",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    },
+    {
+      "field": "team_max", "page": 4,
+      "source_text": "可以自由组队参赛，每个参赛队伍人数可为 1–3人，参赛队员必须全部为在校生，允许跨年级、跨专业、跨校组队。",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    },
+    {
+      "field": "required_materials", "page": 2,
+      "source_text": "竞赛需要提交电子版论文、结果数据集和计算程序源代码。",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    },
+    {
+      "field": "competition_end_date", "page": 1,
+      "source_text": "竞赛初赛时间为2026年 10月23日18:00 至2026年 10月30日 20:00。",
+      "document_name": "mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "acquired_date": "2026-10-03", "last_verified_at": "2026-10-03", "trusted_level": "A",
+      "document_sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0"
+    }
+  ]
+}

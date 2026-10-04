@@ -1,0 +1,116 @@
+{
+  "competition_id": "ctc_2026",
+  "competition_name": "中国好创意暨全国数字艺术设计大赛",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "全国高等院校计算机基础教育研究会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "视觉传达设计",
+    "环境设计",
+    "数字媒体艺术",
+    "工业设计",
+    "动画"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-06-30",
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": "2026-08-25",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国好创意暨全国数字艺术设计大赛是由全国高等院校计算机基础教育研究会等主办的艺术设计类赛事，面向本科生、研究生、专科生。以团队（含个人）形式参赛，设常规赛道与专项赛道，考察创意性、表现力、完整性与主题契合度。",
+  "required_materials": [
+    "设计作品",
+    "创作说明",
+    "源文件",
+    "展示视频"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": "https://www.cdec.org.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "中国好创意暨全国数字艺术设计大赛（China Creative Challenges Contest，简称3C大赛或“中国创意挑战大赛”）",
+      "document_name": "关于参加2026年第20届中国好创意暨全国数字艺术设计大赛的通知",
+      "source_url": "https://arch.hit.edu.cn/2026/0403/c11953a389352/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名及截止时间：2025年10月20日——2026年6月30日17:00止",
+      "document_name": "关于参加2026年第20届中国好创意暨全国数字艺术设计大赛的通知",
+      "source_url": "https://arch.hit.edu.cn/2026/0403/c11953a389352/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "省赛、国赛获奖名单公布：2026年8月25日之前",
+      "document_name": "关于参加2026年第20届中国好创意暨全国数字艺术设计大赛的通知",
+      "source_url": "https://arch.hit.edu.cn/2026/0403/c11953a389352/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 已核实：官方名称、主办单位、报名/作品提交截止2026-06-30、获奖名单2026-08-25前公布；该赛事为作品提交制，无单一“竞赛进行期”，原占位竞赛日期已置空。参赛对象含专科生，已补充；团队规模（1-3人）未在本次公开通知中明示，保留原值待核。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

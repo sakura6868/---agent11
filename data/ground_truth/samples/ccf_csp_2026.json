@@ -1,0 +1,89 @@
+{
+  "competition_id": "ccf_csp_2026",
+  "competition_name": "CCF CSP软件能力认证",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "中国计算机学会（CCF）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "人工智能",
+    "信息安全",
+    "数据科学与大数据技术",
+    "网络空间安全"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "CCF CSP为软件能力认证（非奖项制竞赛），满分500分（5道题各100分），由CCF统一命题、统一评测，向企业和高校推荐优秀软件人才。",
+  "award_distribution": [],
+  "brief_description": "CCF CSP软件能力认证是由中国计算机学会（CCF）于2014年推出的软件能力认证，采用上机编程方式，考察程序设计、数据结构、算法及数学基础，由CCF统一命题评测。该认证为个人参加、滚动举办，并非传统组队竞赛。",
+  "required_materials": [
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "时间与空间复杂度",
+    "代码规范"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java"
+  ],
+  "official_source_url": "https://csp.ccf.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "CSP认证是由中国计算机学会(CCF)于2014年推出的软件能力认证标准",
+      "document_name": "第42次CCF CSP认证（2026年5月31日）报名通知",
+      "source_url": "https://www.cspro.org/cms/show.action?code=jumpnewstemplate&siteid=100000&channelid=0000000103&newsid=99c860ff686b4abc8c1a7ee14a745b1d",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "以个人报名参赛，指导教师应为学生所在学校的专职教师担任",
+      "document_name": "关于组织参加第四十二次CCF计算机软件能力考试认证(CSP)暨大学生计算机系统与程序设计竞赛(CCSP)初赛的通知",
+      "source_url": "https://xxgk.ysu.edu.cn/info/1008/22009.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "CCF认证管理系统",
+      "document_name": "CCF认证管理系统",
+      "source_url": "https://csp.ccf.org.cn/csp/show.action?code=exam_plan_seach&_ack=1",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：CCF CSP为个人参加的软件能力认证（非组队竞赛），原team_required=true/team_max=3有误，已更正为个人。该认证2026年滚动举办4次（考试日期：3月29日、5月31日、9月13日、12月13日），非单场赛事，故原占位日期字段置空，请以官网csp.ccf.org.cn为准。",
+  "official_source_status": "found"
+}

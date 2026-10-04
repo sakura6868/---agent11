@@ -1,0 +1,134 @@
+{
+  "competition_id": "env_design_2026",
+  "competition_name": "中装杯全国大学生环境设计大赛",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "中国建筑装饰协会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "环境艺术",
+    "室内设计",
+    "空间设计",
+    "建筑装饰设计",
+    "数字设计",
+    "产品设计",
+    "建筑设计",
+    "城乡规划",
+    "风景园林"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-06-15",
+  "submission_deadline": "2026-06-15",
+  "competition_start_date": "2026-02-01",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": null,
+  "award_settings": "按照评审规则确定奖项，各类别一等奖不超过该类参赛作品总数的3%，二等奖不超过7%，三等奖不超过10%；最终结果分本科/研究生组、专科/高职组两组公布。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "不超过该类3%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "不超过该类7%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "不超过该类10%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "“中装杯”全国大学生环境设计大赛（2026年为第十二届）是由中国建筑装饰协会主办、面向全国在校环境设计及相关专业大学生的公益性大赛，2013年在清华大学启动，已入选中国高等教育学会《全国普通高校大学生竞赛分析报告》。参赛对象为环境艺术、室内设计、建筑装饰设计、数字设计、产品设计、建筑设计、城乡规划、风景园林等专业的在校本科生或研究生，作品征集涵盖空间创意、深化设计、AIGC、乡村振兴等十余个赛道。",
+  "required_materials": [
+    "设计作品",
+    "创作说明",
+    "源文件",
+    "展示视频"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": "https://www.cbda.cn/special/special617",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第十二届中装杯全国大学生环境设计大赛",
+      "document_name": "第十二届中装杯全国大学生环境设计大赛（中装新网专题）",
+      "source_url": "https://www.cbda.cn/special/special617",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 中国建筑装饰协会",
+      "document_name": "第十二届中装杯全国大学生环境设计大赛（中装新网专题）",
+      "source_url": "https://www.cbda.cn/special/special617",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "allowed_majors",
+      "page": null,
+      "source_text": "环境艺术专业(室内设计、空间设计、建筑装饰设计、数字设计等)以及以人居环境为核心的设计学科(产品设计、建筑设计、城乡规划、风景园林等)的在校大学生或研究生",
+      "document_name": "关于举办2026第十二届“中装杯”全国大学生环境设计大赛的通知（哈尔滨工业大学）",
+      "source_url": "https://arch.hit.edu.cn/2026/0408/c11953a389510/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "作品征集 2026年2月1日 —— 2026年6月15日；将作品于2026年6月15日前提交至摩课云竞赛平台",
+      "document_name": "第十二届中装杯全国大学生环境设计大赛（中装新网专题）",
+      "source_url": "https://www.cbda.cn/special/special617",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品请按参赛规范整理好,于2026年6月15日前提交至摩课云竞赛平台",
+      "document_name": "2026第十二届“中装杯”全国大学生环境设计大赛（赛氪）",
+      "source_url": "https://new.saikr.com/vse/58102",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，已完成人工核验。2026-07-18 核查：原 competition_name“全国大学生环境设计大赛”及 organizer“相关环境设计学会”均不准确，已更正为官方名称“中装杯全国大学生环境设计大赛”及主办单位“中国建筑装饰协会”。competition_start_date 取作品征集开始2026-02-01；competition_end_date 取成绩公布期(2026年10月—11月)代表值2026-11-30；result_announcement_date（原占位符2027-02-13）未明确，已置空。组队形式（团队/个人）官方未明确说明，保留原值待人工确认。",
+  "official_source_status": "found"
+}

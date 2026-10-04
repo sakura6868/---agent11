@@ -1,0 +1,105 @@
+{
+  "competition_id": "nuedc_embed_2026",
+  "competition_name": "全国大学生电子设计竞赛（嵌入式专题）",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "全国大学生电子设计竞赛组委会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一、二、三等奖，对获奖团队颁发证书。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生电子设计竞赛（嵌入式专题）是全国大学生电子设计竞赛组委会主办的嵌入式方向专题赛（含嵌入式系统专题邀请赛、英特尔杯嵌入式AI专题赛等），主要面向本科生、研究生，要求电子信息类相关专业学生以3人一组形式参与，考察嵌入式系统开发与工程实践能力。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "https://www.nuedc-training.com.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "关于公布2026年(第十三届)英特尔杯大学生电子设计竞赛嵌入式AI专题赛入围参赛队名单的通知",
+      "document_name": "全国大学生电子设计竞赛培训网赛事公告",
+      "source_url": "https://www.nuedc-training.com.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生电子设计竞赛嵌入式系统专题邀请赛由全国大学生电子设计竞赛组委会主办",
+      "document_name": "南京航空航天大学大学生竞赛级别认定表(2024年度)",
+      "source_url": "https://aero.nuaa.edu.cn/_upload/article/files/27/14/f5e6cc9c4092bdee813b7cb45e62/bcbba46b-4268-452d-b896-b5e9a28844bf.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026-07-18 核验：本赛项为 nuedc_2026（全国大学生电子设计竞赛）的嵌入式方向专题赛（含“嵌入式系统专题邀请赛”“英特尔杯嵌入式AI专题赛”等），主办单位为全国大学生电子设计竞赛组委会（trusted_level A）。组队人数沿用 NUEDC 主赛的3人/队。原日期字段为占位估计；2026 年嵌入式AI专题赛入围名单已于2026-04公布，专题赛具体日程本轮未获取官方精确依据，故置空。此赛项与 nuedc_2026 为同一主办方下的主赛/专题关系，导航时应关联。",
+  "official_source_status": "found"
+}

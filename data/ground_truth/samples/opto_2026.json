@@ -1,0 +1,147 @@
+{
+  "competition_id": "opto_2026",
+  "competition_name": "全国大学生光电设计竞赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "中国光学学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程",
+    "光电信息科学与工程",
+    "物理"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": "2026-04-19",
+  "submission_deadline": "2026-05-15",
+  "competition_start_date": "2026-06-20",
+  "competition_end_date": "2026-06-30",
+  "result_announcement_date": null,
+  "award_settings": "设一、二、三等奖，另评选优秀指导教师奖、优秀组织奖，获奖证书由全国大学生光电设计竞赛组委会统一颁发。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生光电设计竞赛是由中国光学学会主办、已纳入全国普通高校大学生学科竞赛排行榜的光电类重要赛事，主要面向本科生、研究生。设创意赛道与“宇瞳杯”光学设计赛道，要求光电类相关专业学生以3人一组形式参赛，考察光电系统方案设计、实现效果与工程规范。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "光学仿真"
+  ],
+  "official_source_url": "http://gd.moocollege.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "全国大学生光电设计竞赛是由中国光学学会主办、已纳入全国普通高校大学生学科竞赛排行榜的重要学科竞赛",
+      "document_name": "关于组织参加第十四届全国大学生光电设计竞赛的通知（武汉大学）",
+      "source_url": "http://eis.whu.edu.cn:80/index/newListDetail_zw.do?newsinfo_id=2a95410871ae4d8ab6ae0b954c2a8a42",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生光电设计竞赛是由中国光学学会主办、中国光学学会光学教育专业委员会代表主办机构、全国大学生光电设计竞赛委员会具体负责",
+      "document_name": "关于举办2026年第14届全国大学生光电设计竞赛(东部赛区)暨浙江农林大学选拔赛的通知",
+      "source_url": "https://gjdxy.zafu.edu.cn/info/1083/7579.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队由3名学生组成",
+      "document_name": "关于组织参加第十四届全国大学生光电设计竞赛的通知（武汉大学）",
+      "source_url": "http://eis.whu.edu.cn:80/index/newListDetail_zw.do?newsinfo_id=2a95410871ae4d8ab6ae0b954c2a8a42",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：即日起至2026年4月19日24时（初定）",
+      "document_name": "关于组织2026年第十四届全国大学生光电设计竞赛报名的通知（南京信息工程大学）",
+      "source_url": "https://wdy.nuist.edu.cn/2026/0413/c2983a296973/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品提交截止时间（网评）：2026年5月15日24时（初定）",
+      "document_name": "关于组织2026年第十四届全国大学生光电设计竞赛报名的通知（南京信息工程大学）",
+      "source_url": "https://wdy.nuist.edu.cn/2026/0413/c2983a296973/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国总决赛时间：2026年6月下旬，长春理工大学",
+      "document_name": "关于组织2026年第十四届全国大学生光电设计竞赛报名的通知（南京信息工程大学）",
+      "source_url": "https://wdy.nuist.edu.cn/2026/0413/c2983a296973/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026-07-18 核验：第十四届（2026）全国大学生光电设计竞赛由中国光学学会主办，组队3人/队，报名截至2026-04-19（初定）、作品提交截至2026-05-15、全国总决赛2026年6月下旬（长春理工大学），以上日期均来自多所高校官方报名通知（trusted_level A）。原JSON中2026-12至2027-01的日期为占位估计，已更正为2026年实际日程（总决赛具体日未公布，competition_start_date/end_date 取“6月下旬”代表值，result_announcement_date 未找到官方依据已置空）。奖项比例、allowed_majors 等未获官方精确依据，保留原值待确认。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,121 @@
+{
+  "competition_id": "geology_2026",
+  "competition_name": "全国大学生地质技能竞赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "中国地质学会、中国地质学会地质教育研究分会（联合主办）",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-08-26",
+  "competition_end_date": "2026-08-28",
+  "result_announcement_date": "2026-08-28",
+  "award_settings": "设各赛项奖项，具体比例由组委会确定。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生地质技能竞赛是由中国地质学会、中国地质学会地质教育研究分会联合主办的地学类国家级学科竞赛（第八届，2026），面向全国高校地学类及相关专业全日制本科生，考察运用地学基础理论与技能分析解决复杂地质问题的综合素养。",
+  "required_materials": [
+    "实验报告",
+    "设计文档",
+    "仿真结果",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方案可行",
+    "绿色安全",
+    "创新性",
+    "完成度"
+  ],
+  "required_skills": [
+    "化学实验",
+    "数据分析",
+    "仿真模拟",
+    "工艺设计"
+  ],
+  "official_source_url": "https://www.geosociety.org.cn/upload/pdf/notice/20260421094954_28.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生地质技能竞赛是由中国地质学会、中国地质学会地质教育研究分会联合主办的全国性高水平专业赛事。",
+      "document_name": "南京大学第八届全国大学生地质技能竞赛院内选拔报名通知",
+      "source_url": "https://es.nju.edu.cn/ac/49/c4296a830537/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "面向全国高校地学类及相关专业全日制本科生开展。",
+      "document_name": "南京大学第八届全国大学生地质技能竞赛院内选拔报名通知",
+      "source_url": "https://es.nju.edu.cn/ac/49/c4296a830537/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "第八届全国大学生地质技能竞赛将于 2026 年 8 月 26 日至 28 日 在西南石油大学（成都校区）举办。",
+      "document_name": "南京大学第八届全国大学生地质技能竞赛院内选拔报名通知",
+      "source_url": "https://es.nju.edu.cn/ac/49/c4296a830537/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "第八届全国大学生地质技能竞赛将于 2026 年 8 月 26 日至 28 日 在西南石油大学（成都校区）举办。",
+      "document_name": "南京大学第八届全国大学生地质技能竞赛院内选拔报名通知",
+      "source_url": "https://es.nju.edu.cn/ac/49/c4296a830537/pagem.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "关于举办第八届全国大学生地质技能竞赛",
+      "document_name": "第八届全国大学生地质技能竞赛通知（中国地质学会）",
+      "source_url": "https://www.geosociety.org.cn/upload/pdf/notice/20260421094954_28.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-18核验】第八届（2026）全国大学生地质技能竞赛决赛2026年8月26-28日在西南石油大学（成都）举行，competition日期据此填写；报名为2026年4-5月（各校/省组织），无单一报名截止日，故registration/submission置空。原allowed_majors（化学类）有误——本赛面向地学类及相关专业（非化学类），已置空待补充具体专业列表。每校最多4支参赛队（非每队人数），每队人数上限未从官方直接确认，team_max=4暂沿用并待核实。原“由公开赛事名录整理、尚未完成人工核验”备注已失效。",
+  "official_source_status": "found"
+}

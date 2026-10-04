@@ -1,0 +1,124 @@
+{
+  "competition_id": "metallography_2026",
+  "competition_name": "第十五届全国大学生金相技能大赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "全国大学生金相技能大赛竞赛委员会（教育部高等学校材料类专业教学指导委员会指导，武汉理工大学承办）",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-25",
+  "competition_end_date": "2026-07-30",
+  "result_announcement_date": null,
+  "award_settings": "决赛阶段设个人奖项（一、二、三等奖）及优秀指导教师奖等，对获奖选手颁发证书。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "由组委会确定",
+      "note": "全国决赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "由组委会确定",
+      "note": "全国决赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "由组委会确定",
+      "note": "全国决赛"
+    }
+  ],
+  "brief_description": "全国大学生金相技能大赛是由全国大学生金相技能大赛竞赛委员会主办、面向全国本科及专科院校材料类及相关专业学生的实践性赛事，选手在规定时间内独立完成金相试样的磨制、抛光、浸蚀与显微镜观察，考察试样质量与操作规范。",
+  "required_materials": [
+    "金相试样（磨制、抛光、浸蚀）",
+    "显微镜观察结果"
+  ],
+  "evaluation_dimensions": [
+    "试样质量",
+    "操作方法与规范",
+    "观察分析"
+  ],
+  "required_skills": [
+    "金相制备",
+    "显微镜使用",
+    "材料分析"
+  ],
+  "official_source_url": "https://www.jxds.tech/dangjie-shiyan-zhinan",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第十五届全国大学生金相技能大赛第一赛道（徕卡杯第十五届全国大学生金相技能大赛）及第二赛道（永新杯第四届全国大学生金相大会）正式启动。",
+      "document_name": "关于举办第十五届全国大学生金相技能大赛的通知",
+      "source_url": "https://jwc.shmtu.edu.cn/_upload/article/files/06/9d/944c7e5b4ba78b2696f05d936b38/59836db9-9a2d-404d-8a89-53a19ed2a91b.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由教育部高等学校材料类专业教学指导委员会指导、武汉理工大学承办的第十五届全国大学生金相技能大赛。",
+      "document_name": "关于举办第十五届全国大学生金相技能大赛的通知",
+      "source_url": "https://jwc.shmtu.edu.cn/_upload/article/files/06/9d/944c7e5b4ba78b2696f05d936b38/59836db9-9a2d-404d-8a89-53a19ed2a91b.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "计划参加本次大赛的高校请在详细了解相关规章制度的基础上，于2026年3月31日18:00前向大赛秘书处提交报名表。",
+      "document_name": "关于举办第十五届全国大学生金相技能大赛的通知",
+      "source_url": "https://jwc.shmtu.edu.cn/_upload/article/files/06/9d/944c7e5b4ba78b2696f05d936b38/59836db9-9a2d-404d-8a89-53a19ed2a91b.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "两个赛道的决赛阶段比赛安排在2026年7月25日至30日在武汉理工大学举办。",
+      "document_name": "关于举办第十五届全国大学生金相技能大赛的通知",
+      "source_url": "https://jwc.shmtu.edu.cn/_upload/article/files/06/9d/944c7e5b4ba78b2696f05d936b38/59836db9-9a2d-404d-8a89-53a19ed2a91b.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "列在教育部发布的最新版《全国普通高等学校名单》中的本科类或专科类普通高等学校均有资格选派选手组建一个代表队参赛。",
+      "document_name": "实验技能赛道参赛指南（大赛官网）",
+      "source_url": "https://www.jxds.tech/dangjie-shiyan-zhinan",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "本科类或专科类普通高等学校均有资格选派选手组建一个代表队参赛。",
+      "document_name": "实验技能赛道参赛指南（大赛官网）",
+      "source_url": "https://www.jxds.tech/dangjie-shiyan-zhinan",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据全国大学生金相技能大赛官网（jxds.tech）及官方通知（武汉理工大学材料科学与工程学院代章）核验。原记录organizer“相关材料学会”、team 1-5人、日期2026-10/11月均为错误占位，已更正：本赛为个人实操赛事（team_required=false、team_max=1），报名截止2026-03-31，全国决赛2026-07-25至30日在武汉理工大学。原allowed_majors所列机械类等非材料专业不准确，本赛面向材料类及相关专业（未限定具体专业列表，置空）。submission_deadline不适用（实操赛，无文档提交），置空；result_announcement_date决赛后公布，置空。第十五届设实验技能（第一赛道）、综合分析/金相大会（第二赛道）、材料分析（第三赛道）三个赛道，本表以第一赛道为主。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

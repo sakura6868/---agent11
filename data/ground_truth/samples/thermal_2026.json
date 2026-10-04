@@ -1,0 +1,84 @@
+{
+  "competition_id": "thermal_2026",
+  "competition_name": "全国大学生热能动力工程竞赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "相关能源动力学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "材料成型",
+    "力学",
+    "能源与动力工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生热能动力工程竞赛是由相关能源动力学会主办的机械与工程类赛事，主要面向本科生、研究生。要求机械工程、车辆工程、土木工程等的同学以1-5人组队形式参与，考察设计合理、制作工艺等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "实物作品",
+    "设计说明书",
+    "图纸",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "设计合理",
+    "制作工艺",
+    "创新点",
+    "现场展示"
+  ],
+  "required_skills": [
+    "机械设计",
+    "CAD/UG",
+    "工程制图",
+    "有限元分析",
+    "加工工艺"
+  ],
+  "official_source_url": null,
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "字段未能找到官方依据，保留原值待人工确认。经2026-07-18网络检索，未找到名为“全国大学生热能动力工程竞赛”的官方全国赛事；检索结果均指向“全国大学生节能减排社会实践与科技竞赛”（由全国大学生节能减排社会实践与科技竞赛委员会主办，官网 jienengjianpai.org，2026年为第十九届、大连理工大学承办）。本条目疑似与该竞赛混淆，或名称/主办单位为占位编造。原模板中所有日期（2026-10至12）为round占位且无来源，已置为null；competition_name、organizer、eligible_students、team 等字段均未经官方核实，请人工确认该竞赛是否真实存在或应并入节能减排竞赛。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。该名称疑似与“全国大学生节能减排社会实践与科技竞赛”（官网 jienengjianpai.org）混淆，或为占位编造，非经核实的权威赛事名称。“（2026-07-19 复核：再次网络检索“全国大学生热能动力工程竞赛”，结果仍仅指向“全国大学生节能减排社会实践与科技竞赛”官网 www.jienengjianpai.org（2026 第十九届，大连理工大学承办）与“全国大学生能源经济学术创意大赛”报名系统 energy.qibebt.ac.cn/eneco，未见该名称的官方全国赛事，维持 official_source_status=not_found。）”"
+}

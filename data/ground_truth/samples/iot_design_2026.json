@@ -1,0 +1,135 @@
+{
+  "competition_id": "iot_design_2026",
+  "competition_name": "全国大学生物联网设计竞赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "全国高等学校计算机教育研究会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-01",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": "2026-08-31",
+  "award_settings": "设分赛区一、二等奖及全国总决赛一、二、三等奖，另设企业创新奖、优秀指导教师奖与学校组织奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生物联网设计竞赛是由全国高等学校计算机教育研究会主办的物联网类赛事，主要面向本科生、研究生。要求电子信息、通信、自动化、物联网等专业的同学以不超过4人的队伍形式参与，考察方案设计、实现效果等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "https://iot.sjtu.edu.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "2026年全国大学生物联网设计竞赛是由全国高等学校计算机教育研究会主办，多所高校联合承办的全国性学科竞赛",
+      "document_name": "2026年全国大学生物联网设计竞赛章程说明",
+      "source_url": "http://cxcyglpt.dlutci.edu.cn/comp/info?id=253",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名截止日期：2026年6月15日（逾期报名系统将关闭）",
+      "document_name": "2026年（第十三届）全国大学生物联网设计竞赛参赛通知",
+      "source_url": "https://jwc.xjtu.edu.cn/info/1172/10071.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品完整方案和演示视频提交截止日期：2026年7月27日（逾期作品提交系统将关闭）",
+      "document_name": "2026年（第十三届）全国大学生物联网设计竞赛参赛通知",
+      "source_url": "https://jwc.xjtu.edu.cn/info/1172/10071.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队参赛学生不超过4人，指导教师不超过2人",
+      "document_name": "2026年（第十三届）全国大学生物联网设计竞赛参赛通知",
+      "source_url": "https://jwc.xjtu.edu.cn/info/1172/10071.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国总决赛暨颁奖典礼：2026年8月20日—8月31日",
+      "document_name": "2026年全国大学生物联网设计竞赛赛程说明",
+      "source_url": "https://iot.sjtu.edu.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026年为第十三届全国大学生物联网设计竞赛，主办方为“全国高等学校计算机教育研究会”（原占位“教育部高等学校计算机类教学指导委员会”已更正）；每队学生不超过4人（team_max 由3更正为4）。官网 iot.sjtu.edu.cn 已公布赛程：报名4月1日-6月15日，作品提交至7月27日，全国总决赛8月20-31日。award_distribution比例为示意，非官方固定比例。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

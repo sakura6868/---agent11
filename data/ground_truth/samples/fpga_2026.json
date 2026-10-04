@@ -1,0 +1,120 @@
+{
+  "competition_id": "fpga_2026",
+  "competition_name": "全国大学生FPGA创新设计竞赛（全国大学生嵌入式芯片与系统设计竞赛FPGA赛道）",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "中国电子教育学会（承办：东南大学、南京市江北新区管委会等）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设初赛、决赛奖项，具体比例由组委会确定。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生FPGA创新设计竞赛（全国大学生嵌入式芯片与系统设计竞赛FPGA创新设计赛道）是由中国电子教育学会主办、东南大学等承办的电子设计类赛事，面向全日制在校学生，允许单人组队、每队不超过3人，考察方案设计、实现效果等能力。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "http://www.fpgachina.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 中国电子教育学会 承办单位 东南大学 南京市江北新区管委会",
+      "document_name": "FPGA竞赛首页（全国大学生FPGA创新设计赛道官网）",
+      "source_url": "http://www.fpgachina.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "大赛是否允许一个人组队？ 比赛允许单人组队。",
+      "document_name": "FPGA竞赛常见问题",
+      "source_url": "http://www.fpgachina.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队参赛学生不超过3人，指导教师不超过2人。",
+      "document_name": "桂林航天工业学院参赛通知（第九届全国大学生嵌入式芯片与系统设计竞赛）",
+      "source_url": "https://www.guit.edu.cn/dz/info/1011/5452.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "全国大学生FPGA创新设计赛道官网：www.fpgachina.cn",
+      "document_name": "FPGA竞赛首页",
+      "source_url": "http://www.fpgachina.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-18核验】FPGA竞赛为“全国大学生嵌入式芯片与系统设计竞赛”的FPGA创新设计赛道，原organizer“相关行业协会”有误，实际主办为中国电子教育学会。允许单人组队、每队不超过3人（原team_required=true有误，已改为可单人）。2026年FPGA赛道赛程约为6月-12月（据全国大学生嵌入式芯片与系统设计竞赛整体安排），具体报名/决赛日期未确认，故日期字段置空待人工确认。原“由公开赛事名录整理、尚未完成人工核验”备注已失效。",
+  "official_source_status": "found"
+}

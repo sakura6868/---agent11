@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>2026年第八届全国高校计算机能力挑战赛官网 - Office高级应用赛</title>
+    <link rel="stylesheet" href="/static/admin/layui/src/css/layui.css?v=1.1.02"/>
+    <link rel="stylesheet" href="/static/index/css/public.css?v=1.1.02"/>
+    <link rel="stylesheet" href="/static/index/css/index.css?v=1.1.02" media="screen and (min-width:768px)">
+    <link rel="stylesheet" href="/static/index/css/indexMobile.css?v=1.1.02" media="screen and (min-width:0px) and (max-width:768px)">
+    <script src="/static/index/js/jquery.min.js?v=1.1.02"></script>
+    <script src="/static/index/js/public.js?v=1.1.02"></script>
+    <script src="/static/admin/layui/src/layui.js?v=1.1.02"></script>
+    <script src="/static/index/layer/layer.js?v=1.1.02"></script>
+</head>
+<style>
+    table{
+        margin: auto;
+    }
+    table td{
+        border-style: solid;
+    }
+</style>
+<body>
+<div class="page_container">
+    <!--header-mobile-->
+<div class="header page_mobile">
+    <ul class="h_sub_menu clearfix">
+<!--        （signup_state_gray）报名结束加class名-->
+        <li class="h_sub_item"><a class="anchor_link" href="/index/Index/index.html#details" style="background-color: coral">五大赛项</a></li>
+        <li class="h_sub_item h_office">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case3.html" style="background-color: #0052d9;">Office</a>
+        </li>
+        <li class="h_sub_item h_cxsj">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case4.html" style="background-color: #0052d9;">程序设计</a>
+        </li>
+        <li class="h_sub_item h_rgzn">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case1.html" style="background-color: #0052d9;">人工智能</a>
+        </li>
+        <li class="h_sub_item h_dsj">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case2.html" style="background-color: #0052d9;">大数据</a>
+        </li>
+<!--        <li class="h_sub_item h_jsjxt"><a href="/index/Paper/case5.html">计算机系统</a></li>-->
+<!--        <li class="h_sub_item h_qrsxt"><a href="/index/Paper/case6.html">嵌入式</a></li>-->
+        <li class="h_sub_item h_szmt">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case7.html" style="background-color: #0052d9;">数字媒体</a>
+        </li>
+    </ul>
+    <div class="nav">
+        <ul class="nav_list">
+            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html">首页</a></li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Cms/content.html?id=372">章程</a></li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Cms/category.html">新闻</a></li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#org">组织</a></li>-->
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#about">详情</a></li>-->
+<!--            <li class="nav_item rank_nav">-->
+<!--                <span style="color: red">公示</span>-->
+<!--                <div class="modal_rank">-->
+<!--                    <a class="anchor_link" href="/index/Publicity/publicity.html" style="color: red">区域赛/省赛公示</a>-->
+<!--                    <a class="anchor_link" href="/index/FinalPublicity/publicity.html" style="color: red">国赛/决赛公示</a>-->
+<!--                </div>-->
+<!--            </li>-->
+            <li class="nav_item preparation_guide">
+                <a href="javascript:void(0)">备赛</a>
+                <ul class="nav_menu">
+                    <li class="nav_tkxl">
+                        <a href="/index/Practice/contest.html">
+                            <p>题库训练</p>
+                            <p>往届真题·在线刷题·实时评测</p>
+                        </a>
+                    </li>
+                    <li class="nav_zjfd">
+                        <a href="/index/Practice/video.html">
+                            <p>专家辅导</p>
+                            <p>名师答疑·攻克难点·直播回放</p>
+                        </a>
+                    </li>
+                    <li class="nav_wjzp">
+                        <a href="/index/Index/previousWorks.html">
+                            <p>往届作品</p>
+                            <p>借鉴学习·提升审美·了解评分</p>
+                        </a>
+                    </li>
+                    <li class="nav_zxlx">
+                        <a href="/index/Practice/exercise.html">
+                            <p>在线练习</p>
+                            <p>模拟实战·限时答题·自动评分</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav_item prov">
+                <span style="color: #fff">省赛</span>
+                <div class="modal_prov">
+                    <a href="http://www.ncccu.org.cn/gansu/Index/index.html" target="_blank">甘肃</a>
+                    <a href="http://www.ncccu.org.cn/sichuan/Index/index.html" target="_blank">四川</a>
+                    <a href="http://www.ncccu.org.cn/hubei/Index/index.html" target="_blank">湖北</a>
+                </div>
+            </li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#subjectMenu">赛项</a></li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#awards">风采</a></li>-->
+            <li class="nav_item history">
+                <span style="color: #fff">往届</span>
+                <div class="modal_history" style="right: -12px">
+                    <a href="http://2025.ncccu.org.cn/" target="_blank">25年官网</a>
+                    <a href="/index/PreviousEditions/certificate.html">往届证书</a>
+                </div>
+            </li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Publicity/publicity.html" style="color: red;">区域赛公示</a></li>-->
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/FinalPublicity/publicity.html" style="color: red;">国赛/决赛公示</a></li>-->
+        </ul>
+    </div>
+</div>
+<!--header-pc-->
+<div class="header page_pc">
+    <div class="h_mian clearfix">
+        <div class="h_logo"><a href="/index/Index/index.html"><img src="/static/index/images/logo.png" alt="logo"></a></div>
+        <div class="h_nav">
+            <ul class="clearfix">
+                <li><a href="/index/Cms/content.html?id=372">大赛章程</a></li>
+<!--                <li><a href="/index/Cms/content.html?id=108">大赛详情</a></li>-->
+                <li><a href="/index/Cms/category.html">新闻通知</a></li>
+<!--                <li><a href="/index/Index/index.html#org">组织机构</a></li>-->
+                <li class="prov">
+                    <span>省赛相关</span>
+                    <div class="modal_prov">
+                        <a href="http://www.ncccu.org.cn/gansu/Index/index.html" target="_blank">甘肃省赛</a>
+                        <a href="http://www.ncccu.org.cn/sichuan/Index/index.html" target="_blank">四川省赛</a>
+                        <a href="http://www.ncccu.org.cn/hubei/Index/index.html" target="_blank">湖北省赛</a>
+                    </div>
+                </li>
+                <li><a href="/index/Index/index.html#subjectMenuPC">大赛赛项</a></li>
+                <li class="preparation_guide">
+                    <a href="javascript:void(0)">备赛指南</a>
+                    <ul class="nav_menu">
+                        <li class="nav_tkxl">
+                            <a href="/index/Practice/contest.html">
+                                <p>题库训练</p>
+                                <p>往届真题·在线刷题·实时评测</p>
+                            </a>
+                        </li>
+                        <li class="nav_zjfd">
+                            <a href="/index/Practice/video.html">
+                                <p>专家辅导</p>
+                                <p>名师答疑·攻克难点·直播回放</p>
+                            </a>
+                        </li>
+                        <li class="nav_wjzp">
+                            <a href="/index/Index/previousWorks.html">
+                                <p>往届作品</p>
+                                <p>借鉴学习·提升审美·了解评分</p>
+                            </a>
+                        </li>
+                        <li class="nav_zxlx">
+                            <a href="/index/Practice/exercise.html">
+                                <p>在线练习</p>
+                                <p>模拟实战·限时答题·自动评分</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+<!--                <li><a href="/index/Index/index.html#awards">活动风采</a></li>-->
+<!--                <li><a href="/index/Publicity/publicity.html" style="color: red">区域赛/省赛公示</a></li>-->
+<!--                <li><a href="/index/FinalPublicity/publicity.html" style="color: red">国赛/决赛公示</a></li>-->
+
+                <li class="history">
+                    <span>往届查询</span>
+                    <div class="modal_history">
+                        <a href="http://2025.ncccu.org.cn/" target="_blank">25年官网</a>
+                        <a href="/index/PreviousEditions/certificate.html">往届证书</a>
+                    </div>
+                </li>
+                <li><a href="/index/Index/index.html#contact">联系我们</a></li>
+            </ul>
+        </div>
+        <div class="h_login">
+                            <a href="/index/Login/login.html">考生登录</a>
+                            <a href="/index/Login/teamLogin.html">承办登录</a>
+                    </div>
+    </div>
+</div>
+    <div class="center page_case">
+        <ul class="case_sub_menu">
+    <li class="c_sub_item c_dsj"><a href="/index/Paper/case2.html">大数据</a></li>
+    <li class="c_sub_item c_rgzn"><a href="/index/Paper/case1.html">人工智能</a></li>
+    <li class="c_sub_item c_office"><a href="/index/Paper/case3.html">Office</a></li>
+    <li class="c_sub_item c_cxsj"><a href="/index/Paper/case4.html">程序设计</a></li>
+<!--    <li class="c_sub_item c_cxsj"><a href="/index/Paper/case8.html">计算机设计</a></li>-->
+<!--    <li class="c_sub_item c_jsjxt"><a href="/index/Paper/case5.html">计算机系统</a></li>-->
+<!--    <li class="c_sub_item c_qrsxt"><a href="/index/Paper/case6.html">嵌入式</a></li>-->
+    <li class="c_sub_item c_szmt"><a href="/index/Paper/case7.html">数字媒体</a></li>
+    <li class="c_sub_item c_add_qun"><a href="http://cp.52jingsai.com/qrcode/175" target="_blank">加本赛项群</a></li>
+</ul>
+<script>
+    $(document).ready(function(){
+        $(".piaochuang").css("display","none");
+    });
+
+    //        飘窗滚动
+    var fcModel=$(".case_sub_menu");
+    $(document).ready(function(){
+        const $ScrollWrap = $(document);
+        // 监听滚动停止
+        var t1 = 0;
+        var t2 = 0;
+        var timer = null; // 定时器
+        $ScrollWrap.on("touchstart", function(){
+            // 触摸开始 ≈ 滚动开始
+        });
+        $ScrollWrap.on("scroll", function(){
+            // 滚动
+            fcModel.removeClass("slideLeft");
+            fcModel.addClass("slideRight");
+            clearTimeout(timer);
+            timer = setTimeout(isScrollEnd, 100);
+            t1 = $ScrollWrap.scrollTop();
+        });
+        function isScrollEnd() {
+            t2 = $ScrollWrap.scrollTop();
+            if(t2 == t1){
+                fcModel.addClass("slideLeft");
+                fcModel.removeClass("slideRight");
+                clearTimeout(timer)
+            }
+        }
+    });
+</script>
+        <div class="subject_main_info clearfix">
+            <div class="subject_img">
+                <img src="/static/index/images/subject_03.png" alt="subject"/>
+                <div class="case_bm"><a href="#bmtop">报名参赛</a></div>
+            </div>
+            <div class="subject_info">
+                <h3>赛项：Office高级应用赛</h3>
+                <div class="case_org">
+                    <p>组织架构</p>
+                    主办单位：全国高等学校计算机教育研究会<br />
+承办单位：安徽省高等学校计算机教育研究会、山西省计算机学会、四川省计算机学会、海南省计算机学会、《软件导刊》杂志社、济南计算机学会<br />
+技术支持：中觅科技有限公司、未来教育等                </div>
+                <div class="test_sub">
+                    <p>参赛对象</p>
+                    <p id="bmtop">大赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。</p>
+                </div>
+                <ul class="case_time page_pc clearfix">
+                    <li><p>报名时间</p><p style="color: #0052d9">2026年7月9日&mdash;11月25日</p></li>
+                    <li><p>区域赛/省赛时间</p><p>2026年11月28日</p></li>
+                    <li><p>晋级国赛公示</p><p>2026年12月14日16点</p></li>
+                    <li><p>国赛时间</p><p>2026年12月19日</p></li>
+                    <li><p>国赛公示</p><p>2026年12月底</p></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="subject_content">
+            <div class="case_main clearfix">
+                <ul class="anchor_point page_pc">
+                    <li><a href="#cs1">赛题背景</a></li>
+                    <li><a href="#cs2">时间安排</a></li>
+                    <li><a href="#cs3">奖项设置</a></li>
+                    <li><a href="#cs4">参赛规则</a></li>
+                    <li><a href="#cs5">比赛环境</a></li>
+                    <li><a href="#cs6">比赛时间</a></li>
+                    <li><a href="#cs7">成绩评定</a></li>
+                    <li><a href="#cs8">联系信息</a></li>
+                </ul>
+                <div class="sub_details">
+                    <div class="csign">
+                        <div class="csign_subject">
+                            <p> *请勾选你要报名的科目</p>
+                            <ul class="clearfix">
+                                                                    <li>
+                                        <label for="c0">Word</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id0" id="c0" value="4">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c1">Excel</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id1" id="c1" value="5">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c2">PowerPoint</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id2" id="c2" value="6">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c3">WPS智能应用</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id3" id="c3" value="29">
+                                                                            </li>
+                                                            </ul>
+                        </div>
+                                                    <div class="select_pay">
+                                <p>*支付方式</p>
+                                <div class="paymethod clearfix">
+                                    <div class="pay_item"><input type="radio" value="1" name="paymethod" id="wx" checked=""> <label for="wx"><img src="/static/index/images/wx.png" width="20"> 微信支付</label></div>
+                                    <div class="pay_item"><input type="radio" value="2" name="paymethod" id="zfb" > <label for="zfb"><img src="/static/index/images/zfb.png" width="20"> 支付宝</label></div>
+                                </div>
+                            </div>
+                                                <div class="csign_btn" onclick="btn_sign()">报名参赛</div>
+                        <div class="case_tips">
+                            区域赛/省赛报名：2026年7月9日—11月25日<br/>
+                            区域赛/省赛考试：2026年11月28日
+                        </div>
+                    </div>
+                    <div class="subject_test_rule">
+                        <p style="text-indent: 2em;"><strong>一、赛题背景</strong></p><p style="text-indent: 2em;">本赛项属于实时评测通关赛。</p><p style="text-indent: 2em;">为进一步巩固在校学生应用 Office 办公软件的基础知识，全面考察参赛者Word、Excel和PowerPoint的应用能力，以达到“以赛促学，以赛促教”的目的，为参赛者学习和未来工作积累良好的办公软件应用能力。本赛道分Word 高级应用、Excel 高级应用、PowerPoint高级应用、WPS智能应用四个科目，可单独报名一科或多科。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>二、时间安排</strong></p><p style="text-indent: 2em;">区域赛/省赛报名：2026年7月9日—11月25日</p><p style="text-indent: 2em;">区域赛/省赛考试：2026年11月28日</p><p style="text-indent: 2em;">国赛晋级公示：2026年12月14日16点</p><p style="text-indent: 2em;">国赛考试：2026年12月19日</p><p style="text-indent: 2em;">国赛获奖公示：2026年12月底</p><p style="text-indent: 2em;">说明：比赛获奖公示后3个工作日内，接受异议、申诉和违规举报。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>三、奖项设置</strong></p><p style="text-indent: 2em;">省赛段奖项设置由各省赛区自行设定，详见各省赛区赛事官网。省赛和区域赛合并办赛的，以所在省成绩排名来晋级国赛。</p><p style="text-indent: 2em;">区域赛各科目成绩根据各区域考生成绩分别排名，分设一等奖10%、二等奖20%和三等奖25%，颁发电子荣誉证书和电子指导老师证书。</p><p style="text-indent: 2em;">各区域一、二等奖获奖选手将晋级国赛，国赛设一等奖不超过参赛数的10%、二等奖不超过参赛数的20%、三等奖不超过参赛数的30%，获奖师生将颁发电子荣誉证书和电子指导老师证书。各赛项成绩前三名获奖学生将获得大赛奖金，颁发奖金600元/名（税前）。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>四、参赛规则</strong></p><p style="text-indent: 2em;">1.参赛对象</p><p style="text-indent: 2em;">计挑赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。</p><p style="text-indent: 2em;">2.参赛费用</p><p style="text-indent: 2em;">区域赛赛段个人赛各科目收取报名、考试及评审费人民币80元/科。参赛学生可以根据自己的实际情况选择一科或者多科参赛。计挑赛秉持公益办赛原则，费用仅用于获奖奖金、大赛系统开发、场地、设备、专家评审等。费用由技术支持单位中觅科技有限公司（开户行名称：招商银行股份有限公司合肥三孝口支行&nbsp;&nbsp;银行账号：551908703110002）代收代付并开具发票，学校有关部门要积极支持大赛工作，对指导教师在工作量、活动经费等方面给予必要的支持。</p><p style="text-indent: 2em;">国赛不再另行收费。</p><p style="text-indent: 2em;">3.命题范围（各科目分别命题）</p><p style="text-indent: 2em;">Word 高级应用、Excel 高级应用、PowerPoint高级应用科目包含计算机公共基础知识和各科目各自办公自动化高级应用及操作。</p><p style="text-indent: 2em;"><strong>3.1计算机公共基础知识</strong></p><p style="text-indent: 2em;">(1) 计算机的发展、类型及其应用领域。</p><p style="text-indent: 2em;">(2) 计算机中数据的表示与存储。</p><p style="text-indent: 2em;">(3) 计算机软、硬件结构及主要技术指标。</p><p style="text-indent: 2em;">(4) 多媒体技术的概念与应用。</p><p style="text-indent: 2em;">(5) 计算机病毒的概念、特征、分类与防治。</p><p style="text-indent: 2em;">(6) 操作系统的基本概念、功能、组成及分类。</p><p style="text-indent: 2em;">(7) 计算机网络的基本概念和因特网的基础知识。</p><p style="text-indent: 2em;">(8) 浏览器软件的基本操作和使用。</p><p style="text-indent: 2em;">(9) 程序设计与软件工程基础概念。</p><p style="text-indent: 2em;"><strong>3.2 Word办公自动化高级应用及操作</strong></p><p style="text-indent: 2em;">(1) Word的基本功能、运行环境、启动和退出。</p><p style="text-indent: 2em;">(2) 文档的创建、打开、输入、保存、关闭等基本操作；打印预览和打印设置｡</p><p style="text-indent: 2em;">(3) 文本的选定、插入与删除、复制与移动等基本编辑技术。</p><p style="text-indent: 2em;">(4) 字体格式设置、文本效果修饰、段落格式设置、文档页面设置、文档背景设置等基本排版技术。</p><p style="text-indent: 2em;">(5) 表格的创建、修改与修饰；表格中数据的输入、编辑、排序与计算。</p><p style="text-indent: 2em;">(6) 图形和图片的插入；图形的绘制与编辑；文本框、艺术字的使用和编辑。</p><p style="text-indent: 2em;"><strong>3.3 Excel办公自动化高级应用及操作</strong></p><p style="text-indent: 2em;">(1) Excel的基本概念、基本功能、运行环境、启动和退出。</p><p style="text-indent: 2em;">(2)工作簿和工作表的基本概念和基本操作，工作簿和工作 表的建立、保存和退出。</p><p style="text-indent: 2em;">(3) 数据输入和编辑;工作表和单元格的选定､插入､删除､复制､移动;工作表重命名；页面设置；打印预览和打印设置。</p><p style="text-indent: 2em;">(4) 工作表的格式化，包括设置单元格格式、设置列宽和行 高、设置条件格式、使用样式、自动套用模式等。<br/>&nbsp; &nbsp; &nbsp; &nbsp;(5)单元格绝对地址和相对地址的概念，工作表中公式的输 入和复制，常用函数的使用。</p><p style="text-indent: 2em;">(6) 数据清单内容的排序､筛选､分类汇总；数据合并；数据透视表的建立。</p><p style="text-indent: 2em;">(7) 图表的建立、编辑、修改与修饰。</p><p style="text-indent: 2em;"><strong>3.4 Powerpoint办公自动化高级应用及操作</strong></p><p style="text-indent: 2em;">(1) Powerpoint的基本功能、运行环境、启动与退出。</p><p style="text-indent: 2em;">(2) 演示文稿的创建､打开､关闭、保存与打印设置｡</p><p style="text-indent: 2em;">(3) 幻灯片的基本操作：插入､移动､复制、删除；版式编辑；母版应用。</p><p style="text-indent: 2em;">(4) 幻灯片中文本、图片、相册、艺术字､形状､表格等对象的编辑与应用。</p><p style="text-indent: 2em;">(5) 演示文稿主题选用与幻灯片背景设置。</p><p style="text-indent: 2em;">(6) 幻灯片中对象动画、幻灯片切换效果设置；幻灯片放映设置。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>WPS 智能应用科目包含计算机公共基础知识和各科目各自办公自动化高级应用及操作。</strong></p><p style="text-indent: 2em;"><strong>计算机公共基础知识</strong></p><p style="text-indent: 2em;">(1) 计算机的发展、类型及其应用领域。</p><p style="text-indent: 2em;">(2) 计算机中数据的表示与存储。</p><p style="text-indent: 2em;">(3) 计算机软、硬件结构及主要技术指标。</p><p style="text-indent: 2em;">(4) 多媒体技术的概念与应用。</p><p style="text-indent: 2em;">(5) 计算机病毒的概念、特征、分类与防治。</p><p style="text-indent: 2em;">(6) 操作系统的基本概念、功能、组成及分类。</p><p style="text-indent: 2em;">(7) 计算机网络的基本概念和因特网的基础知识。</p><p style="text-indent: 2em;">(8) 浏览器软件的基本操作和使用。</p><p style="text-indent: 2em;">(9) 程序设计与软件工程基础概念。</p><p style="text-indent: 2em;"><strong>&nbsp;WPS 文字</strong></p><p style="text-indent: 2em;">(1)WPS文字处理软件的基本功能，创建和管理文档。</p><p style="text-indent: 2em;">(2)文本的查找与替换，多窗口和多文档编辑。</p><p style="text-indent: 2em;">(3)文本和段落格式的基本设置。</p><p style="text-indent: 2em;">(4)页面布局和打印预览的基本操作。</p><p style="text-indent: 2em;">(5)图片、形状、图形与图表等对象的创建和格式设置。</p><p style="text-indent: 2em;">(6)WPS文字中表格工具的相关操作。</p><p style="text-indent: 2em;"><strong>WPS 表格</strong></p><p style="text-indent: 2em;">(1)WPS电子表格软件的基本功能，创建和管理工作簿。</p><p style="text-indent: 2em;">(2)工作簿、工作表和单元格的基本操作。</p><p style="text-indent: 2em;">(3)数据的编辑与格式化等基本操作。</p><p style="text-indent: 2em;">(4)公式和常用函数的输入与应用。</p><p style="text-indent: 2em;">(5)排序、筛选、查找和分类汇总、数据合并等基本操作。</p><p style="text-indent: 2em;">(6)图形与图表的创建和格式设置。</p><p style="text-indent: 2em;">(7)工作表的页面设置、打印预览与打印。</p><p style="text-indent: 2em;"><strong>WPS演示</strong></p><p style="text-indent: 2em;">(1)WPS演示文稿软件的基本功能，创建和管理演示文稿及幻灯片。</p><p style="text-indent: 2em;">(2)文本、图片、形状的插入和格式设置。</p><p style="text-indent: 2em;">(3)表格、图表与智能图形的插入和格式设置。</p><p style="text-indent: 2em;">(4)动画、切换及多媒体元素的应用。</p><p style="text-indent: 2em;">(5)母版和主题的设计与修改。</p><p style="text-indent: 2em;">(6)演示文稿的放映、审阅与打印。</p><p style="text-indent: 2em;">4.题型设置及比赛时长</p><p style="text-indent: 2em;">区域赛：</p><p style="text-indent: 2em;">区域赛考试时长为60分钟。根据科目不同，题型设置如下：</p><p style="text-indent: 2em;">Word 高级应用、Excel 高级应用、PowerPoint高级应用科目：题型包含判断题、单项选择题、不定项选择题和操作题。</p><p style="text-indent: 2em;">WPS智能应用科目：题型为选择题和操作题。</p><p style="text-indent: 2em;">国赛：</p><p style="text-indent: 2em;">国赛考试时长为90分钟。题型统一为选择题和操作题。</p><p style="text-indent: 2em;">注：操作题均采用得分计分方式。每题设置若干得分点，按通过的得分点计分。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><span style="color: rgb(0, 0, 0);"><strong>五、比赛环境</strong></span></p><p style="text-wrap-mode: wrap; text-indent: 2em;">Word 高级应用、Excel 高级应用、PowerPoint高级应用科目：使用Microsoft Office&nbsp;2016及以上均可。&nbsp;(注意：不建议使用WPS进行操作题作答，因为可能会发生阅卷时部分得分点由于软件不同而判定为操作不正确导致影响成绩得分)。</p><p>&nbsp; &nbsp; &nbsp; &nbsp;WPS智能应用科目：须使用 <a href="https://ncccu2026.oss-cn-zhangjiakou.aliyuncs.com/common/file/教育考试专用版WPS Office.rar" style="color: red;">WPS教育考试专用版软件</a><em>（点击即可下载）</em>进行考试。</p><p><br/></p><p style="text-indent: 2em;"><strong>六、各科目比赛时间</strong></p><p style="text-align: center;"><img src="https://ncccu2026.oss-cn-zhangjiakou.aliyuncs.com/ueditor/20260703/4a5688efe0fddc0baf14efd0db738d42.png" title="4a5688efe0fddc0baf14efd0db738d42.png" alt="image.png"/></p><p style="text-indent: 2em;"><strong>七、成绩评定</strong></p><p style="text-indent: 2em;">1.评分形式</p><p style="text-indent: 2em;">Office高级应用赛客观题由机器判分，主观题采用机器评分与人工评分相结合的方式。</p><p style="text-indent: 2em;">2.评分方法</p><p style="text-indent: 2em;">(1) 主观题由软件和评审组分别评分。当分值浮动不超过 5%时，取均值为该题得分。</p><p style="text-indent: 2em;">(2) 如软件和人工评审分数浮动超过5%，由评审组其他老 师人工另行评分。若人工评分的2组分值浮动不超过5%时，取人工评分的均值为该题得分。若人工评分的2组分值浮动超过5%时，评审组将成立小组评分，并取均值为该题得分。</p><p style="text-indent: 2em;">(3) 为防止作弊，各考生试卷的主观题素材均不同。如发现提交他人的主观题答卷，一律按0分处理。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>八、联系信息</strong></p><p style="text-indent: 2em;">竞赛官网地址：</p><p style="text-indent: 2em;">http://www.ncccu.org.cn/index/Paper/case3.html</p>                    </div>
+                    <div class="csign" id="bm">
+                        <div class="csign_subject">
+                            <p>*请勾选你要报名的科目</p>
+                            <ul class="clearfix">
+                                                                    <li>
+                                        <label for="c0">Word</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id0" id="c0" value="4">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c1">Excel</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id1" id="c1" value="5">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c2">PowerPoint</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id2" id="c2" value="6">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c3">WPS智能应用</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id3" id="c3" value="29">
+                                                                            </li>
+                                                            </ul>
+                        </div>
+                                                    <div class="select_pay">
+                                <p>*支付方式</p>
+                                <div class="paymethod clearfix">
+                                    <div class="pay_item"><input type="radio" value="1" name="paymethods" id="wxs" checked=""> <label for="wxs"><img src="/static/index/images/wx.png" width="20"> 微信支付</label></div>
+                                    <div class="pay_item"><input type="radio" value="2" name="paymethods" id="zfbs" > <label for="zfbs"><img src="/static/index/images/zfb.png" width="20"> 支付宝</label></div>
+                                </div>
+                            </div>
+                                                <div class="csign_btn" onclick="btn_signs()">报名参赛</div>
+                        <div class="case_tips">
+                            区域赛/省赛报名：2026年7月9日—11月25日<br/>
+                            区域赛/省赛考试：2026年11月28日
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer" id="contact">
+    <div class="f_main clearfix">
+        <div class="f_left">
+            <ul>
+                <li class="f_qq">考生赛事咨询QQ：<a target="_blank" href="http://cp.52jingsai.com/qrcode/163" style="color: red;">1090489144</a>（点击即可加群）</li>
+                <li class="f_tel">
+                    院校承办咨询电话：<br>
+                    王老师：16601164190<span>（西北赛区）</span><br>
+                    李老师：13281263326<span>（西南赛区）</span><br>
+                    赵老师：13051355695<span>（华东赛区）</span><br>
+                    魏老师：13671104231<span>（华中赛区、华南赛区）</span><br>
+                    石老师：13521527466<span>（东北赛区、华北赛区）</span><br>
+                </li>
+            </ul>
+        </div>
+        <div class="f_right page_pc">
+            <img src="/static/index/images/ewm.jpg" width="100" height="100" alt="">
+            <p>扫码领真题</p>
+        </div>
+    </div>
+    <div class="f_beian page_pc">
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34011102001686" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/static/index/images/gongan.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">皖公网安备 34011102001686号</p></a><br>
+        <a target="cyxyv" href="https://v.yunaq.com/certificate?domain=www.ncccu.org.cn&amp;from=label&amp;code=90020"> <img src="/static/index/images/label_lg_90020.png"></a><br>
+        <a href="https://beian.miit.gov.cn/" target="_blank" style="color:#939393;font-size:14px;">京ICP备18046968号-3</a>
+    </div>
+</div>
+
+<!--footer_tab-->
+<div class="footer_tab page_mobile clearfix">
+    <div class="tab_item" data-id="0">
+        <a href="/index/Index/index.html">
+            <img src=" /static/index/images/tab_icon_19.png " data-src="/static/index/images/tab_icon_19.png" data-active="/static/index/images/tab_icon_active_19.png" alt="tab_icon"/>
+            <p>首页</p>
+        </a>
+    </div>
+    <div class="tab_item" data-id="1" style="font-size: 12px">
+        <a href="/index/User/sign.html">
+            <img src=" /static/index/images/tab_icon_active_21.png " data-src="/static/index/images/tab_icon_21.png" data-active="/static/index/images/tab_icon_active_21.png" alt="tab_icon"/>
+            <p>报名参赛</p>
+        </a>
+    </div>
+<!--    <div class="tab_item" data-id="2">-->
+<!--        <a href="/index/User/volunteer.html">-->
+<!--            <img src=" /static/index/images/tab_icon_23.png " data-src="/static/index/images/tab_icon_23.png" data-active="/static/index/images/tab_icon_active_23.png" alt="tab_icon"/>-->
+<!--            <p>宣传奖励</p>-->
+<!--        </a>-->
+<!--    </div>-->
+    <div class="tab_item" data-id="2">
+        <a href="/index/User/user.html">
+            <img src=" /static/index/images/tab_icon_26.png " data-src="/static/index/images/tab_icon_26.png" data-active="/static/index/images/tab_icon_active_26.png" alt="tab_icon"/>
+            <p>个人中心</p>
+        </a>
+    </div>
+</div>
+<div class="piaochuang">
+    <img src="/static/index/images/piaochuang_05.png?v=1.1.02" alt="piaochuang">
+    <span class="notic_qun"></span>
+    <a href="/index/User/sign.html" class="pc_bm"></a>
+    <div class="zx_list">
+        <ul>
+            <li><a href="http://cp.52jingsai.com/qrcode/185" target="_blank">大数据群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/188" target="_blank">人工智能群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/175" target="_blank">Office群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/181" target="_blank">程序设计群</a></li>
+<!--            <li><a href="http://cp.52jingsai.com/qrcode/11268" target="_blank">计算机系统群</a></li>-->
+<!--            <li><a href="http://cp.52jingsai.com/qrcode/193" target="_blank">嵌入式系统群</a></li>-->
+            <li><a href="http://cp.52jingsai.com/qrcode/191" target="_blank">数字媒体群</a></li>
+        </ul>
+    </div>
+</div>
+<style>
+    .tab_item {
+        width: 33.33333%;
+    }
+</style>
+<script>
+    //通知群
+    var piapCElem=$('.notic_qun');
+    var zxList=$('.zx_list');
+    piapCElem.mouseover(function() {
+        zxList.css("display","block");
+    });
+    zxList.mouseover(function() {
+        zxList.css("display","block");
+    });
+    piapCElem.mouseout( function() {
+        zxList.css("display","none");
+    });
+    zxList.mouseout( function() {
+        zxList.css("display","none");
+    });
+    piapCElem.click(function(){
+        zxList.toggle();
+    });
+</script>
+<script>
+    //checkbox联动选中
+    $(document).on('change','input[type="checkbox"]',function(){
+        let $this = $(this);
+        let cls = null;
+        $.each(this.className.split(' '),function(i,c){
+            if(c.startsWith('subject_id')){
+                cls = c;
+                return false;
+            }
+        });
+        if(!cls) return;
+        $('.'+cls).prop('checked', $this.prop('checked'));
+    });
+
+    var success = true;
+    var user = [];
+    function btn_signs(){
+        if (user.length <= 0){
+            location.href="/index/Login/login.html";return false;
+        }
+        if (!user.school_id) {
+            layer.msg('请先填写您的个人信息！',{icon:5,time:1500},function (){
+                location.href="/index/User/user.html"
+            });
+            return false;
+        }
+        var subject_id = [];
+        $.each($('input:checkbox'),function(){
+            if(this.checked){
+                subject_id.push($(this).val());
+            }
+        });
+        if (subject_id.length <= 0){
+            layer.msg('请选择报名科目',{icon:5,time:1500});return false;
+        }
+        var pay_type = 1;
+        pay_type = $('input[name="paymethods"]:checked').val();
+        Ajax({type:'post',url:"/index/order/createPcSignOrder.html",async:true,params:{subject_id:subject_id,pay_type:pay_type},responseType:'json',contentType:'application/x-www-form-urlencoded'});
+    }
+
+    function btn_sign(){
+        if (user.length <= 0){
+            location.href="/index/Login/login.html";return false;
+        }
+        if (!user.school_id) {
+            layer.msg('请先填写您的个人信息！',{icon:5,time:1500},function (){
+                location.href="/index/User/user.html"
+            });
+            return false;
+        }
+        var subject_id = [];
+        $.each($('input:checkbox'),function(){
+            if(this.checked){
+                subject_id.push($(this).val());
+            }
+        });
+        if (subject_id.length <= 0){
+            layer.msg('请选择报名科目',{icon:5,time:1500});return false;
+        }
+        var pay_type = 1;
+        pay_type = $('input[name="paymethod"]:checked').val();
+        Ajax({type:'post',url:"/index/order/createPcSignOrder.html",async:true,params:{subject_id:subject_id,pay_type:pay_type},responseType:'json',contentType:'application/x-www-form-urlencoded'});
+    }
+
+    function Ajax({type,url,async,params = {},responseType = "text",contentType = "application/x-www-form-urlencoded"}){
+        if (!success) return false;
+        success = false;
+        type = type.toUpperCase();
+        params = formatParams(params);
+        //创建xhr对象 step1
+        const xhr = window.ActiveXObject ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();
+        xhr.responseType = responseType;
+        //接收 step3
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState === 4) {
+                const status = xhr.status;
+                const response = xhr.response;
+                if (response.code == 200){
+                    success = true;
+                    if (typeof response.data == 'string'){
+                        const div=document.createElement('divform');
+                        div.innerHTML=response.data;
+                        document.body.appendChild(div);
+                        document.forms['alipaysubmit'].acceptCharset='GBK';//保持与支付宝默认编码格式一致，如果不一致将会出现：调试错误，请回到请求来源地，重新发起请求，错误代码 invalid-signature 错误原因: 验签出错，建议检查签名字符串或签名私钥与应用公钥是否匹配
+                        document.forms['alipaysubmit'].submit();
+                    }else if(typeof response.data == 'object'){
+                        if (browserRedirect() == 'pc'){
+                            var content = '<form class="layui-form" action=""><div class="layui-bg-gray" style="padding: 30px;">\n' +
+                                '  <div class="layui-row layui-col-space15">\n' +
+                                '    <div class="layui-col-md12">\n' +
+                                '      <div class="layui-card">\n' +
+                                '        <div class="layui-card-header" style="text-align: center;">请打开微信扫码支付</div>\n' +
+                                '        <div class="layui-card-body" style="text-align: center;"><img src="'+response.data.code_img+'"></div>\n' +
+                                '      </div>\n' +
+                                '    </div>\n' +
+                                '  </div>\n' +
+                                '</div> </form>';
+                            layer.open({
+                                type: 1,
+                                title: '',
+                                area: ['50%','40%'],
+                                fixed: false, //不固定
+                                maxmin: true,
+                                content: content
+                            });
+                            setInterval(function (){
+                                $.ajax({
+                                    url : "/index/Order/queryOrder.html",
+                                    data : {order_sn:response.data.order_sn},
+                                    dataType : 'json',
+                                    type : "post",
+                                    success : function (res){
+                                        if (res.data.status == 1){
+                                            layer.msg('扫码支付成功',{icon:6,time:1500},function (){
+                                                location.href="/index/User/sign.html";
+                                            })
+                                        }
+                                    }
+                                })
+                            },2000);
+                        }else{
+                            var arr = Object.keys(response.data);
+                            if (arr.length > 2){
+                                if ('code_img' in response.data) {
+                                    var content = '<form class="layui-form" action=""><div class="layui-bg-gray" style="padding: 30px;">\n' +
+                                        '  <div class="layui-row layui-col-space15">\n' +
+                                        '    <div class="layui-col-md12">\n' +
+                                        '      <div class="layui-card">\n' +
+                                        '        <div class="layui-card-header" style="text-align: center;">请截图保存，微信扫码支付</div>\n' +
+                                        '        <div class="layui-card-body" style="text-align: center;">' +
+                                        '           <img src="'+response.data.code_img+'">' +
+                                        '       </div>\n' +
+                                        '      </div>\n' +
+                                        '    </div>\n' +
+                                        '  </div>\n' +
+                                        '</div> </form>';
+                                    layer.open({
+                                        type: 1,
+                                        title: '',
+                                        area: ['92%','50%'],
+                                        fixed: false, //不固定
+                                        maxmin: true,
+                                        content: content
+                                    });
+                                }else{
+                                    callpay(response.data);
+                                }
+                            }else{
+                                window.location.href=response.data[0];
+                            }
+                        }
+                    }
+                }else{
+                    success = true;
+                    if (response.code == 4001){
+                        layer.msg(response.msg,{icon:5,time:1500},function (response){
+                            location.href="/index/Login/login.html";
+                        });
+                    }
+                    if (response.code == 201){
+                        if (browserRedirect() == 'pc') var area = ['50%','60%'];
+                        else var area = ['100%','100%'];
+                        layer.open({
+                            type: 1,
+                            title: '提示信息',
+                            area: area,
+                            fixed: false, //不固定
+                            maxmin: true,
+                            content: "<div style='text-align: center;'>" +
+                                "<p style='padding: 5px 5px;'>本校为院校统一组织报名，可联系韦老师：18966901995</p>" +
+                                "<p style='padding: 5px 5px;'>统一报名，或加本校QQ群：924574833 咨询。</p>" +
+                                "<p style='padding: 5px 5px;'>扫码可加群</p>" +
+                                "<p><img src='/static/index/images/xihuadaxue.jpg' style='width: 50%;height: auto'></p></div>"
+                        })
+                    }
+                }
+            }
+        }
+        //发送 step2
+        if (type === "GET") {
+            xhr.open("GET", url + "?" + params, async);
+            xhr.send(null);
+        } else if (type === "POST"){
+            xhr.open("POST", url, async);
+            //设置表单提交时的内容类型
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.setRequestHeader("Accept", "application/json, text/javascript");
+            xhr.send(params);
+        }
+    }
+
+    function formatParams(params){
+        const arr = [];
+        for (let name in params) {
+            arr.push(encodeURIComponent(name) + "=" + encodeURIComponent(params[name]));
+        }
+        return arr.join("&");
+    }
+
+    function jsApiCall(data)
+    {
+        WeixinJSBridge.invoke(
+            'getBrandWCPayRequest',
+            data,
+            function(res){
+                WeixinJSBridge.log(res.err_msg);
+                if (res.err_msg == 'get_brand_wcpay_request:ok'){
+                    layer.msg('支付成功',{icon:6,time:1000},function (){
+                        location.reload();
+                    });
+                }
+                if (res.err_msg == 'get_brand_wcpay_request:cancel'){
+                    layer.msg('您已取消支付',{icon:5,time:1000});
+                }
+                if (res.err_msg == 'get_brand_wcpay_request:fail'){
+                    layer.msg('支付失败',{icon:5,time:1000});
+                }
+            }
+        );
+    }
+
+    function callpay(data)
+    {
+        if (typeof WeixinJSBridge == "undefined"){
+            if( document.addEventListener ){
+                document.addEventListener('WeixinJSBridgeReady', jsApiCall, false);
+            }else if (document.attachEvent){
+                document.attachEvent('WeixinJSBridgeReady', jsApiCall);
+                document.attachEvent('onWeixinJSBridgeReady', jsApiCall);
+            }
+        }else{
+            jsApiCall(data);
+        }
+    }
+</script>
+</body>
+</html>

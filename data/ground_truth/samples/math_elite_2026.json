@@ -1,0 +1,99 @@
+{
+  "competition_id": "math_elite_2026",
+  "competition_name": "全国大学生数学竞赛暨数学精英挑战赛",
+  "document_year": 2026,
+  "category": "math",
+  "organizer": "浙江省应用数学研究会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-10-23",
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-25",
+  "competition_end_date": "2026-10-25",
+  "result_announcement_date": null,
+  "award_settings": "每年分两场竞赛,每场分数学类(数学分析、高等代数)和非数学类(高等数学、线性代数)两个组别,按个人成绩评定并颁发对应奖项获奖证书;报名后两场均可参加,每场独立评奖(官网未固定公布获奖比例)。",
+  "award_distribution": null,
+  "brief_description": "全国大学生数学竞赛暨数学精英挑战赛(原网络挑战赛)是由浙江省应用数学研究会主办的全国性数学线上竞赛（2026年为第九届），面向普通高等院校、高职院校的专科、本科、硕士在校生及研究生，专业不限。为个人赛，分数学类与非数学类两组别。",
+  "required_materials": [
+    "答卷"
+  ],
+  "evaluation_dimensions": [
+    "解题正确",
+    "方法严谨",
+    "思维深度"
+  ],
+  "required_skills": [
+    "高等数学",
+    "线性代数",
+    "数学分析",
+    "高等代数"
+  ],
+  "official_source_url": "https://cmcmec.saikr.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v3",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位:浙江省应用数学研究会",
+      "document_name": "2026第九届全国大学生数学竞赛暨数学精英挑战赛",
+      "source_url": "https://cmcmec.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "大赛报名时间:即日起- 2026年10月23日。",
+      "document_name": "2026第九届全国大学生数学竞赛暨数学精英挑战赛",
+      "source_url": "https://cmcmec.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "第一场竞赛时间:数学类:7月25日9:00-12:00 非数学类:7月26日9:00-12:00。",
+      "document_name": "2026第九届全国大学生数学竞赛暨数学精英挑战赛",
+      "source_url": "https://cmcmec.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "全国高校全日制在校生(研究生、本科生、专科生)均可报名此次大赛。报名成功的同学在规定时间内进行作答并提交答卷。",
+      "document_name": "2026第九届全国大学生数学竞赛暨数学精英挑战赛",
+      "source_url": "https://cmcmec.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "普通高等院校、高职院校、二级学院、独立学院、本、专科在校大学生及研究生均可报名参加,专业不限。",
+      "document_name": "2026第九届全国大学生数学竞赛暨数学精英挑战赛",
+      "source_url": "https://cmcmec.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据竞赛官网cmcmec.saikr.com(第九届,2026)核实并订正：主办单位“浙江省应用数学研究会”经官网确认（原“高等学校数学教育研究会”为误）；个人赛(team_min/max=1)保留；报名截止2026-10-23、第一场2026-07-25/26、第二场2026-10-24/25经官网确认。该赛事原名为“全国大学生数学竞赛网络挑战赛”（见math_net_2026），现更名。获奖比例官网未固定公布，置空。可信级别由B升为A(官方竞赛网站)。"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "competition_id": "ncccu_data_2026",
+    "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+    "snapshot": "data/official_sources/ncccu_2026/ncccu_data_2026_official.html",
+    "sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  },
+  {
+    "competition_id": "ncccu_ai_2026",
+    "source_url": "https://www.ncccu.org.cn/index/Paper/case1.html",
+    "snapshot": "data/official_sources/ncccu_2026/ncccu_ai_2026_official.html",
+    "sha256": "32a3670bb8421189e17a0d0680d35548993e5bb15f9579bb2385bff2101ee862",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  },
+  {
+    "competition_id": "ncccu_digital_2026",
+    "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+    "snapshot": "data/official_sources/ncccu_2026/ncccu_digital_2026_official.html",
+    "sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  }
+]

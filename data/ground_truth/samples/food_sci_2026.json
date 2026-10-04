@@ -1,0 +1,124 @@
+{
+  "competition_id": "food_sci_2026",
+  "competition_name": "中国食品科学技术学会大学生食品科技创新竞赛",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "中国食品科学技术学会（CIFST）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "生物科学",
+    "生物技术",
+    "基础医学",
+    "药学",
+    "临床医学",
+    "生态学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "竞赛一般设立第一名、第二名、第三名、单项奖、优秀奖、最佳指导教师奖、优秀组织单位奖等。",
+  "award_distribution": [
+    {
+      "award": "第一名",
+      "proportion": "优胜",
+      "note": "全国"
+    },
+    {
+      "award": "第二名",
+      "proportion": "优胜",
+      "note": "全国"
+    },
+    {
+      "award": "第三名",
+      "proportion": "优胜",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "中国食品科学技术学会大学生食品科技创新竞赛是由中国食品科学技术学会（CIFST）主办的竞赛，面向参赛高校在校大学生（本科生和研究生），以团队形式参赛（每队不超过5人、至少1名为女生），鼓励食品学科为主、跨专业组队，考察作品的科学性、创新性等。",
+  "required_materials": [
+    "实验报告",
+    "研究论文",
+    "海报",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "完成度",
+    "表达"
+  ],
+  "required_skills": [
+    "实验操作",
+    "数据分析",
+    "文献检索",
+    "科研写作"
+  ],
+  "official_source_url": "https://www.cifst.org.cn/uploadfile/ueditor/file/202604/17756169340a6739.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "中国食品科学技术学会 2026 年大学生食品科技创新竞赛 通用规则",
+      "document_name": "CIFST 2026年大学生食品科技创新竞赛通用规则",
+      "source_url": "https://www.cifst.org.cn/uploadfile/ueditor/file/202604/17756169340a6739.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "CIFST 作为竞赛主办方，负责制定竞赛规则、监督竞赛流程、处理争议和违规行为等。",
+      "document_name": "CIFST 2026年大学生食品科技创新竞赛通用规则",
+      "source_url": "https://www.cifst.org.cn/uploadfile/ueditor/file/202604/17756169340a6739.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "以团队形式参赛，总人数原则上不超过 5 名且至少 1 名以上为女生。",
+      "document_name": "CIFST 2026年大学生食品科技创新竞赛通用规则",
+      "source_url": "https://www.cifst.org.cn/uploadfile/ueditor/file/202604/17756169340a6739.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "中国食品科学技术学会（CIFST）2026年大学生食品科技创新竞赛通用规则",
+      "document_name": "CIFST 2026年大学生食品科技创新竞赛通用规则",
+      "source_url": "https://www.cifst.org.cn/uploadfile/ueditor/file/202604/17756169340a6739.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-18核验】原competition_name“全国大学生食品科学创新竞赛”非官方全称，官方为“中国食品科学技术学会大学生食品科技创新竞赛”（含多个企业冠名赛项，如盼盼食品杯、李锦记杯、安琪酵母杯、雀巢杯）。赛程：启动/校园宣讲4-5月，报名及初赛截止5月下旬-6月上旬，入围及复赛截至9月上旬，评审结果9月下旬，表彰10月下旬-11月上旬；无单一报名截止日，具体日期置空待人工确认。原“由公开赛事名录整理、尚未完成人工核验”备注已失效。",
+  "official_source_status": "found"
+}

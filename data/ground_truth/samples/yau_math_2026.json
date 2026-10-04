@@ -1,0 +1,140 @@
+{
+  "competition_id": "yau_math_2026",
+  "competition_name": "丘成桐大学生数学竞赛",
+  "document_year": 2026,
+  "category": "math",
+  "organizer": "清华大学丘成桐数学科学中心、上海数学与交叉学科研究院",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "信息与计算科学",
+    "统计学",
+    "物理学",
+    "计算机科学与技术"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-04-25",
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-16",
+  "competition_end_date": "2026-06-28",
+  "result_announcement_date": "2026-06-28",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "丘成桐大学生数学竞赛是由清华大学丘成桐数学科学中心、上海数学与交叉学科研究院主办的Math竞技类赛事，面向中国大陆、香港、澳门、台湾地区高校尚未取得学士学位的本科在校生。设个人单项赛（6个科目）与团体赛，以个人参赛形式为主，全面考查本科阶段数学基本知识与基本功，是检验本科生数学专业能力的重要标杆。",
+  "required_materials": [
+    "答卷",
+    "解题过程",
+    "证明"
+  ],
+  "evaluation_dimensions": [
+    "解题正确",
+    "方法严谨",
+    "思维深度"
+  ],
+  "required_skills": [
+    "数学分析",
+    "高等代数",
+    "概率统计",
+    "解题技巧"
+  ],
+  "official_source_url": "https://yau-contest.com/page-schedule.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "2026年，第十七届丘成桐大学生数学竞赛由清华大学丘成桐数学科学中心、上海数学与交叉学科研究院主办。",
+      "document_name": "关于2026年第十七届丘成桐大学生数学竞赛报名的通知（南京理工大学转发）",
+      "source_url": "https://xspace.njust.edu.cn/84/78/c14263a361592/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "丘成桐大学生数学竞赛……面向中国大陆、香港、澳门、台湾地区高校尚未取得学士学位的本科在校生。",
+      "document_name": "关于2026年第十七届丘成桐大学生数学竞赛报名的通知（南京理工大学转发）",
+      "source_url": "https://xspace.njust.edu.cn/84/78/c14263a361592/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "官网报名时间：2026年3月10日—4月25日（报名截止日期：4月25日24:00）。",
+      "document_name": "2026丘成桐大学生数学竞赛竞赛日程（官网）",
+      "source_url": "https://yau-contest.com/page-schedule.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "5月16-17日 半决赛笔试；6月27-28日 总决赛、颁奖典礼（地点：清华大学）。",
+      "document_name": "2026丘成桐大学生数学竞赛竞赛日程（官网）",
+      "source_url": "https://yau-contest.com/page-schedule.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "6月27-28日 总决赛、颁奖典礼（地点：清华大学）。",
+      "document_name": "2026丘成桐大学生数学竞赛竞赛日程（官网）",
+      "source_url": "https://yau-contest.com/page-schedule.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "6月27-28日 总决赛、颁奖典礼（地点：清华大学）。",
+      "document_name": "2026丘成桐大学生数学竞赛竞赛日程（官网）",
+      "source_url": "https://yau-contest.com/page-schedule.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已于2026-07-18经官网（yau-contest.com）及高校转发通知核验：2026年为第十七届，报名截止2026-04-25，半决赛笔试2026-05-16至17日，总决赛/颁奖2026-06-27至28日（清华大学）。丘赛仅面向未取得学士学位的本科在校生（不含研究生），原模板将eligible_students写为“本科生、研究生”有误，已更正；无“作品提交”环节，submission_deadline置为null。个人单项赛为主，亦设6人团体赛。",
+  "official_source_status": "found"
+}

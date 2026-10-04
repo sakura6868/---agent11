@@ -1,0 +1,65 @@
+{
+  "competition_id": "中国大学生机械工程创新创意大赛微纳传感技术与智能应用赛_2026",
+  "competition_name": "中国大学生机械工程创新创意大赛：微纳传感技术与智能应用赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国机械工程学会（微纳制造技术分会等共同承办；秘书处：西安交通大学）",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "按赛项设一、二、三等奖，优秀作品可入围全国总决赛（2026年8月中下旬，山东烟台现场路演）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "中国机械工程学会主办、纳入《全国普通高校大学生竞赛分析报告》的机械类赛事；第七届“明石杯”微纳传感技术与智能应用赛，含创新设计、制造工艺、标定测试与智能应用等方向。",
+  "required_materials": [
+    "报名表",
+    "作品材料（源代码/设计报告/创业计划书）"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "先进性",
+    "工作量",
+    "应用价值"
+  ],
+  "required_skills": [
+    "微纳传感",
+    "机械工程",
+    "软硬件开发"
+  ],
+  "official_source_url": "https://www.smee.uestc.edu.cn/info/1094/22882.htm",
+  "source_acquired_date": "2026-07-20",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源 https://www.smee.uestc.edu.cn/info/1094/22882.htm（电子科技大学通知，赛事官网 https://mnems.xjtu.edu.cn）。2026年报名已于5月15日截止、作品提交5月31日截止，全国总决赛2026年8月中下旬于山东烟台，数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

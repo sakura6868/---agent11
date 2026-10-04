@@ -1,0 +1,120 @@
+{
+  "competition_id": "siemens_2026",
+  "competition_name": "西门子杯中国智能制造挑战赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国仿真学会、西门子（中国）有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "材料成型",
+    "力学",
+    "能源与动力工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-05-31",
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": "2026-08-31",
+  "award_settings": "设全国初赛特等奖、一等奖、二等奖、三等奖及全国总决赛特等奖、一等奖、二等奖等，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "全国二等奖",
+      "proportion": "约17%",
+      "note": "全国"
+    },
+    {
+      "award": "全国三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "西门子杯中国智能制造挑战赛（CIMC）是由中国仿真学会、西门子（中国）有限公司主办的智能制造类国家级赛事（2026年为第二十届），主要面向控制、电气、机械、计算机等相关学科本科生、研究生。各赛项以1-3人组队形式参与，考察系统分析、设计开发与自动化实施等能力，是提升工程实践能力的重要平台。",
+  "required_materials": [
+    "设计方案",
+    "工程报告",
+    "程序代码",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "系统分析",
+    "设计开发",
+    "工程实施",
+    "创新应用"
+  ],
+  "required_skills": [
+    "自动化控制",
+    "PLC/嵌入式",
+    "CAD/仿真",
+    "算法设计",
+    "工业软件"
+  ],
+  "official_source_url": "https://www.siemenscup-cimc.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 中国仿真学会 西门子（中国）有限公司；全国竞赛秘书处挂靠北京化工大学",
+      "document_name": "关于开展2026年第二十届CIMC“西门子杯”中国智能制造挑战赛的通知",
+      "source_url": "https://www.siemenscup-cimc.org.cn/notice/NoticeDetail?id=2431",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "请参赛队伍于2026年3月1日至5月31日通过大赛官网进行注册并组队报名参赛",
+      "document_name": "关于开展2026年第二十届CIMC“西门子杯”中国智能制造挑战赛的通知",
+      "source_url": "https://www.siemenscup-cimc.org.cn/notice/NoticeDetail?id=2431",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队由1-3名参赛者和1-2位指导教师组成",
+      "document_name": "2026年第20届CIMC“西门子杯”中国智能制造挑战赛竞赛通知（哈尔滨工业大学）",
+      "source_url": "https://today.hit.edu.cn/article/2026/05/20/129986",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国总决赛：2026年8月",
+      "document_name": "2026年第二十届CIMC“西门子杯”中国智能制造挑战赛竞赛通知（合肥工业大学PDF）",
+      "source_url": "https://gpzx.hfut.edu.cn/_upload/article/files/04/9d/d589a3a949e0b5ee97e2a6115d2d/7fad2817-9b9c-4f55-a0b8-5ce9641cc66c.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】已据官方通知（siemenscup-cimc.org.cn，第二十届）更正：主办单位为中国仿真学会、西门子（中国）有限公司；报名2026-03-01至2026-05-31；方案提交与审核2026-06-06至2026-06-30；全国总决赛2026年8月；团队1-3人（原team_max=5有误，已更正为3）。allowed_majors 未从官方逐条核实，官方面向控制/电气/机械/计算机等学科，原值可能不完整，建议人工确认。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

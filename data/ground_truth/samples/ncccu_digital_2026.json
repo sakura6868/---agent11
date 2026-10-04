@@ -1,0 +1,122 @@
+{
+  "competition_id": "ncccu_digital_2026",
+  "competition_name": "2026年第八届全国高校计算机能力挑战赛—数字媒体创新设计赛（区域赛/省赛）",
+  "document_year": 2026,
+  "organizer": "全国高等学校计算机教育研究会",
+  "category": "design",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-11-19",
+  "registration_deadline_at": null,
+  "submission_deadline": "2026-11-19",
+  "submission_deadline_at": null,
+  "deadline_timezone_basis": "campus_default",
+  "competition_start_date": "2026-08-06",
+  "competition_end_date": "2026-11-19",
+  "required_materials": [
+    "设计说明文档（500字以内）",
+    "作品文件或链接（按所选科目）",
+    "海报源文件（仅海报设计科目）"
+  ],
+  "required_skills": [
+    "视觉设计",
+    "视频制作",
+    "设计说明"
+  ],
+  "brief_description": "海报、动画、视频、AIGC创意设计四科目分别报名评比；制作阶段已开始但报名仍开放。",
+  "official_source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-03",
+  "last_verified_at": "2026-10-03",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "doc_version": "2026_official_html_2026-10-03",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：2026年7月9日—11月19日",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "大赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每支参赛队伍限1—3名队员",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队伍限1—3名队员",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "要求参赛队伍根据大赛主题进行作品创作并在截止时间前将设计说明、作品或链接上传至大赛官网参赛页面。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "区域赛设计与提交时间：2026年8月6日—11月19日",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials_source",
+      "page": null,
+      "source_text": "需上传源文件，大小不超过500M。并附上500字以内的设计说明。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case7.html",
+      "document_name": "ncccu_digital_2026_official.html",
+      "document_sha256": "b88b860288b981292510be0f9167fd9b9b8ccb8f98c5a6726517db286698f7d2",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "报名时按科目核对文件格式与大小。海报设计须上传源文件；海报、视频、动画科目禁止AIGC工具，使用AI须选AIGC科目并披露工具用途、输入素材和参数。作品不得出现学校、团队、成员姓名；须有赛事Logo水印及合法素材版权。国赛另有PPT答辩，不混入初赛材料。 每队200元；各院校不超过100队，需向学校确认名额，允许跨校。记录只覆盖区域赛/省赛，不替代官网报名审核。报名原文未给具体时刻，不推定为23:59；提交时刻未给时区时使用校园UTC+08:00假设，最终以官网最新通知为准。"
+}

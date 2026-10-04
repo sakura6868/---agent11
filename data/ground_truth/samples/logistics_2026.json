@@ -1,0 +1,86 @@
+{
+  "competition_id": "logistics_2026",
+  "competition_name": "全国大学生物流设计大赛",
+  "document_year": 2026,
+  "category": "logistics",
+  "organizer": "中国物流与采购联合会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "高职高专学生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": null,
+  "team_max": null,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一、二、三等奖及优秀指导教师奖、最佳组织奖、优胜奖；入围决赛团队按比例评定（具体比例以当届官方通知为准）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "20%",
+      "note": "入围决赛团队"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "35%",
+      "note": "入围决赛团队"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "45%",
+      "note": "入围决赛团队"
+    }
+  ],
+  "brief_description": "全国大学生物流设计大赛是由中国物流与采购联合会主办、教育部高等学校物流管理与工程类专业教学指导委员会指导的面向全国大学生的物流教学实践竞赛，每两年举办一届，是国内最具专业性、权威性、实用性的大学生物流大赛。参赛者根据组委会提供的案例自主完成物流方案设计。",
+  "required_materials": [
+    "物流设计方案"
+  ],
+  "evaluation_dimensions": [
+    "方案可行性",
+    "创新性",
+    "系统性",
+    "应用价值"
+  ],
+  "required_skills": [
+    "物流系统规划",
+    "数学建模",
+    "方案设计",
+    "数据分析"
+  ],
+  "official_source_url": "https://wlsjds.clpp.org.cn/about",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v3",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "“全国大学生物流设计大赛”是由教育部高等学校物流管理与工程类专业教学指导委员会指导，中国物流与采购联合会主办的一项面向全国大学生的大型物流教学实践方面的竞赛活动，大赛每两年举办一次，已经成功举办八届。",
+      "document_name": "全国大学生物流设计大赛官网-大赛简介（wlsjds.clpp.org.cn）",
+      "source_url": "https://wlsjds.clpp.org.cn/about",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "赛项组别:本科组、高职高专组、研究生组……本科组参赛对象为正式录取的全日制本科在校生，高职高专组……专科在校生，研究生组……硕士、博士研究生在校生。",
+      "document_name": "“贵州现代枢纽物流杯”2026年全国大学生物流设计大赛贵州省赛通知（反映全国赛组别结构）",
+      "source_url": "https://news.gufe.edu.cn/info/1016/18373.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "【核实结论 2026-07-18】已找到官方依据（wlsjds.clpp.org.cn，中国物流与采购联合会主办官网），主办单位经官网核实。重要时间说明：该赛事每两年一届；第九届“新青年吴兴杯”全国大学生物流设计大赛于2024年11月启动、2025年8月30日颁奖（非2026年）。截至2026年7月，官网未发布第十届(2026-2027)全国赛通知，故本文件registration/submission/competition等日期均置空、待第十届官方通知发布后确认。团队人数官网未明确统一上限（省赛多为3-5人），亦置空。eligible_students依全国赛组别（本科/高职高专/研究生）列示。award比例（一/二/三等奖20%/35%/45%）取自往届入围决赛团队评定惯例，当届以官方通知为准。"
+}

@@ -1,0 +1,47 @@
+{
+  "competition_id": "昇腾AI创新大赛-算子挑战赛S9赛季_2026",
+  "competition_name": "昇腾AI创新大赛-算子挑战赛（S9赛季）",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "华为技术有限公司、全球计算联盟GCC",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "设奖项，优秀作品需在Gitcode指定代码仓开源并合入PR；年度总决赛于2027年5月（预计）。奖金池 ¥120,000。",
+  "award_distribution": [],
+  "brief_description": "面向AI开发者的算子挑战赛，使用Ascend C编程语言开发大模型常用算子，挑战算子极致性能。要求基于昇腾AI云上算力与CANN基础能力（社区版8.5.0）参赛。1-3人组队。",
+  "required_materials": [
+    "Ascend C算子代码",
+    "性能报告"
+  ],
+  "evaluation_dimensions": [
+    "算子性能",
+    "AI算力优化"
+  ],
+  "required_skills": [
+    "Ascend C",
+    "AI算子开发",
+    "CANN"
+  ],
+  "official_source_url": "https://www.hiascend.com/developer/contests/details/41ffbad2024e4ccfa43520c57ffa7b9e",
+  "source_acquired_date": "2026-07-19",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源昇腾社区 hiascend.com 赛事详情页。报名与作品提交均至 2026-09-15 12:00；年度总决赛预计2027年5月。数据待人工核验，请勿当作定论。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

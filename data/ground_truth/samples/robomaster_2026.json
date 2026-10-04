@@ -1,0 +1,130 @@
+{
+  "competition_id": "robomaster_2026",
+  "competition_name": "RoboMaster机甲大师赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "深圳市大疆创新科技有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": "2025-11-06",
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-01",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": "2026-08-31",
+  "award_settings": "设冠军、亚军、季军及各类单项奖，获奖团队颁发奖杯与证书；部分奖项由大疆教育基金等提供奖金。",
+  "award_distribution": [
+    {
+      "award": "冠军",
+      "proportion": "按赛事",
+      "note": "全国"
+    },
+    {
+      "award": "亚军",
+      "proportion": "按赛事",
+      "note": "全国"
+    },
+    {
+      "award": "季军",
+      "proportion": "按赛事",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "RoboMaster机甲大师赛是由深圳市大疆创新科技有限公司主办的机器人与人工智能类赛事，含超级对抗赛（RMUC）、高校联盟赛（RMUL）、高校人工智能挑战赛等。以学校为单位组建研发团队参赛，考察技术难度、完成度与工程实践能力。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "https://www.robomaster.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "RoboMaster 2026 机甲大师超级对抗赛·区域赛",
+      "document_name": "RoboMaster 机甲大师官方站点",
+      "source_url": "https://www.robomaster.com/zh-CN",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "RoboMaster机甲大师赛由深圳市大疆创新科技有限公司运营（官网robomaster.com）",
+      "document_name": "RoboMaster 机甲大师官方站点",
+      "source_url": "https://www.robomaster.com/zh-CN",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "RMUC 2026 正式报名：2025年10月29日18:00 - 2025年11月6日18:00",
+      "document_name": "RoboMaster 2026 机甲大师高校系列赛报名参赛攻略/规则",
+      "source_url": "https://m.robomaster.com/en-US/robo/rm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "RMUC 2026 区域赛：2026年5月-6月；总决赛/wildcard：2026年7月-8月",
+      "document_name": "RoboMaster University Championship (RMUC) 规则概览",
+      "source_url": "https://m.robomaster.com/en-US/robo/rm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "RoboMaster 官网：https://www.robomaster.com/",
+      "document_name": "RoboMaster 机甲大师官方站点",
+      "source_url": "https://www.robomaster.com/zh-CN",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已确认RoboMaster机甲大师赛由深圳市大疆创新科技有限公司主办，官网robomaster.com。注意2026赛季的正式报名在2025年10月29日-11月6日（跨年度），区域赛2026年5-6月、总决赛2026年7-8月，故registration_deadline为2025-11-06、competition_end为2026-08-31。RMUC以学校为单位组建整支研发团队参赛，并非严格1-4人小队，team规模保留原值待人工确认。原记录主办/名称正确，日期为占位值，已据实更正。",
+  "official_source_status": "found"
+}

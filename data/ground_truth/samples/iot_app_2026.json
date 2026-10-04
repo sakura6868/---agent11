@@ -1,0 +1,84 @@
+{
+  "competition_id": "iot_app_2026",
+  "competition_name": "全国高校物联网应用创新大赛",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "教育部计算机类教指委",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "数字媒体技术",
+    "人工智能",
+    "物联网工程",
+    "网络工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-08-31",
+  "competition_end_date": "2026-09-17",
+  "result_announcement_date": "2026-10-27",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国高校物联网应用创新大赛是由教育部计算机类教指委主办的软件作品类赛事，主要面向本科生、研究生。要求计算机科学与技术、软件工程、数字媒体技术等的同学以1-5人组队形式参与，考察功能完整、技术创新等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "软件作品",
+    "演示视频",
+    "设计文档",
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "功能完整",
+    "技术创新",
+    "用户体验",
+    "工程质量"
+  ],
+  "required_skills": [
+    "前端开发",
+    "后端开发",
+    "数据库",
+    "UI设计",
+    "项目管理"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E7%89%A9%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。｜字段未找到官方依据：“全国高校物联网应用创新大赛”历史上由教育部科技发展中心主办（2013-2017），未见2026届独立办赛；相近的2026物联网应用赛事有“中国大学生计算机设计大赛·物联网应用专项赛”（报名3-4月）与“研华AIoT创新应用大赛”；原日期为占位值，保留原值待人工确认。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。经检索，2026年无名为“全国高校物联网应用创新大赛”的独立官方赛事；该名称历史上由教育部科技发展中心主办（2013-2017），未见2026届办赛。2026年名称相近的真实物联网赛事为“全国大学生物联网设计竞赛”（官网 iot.sjtu.edu.cn，教育部高等学校计算机类专业教学指导委员会等主办）与“中国大学生计算机设计大赛·物联网应用”专项赛，名称与主办均不同，请勿混淆。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

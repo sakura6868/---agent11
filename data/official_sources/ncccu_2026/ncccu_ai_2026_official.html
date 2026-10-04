@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>2026年第八届全国高校计算机能力挑战赛官网 - 人工智能挑战赛</title>
+    <link rel="stylesheet" href="/static/admin/layui/src/css/layui.css?v=1.1.02"/>
+    <link rel="stylesheet" href="/static/index/css/public.css?v=1.1.02"/>
+    <link rel="stylesheet" href="/static/index/css/index.css?v=1.1.02" media="screen and (min-width:768px)">
+    <link rel="stylesheet" href="/static/index/css/indexMobile.css?v=1.1.02" media="screen and (min-width:0px) and (max-width:768px)">
+    <script src="/static/index/js/jquery.min.js?v=1.1.02"></script>
+    <script src="/static/index/js/public.js?v=1.1.02"></script>
+    <script src="/static/admin/layui/src/layui.js?v=1.1.02"></script>
+    <script src="/static/index/layer/layer.js?v=1.1.02"></script>
+    <style>
+        .csign_btn{
+            display: inline-block;
+            width: auto;
+            min-width: 125px;
+            padding: 0 15px;
+        }
+        .csign_btn a{
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+<div class="page_container">
+    <!--header-mobile-->
+<div class="header page_mobile">
+    <ul class="h_sub_menu clearfix">
+<!--        （signup_state_gray）报名结束加class名-->
+        <li class="h_sub_item"><a class="anchor_link" href="/index/Index/index.html#details" style="background-color: coral">五大赛项</a></li>
+        <li class="h_sub_item h_office">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case3.html" style="background-color: #0052d9;">Office</a>
+        </li>
+        <li class="h_sub_item h_cxsj">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case4.html" style="background-color: #0052d9;">程序设计</a>
+        </li>
+        <li class="h_sub_item h_rgzn">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case1.html" style="background-color: #0052d9;">人工智能</a>
+        </li>
+        <li class="h_sub_item h_dsj">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case2.html" style="background-color: #0052d9;">大数据</a>
+        </li>
+<!--        <li class="h_sub_item h_jsjxt"><a href="/index/Paper/case5.html">计算机系统</a></li>-->
+<!--        <li class="h_sub_item h_qrsxt"><a href="/index/Paper/case6.html">嵌入式</a></li>-->
+        <li class="h_sub_item h_szmt">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case7.html" style="background-color: #0052d9;">数字媒体</a>
+        </li>
+    </ul>
+    <div class="nav">
+        <ul class="nav_list">
+            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html">首页</a></li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Cms/content.html?id=372">章程</a></li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Cms/category.html">新闻</a></li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#org">组织</a></li>-->
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#about">详情</a></li>-->
+<!--            <li class="nav_item rank_nav">-->
+<!--                <span style="color: red">公示</span>-->
+<!--                <div class="modal_rank">-->
+<!--                    <a class="anchor_link" href="/index/Publicity/publicity.html" style="color: red">区域赛/省赛公示</a>-->
+<!--                    <a class="anchor_link" href="/index/FinalPublicity/publicity.html" style="color: red">国赛/决赛公示</a>-->
+<!--                </div>-->
+<!--            </li>-->
+            <li class="nav_item preparation_guide">
+                <a href="javascript:void(0)">备赛</a>
+                <ul class="nav_menu">
+                    <li class="nav_tkxl">
+                        <a href="/index/Practice/contest.html">
+                            <p>题库训练</p>
+                            <p>往届真题·在线刷题·实时评测</p>
+                        </a>
+                    </li>
+                    <li class="nav_zjfd">
+                        <a href="/index/Practice/video.html">
+                            <p>专家辅导</p>
+                            <p>名师答疑·攻克难点·直播回放</p>
+                        </a>
+                    </li>
+                    <li class="nav_wjzp">
+                        <a href="/index/Index/previousWorks.html">
+                            <p>往届作品</p>
+                            <p>借鉴学习·提升审美·了解评分</p>
+                        </a>
+                    </li>
+                    <li class="nav_zxlx">
+                        <a href="/index/Practice/exercise.html">
+                            <p>在线练习</p>
+                            <p>模拟实战·限时答题·自动评分</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav_item prov">
+                <span style="color: #fff">省赛</span>
+                <div class="modal_prov">
+                    <a href="http://www.ncccu.org.cn/gansu/Index/index.html" target="_blank">甘肃</a>
+                    <a href="http://www.ncccu.org.cn/sichuan/Index/index.html" target="_blank">四川</a>
+                    <a href="http://www.ncccu.org.cn/hubei/Index/index.html" target="_blank">湖北</a>
+                </div>
+            </li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#subjectMenu">赛项</a></li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#awards">风采</a></li>-->
+            <li class="nav_item history">
+                <span style="color: #fff">往届</span>
+                <div class="modal_history" style="right: -12px">
+                    <a href="http://2025.ncccu.org.cn/" target="_blank">25年官网</a>
+                    <a href="/index/PreviousEditions/certificate.html">往届证书</a>
+                </div>
+            </li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Publicity/publicity.html" style="color: red;">区域赛公示</a></li>-->
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/FinalPublicity/publicity.html" style="color: red;">国赛/决赛公示</a></li>-->
+        </ul>
+    </div>
+</div>
+<!--header-pc-->
+<div class="header page_pc">
+    <div class="h_mian clearfix">
+        <div class="h_logo"><a href="/index/Index/index.html"><img src="/static/index/images/logo.png" alt="logo"></a></div>
+        <div class="h_nav">
+            <ul class="clearfix">
+                <li><a href="/index/Cms/content.html?id=372">大赛章程</a></li>
+<!--                <li><a href="/index/Cms/content.html?id=108">大赛详情</a></li>-->
+                <li><a href="/index/Cms/category.html">新闻通知</a></li>
+<!--                <li><a href="/index/Index/index.html#org">组织机构</a></li>-->
+                <li class="prov">
+                    <span>省赛相关</span>
+                    <div class="modal_prov">
+                        <a href="http://www.ncccu.org.cn/gansu/Index/index.html" target="_blank">甘肃省赛</a>
+                        <a href="http://www.ncccu.org.cn/sichuan/Index/index.html" target="_blank">四川省赛</a>
+                        <a href="http://www.ncccu.org.cn/hubei/Index/index.html" target="_blank">湖北省赛</a>
+                    </div>
+                </li>
+                <li><a href="/index/Index/index.html#subjectMenuPC">大赛赛项</a></li>
+                <li class="preparation_guide">
+                    <a href="javascript:void(0)">备赛指南</a>
+                    <ul class="nav_menu">
+                        <li class="nav_tkxl">
+                            <a href="/index/Practice/contest.html">
+                                <p>题库训练</p>
+                                <p>往届真题·在线刷题·实时评测</p>
+                            </a>
+                        </li>
+                        <li class="nav_zjfd">
+                            <a href="/index/Practice/video.html">
+                                <p>专家辅导</p>
+                                <p>名师答疑·攻克难点·直播回放</p>
+                            </a>
+                        </li>
+                        <li class="nav_wjzp">
+                            <a href="/index/Index/previousWorks.html">
+                                <p>往届作品</p>
+                                <p>借鉴学习·提升审美·了解评分</p>
+                            </a>
+                        </li>
+                        <li class="nav_zxlx">
+                            <a href="/index/Practice/exercise.html">
+                                <p>在线练习</p>
+                                <p>模拟实战·限时答题·自动评分</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+<!--                <li><a href="/index/Index/index.html#awards">活动风采</a></li>-->
+<!--                <li><a href="/index/Publicity/publicity.html" style="color: red">区域赛/省赛公示</a></li>-->
+<!--                <li><a href="/index/FinalPublicity/publicity.html" style="color: red">国赛/决赛公示</a></li>-->
+
+                <li class="history">
+                    <span>往届查询</span>
+                    <div class="modal_history">
+                        <a href="http://2025.ncccu.org.cn/" target="_blank">25年官网</a>
+                        <a href="/index/PreviousEditions/certificate.html">往届证书</a>
+                    </div>
+                </li>
+                <li><a href="/index/Index/index.html#contact">联系我们</a></li>
+            </ul>
+        </div>
+        <div class="h_login">
+                            <a href="/index/Login/login.html">考生登录</a>
+                            <a href="/index/Login/teamLogin.html">承办登录</a>
+                    </div>
+    </div>
+</div>
+    <div class="center page_case">
+        <ul class="case_sub_menu">
+    <li class="c_sub_item c_dsj"><a href="/index/Paper/case2.html">大数据</a></li>
+    <li class="c_sub_item c_rgzn"><a href="/index/Paper/case1.html">人工智能</a></li>
+    <li class="c_sub_item c_office"><a href="/index/Paper/case3.html">Office</a></li>
+    <li class="c_sub_item c_cxsj"><a href="/index/Paper/case4.html">程序设计</a></li>
+<!--    <li class="c_sub_item c_cxsj"><a href="/index/Paper/case8.html">计算机设计</a></li>-->
+<!--    <li class="c_sub_item c_jsjxt"><a href="/index/Paper/case5.html">计算机系统</a></li>-->
+<!--    <li class="c_sub_item c_qrsxt"><a href="/index/Paper/case6.html">嵌入式</a></li>-->
+    <li class="c_sub_item c_szmt"><a href="/index/Paper/case7.html">数字媒体</a></li>
+    <li class="c_sub_item c_add_qun"><a href="http://cp.52jingsai.com/qrcode/188" target="_blank">加本赛项群</a></li>
+</ul>
+<script>
+    $(document).ready(function(){
+        $(".piaochuang").css("display","none");
+    });
+
+    //        飘窗滚动
+    var fcModel=$(".case_sub_menu");
+    $(document).ready(function(){
+        const $ScrollWrap = $(document);
+        // 监听滚动停止
+        var t1 = 0;
+        var t2 = 0;
+        var timer = null; // 定时器
+        $ScrollWrap.on("touchstart", function(){
+            // 触摸开始 ≈ 滚动开始
+        });
+        $ScrollWrap.on("scroll", function(){
+            // 滚动
+            fcModel.removeClass("slideLeft");
+            fcModel.addClass("slideRight");
+            clearTimeout(timer);
+            timer = setTimeout(isScrollEnd, 100);
+            t1 = $ScrollWrap.scrollTop();
+        });
+        function isScrollEnd() {
+            t2 = $ScrollWrap.scrollTop();
+            if(t2 == t1){
+                fcModel.addClass("slideLeft");
+                fcModel.removeClass("slideRight");
+                clearTimeout(timer)
+            }
+        }
+    });
+</script>
+        <div class="subject_main_info clearfix">
+            <div class="subject_img">
+                <img src="/static/index/images/subject_02.png?v=1.1.02" alt="subject"/>
+                <div class="case_bm"><a href="#bmtop">报名参赛</a></div>
+            </div>
+            <div class="subject_info">
+                <h3>赛项：人工智能挑战赛</h3>
+                <div class="case_org">
+                    <p>组织架构</p>
+                    主办单位：全国高等学校计算机教育研究会<br />
+承办单位：安徽省高等学校计算机教育研究会、山西省计算机学会、四川省计算机学会、海南省计算机学会、《软件导刊》杂志社、济南计算机学会<br />
+技术支持：中觅科技有限公司、未来教育等                </div>
+                <div class="test_sub">
+                    <p>参赛对象</p>
+                    <p id="bmtop">大赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。</p>
+                </div>
+                <ul class="case_time page_pc clearfix">
+                    <li><p>报名时间</p><p style="color: #0052d9">即日起&mdash;2026年11月13日</p></li>
+                    <li><p>区域赛/省赛时间</p><p>2026年10月15日15:00（开放数据集下载）&mdash;11月13日23:59</p></li>
+                    <li><p>晋级国赛公示</p><p>2026年11⽉18日</p></li>
+                    <li><p>国赛时间</p><p>2026年11⽉19⽇17点&mdash;11月24日</p></li>
+                    <li><p>国赛公示</p><p>2026年12月中下旬</p></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="subject_content">
+            <div class="case_main clearfix">
+                <ul class="anchor_point page_pc">
+                    <li><a href="#cs1">赛题背景</a></li>
+                    <li><a href="#cs2">时间安排</a></li>
+                    <li><a href="#cs3">奖项设置</a></li>
+                    <li><a href="#cs4">参赛规则</a></li>
+                    <li><a href="#cs5">赛题和数据</a></li>
+                    <li><a href="#cs6">成绩评定</a></li>
+                    <li><a href="#cs7">联系信息</a></li>
+                </ul>
+                <div class="sub_details">
+                    <div class="csign">
+                                                    <div class="select_pay">
+                                <p>*支付方式</p>
+                                <div class="paymethod clearfix">
+                                    <div class="pay_item"><input type="radio" value="1" name="paymethod" id="wx" checked=""> <label for="wx"><img src="/static/index/images/wx.png" width="20"> 微信支付</label></div>
+                                    <div class="pay_item"><input type="radio" value="2" name="paymethod" id="zfb" > <label for="zfb"><img src="/static/index/images/zfb.png" width="20"> 支付宝</label></div>
+                                </div>
+                            </div>
+                                                <div class="csign_btn" onclick="btn_create()">
+                            立即报名
+                            <!--                                <span style="color: red;font-size: 12px;margin-left: 5px;">已截止</span>-->
+                        </div>
+<!--                        <div class="csign_btn" onclick="btn_create()"><a href="/index/Publicity/publicity.html">区域赛/省赛获奖公示</a></div>-->
+                                                <div class="case_tips">
+                            报名时间：即日起&mdash;2026年11月13日<br/>
+                            区域赛/省赛时间：2026年10月15日15:00（开放数据集下载）&mdash;11月13日23:59<br/>
+                        </div>
+                                            </div>
+                    <div class="subject_test_rule">
+                        <p style="text-indent: 2em;"><strong>一、大赛主题</strong></p><p style="text-indent: 2em;">胸部X光片（Chest X-ray）是筛查和辅助诊断多种肺部疾病最常用、最经济的影像学检查手段。然而，胸部X光片的解读高度依赖于放射科医生的经验，且存在主观性强、耗时耗力等问题。近年来，智能影像分析技术在医学影像分析领域展现出巨大潜力，有望辅助医生进行高效、准确的疾病筛查。</p><p style="text-indent: 2em;">本次比赛旨在鼓励参赛者开发高精度、高鲁棒性的多标签分类算法，进行多目标胸部病变的检测与分类，以推动计算机辅助诊断（CAD）系统的发展。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>二、时间安排</strong></p><p style="text-indent: 2em;">报名时间：即日起—2026年11月13日</p><p style="text-indent: 2em;">区域赛/省赛开始时间：2026年10月15日15:00（开放数据集下载）</p><p style="text-indent: 2em;">区域赛/省赛作品截止提交时间：11月13日23:59</p><p style="text-indent: 2em;">晋级国赛/决赛公示：2026年11<span style="text-indent: 32px; text-wrap-mode: wrap;">月</span>18日</p><p style="text-indent: 2em;">国赛/决赛时间：2026年11<span style="text-indent: 32px; text-wrap-mode: wrap;">月</span>19<span style="text-indent: 32px; text-wrap-mode: wrap;">日</span>17点-11月24日</p><p style="text-indent: 2em;">国赛/决赛公示：2026年12月中下旬</p><p style="text-indent: 2em;">说明：各阶段获奖公示后3个工作日内，接受异议、申诉和违规举报。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>三、奖项设置</strong></p><p style="text-indent: 2em;">省赛段奖项设置由各省赛区自行设定，详见各省赛区赛事官网。省赛和区域赛合并办赛的，以所在省成绩排名来晋级国赛。</p><p style="text-indent: 2em;">区域赛各科目成绩根据各区域考生成绩分别排名，分设一等奖10%、二等奖20%和三等奖25%，颁发电子荣誉证书和电子指导老师证书。</p><p style="text-indent: 2em;">各区域一、二等奖获奖选手将晋级国赛，国赛设一等奖不超过参赛数的10%、二等奖不超过参赛数的20%、三等奖不超过参赛数的30%，获奖师生将颁发电子荣誉证书和电子指导老师证书。各赛项成绩前三名获奖队伍将获得大赛奖金。颁发奖金1000元/队伍（税前）。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>四、参赛规则</strong></p><p style="text-indent: 2em;">1.参赛对象</p><p style="text-indent: 2em;">计挑赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。</p><p style="text-indent: 2em;">2.参赛费用</p><p style="text-indent: 2em;">区域赛赛段团队赛各科目收取报名、考试及评审费人民币200元/队。计挑赛秉持公益办赛原则，费用仅用于获奖奖金、大赛系统开发、场地、设备、专家评审等。费用由技术支持单位中觅科技有限公司（开户行名称：招商银行股份有限公司合肥三孝口支行 银行账号：551908703110002）代收代付并开具发票，学校有关部门要积极支持大赛工作，对指导教师在工作量、活动经费等方面给予必要的支持。</p><p style="text-indent: 2em;">国赛不再另行收费。</p><p style="text-indent: 2em;">3.参赛组队</p><p style="text-indent: 2em;">参赛学生自行在大赛官网进行报名，缴费考生默认为队长，每支参赛队伍限1—3名队员 (含1名队长) ，队员信息由队长在官网填写，队员无需重复缴费。参赛队伍可设1名指导老师。单院校报名不得超过100支队伍，允许跨校组队。</p><p style="text-indent: 2em;"><br/></p><p style="margin: 5px 0px; text-indent: 2em;"><strong>五、赛题和数据</strong></p><p style="margin: 5px 0px; text-indent: 2em;"><strong>1. 任务描述</strong></p><p style="margin: 5px 0px; text-indent: 2em;">本次挑战赛聚焦于多标签胸部疾病分类任务。区别于传统的单标签分类，多标签分类要求算法能够同时识别一张胸部X光片中存在的多种异常征象或疾病类型。</p><p style="margin: 5px 0px; text-indent: 2em;">参赛者需设计并训练深度学习模型，基于提供的标准化胸部X光片训练数据集，学习影像特征与对应多组标签间的复杂映射关系。最终，模型需要对测试集中的每张X光片进行精准推断，输出其可能包含的所有疾病类别概率，并确保在样本不均衡、标签共现及类间相似性高的挑战下，维持高鲁棒性与泛化能力。</p><p style="margin: 5px 0px; text-indent: 2em;"><strong>2. 数据集描述</strong></p><p style="margin: 5px 0px; text-indent: 2em;">（1）数据构成与划分</p><p style="margin: 5px 0px; text-indent: 2em;">●训练集（含标注）：共计18513次检查，用于模型训练，提供完整的多标签标注。</p><p style="margin: 5px 0px; text-indent: 2em;">●验证集（含标注）：共计859次检查，用于调参及模型选型，提供完整的多标签标注。</p><p style="margin: 5px 0px; text-indent: 2em;">●测试集（不含标注）：共计1414次检查，用于最终排名评估。测试集标签由主办方保密，参赛者需提交推理结果文件。</p><p style="margin: 5px 0px; text-indent: 2em;">（2）数据内容与格式</p><p style="margin: 5px 0px; text-indent: 2em;">●图⽚格式：JPG/PNG</p><p style="margin: 5px 0px; text-indent: 2em;">●图⽚尺寸：无固定尺寸，因拍摄设备不同存在差异</p><p style="margin: 5px 0px; text-indent: 2em;">●图片文件夹说明</p><p style="margin: 5px 0px; text-indent: 2em;"><img src="https://ncccu2026.oss-cn-zhangjiakou.aliyuncs.com/ueditor/20260908/bc429ab77dda257cae5a642d95869b96.png" title="bc429ab77dda257cae5a642d95869b96.png" alt="image.png"/></p><p style="margin: 5px 0px; text-indent: 2em;">（3）类别标签说明</p><p style="margin: 5px 0px; text-indent: 2em;">总共10个类别，每个类别只有在相关研究报告中被正面提及且出现在对应图像中，才会被标记。以下是每个类别id与<span style="text-indent: 2em;">标签的映射关系：</span></p><p style="margin: 5px 0px; text-indent: 2em; text-align: left;"><img src="https://ncccu2026.oss-cn-zhangjiakou.aliyuncs.com/ueditor/20260927/5385a992766a388da1480b3720b999a7.png" title="5385a992766a388da1480b3720b999a7.png" alt="image.png"/></p><p style="margin: 5px 0px; text-indent: 2em;">（4）相关字段说明</p><p style="margin: 5px 0px; text-indent: 2em;">●Subject_id：单个患者的唯一id</p><p style="margin: 5px 0px; text-indent: 2em;">●Study_id：单个检查的唯一id，可能包含一张或多张胸部x光片</p><p style="margin: 5px 0px; text-indent: 2em;">●Predict_class：患病类别id</p><p style="margin: 5px 0px; text-indent: 2em;">●ViewPosition：X射线穿透身体的方向，即X光机的投射视角</p><p style="margin: 5px 0px; text-indent: 2em;">●PatientOrientation：患者在检查时的身体姿势</p><p style="margin: 5px 0px; text-indent: 2em;">●Rows：图像高度</p><p style="margin: 5px 0px; text-indent: 2em;">●Columns：图像宽度</p><p style="margin: 5px 0px; text-indent: 2em;">●Support Devices：是否存在任何类型的医疗支持设备，1表示有，0表示没有，-1表示不确定，None表示报告中未提及</p><p style="margin: 5px 0px; text-indent: 2em;"><br/></p><p style="margin: 5px 0px; text-indent: 2em;"><strong>六、评价标准</strong></p><p style="margin: 5px 0px; text-indent: 2em;">1.提交次数限制</p><p style="margin: 5px 0px; text-indent: 2em;">每日最多 2 次提交</p><p style="margin: 5px 0px; text-indent: 2em;">2.评估指标及排名方法</p><p style="margin: 5px 0px; text-indent: 2em;">●主要指标：宏平均AUC (Macro-averaged AUC)，用于模型核心性能的衡量</p><p style="margin: 5px 0px; text-indent: 2em;">●辅助指标：宏平均F1 (Macro-F1)，用于辅助区分性能相近的模型</p><p style="margin: 5px 0px; text-indent: 2em;">●排名方法：优先以主要指标排名，当且仅当主要指标相等时，采用辅助指标进行二次排序</p><p style="margin: 5px 0px; text-indent: 2em;"><strong><br/></strong></p><p style="margin: 5px 0px; text-indent: 2em;"><strong>七、作品提交要求</strong></p><p style="margin: 5px 0px; text-indent: 2em;">1.提交内容</p><p style="margin: 5px 0px; text-indent: 2em;">测试集最终预测结果的csv文件</p><p style="margin: 5px 0px; text-indent: 2em;">说明：初赛仅提交预测结果csv文件，复赛需要同时提交预测结果csv文件及模型以供验证</p><p style="margin: 5px 0px; text-indent: 2em;">2.提交文件格式</p><p style="margin: 5px 0px; text-indent: 2em;">对于测试集中的每次检查即Study_id，模型需输出对应的类别id及其概率值。将最终结果生成⼀个.csv格式的<span style="text-indent: 2em;">结果⽂件，命名为&quot;submission.csv&quot;，编码为UTF-8，格式示例如下：</span></p><p style="margin: 5px 0px; text-indent: 2em;"><img src="https://ncccu2026.oss-cn-zhangjiakou.aliyuncs.com/ueditor/20260908/69b6d9c98648230b417789541a4e3703.png" title="69b6d9c98648230b417789541a4e3703.png" alt="image.png"/></p><p style="margin: 5px 0px; text-indent: 2em;">说明：</p><p style="margin: 5px 0px; text-indent: 2em;">●Study_id：单个检查的唯一id</p><p style="margin: 5px 0px; text-indent: 2em;">●Predict_class：模型预测该次检查可能为某个类别id（默认以0.5为阈值），如果多个类别，可以输出多行</p><p style="margin: 5px 0px; text-indent: 2em;">●Probability：模型预测该次检查为某类别的概率，取值范围为[0,1]</p><p style="margin: 5px 0px; text-indent: 2em;">3.服务器参数</p><p style="margin: 5px 0px; text-indent: 2em;">●GPU: NVIDIA T4 16GB ×1</p><p style="margin: 5px 0px; text-indent: 2em;">●CPU：8核</p><p style="margin: 5px 0px; text-indent: 2em;">●内存：32G</p><p style="margin: 5px 0px; text-indent: 2em;">●磁盘：≥100 GB SSD</p><p style="margin: 5px 0px; text-indent: 2em;">●NVIDIA驱动： ≥570.117（CUDA 12.8 配套）&nbsp;</p><p style="margin: 5px 0px; text-indent: 2em;">●CUDA/cuDNN：容器内置 CUDA 12.8 + cuDNN 9</p><p style="margin: 5px 0px; text-indent: 2em;">●Python: 3.12</p><p style="margin: 5px 0px; text-indent: 2em;">●推理框架: PyTorch 2.10.0 + torchvision 0.25.0</p><p style="margin: 5px 0px; text-indent: 2em;">●推荐镜像：</p><p style="margin: 5px 0px; text-indent: 2em;"><img src="https://ncccu2026.oss-cn-zhangjiakou.aliyuncs.com/ueditor/20260908/638c91a1df37552442796b8e69219812.png" title="638c91a1df37552442796b8e69219812.png" alt="image.png"/></p><p style="margin: 5px 0px; text-indent: 2em;">4.其他约束</p><p style="margin: 5px 0px; text-indent: 2em;">●模型文件压缩前总大小 ≤ 500MB</p><p style="margin: 5px 0px; text-indent: 2em;">●单张图像端到端延迟 ≤ 100ms</p><p style="margin: 5px 0px; text-indent: 2em;">●本次比赛只允许参赛选手使用主办方提供的训练数据集</p><p style="margin: 5px 0px; text-indent: 2em;">●允许使用数据增强技术，但不允许使用外部标注数据</p><p style="margin: 5px 0px; text-indent: 2em;"><br/></p><p style="margin: 5px 0px; text-indent: 2em;"><strong>八、其他规定</strong></p><p style="margin: 5px 0px; text-indent: 2em;">1. 数据使用要求</p><p style="margin: 5px 0px; text-indent: 2em;">本次大赛提供的全部数据、信息等，未经允许，任何人不可以任何形式使用、传播、披露、授权他人使用。</p><p style="margin: 5px 0px; text-indent: 2em;">2.限制原则</p><p style="margin: 5px 0px; text-indent: 2em;">●作品必须健康、合法，无任何不良信息及商业宣传行为</p><p style="margin: 5px 0px; text-indent: 2em;">●不违反任何中华人民共和国有关法律</p><p style="margin: 5px 0px; text-indent: 2em;">●须保证原创性，不侵犯任何第三方知识产权</p><p style="margin: 5px 0px; text-indent: 2em;">●禁止抄袭他人代码和方案</p><p style="margin: 5px 0px; text-indent: 2em;">●一经发现违规行为，主办方将直接取消其参赛资格</p><p style="margin: 5px 0px; text-indent: 2em;">3. 知识产权</p><p style="margin: 5px 0px; text-indent: 2em;">参赛作品的知识产权归参赛者所有，但主办方有权将优秀作品用于学术交流和技术推广，并保留赛事解释权。</p><p style="text-indent: 2em;"><br/></p><p style="text-indent: 2em;"><strong>九、</strong><strong><span style="text-indent: 2em;">信息发布地址</span></strong></p><p style="text-indent: 2em;">http://www.ncccu.org.cn/index/Paper/case1.html</p>                    </div>
+                    <div class="csign" id="bm">
+                                                    <div class="select_pay">
+                                <p>*支付方式</p>
+                                <div class="paymethod clearfix">
+                                    <div class="pay_item"><input type="radio" value="1" name="paymethods" id="wxs" checked=""> <label for="wxs"><img src="/static/index/images/wx.png" width="20"> 微信支付</label></div>
+                                    <div class="pay_item"><input type="radio" value="2" name="paymethods" id="zfbs" > <label for="zfbs"><img src="/static/index/images/zfb.png" width="20"> 支付宝</label></div>
+                                </div>
+                            </div>
+                                                <div class="csign_btn" onclick="btn_creates()">立即报名
+                            <!--                                <span style="color: red;font-size: 12px;margin-left: 5px;">已截止</span>-->
+                        </div>
+<!--                        <div class="csign_btn" onclick="btn_create()"><a href="/index/Publicity/publicity.html">区域赛/省赛获奖公示</a></div>-->
+                                                <div class="case_tips">
+                            报名时间：即日起&mdash;2026年11月13日<br/>
+                            区域赛/省赛时间：2026年10月15日15:00（开放数据集下载）&mdash;11月13日23:59<br/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer" id="contact">
+    <div class="f_main clearfix">
+        <div class="f_left">
+            <ul>
+                <li class="f_qq">考生赛事咨询QQ：<a target="_blank" href="http://cp.52jingsai.com/qrcode/163" style="color: red;">1090489144</a>（点击即可加群）</li>
+                <li class="f_tel">
+                    院校承办咨询电话：<br>
+                    王老师：16601164190<span>（西北赛区）</span><br>
+                    李老师：13281263326<span>（西南赛区）</span><br>
+                    赵老师：13051355695<span>（华东赛区）</span><br>
+                    魏老师：13671104231<span>（华中赛区、华南赛区）</span><br>
+                    石老师：13521527466<span>（东北赛区、华北赛区）</span><br>
+                </li>
+            </ul>
+        </div>
+        <div class="f_right page_pc">
+            <img src="/static/index/images/ewm.jpg" width="100" height="100" alt="">
+            <p>扫码领真题</p>
+        </div>
+    </div>
+    <div class="f_beian page_pc">
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34011102001686" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/static/index/images/gongan.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">皖公网安备 34011102001686号</p></a><br>
+        <a target="cyxyv" href="https://v.yunaq.com/certificate?domain=www.ncccu.org.cn&amp;from=label&amp;code=90020"> <img src="/static/index/images/label_lg_90020.png"></a><br>
+        <a href="https://beian.miit.gov.cn/" target="_blank" style="color:#939393;font-size:14px;">京ICP备18046968号-3</a>
+    </div>
+</div>
+
+<!--footer_tab-->
+<div class="footer_tab page_mobile clearfix">
+    <div class="tab_item" data-id="0">
+        <a href="/index/Index/index.html">
+            <img src=" /static/index/images/tab_icon_19.png " data-src="/static/index/images/tab_icon_19.png" data-active="/static/index/images/tab_icon_active_19.png" alt="tab_icon"/>
+            <p>首页</p>
+        </a>
+    </div>
+    <div class="tab_item" data-id="1" style="font-size: 12px">
+        <a href="/index/User/sign.html">
+            <img src=" /static/index/images/tab_icon_active_21.png " data-src="/static/index/images/tab_icon_21.png" data-active="/static/index/images/tab_icon_active_21.png" alt="tab_icon"/>
+            <p>报名参赛</p>
+        </a>
+    </div>
+<!--    <div class="tab_item" data-id="2">-->
+<!--        <a href="/index/User/volunteer.html">-->
+<!--            <img src=" /static/index/images/tab_icon_23.png " data-src="/static/index/images/tab_icon_23.png" data-active="/static/index/images/tab_icon_active_23.png" alt="tab_icon"/>-->
+<!--            <p>宣传奖励</p>-->
+<!--        </a>-->
+<!--    </div>-->
+    <div class="tab_item" data-id="2">
+        <a href="/index/User/user.html">
+            <img src=" /static/index/images/tab_icon_26.png " data-src="/static/index/images/tab_icon_26.png" data-active="/static/index/images/tab_icon_active_26.png" alt="tab_icon"/>
+            <p>个人中心</p>
+        </a>
+    </div>
+</div>
+<div class="piaochuang">
+    <img src="/static/index/images/piaochuang_05.png?v=1.1.02" alt="piaochuang">
+    <span class="notic_qun"></span>
+    <a href="/index/User/sign.html" class="pc_bm"></a>
+    <div class="zx_list">
+        <ul>
+            <li><a href="http://cp.52jingsai.com/qrcode/185" target="_blank">大数据群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/188" target="_blank">人工智能群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/175" target="_blank">Office群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/181" target="_blank">程序设计群</a></li>
+<!--            <li><a href="http://cp.52jingsai.com/qrcode/11268" target="_blank">计算机系统群</a></li>-->
+<!--            <li><a href="http://cp.52jingsai.com/qrcode/193" target="_blank">嵌入式系统群</a></li>-->
+            <li><a href="http://cp.52jingsai.com/qrcode/191" target="_blank">数字媒体群</a></li>
+        </ul>
+    </div>
+</div>
+<style>
+    .tab_item {
+        width: 33.33333%;
+    }
+</style>
+<script>
+    //通知群
+    var piapCElem=$('.notic_qun');
+    var zxList=$('.zx_list');
+    piapCElem.mouseover(function() {
+        zxList.css("display","block");
+    });
+    zxList.mouseover(function() {
+        zxList.css("display","block");
+    });
+    piapCElem.mouseout( function() {
+        zxList.css("display","none");
+    });
+    zxList.mouseout( function() {
+        zxList.css("display","none");
+    });
+    piapCElem.click(function(){
+        zxList.toggle();
+    });
+</script>
+</div>
+<style>
+    .layui-form-label{
+        width: 150px;
+        text-align: center;
+    }
+    .layui-input-block{
+        margin-left: 180px;
+    }
+</style>
+<script>
+    var success = true;
+    var user = [];
+
+    $(function (){
+        const pay_order_sn = sessionStorage.getItem('order_sn');
+        if (pay_order_sn){
+            setInterval(function (){
+                $.ajax({
+                    url : "/index/Order/queryOrder.html",
+                    data : {order_sn:pay_order_sn},
+                    dataType : 'json',
+                    type : "post",
+                    success : function (res){
+                        if (res.data.status == 1){
+                            sessionStorage.clear();
+                            location.reload();
+                        }
+                    }
+                })
+            },2000);
+        }
+    });
+
+    function btn_creates(){
+        // location.href="https://aiarena.tencent.com/aiarena/zh/match/open-competition-2025";
+        // return false;
+        if (user.length <= 0){
+            location.href="/index/Login/login.html";return false;
+        }
+        if (!user.school_id) {
+            layer.msg('请先填写您的个人信息！',{icon:5,time:1500},function (){
+                location.href="/index/User/user.html"
+            });
+            return false;
+        }
+        var pay_type = 1;
+        pay_type = $('input[name="paymethods"]:checked').val();
+        layer.confirm('报名成功后，请前往个人中心填写组队信息！！！',function () {
+            Ajax({
+                type: 'post',
+                url: "/index/order/createPcSignOrder.html",
+                async: true,
+                params: {subject_id: 1, pay_type: pay_type},
+                responseType: 'json',
+                contentType: 'application/x-www-form-urlencoded'
+            });
+        });
+        return false;
+    }
+
+    function btn_create(){
+        // location.href="https://aiarena.tencent.com/aiarena/zh/match/open-competition-2025";
+        // return false;
+        if (user.length <= 0){
+            location.href="/index/Login/login.html";return false;
+        }
+        if (!user.school_id) {
+            layer.msg('请先填写您的个人信息！',{icon:5,time:1500},function (){
+                location.href="/index/User/user.html"
+            });
+            return false;
+        }
+        var pay_type = 1;
+        pay_type = $('input[name="paymethod"]:checked').val();
+        layer.confirm('报名成功后，请前往个人中心填写组队信息！！！',function () {
+            Ajax({
+                type: 'post',
+                url: "/index/order/createPcSignOrder.html",
+                async: true,
+                params: {subject_id: 1, pay_type: pay_type},
+                responseType: 'json',
+                contentType: 'application/x-www-form-urlencoded'
+            });
+        });
+        return false;
+        var option = '<option value="">队员1院校</option>';
+        var options = '<option value="">队员2院校</option>';
+        for (var i=0;i<school.length;i++){
+            option += '<option value="'+school[i].school_name+'">'+school[i].school_name+'</option>';
+            options += '<option value="'+school[i].school_name+'">'+school[i].school_name+'</option>';
+        }
+        var content =  "<form class=\"layui-form\" action=\"\">\n" +
+            "<div className=\"layui-bg-gray\" style=\"padding:0 30px;\">\n" +
+            "    <div className=\"layui-row layui-col-space15\">\n" +
+            "        <div className=\"layui-col-md6\">\n" +
+            "            <div className=\"layui-panel\">\n" +
+            "                 <div style=\"padding: 20px 30px;color: red\">报名人默认为队长，请队长在此处添加队员信息，若不需要组队，点击下方“报名”即可。提交作品前，队长可在个人中心处修改组队信息。</div>\n" +
+            "            </div>\n" +
+            "        </div>\n" +
+            "    </div>\n" +
+            "</div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">队长姓名</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"captain_name\" value='"+user.name+"' readonly autocomplete=\"off\" placeholder=\"请输入队长姓名\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">队长手机号</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"captain_phone\" value='"+user.phone+"' readonly autocomplete=\"off\" placeholder=\"请输入队长手机号\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">队长院校</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"captain_school\" value='"+user.school+"' readonly autocomplete=\"off\" placeholder=\"请输入队长院校\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">1号队员姓名</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"one_name\" id='one_name' autocomplete=\"off\" placeholder=\"请输入1号队员姓名\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">1号队员手机号</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"one_phone\" id='one_phone' autocomplete=\"off\" placeholder=\"请输入1号队员手机号\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">1号队员院校</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "        <select name=\"one_school\" className=\"layui-select\" id='one_school' lay-filter=\"search\" lay-search>\n" +
+            "   "+option+" \n"+
+            "       </select>\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">2号队员姓名</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"two_name\" id='two_name' autocomplete=\"off\" placeholder=\"请输入2号队员姓名\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">2号队员手机号</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "      <input type=\"text\" name=\"two_phone\" id='two_phone' autocomplete=\"off\" placeholder=\"请输入2号队员手机号\" class=\"layui-input\">\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "  <div class=\"layui-form-item\"> " +
+            "   <label class=\"layui-form-label\">2号队员院校</label>\n" +
+            "    <div class=\"layui-input-block\">\n" +
+            "        <select name=\"two_school\" className=\"layui-select\" id='two_school' lay-filter=\"search\" lay-search>\n" +
+            "   "+options+" \n"+
+            "       </select>\n" +
+            "    </div>" +
+            "  </div>\n" +
+            "</form>";
+        layui.use(['form','layer'],function (){
+            var form = layui.form,
+                layer = layui.layer;
+            if (browserRedirect() == 'pc') var area = ['50%','60%'];
+            else var area = ['100%','100%'];
+            layer.open({
+                type: 1,
+                title: '填写组队信息',
+                area: area,
+                fixed: false, //不固定
+                maxmin: true,
+                content: content,
+                btn:['报名','取消'],
+                btn1:function (){
+                    Ajax({type:'post',url:"/index/order/createPcSignOrder.html",async:true,
+                        params:{subject_id:1,pay_type:pay_type,one_name:$('#one_name').val(),one_phone:$('#one_phone').val(),one_school:$('#one_school').val(),
+                            two_name:$('#two_name').val(),two_phone:$('#two_phone').val(),two_school:$('#two_school').val()},
+                        responseType:'json',contentType:'application/x-www-form-urlencoded'});
+                }
+            });
+            form.render();
+        });
+    }
+
+    function Ajax({type,url,async,params = {},responseType = "text",contentType = "application/x-www-form-urlencoded"}){
+        if (!success) return false;
+        success = false;
+        type = type.toUpperCase();
+        params = formatParams(params);
+        //创建xhr对象 step1
+        const xhr = window.ActiveXObject ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();
+        xhr.responseType = responseType;
+        //接收 step3
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState === 4) {
+                const status = xhr.status;
+                const response = xhr.response;
+                if (response.code == 200){
+                    success = true;
+                    if (typeof response.data == 'string'){
+                        const div=document.createElement('divform');
+                        div.innerHTML=response.data;
+                        document.body.appendChild(div);
+                        document.forms['alipaysubmit'].acceptCharset='GBK';//保持与支付宝默认编码格式一致，如果不一致将会出现：调试错误，请回到请求来源地，重新发起请求，错误代码 invalid-signature 错误原因: 验签出错，建议检查签名字符串或签名私钥与应用公钥是否匹配
+                        document.forms['alipaysubmit'].submit();
+                    }else if(typeof response.data == 'object'){
+                        if (browserRedirect() == 'pc'){
+                            var content = '<form class="layui-form" action=""><div class="layui-bg-gray" style="padding: 30px;">\n' +
+                                '  <div class="layui-row layui-col-space15">\n' +
+                                '    <div class="layui-col-md12">\n' +
+                                '      <div class="layui-card">\n' +
+                                '        <div class="layui-card-header" style="text-align: center;">请打开微信扫码支付</div>\n' +
+                                '        <div class="layui-card-body" style="text-align: center;">' +
+                                '           <img src="'+response.data.code_img+'">' +
+                                '      </div>\n' +
+                                '      </div>\n' +
+                                '    </div>\n' +
+                                '  </div>\n' +
+                                '</div> </form>';
+                            layer.open({
+                                type: 1,
+                                title: '',
+                                area: ['50%','40%'],
+                                fixed: false, //不固定
+                                maxmin: true,
+                                content: content
+                            });
+                            setInterval(function (){
+                                $.ajax({
+                                    url : "/index/Order/queryOrder.html",
+                                    data : {order_sn:response.data.order_sn},
+                                    dataType : 'json',
+                                    type : "post",
+                                    success : function (res){
+                                        if (res.data.status == 1){
+                                            layer.msg('扫码支付成功',{icon:6,time:1500},function (){
+                                                location.href="/index/User/sign.html";
+                                            })
+                                        }
+                                    }
+                                })
+                            },2000);
+                        }else{
+                            var arr = Object.keys(response.data);
+                            if (arr.length > 2){
+                                callpay(response.data);
+                            }else{
+                                sessionStorage.setItem('order_sn',response.data[1]);
+                                setInterval(function (){
+                                    $.ajax({
+                                        url : "/index/Order/queryOrder.html",
+                                        data : {order_sn:response.data[1]},
+                                        dataType : 'json',
+                                        type : "post",
+                                        success : function (res){
+                                            if (res.data.status == 1){
+                                                location.reload();
+                                            }
+                                        }
+                                    })
+                                },2000);
+                                window.location.href = response.data[0] + '&redirect_url=' + encodeURIComponent(window.location.href + '?is_pay=1');
+                            }
+                        }
+                    }
+                }else{
+                    success = true;
+                    if (response.code == 4001){
+                        layer.msg(response.msg,{icon:5,time:1500},function (response){
+                            location.href="/index/Login/login.html";
+                        });
+                    }else if (response.code == 201){
+                        if (browserRedirect() == 'pc') var area = ['50%','60%'];
+                        else var area = ['100%','100%'];
+                        layer.open({
+                            type: 1,
+                            title: '提示信息',
+                            area: area,
+                            fixed: false, //不固定
+                            maxmin: true,
+                            content: "<div style='text-align: center;'>" +
+                                "<p style='padding: 5px 5px;'>本校为院校统一组织报名，可联系韦老师：18966901995</p>" +
+                                "<p style='padding: 5px 5px;'>统一报名，或加本校QQ群：924574833 咨询。</p>" +
+                                "<p style='padding: 5px 5px;'>扫码可加群</p>" +
+                                "<p><img src='/static/index/images/xihuadaxue.jpg' style='width: 50%;height: auto'></p></div>"
+                        })
+                    }else{
+                        layer.msg(response.msg);
+                    }
+                }
+            }
+        }
+        //发送 step2
+        if (type === "GET") {
+            xhr.open("GET", url + "?" + params, async);
+            xhr.send(null);
+        } else if (type === "POST"){
+            xhr.open("POST", url, async);
+            //设置表单提交时的内容类型
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.setRequestHeader("Accept", "application/json, text/javascript");
+            xhr.send(params);
+        }
+    }
+
+    function formatParams(params){
+        const arr = [];
+        for (let name in params) {
+            arr.push(encodeURIComponent(name) + "=" + encodeURIComponent(params[name]));
+        }
+        return arr.join("&");
+    }
+
+    function jsApiCall(data){
+        WeixinJSBridge.invoke(
+            'getBrandWCPayRequest',
+            data,
+            function(res){
+                WeixinJSBridge.log(res.err_msg);
+                if (res.err_msg == 'get_brand_wcpay_request:ok'){
+                    layer.msg('支付成功',{icon:6,time:1000},function (){
+                        location.href="/index/User/sign.html";
+                    });
+                }
+                if (res.err_msg == 'get_brand_wcpay_request:cancel'){
+                    layer.msg('您已取消支付',{icon:5,time:1000});
+                }
+                if (res.err_msg == 'get_brand_wcpay_request:fail'){
+                    layer.msg('支付失败',{icon:5,time:1000});
+                }
+            }
+        );
+    }
+
+    function callpay(data){
+        if (typeof WeixinJSBridge == "undefined"){
+            if( document.addEventListener ){
+                document.addEventListener('WeixinJSBridgeReady', jsApiCall, false);
+            }else if (document.attachEvent){
+                document.attachEvent('WeixinJSBridgeReady', jsApiCall);
+                document.attachEvent('onWeixinJSBridgeReady', jsApiCall);
+            }
+        }else{
+            jsApiCall(data);
+        }
+    }
+</script>
+</body>
+</html>

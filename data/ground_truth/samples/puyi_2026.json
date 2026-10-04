@@ -1,0 +1,134 @@
+{
+  "competition_id": "puyi_2026",
+  "competition_name": "普译奖全国大学生翻译比赛",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "《海外英语》杂志、我爱竞赛网",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-06-02",
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-26",
+  "competition_end_date": "2026-07-16",
+  "result_announcement_date": "2026-07-16",
+  "award_settings": "省赛设一、二、三等奖（比例约5%、15%、30%）；国赛各组别分设金、银、铜奖（比例约3%、12%、25%）。获奖者颁发证书，电子版官网下载、纸质版免费邮寄。",
+  "award_distribution": [
+    {
+      "award": "一等奖（省赛）",
+      "proportion": "约5%",
+      "note": "省赛"
+    },
+    {
+      "award": "二等奖（省赛）",
+      "proportion": "约15%",
+      "note": "省赛"
+    },
+    {
+      "award": "三等奖（省赛）",
+      "proportion": "约30%",
+      "note": "省赛"
+    },
+    {
+      "award": "国赛金银铜奖",
+      "proportion": "3%/12%/25%",
+      "note": "国赛"
+    }
+  ],
+  "brief_description": "普译奖全国大学生翻译比赛是由《海外英语》杂志、我爱竞赛网主办的的外语类赛事，主要面向在校大学生（含高职高专、本科、研究生）。以个人参赛、线上形式进行，设英译汉、汉译英、汉译俄、汉译日、汉译西等组别，考察语言表达与翻译准确度。",
+  "required_materials": [
+    "译文作品"
+  ],
+  "evaluation_dimensions": [
+    "语言表达",
+    "翻译准确度",
+    "内容完整"
+  ],
+  "required_skills": [
+    "英语读写",
+    "翻译能力",
+    "双语表达"
+  ],
+  "official_source_url": "http://puyi.52jingsai.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年第十届普译奖全国大学生翻译比赛",
+      "document_name": "2026年第十届普译奖全国大学生翻译比赛通知",
+      "source_url": "http://puyi.52jingsai.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "2026年第十届普译奖全国大学生翻译比赛由《海外英语》杂志联合我爱竞赛网主办",
+      "document_name": "2026年第十届普译奖全国大学生翻译比赛通知",
+      "source_url": "https://www.52jingsai.com/article-23448-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象：全国在校大学生（包括高职高专生，本科生及研究生）",
+      "document_name": "2026年第十届普译奖全国大学生翻译比赛通知",
+      "source_url": "https://www.52jingsai.com/article-23448-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名阶段：即日起至2026年6月2日可登录比赛官网注册并填写个人信息",
+      "document_name": "2026年第十届普译奖全国大学生翻译比赛通知",
+      "source_url": "http://puyi.52jingsai.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "大赛参赛形式为个人赛，线上进行",
+      "document_name": "北京物资学院关于2026年普译奖翻译比赛的通知",
+      "source_url": "https://news.bwu.edu.cn/info/1021/73424.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网：http://puyi.52jingsai.com/",
+      "document_name": "2026年第十届普译奖全国大学生翻译比赛通知",
+      "source_url": "http://puyi.52jingsai.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "原记录名称'普译奖全国大学生英语写作/翻译大赛'合并了两个独立赛事：'普译奖全国大学生翻译比赛'(puyi.52jingsai.com，2026为第十届)与'普译奖全国大学生英语写作大赛'(py.52jingsai.com，8-11月报名)。本记录已据实更正为'翻译比赛'并保留其2026年日程。原team_max=1、各round占位日期已据实更正。译文提交2026-05-26至06-02，国赛评审至07-15，获奖公示07-16。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,120 @@
+{
+  "competition_id": "ncccu_data_2026",
+  "competition_name": "2026年第八届全国高校计算机能力挑战赛—大数据挑战赛（区域赛/省赛）",
+  "document_year": 2026,
+  "organizer": "全国高等学校计算机教育研究会",
+  "category": "data",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-11-06",
+  "registration_deadline_at": null,
+  "submission_deadline": "2026-11-06",
+  "submission_deadline_at": "2026-11-06T23:59:00+08:00",
+  "deadline_timezone_basis": "campus_default",
+  "competition_start_date": "2026-10-13",
+  "competition_end_date": "2026-11-06",
+  "required_materials": [
+    "预测结果 submission.csv（UTF-8，初赛）"
+  ],
+  "required_skills": [
+    "Python",
+    "机器学习",
+    "数据分析"
+  ],
+  "brief_description": "基于眼底图像的分类竞赛；初赛仅提交预测结果，复赛另需模型。",
+  "official_source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-03",
+  "last_verified_at": "2026-10-03",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "doc_version": "2026_official_html_2026-10-03",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：即日起—2026年11月6日",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "大赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每支参赛队伍限1—3名队员",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队伍限1—3名队员",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "初赛仅提交预测结果csv文件，复赛需要同时提交预测结果csv文件及模型以供验证",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "区域赛/省赛作品截止提交时间：11月6日23:59",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline_at",
+      "page": null,
+      "source_text": "区域赛/省赛作品截止提交时间：11月6日23:59",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case2.html",
+      "document_name": "ncccu_data_2026_official.html",
+      "document_sha256": "a3a9ba714bbe8ad328894ec376c9875e33f8961ffd74b2f4f10b1bfcb9b0c328",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "每日最多2次提交；不得使用外部标注数据；模型总大小不超过500MB，单张图像端到端延迟不超过100ms。医学主题仅为竞赛任务，不提供医疗建议。 每队200元；各院校不超过100队，需向学校确认名额，允许跨校。记录只覆盖区域赛/省赛，不替代官网报名审核。报名原文未给具体时刻，不推定为23:59；提交时刻未给时区时使用校园UTC+08:00假设，最终以官网最新通知为准。"
+}

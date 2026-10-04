@@ -1,0 +1,115 @@
+{
+  "competition_id": "openharmony_2026",
+  "competition_name": "开源鸿蒙应用创新大赛（高校）",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "开放原子开源基金会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "数字媒体技术",
+    "人工智能",
+    "物联网工程",
+    "网络工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一、二、三等奖及优秀奖，获奖作品需按基金会要求开源；部分赛项设奖金与实习/内推机会。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "开源鸿蒙应用创新大赛（高校）是开放原子开源基金会发起的开放原子开源大赛中面向高校的鸿蒙赛道（如“基于开源鸿蒙操作系统的原生AI应用开发大赛”等），主要面向本科生、研究生。要求计算机、软件、物联网等相关专业学生以不超过5人组队形式参与，基于 OpenHarmony 开发原生AI/应用，考察功能完整、技术创新等能力。",
+  "required_materials": [
+    "软件作品",
+    "演示视频",
+    "设计文档",
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "功能完整",
+    "技术创新",
+    "用户体验",
+    "工程质量"
+  ],
+  "required_skills": [
+    "前端开发",
+    "后端开发",
+    "数据库",
+    "UI设计",
+    "项目管理"
+  ],
+  "official_source_url": "https://competition.openatom.tech/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "开放原子开源大赛是由开放原子开源基金会发起的一项国家级开源创新竞赛",
+      "document_name": "关于举办开放原子大赛的通知（中北大学）",
+      "source_url": "https://cxcy.nuc.edu.cn/info/1040/4362.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "本赛项的组队人数上限为五人（其中一人为队长）",
+      "document_name": "关于举办开放原子大赛的通知（中北大学）",
+      "source_url": "https://cxcy.nuc.edu.cn/info/1040/4362.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第三届开放原子开源大赛——基于开源鸿蒙操作系统的原生AI应用开发大赛决赛在北京信创产业园圆满举办",
+      "document_name": "我校学子在第三届开放原子大赛鸿蒙原生AI应用赛中斩获佳绩（中北大学）",
+      "source_url": "https://www.nuc.edu.cn/info/1353/48033.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026-07-18 核验：主办单位（开放原子开源基金会）、组队上限（5人/队）获中北大学官方通知确认（trusted_level A）。本赛事即“开放原子开源大赛”中面向高校的鸿蒙赛道（如“基于开源鸿蒙操作系统的原生AI应用开发大赛”），原 competition_name“开源鸿蒙应用创新大赛（高校）”为意译，官方正式名称为开放原子开源大赛鸿蒙相关赛项。第三届（2025-2026）决赛于2026-01举办；2026年各鸿蒙赛项具体报名/提交日期本轮未获取官方精确依据，原占位日期已置空待确认。",
+  "official_source_status": "found"
+}

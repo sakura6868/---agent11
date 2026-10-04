@@ -1,0 +1,118 @@
+{
+  "competition_id": "tax_2026",
+  "competition_name": "衡信杯全国大学生智慧税务大赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "全国智慧税务行业产教融合共同体",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": "2026-09-25",
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-08",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": "2026-11-30",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "衡信杯全国大学生智慧税务大赛（第十二届）是由全国智慧税务行业产教融合共同体主办、浙江衡信教育科技有限公司提供技术支持的财经税务类赛事（2026年），主要面向全国普通高等学校在校学生。赛事为团队赛（3人/组），分校内赛、省赛、总决赛，考察财税实务与大数据风控等能力。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "https://new.saikr.com/vse/58073",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "关于举办2026年“衡信杯”全国大学生智慧税务大赛（第十二届）竞赛通知",
+      "document_name": "2026年“衡信杯”全国大学生智慧税务大赛（第十二届）竞赛通知",
+      "source_url": "https://new.saikr.com/vse/58073",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国智慧税务行业产教融合共同体决定举办2026年“衡信杯”全国大学生智慧税务大赛（第十二届）",
+      "document_name": "2026年“衡信杯”全国大学生智慧税务大赛（第十二届）竞赛通知",
+      "source_url": "https://new.saikr.com/vse/58073",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "赛事为团队赛，3人/组，分设本科组、高职组",
+      "document_name": "2026年“衡信杯”全国大学生智慧税务大赛（第十二届）竞赛通知",
+      "source_url": "https://new.saikr.com/vse/58073",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名阶段 2026.04.08 ~ 2026.09.25；总决赛：11月下旬",
+      "document_name": "2026年“衡信杯”全国大学生智慧税务大赛（第十二届）竞赛通知",
+      "source_url": "https://new.saikr.com/vse/58073",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】已据赛氪官方报名页（2026第十二届）更正：官方名称为“衡信杯全国大学生智慧税务大赛”（原“税务技能大赛”为旧称/不准确）；主办单位为全国智慧税务行业产教融合共同体（原“相关税务学会”有误）；团队3人/组（原team_max=5有误，已更正为3）；报名2026-04-08至2026-09-25，总决赛2026年11月下旬，故 competition_end_date/result=2026-11-30（约值）。该赛事为上机竞赛，无统一作品提交截止，submission_deadline 置空。allowed_majors 未限定（面向全国高校在校学生），已置空。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,112 @@
+{
+  "competition_id": "market_survey_2026",
+  "competition_name": "正大杯全国大学生市场调查与分析大赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "中国商业统计学会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": "2025-10-31",
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": "2026-05-31",
+  "result_announcement_date": "2026-05-31",
+  "award_settings": "大赛分知识赛(个人网考,限专科组/本科组)与实践赛(团队赛)两环节；实践赛设校赛、企业命题赛、省赛及全国总决赛。省赛设一、二、三等奖和国赛三等奖；全国总决赛设一等奖、二等奖（并设奖金8万元）；另设企业命题赛优秀论文证书、最佳院校组织奖、优秀指导教师奖。",
+  "award_distribution": null,
+  "brief_description": "正大杯全国大学生市场调查与分析大赛是由中国商业统计学会主办的全国性数据调研类竞赛（2026年为第十六届），面向全日制专科、本科及研究生（含在华留学生），专业不限。大赛以团队形式（3-5人）围绕市场调查与商业分析开展选题、问卷、数据分析与报告撰写。",
+  "required_materials": [
+    "市场调查分析报告",
+    "调查问卷与数据",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "创新性",
+    "表达"
+  ],
+  "required_skills": [
+    "市场调研",
+    "数据分析",
+    "问卷设计",
+    "报告撰写"
+  ],
+  "official_source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v3",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位:中国商业统计学会 冠名单位:正大集团",
+      "document_name": "关于“正大杯”第十六届全国大学生市场调查与分析大赛的通知",
+      "source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全日制在校专科生、本科生、研究生及在华留学生均可报名参赛,专业不限。",
+      "document_name": "关于“正大杯”第十六届全国大学生市场调查与分析大赛的通知",
+      "source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "1、每个团队由3-5名学生组成,每名学生只能参加一个团队。",
+      "document_name": "关于“正大杯”第十六届全国大学生市场调查与分析大赛的通知",
+      "source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "参赛报名:即日起至2025年10月31日。",
+      "document_name": "关于“正大杯”第十六届全国大学生市场调查与分析大赛的通知",
+      "source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "本科组总决赛:2026年5月30日至31日在大连理工大学举办。",
+      "document_name": "关于“正大杯”第十六届全国大学生市场调查与分析大赛的通知",
+      "source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "省赛一等奖、二等奖、三等奖和国赛三等奖荣誉证书...全国总决赛设一等奖、二等奖荣誉证书。",
+      "document_name": "关于“正大杯”第十六届全国大学生市场调查与分析大赛的通知",
+      "source_url": "http://www.china-cssc.org/show-568-1912-1.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据中国商业统计学会官网官方通知(http://www.china-cssc.org/show-568-1912-1.html,第十六届)核实并订正：原registration_deadline=2025-10-25有误，已更正为2025-10-31（官网“参赛报名:即日起至2025年10月31日”，学生参赛报名截止2025-10-31 24:00）；eligible_students原“高职高专学生”统一为“专科生”。团队3-5人、全国总决赛2026-05-30~31（本科组）经官网确认保留。实践赛报告分阶段提交（校赛/省赛/企业命题赛各有节点，如企业命题赛报告2026-4-10前），无单一全国提交截止，submission_deadline置空。可信级别由B升为A（官方主办单位网站直接发文）。"
+}

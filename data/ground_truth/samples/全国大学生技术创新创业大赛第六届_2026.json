@@ -1,0 +1,48 @@
+{
+  "competition_id": "全国大学生技术创新创业大赛第六届_2026",
+  "competition_name": "全国大学生技术创新创业大赛（第六届）",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "中国技术创业协会企业市场融通工作委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": null,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-03-20",
+  "competition_end_date": "2026-10-31",
+  "award_settings": "分省赛、国赛两级，各组别分开评奖",
+  "award_distribution": [],
+  "brief_description": "面向全国高校学生的技术创新创业类赛事，采用线上作品提交方式，由组委会统一组织专家评阅，分组别评奖，设省赛与国赛两级。",
+  "required_materials": [
+    "参赛作品材料",
+    "项目说明文档"
+  ],
+  "evaluation_dimensions": [
+    "技术创新性",
+    "创业可行性",
+    "作品完整性"
+  ],
+  "required_skills": [
+    "技术方案设计",
+    "创业策划"
+  ],
+  "official_source_url": "https://new.saikr.com/vse/JSSCSSGS266",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 赛氪 saikr.com（国赛报名 2026-03-20 至 2026-10-20，省赛至 2026-10-31）。作品须由队长在电脑端提交。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

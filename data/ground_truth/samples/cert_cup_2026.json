@@ -1,0 +1,142 @@
+{
+  "competition_id": "cert_cup_2026",
+  "competition_name": "认证杯数学中国数学建模网络挑战赛",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "内蒙古自治区数学学会（主办）；数学中国(madio.net)、内蒙古第五维信息技术有限公司（承办）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "统计学",
+    "信息与计算科学",
+    "经济学",
+    "物理学",
+    "计算机科学与技术",
+    "自动化"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-04-09",
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-09",
+  "competition_end_date": "2026-05-17",
+  "result_announcement_date": null,
+  "award_settings": "设特等奖（前10名，需答辩）、一等奖（≤5%）、二等奖（≤15%）、三等奖（≤30%）、优秀奖（成功提交论文即得）。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "前10名",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约30%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "成功提交即得",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "认证杯数学中国数学建模网络挑战赛是由内蒙古自治区数学学会主办、数学中国承办的数学建模类赛事，主要面向本科生、研究生、专科生及数学建模爱好者。以1-3人组队形式参与，分两阶段（4月、5月）网络开卷竞赛，考察模型合理性、求解精度等能力。",
+  "required_materials": [
+    "建模论文",
+    "程序代码",
+    "数据附件",
+    "支撑材料"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新与实用",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析",
+    "LaTeX"
+  ],
+  "official_source_url": "http://www.tzmcm.cn/jf.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由内蒙古自治区数学学会主办,由数学中国(www.madio.net)、内蒙古第五维信息技术有限公司承办",
+      "document_name": "2026年第十九届“认证杯”数学中国数学建模网络挑战赛 报名细则",
+      "source_url": "http://www.tzmcm.cn/jf.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间:即日起至4月9日17时",
+      "document_name": "2026年第十九届“认证杯”数学中国数学建模网络挑战赛 报名细则",
+      "source_url": "http://www.tzmcm.cn/jf.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "第一阶段:(北京时间2026年4月9日下午20:00时——4月12日下午20:00时) 第二阶段:(北京时间2026年5月14日下午20:00时——5月17日下午20:00时)",
+      "document_name": "2026年第十九届“认证杯”数学中国数学建模网络挑战赛 报名细则",
+      "source_url": "http://www.tzmcm.cn/jf.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "以队为单位参赛,每队最多3名学生,1名指导教师(无指导教师填写一个联系人信息)",
+      "document_name": "2026年第十九届“认证杯”数学中国数学建模网络挑战赛 报名细则",
+      "source_url": "http://www.tzmcm.cn/jf.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全国普通高校全日制在校专科生、本科生、研究生,高校毕业生(社会工作者)、数学建模爱好者均可参加",
+      "document_name": "2026年第十九届“认证杯”数学中国数学建模网络挑战赛 报名细则",
+      "source_url": "http://www.tzmcm.cn/jf.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经官网(tzmcm.cn)核验：本届为第十九届，2026年4-5月分两阶段网络竞赛，报名截止2026-04-09 17:00，论文在比赛期内提交（无独立提交截止，故submission_deadline置空）；第一阶段成绩约2026-06-01公布，无统一全国结果公布日（result_announcement_date置空）。原记录中2026-10-07/2026-11-03等秋季日期为占位值，已更正。",
+  "official_source_status": "found"
+}

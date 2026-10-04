@@ -1,0 +1,159 @@
+{
+  "evaluated_at": "2026-10-04",
+  "environment": {
+    "python": "3.13.14",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "formal_summary": {
+    "passed": 15,
+    "total": 15
+  },
+  "metrics": {
+    "deadline_consistency": {
+      "passed": 3,
+      "total": 3,
+      "rate": 100.0
+    },
+    "eligibility_accuracy": {
+      "passed": 3,
+      "total": 3,
+      "rate": 100.0
+    },
+    "citation_accuracy": {
+      "passed": 3,
+      "total": 3,
+      "rate": 100.0
+    },
+    "unverified_interception": {
+      "passed": 3,
+      "total": 3,
+      "rate": 100.0
+    },
+    "insufficient_refusal_rate": {
+      "passed": 3,
+      "total": 3,
+      "rate": 100.0
+    }
+  },
+  "cases": [
+    {
+      "case_id": "FE-01",
+      "metric": "deadline_consistency",
+      "scenario": "报名日期与 Ground Truth 一致",
+      "passed": true,
+      "detail": "201/201 项报名截止日期与 Ground Truth 一致"
+    },
+    {
+      "case_id": "FE-02",
+      "metric": "deadline_consistency",
+      "scenario": "提交日期与 Ground Truth 一致",
+      "passed": true,
+      "detail": "201/201 项提交截止日期与 Ground Truth 一致"
+    },
+    {
+      "case_id": "FE-03",
+      "metric": "deadline_consistency",
+      "scenario": "Agent 仅输出规范截止日期",
+      "passed": true,
+      "detail": "5/5 个核心赛事仅输出一个规范报名截止日期，保留官方时刻与时区假设"
+    },
+    {
+      "case_id": "FE-04",
+      "metric": "eligibility_accuracy",
+      "scenario": "开放且符合资格赛事进入评分",
+      "passed": true,
+      "detail": "开放且符合资格的赛事进入正式评分，score=83.2"
+    },
+    {
+      "case_id": "FE-05",
+      "metric": "eligibility_accuracy",
+      "scenario": "报名已截止赛事不评分",
+      "passed": true,
+      "detail": "报名已截止赛事为 ineligible，score=null"
+    },
+    {
+      "case_id": "FE-06",
+      "metric": "eligibility_accuracy",
+      "scenario": "报名日缺失时检查提交日",
+      "passed": true,
+      "detail": "报名日缺失时使用提交截止日判断，score=null"
+    },
+    {
+      "case_id": "FE-07",
+      "metric": "citation_accuracy",
+      "scenario": "核心字段均有证据",
+      "passed": true,
+      "detail": "17/17 个官网来源已确认赛事的5类关键字段均有完整证据"
+    },
+    {
+      "case_id": "FE-08",
+      "metric": "citation_accuracy",
+      "scenario": "证据元数据完整",
+      "passed": true,
+      "detail": "128/128 条推荐级证据具备定位信息、原文、链接、获取和来源检查日期"
+    },
+    {
+      "case_id": "FE-09",
+      "metric": "citation_accuracy",
+      "scenario": "RAG 命中官方截止证据",
+      "passed": true,
+      "detail": "5/5 个核心赛事的截止检索命中保存的原文证据、证据ID和官方链接"
+    },
+    {
+      "case_id": "FE-10",
+      "metric": "unverified_interception",
+      "scenario": "未核验赛事不评分",
+      "passed": true,
+      "detail": "未核验赛事为 candidate_only，eligible=false，score=null"
+    },
+    {
+      "case_id": "FE-11",
+      "metric": "unverified_interception",
+      "scenario": "未核验赛事不能新建项目",
+      "passed": true,
+      "detail": "独立未核验夹具不能创建新项目"
+    },
+    {
+      "case_id": "FE-12",
+      "metric": "unverified_interception",
+      "scenario": "Agent 明确标注候选",
+      "passed": true,
+      "detail": "Agent 明确说明候选信息不构成资格判断或推荐评分"
+    },
+    {
+      "case_id": "FE-13",
+      "metric": "insufficient_refusal_rate",
+      "scenario": "官方未给日期时不编造",
+      "passed": true,
+      "detail": "独立缺证据夹具：不能确认日期，不伪造原文或断言官网没有日期"
+    },
+    {
+      "case_id": "FE-14",
+      "metric": "insufficient_refusal_rate",
+      "scenario": "同名多年份显式声明默认版本",
+      "passed": true,
+      "detail": "同名多年份赛事显式声明默认版本"
+    },
+    {
+      "case_id": "FE-15",
+      "metric": "insufficient_refusal_rate",
+      "scenario": "域外问题拒绝生成赛事事实",
+      "passed": true,
+      "detail": "域外问题不生成赛事事实，提示补充具体赛事名称"
+    }
+  ],
+  "regression": {
+    "tests_run": 168,
+    "passed": 168,
+    "failures": 0,
+    "errors": 0,
+    "subtests_passed": 26,
+    "successful": true,
+    "output": "168 passed, 26 subtests passed in 10.51s"
+  },
+  "freeze": null,
+  "fixture_date": "2026-10-03",
+  "dataset_sha256": "12076f99fe5d2b83390b0ef1f945587ba408663c39d711ffc3d5bbe30e9dfcdf",
+  "code_sha256": "0e68f380bfe2b6e469e799ce017ca60d148baad342a0cf684d6c6aa79f684263",
+  "competition_snapshot_sha256": "c06e31061e48f2fa99ff20a1fd8f3d873ab1e7981f4815e09bce7121b57a7944"
+}

@@ -1,0 +1,129 @@
+{
+  "competition_id": "bme_2026",
+  "competition_name": "全国大学生生物医学工程创新设计竞赛",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "中国生物医学工程学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "生物科学",
+    "生物技术",
+    "基础医学",
+    "药学",
+    "临床医学",
+    "生态学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": "2026-04-16",
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-17",
+  "competition_end_date": "2026-07-19",
+  "result_announcement_date": "2026-07-19",
+  "award_settings": "全国组委会根据专家组评审结果确定全国一、二、三等奖。基于报名参赛且提交作品的团队数目，一等奖约占5%，二等奖约占15%，三等奖约占25%；通过线上评审的比例约45%进入线下竞赛。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生生物医学工程创新设计竞赛（第十一届，2026）是由中国生物医学工程学会主办的赛事，面向全国普通高校全日制在校学生（本科、硕士、博士），以不超过5人的团队形式参赛，聚焦临床需求开展生物医学工程创新设计，分命题项目和自选项目。",
+  "required_materials": [
+    "实验报告",
+    "研究论文",
+    "海报",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "完成度",
+    "表达"
+  ],
+  "required_skills": [
+    "实验操作",
+    "数据分析",
+    "文献检索",
+    "科研写作"
+  ],
+  "official_source_url": "https://www.bmedesign.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "第十一届全国大学生生物医学工程创新设计竞赛由中国生物医学工程学会主办",
+      "document_name": "关于举办\"第十一届全国大学生生物医学工程创新设计竞赛\"的通知（第三轮）",
+      "source_url": "https://m.thepaper.cn/baijiahao_32978919",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "每队参赛学生不超过5名",
+      "document_name": "关于组织参加\"第十一届全国大学生生物医学工程创新设计竞赛\"的通知",
+      "source_url": "https://www.cmu.edu.cn/cxcybgs/info/1093/1218.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "线上报名系统截止时间推迟至2026年4月24日23点59分",
+      "document_name": "关于举办\"第十一届全国大学生生物医学工程创新设计竞赛\"的通知（第三轮）",
+      "source_url": "https://m.thepaper.cn/baijiahao_32978919",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "本届竞赛拟定于2026年7月18日-19日在海南三亚线下进行",
+      "document_name": "关于举办\"第十一届全国大学生生物医学工程创新设计竞赛\"的通知（第三轮）",
+      "source_url": "https://m.thepaper.cn/baijiahao_32978919",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "网站网址：https://www.bmedesign.cn",
+      "document_name": "关于举办\"第十一届全国大学生生物医学工程创新设计竞赛\"的通知（第二轮）",
+      "source_url": "https://thepaper.cn/newsDetail_forward_32763173",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：organizer原\"相关生物医学工程学会\"已更正为\"中国生物医学工程学会\"；team_max原3有误，已更正为不超过5人；第十一届决赛2026年7月17-19日在海南三亚举行（线上报名3/16-4/16，预赛作品提交5/15-6/15）。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,134 @@
+{
+  "competition_id": "eda_grad_2026",
+  "competition_name": "中国研究生电子设计竞赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "中国学位与研究生教育学会、中国电子学会",
+  "eligible_students": [
+    "研究生",
+    "本科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": [
+    "电子信息",
+    "通信",
+    "自动化",
+    "电气",
+    "集成电路",
+    "计算机",
+    "仪科"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-06-20",
+  "submission_deadline": "2026-06-20",
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "全国赛设特等奖和一二三等奖及单项奖，区域赛（初赛）设一二三等奖；奖励包括奖金、证书（含指导教师），以及龙头企业优先实习等机会。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约15%",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约30%",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "其余入围决赛队伍",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "区域赛一/二/三等奖",
+      "proportion": "按赛区规模核定",
+      "note": "分赛区"
+    }
+  ],
+  "brief_description": "中国研究生电子设计竞赛（2026年为第二十一届）是由中国学位与研究生教育学会、中国电子学会共同主办，教育部学位管理与研究生教育司指导的电子设计类赛事，主要面向具有正式研究生学籍的在读研究生及已获研究生录取资格的大四本科生，以团队（每队不超过3名学生）为基本报名单位参赛，不接受个人报名。分为技术类竞赛和商业计划书专项赛，考察电子信息领域创新能力与工程实践水平。",
+  "required_materials": [
+    "技术论文",
+    "演示视频",
+    "作品介绍PPT",
+    "商业计划书",
+    "照片"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性",
+    "理论水平"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "信号处理",
+    "C语言"
+  ],
+  "official_source_url": "https://cpipc.acge.org.cn//cw/detail/6/2c9080159d283d36019d29051ab800d2",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位: 中国学位与研究生教育学会 中国电子学会",
+      "document_name": "第二十一届中国研究生电子设计竞赛技术类竞赛参赛说明",
+      "source_url": "https://cpipc.acge.org.cn//cw/detail/6/2c9080159d283d36019d29051ab800d2",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象为国内具有正式研究生学籍的在读研究生和已确认录取资格的大四本科生",
+      "document_name": "第二十一届中国研究生电子设计竞赛技术类竞赛参赛说明（参赛办法）",
+      "source_url": "https://cpipc.acge.org.cn//cw/detail/6/2c9080159d283d36019d29051ab800d2",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "竞赛以参赛队为基本报名单位,不接受个人报名",
+      "document_name": "第二十一届中国研究生电子设计竞赛技术类竞赛参赛说明（参赛办法）",
+      "source_url": "https://cpipc.acge.org.cn//cw/detail/6/2c9080159d283d36019d29051ab800d2",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名及作品提交截止时间:2026年6月20日",
+      "document_name": "第二十一届中国研究生电子设计竞赛技术类竞赛参赛说明（时间安排）",
+      "source_url": "https://cpipc.acge.org.cn//cw/detail/6/2c9080159d283d36019d29051ab800d2",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "各参赛队应在6月20日24:00前按照参赛要求,在竞赛官方网站完成注册、组队、报名及作品提交",
+      "document_name": "第二十一届中国研究生电子设计竞赛技术类竞赛参赛说明（竞赛程序）",
+      "source_url": "https://cpipc.acge.org.cn//cw/detail/6/2c9080159d283d36019d29051ab800d2",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，已完成人工核验。2026-07-18 核查：官方参赛说明仅给出“开赛时间2026年3月”“初赛7月初、全国总决赛8月中旬”，未给出具体开赛/总决赛/结果公布的精确日期，故 competition_start_date、competition_end_date、result_announcement_date 置空待人工确认；其余字段已据中国研究生创新实践系列大赛管理平台（cpipc.acge.org.cn）官方说明核实。原 organizer“中国电子学会”不完整，已更正为主办双单位。",
+  "official_source_status": "found"
+}

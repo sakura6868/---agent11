@@ -1,0 +1,163 @@
+{
+  "competition_name": "高教社杯全国大学生数学建模竞赛（国赛）",
+  "document_year": 2024,
+  "organizer": "中国工业与应用数学学会",
+  "category": "modeling",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": "2024-09-02",
+  "submission_deadline": "2024-09-08",
+  "required_materials": [
+    "参赛论文",
+    "支撑材料",
+    "承诺书"
+  ],
+  "evaluation_dimensions": [
+    "假设合理性",
+    "建模创造性",
+    "结果正确性",
+    "文字表述清晰程度"
+  ],
+  "required_skills": [
+    "数学建模",
+    "计算机编程",
+    "论文写作"
+  ],
+  "official_source_url": "http://www.mcm.edu.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2024_v1",
+  "evidence": [
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "参赛者以3名大学生组成一队（鼓励不写指导教师），通过学校教务部门向所在赛区组委会报名",
+      "document_name": "2024高教社杯全国大学生数学建模竞赛报名第一次通知",
+      "source_url": "http://aa.gzu.edu.cn/_upload/article/files/55/c8/298838254eb28c991ddaf26c37e0/74f8d523-7020-4a31-bfb2-b3e3dd85e1db.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "大学生以队为单位参赛，每队不超过3人(须属于同一所学校)，专业不限",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）",
+      "source_url": "http://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "向全国组委会报名的截止日期为9月2日(周一)20时",
+      "document_name": "2024高教社杯全国大学生数学建模竞赛报名第一次通知",
+      "source_url": "http://aa.gzu.edu.cn/_upload/article/files/55/c8/298838254eb28c991ddaf26c37e0/74f8d523-7020-4a31-bfb2-b3e3dd85e1db.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "所有参赛队必须于9月8日20:00之前通过客户端完成参赛作品电子版（“参赛论文”及必要的“支撑材料”）MD5码的生成提交",
+      "document_name": "全国大学生数学建模竞赛报名和参赛须知（2024年修订）",
+      "source_url": "https://ahsiam.org.cn/news.php?id=52",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "竞赛分为本科组和高职高专组进行。本科学生只能参加本科组竞赛，不能参加高职高专组竞赛。高职高专学生一般参加高职高专组竞赛，也可参加本科组竞赛。研究生不得参加本项竞赛。",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）",
+      "source_url": "http://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "认真履行所签署的《全国大学生数学建模竞赛承诺书》中的各项承诺",
+      "document_name": "全国大学生数学建模竞赛参赛规则",
+      "source_url": "http://www.mcm.edu.cn",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": null,
+      "source_text": "竞赛评奖以假设的合理性、建模的创造性、结果的正确性和文字表述的清晰程度为主要标准",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）",
+      "source_url": "http://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_skills",
+      "page": null,
+      "source_text": "提高学生建立数学模型和运用计算机技术解决实际问题的综合能力",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）",
+      "source_url": "http://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "registration_deadline",
+      "page": 1,
+      "source_text": "向全国组委会报名的截止日期为 9 月 2 日（周一）20 时。",
+      "document_name": "2024高教社杯全国大学生数学建模竞赛报名第一次通知（数模竞赛[2024-01]号）",
+      "source_url": "https://www.gxufe.edu.cn/wwwservice/download?fileid=08093043-cef1-3356-8293-e9a7eda2bcac.pdf&open=true&client=pc",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 1,
+      "source_text": "2024年竞赛的时间确定为9月5日（周四）18时至9月8日（周日）20时。",
+      "document_name": "2024高教社杯全国大学生数学建模竞赛报名第一次通知（数模竞赛[2024-01]号）",
+      "source_url": "https://www.gxufe.edu.cn/wwwservice/download?fileid=08093043-cef1-3356-8293-e9a7eda2bcac.pdf&open=true&client=pc",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 1,
+      "source_text": "参赛者以 3 名大学生组成一队（鼓励不写指导教师），通过学校教务部门向所在赛区组委会报名。",
+      "document_name": "2024高教社杯全国大学生数学建模竞赛报名第一次通知（数模竞赛[2024-01]号）",
+      "source_url": "https://www.gxufe.edu.cn/wwwservice/download?fileid=08093043-cef1-3356-8293-e9a7eda2bcac.pdf&open=true&client=pc",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 1,
+      "source_text": "竞赛分为本科组和高职高专组进行。所有大学生均可参加本科组竞赛，但只有高职高专学生可以参加高职高专组竞赛（也可参加本科组竞赛）。研究生不得参加本项竞赛。",
+      "document_name": "2024高教社杯全国大学生数学建模竞赛报名第一次通知（数模竞赛[2024-01]号）",
+      "source_url": "https://www.gxufe.edu.cn/wwwservice/download?fileid=08093043-cef1-3356-8293-e9a7eda2bcac.pdf&open=true&client=pc",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已找到中国工业与应用数学学会发布的官方《2024高教社杯全国大学生数学建模竞赛报名第一次通知》（数模竞赛[2024-01]号），据此将可信级别由B提升至A、状态verified。重点：本竞赛研究生不得参加（章程明文），参赛对象为本科生与专科生（高职高专生）。2024年竞赛时间为9月5日18时至9月8日20时，全国组委会报名截止9月2日20时；各赛区报名截止可能早于全国组委会截止。2024与2025/2026赛制一致（3人/队、本科+高职高专组、同评奖标准），仅竞赛与报名截止日期不同（2024：9月5-8日/截止9月2日；2025：9月4-7日/截止9月1日；2026：9月10-14日/截止9月7日）。",
+  "official_source_status": "found"
+}

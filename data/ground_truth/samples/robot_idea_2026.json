@@ -1,0 +1,151 @@
+{
+  "competition_id": "robot_idea_2026",
+  "competition_name": "中国高校智能机器人创意大赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "中国高校智能机器人创意大赛组委会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": "2026-05-10",
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-12",
+  "competition_end_date": "2026-07-13",
+  "result_announcement_date": "2026-07-13",
+  "award_settings": "设一等奖、二等奖、三等奖；区域赛与全国赛分别评审，分主题/赛项设置奖项。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "按赛区/全国",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "按赛区/全国",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "按赛区/全国",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "中国高校智能机器人创意大赛是由中国高校智能机器人创意大赛组委会主办、2020年列入全国普通高校大学生竞赛排行榜的机器人与人工智能类赛事（2026年为第九届）。设主题一(创意设计)、主题二(创意竞技/魔方机器人)、主题三(智能机器人对抗赛)，面向专科生、本科生、研究生，以团队（主题一/二1-3人、主题三1-4人）形式参赛。",
+  "required_materials": [
+    "作品申报表",
+    "设计创意PDF",
+    "原理样机视频",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "完成度",
+    "技术难度",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机械设计",
+    "嵌入式",
+    "算法",
+    "计算机视觉",
+    "ROS"
+  ],
+  "official_source_url": "http://www.robotcontest.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第九届中国高校智能机器人创意大赛",
+      "document_name": "中国高校智能机器人创意大赛官方站点",
+      "source_url": "http://www.robotcontest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "经中国高校智能机器人创意大赛组委会研究，决定启动第九届中国高校智能机器人创意大赛工作",
+      "document_name": "中国高校智能机器人创意大赛官方站点",
+      "source_url": "http://www.robotcontest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全国高校在校专科生、本科生、研究生，经学校同意可报名参赛",
+      "document_name": "第九届中国高校智能机器人创意大赛参赛资格与限项说明",
+      "source_url": "https://todayv6.hit.edu.cn/article/2026/03/06/127816",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "官方报名时间：2026年4月1日-2026年5月10日；初赛作品提交时间：2026年4月12日-2026年5月10日",
+      "document_name": "北京邮电大学：2026年中国高校智能机器人创意大赛通知",
+      "source_url": "https://yepeida.bupt.edu.cn/info/1001/2029.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国赛时间：2026年7月12-13日",
+      "document_name": "北京邮电大学：2026年中国高校智能机器人创意大赛通知",
+      "source_url": "https://yepeida.bupt.edu.cn/info/1001/2029.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "主题一、主题二每队学生人数1-3人，主题三每队学生人数1-4人",
+      "document_name": "第九届中国高校智能机器人创意大赛参赛要求",
+      "source_url": "https://todayv6.hit.edu.cn/article/2026/03/06/127816",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网：www.robotcontest.cn",
+      "document_name": "中国高校智能机器人创意大赛官方站点",
+      "source_url": "http://www.robotcontest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "原记录主办'教育部高等学校计算机类教学指导委员会'不准确，已更正为'中国高校智能机器人创意大赛组委会'。原team_max=4、各round占位日期已据第九届(2026)通知更正：主题一/二每队1-3人、主题三1-4人（取最大值4），官方报名2026-05-10截止，全国赛2026-07-12至07-13。eligible_students补充专科生。原记录名称保持。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

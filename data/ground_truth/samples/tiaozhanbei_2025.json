@@ -1,0 +1,137 @@
+{
+  "competition_name": "第十九届“挑战杯”中国移动全国大学生课外学术科技作品竞赛（大挑）",
+  "document_year": 2025,
+  "organizer": "共青团中央、中国科协、教育部、中国社会科学院、中国工程院、全国学联、江苏省人民政府共同主办；南京大学、共青团江苏省委承办；中国移动通信集团有限公司冠名支持",
+  "category": "innovation",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 10,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2025-10-31",
+  "competition_end_date": "2025-11-03",
+  "result_announcement_date": "2025-11-03",
+  "required_materials": [
+    "作品申报书",
+    "参赛作品（自然科学类学术论文/哲学社会科学类社会调查报告/科技发明制作）",
+    "支撑证明材料（专利、鉴定等）"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "先进性",
+    "现实意义"
+  ],
+  "required_skills": [
+    "科研与学术研究",
+    "学术写作",
+    "创新设计",
+    "AI工具应用"
+  ],
+  "official_source_url": "https://www.tiaozhanbei.net/article/15807/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2025_v1",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "2025年6月1日以前正式注册的国内全日制非成人教育的各类高等院校在校专科生、本科生、硕士研究生和博士研究生(均不含在职研究生)均可申报作品参赛，以个人或团队形式参赛均可",
+      "document_name": "第十九届挑战杯官网_人工智能+专项赛赛事介绍",
+      "source_url": "https://2025.tiaozhanbei.net/d49/article/630/",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "以个人或团队形式参赛均可",
+      "document_name": "第十九届挑战杯官网_人工智能+专项赛赛事介绍",
+      "source_url": "https://2025.tiaozhanbei.net/d49/article/630/",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每个团队不超过10人（含作品申报者）",
+      "document_name": "第十九届挑战杯官网_人工智能+专项赛赛事介绍",
+      "source_url": "https://2025.tiaozhanbei.net/d49/article/630/",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "申报参赛的作品分为自然科学类学术论文、哲学社会科学类社会调查报告、科技发明制作三类。自然科学类学术论文作者限本专科生。",
+      "document_name": "挑战杯全国大学生课外学术科技作品竞赛章程(试行)",
+      "source_url": "https://news.dhu.edu.cn/_upload/article/files/89/ef/cc73fbb1435fa51fb58dba1af0bf/f7857b12-c311-41c9-8c63-9cfa1843c3bb.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_skills",
+      "page": null,
+      "source_text": "借助大模型技术，通过零代码或低代码完成人工智能原生应用的设计、开发和线上运行，体验人工智能原生应用从开发、展示到运行的全流程",
+      "document_name": "第十九届挑战杯官网_人工智能+专项赛赛事介绍",
+      "source_url": "https://2025.tiaozhanbei.net/d49/article/630/",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": null,
+      "source_text": "国赛将按照学历最高的参赛成员划分至专科组、本科组、硕士组和博士组分开评审",
+      "document_name": "第十九届挑战杯官网_人工智能+专项赛赛事介绍",
+      "source_url": "https://2025.tiaozhanbei.net/d49/article/630/",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由共青团中央、中国科协、教育部、中国社会科学院、中国工程院、全国学联和江苏省人民政府共同主办的第十九届“挑战杯”中国移动全国大学生课外学术科技作品竞赛在南京大学举行新闻通气会。",
+      "document_name": "第十九届“挑战杯”中国移动全国大学生课外学术科技作品竞赛组委会召开新闻通气会",
+      "source_url": "https://www.tiaozhanbei.net/article/15807/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "终审决赛于10月31日到11月3日在南京大学举行。",
+      "document_name": "第十九届“挑战杯”中国移动全国大学生课外学术科技作品竞赛组委会召开新闻通气会",
+      "source_url": "https://www.tiaozhanbei.net/article/15807/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "10月31日至11月3日，第十九届“挑战杯”全国大学生课外学术科技作品竞赛决赛、科创报国汇报会暨颁奖活动在南京大学举行。",
+      "document_name": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛举行（人民网）",
+      "source_url": "https://cpc.people.com.cn/n1/2025/1104/c64387-40596477.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "本标注由 AI 基于官网（2025.tiaozhanbei.net）及竞赛章程整理，并已于2026-07-18经挑战杯官网(www.tiaozhanbei.net)及人民网核验：第十九届（2025）由共青团中央、中国科协、教育部、中国社会科学院、中国工程院、全国学联、江苏省人民政府共同主办（本届新增中国工程院为主办单位之一，并由江苏省人民政府联合主办），南京大学、共青团江苏省委承办，中国移动冠名；终审决赛2025-10-31至11-03在南京大学举行。大挑主体赛作品分个人作品（1人）与集体作品（不超过10人），故 team_min=1、team_max=10；无全国统一报名截止日期，由各校/省自定，registration_deadline 记为 null。evaluation_dimensions（科学性/先进性/现实意义）为挑战杯主体赛通用评审维度。关系说明：本文件与 challenge_cup_big_2026 为同一竞赛（挑战杯·大挑/课外学术科技作品竞赛）的不同届次——本文件为第十九届（2025，南京大学承办），challenge_cup_big_2026 为第二十届（2026）。",
+  "official_source_status": "found"
+}

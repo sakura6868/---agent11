@@ -1,0 +1,58 @@
+{
+  "competition_id": "HarmonyOS创新赛极客赛道_2026",
+  "competition_name": "HarmonyOS创新赛·极客赛道",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "华为技术有限公司（HarmonyOS 生态）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": "2026-05-30",
+  "competition_start_date": null,
+  "competition_end_date": "2026-06-12",
+  "award_settings": "总奖金池超68万元现金，另设华为实习推荐、技术指导等生态成长权益",
+  "award_distribution": [
+    {
+      "award": "入围决赛",
+      "proportion": "TOP20",
+      "note": "初赛得分排名前20名入围HDC松山湖线下决赛"
+    }
+  ],
+  "brief_description": "华为面向大学生和技术爱好者举办的鸿蒙开发竞赛，围绕安全隐私保护、全场景一体协同、AI智能化体验、3D空间化四大主题开发创新作品，含线上初赛与HDC松山湖36小时线下决赛。",
+  "required_materials": [
+    "可运行Demo",
+    "代码包",
+    "部署文档",
+    "作品介绍材料"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "前景评估",
+    "技术完善性与UX美学"
+  ],
+  "required_skills": [
+    "ArkTS",
+    "HarmonyOS开发",
+    "分布式技术",
+    "多设备适配"
+  ],
+  "official_source_url": "https://www.saikr.com/vse/huaweiGeekTrack2026",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 赛氪 saikr.com/vse/huaweiGeekTrack2026。2026 赛季报名已于 5-15 截止、6-12 决赛已完成，入库用于历史参考与下一赛季（2027）预告；下届时间以官方公告为准。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

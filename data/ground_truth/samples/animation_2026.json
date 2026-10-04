@@ -1,0 +1,84 @@
+{
+  "competition_id": "animation_2026",
+  "competition_name": "全国大学生动画与新媒体作品大赛",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "相关数字媒体学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "视觉传达设计",
+    "环境设计",
+    "数字媒体艺术",
+    "工业设计",
+    "动画"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-08-25",
+  "competition_end_date": "2026-09-06",
+  "result_announcement_date": "2026-10-16",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生动画与新媒体作品大赛是由相关数字媒体学会主办的艺术设计类赛事，主要面向本科生、研究生。要求视觉传达设计、环境设计、数字媒体艺术等的同学以1-3人组队形式参与，考察创意性、表现力等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "设计作品",
+    "创作说明",
+    "源文件",
+    "展示视频"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%A8%E7%94%BB%E4%B8%8E%E6%96%B0%E5%AA%92%E4%BD%93%E4%BD%9C%E5%93%81%E5%A4%A7%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】未能找到名为“全国大学生动画与新媒体作品大赛”的官方赛事。检索到的相近赛事：①第20届中国好创意暨全国数字艺术设计大赛（cdec.org.cn，2025.10–2026.06报名及作品提交，2026.07评奖、2026.08公布）；②第九届全国大学生新媒体创新创意大赛（中华出版促进会国际人才文化传播工作委员会等主办，作品提交2026.1.28–6.8）。原 name/organizer/dates 均未能找到官方依据，保留原值待人工确认；official_source_url 仅为百度检索占位链接，非官方来源。\n【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。\n疑似与“未来设计师·全国高校数字艺术设计大赛（NCDA）”或“全国大学生广告艺术大赛”混淆。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

@@ -1,0 +1,54 @@
+{
+  "competition_id": "marketing_2026",
+  "competition_name": "全国大学生市场营销大赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "相关市场学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一、二、三等奖、优秀奖（具体比例及名称待官方通知确认）。",
+  "award_distribution": null,
+  "brief_description": "全国大学生市场营销大赛（名称待官方核实）是面向本科生、研究生的财经商科类赛事，一般以团队形式参赛，考察市场分析、营销策划与商业表达能力。注：本条目经网络核验未能找到与‘全国大学生市场营销大赛’名称完全对应的2026年官方赛事，相关字段为占位，待人工核对。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "市场调研",
+    "商业写作",
+    "数据分析",
+    "路演表达"
+  ],
+  "official_source_url": null,
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [],
+  "notes": "字段registration_deadline/submission_deadline/competition_start_date/competition_end_date/result_announcement_date未能找到官方依据（原2026-09-15等日期为占位、无来源），已置空待人工确认。经网络检索，‘全国大学生市场营销大赛’一名无2026年官方赛事通知与之精确对应；最接近的官方赛事为‘社科奖全国高校市场营销大赛’(第十六届，由中国市场学会等主办，官网cmat.org.cn)，但其名称与本条目不一致、主办单位亦不同(本条目organizer占位‘相关市场学会’未获证实)，故本条目整体无法核实，trusted_level=C。建议人工以cmat.org.cn或contest.cmau.org.cn(CMAU市策大赛)核对后重命名或删除本条目。 【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。经核验，与“全国大学生市场营销大赛”名称精确对应的2026年官方全国性赛事不存在；最接近的官方赛事为“CMAU全国大学生市场研究与商业策划大赛”(contest.cmau.org.cn，中国高等院校市场学研究会)与“全国大学生市场营销与数字商业大赛”(中国商业技师协会指导，new.saikr.com)，名称均不一致，主办单位亦不同。"
+}

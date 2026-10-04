@@ -1,0 +1,136 @@
+{
+  "competition_id": "xyj_2026",
+  "competition_name": "中国大学生广告艺术节学院奖",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "中国广告协会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "视觉传达设计",
+    "环境设计",
+    "数字媒体艺术",
+    "工业设计",
+    "动画"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-05-30",
+  "submission_deadline": "2026-05-30",
+  "competition_start_date": "2026-03-30",
+  "competition_end_date": "2026-05-30",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国大学生广告艺术节学院奖（简称“学院奖”）是由中国广告协会主办的全国性大学生广告创意竞赛，始创于1999年，覆盖全国及海外上千所高校。2026年分春季赛与秋季赛，参赛学生按组委会指定广告主命题策略单创作，通过创意星球网（xyj.5iidea.com）提交作品，免费参赛，考察创意性、表现力等能力。",
+  "required_materials": [
+    "设计作品",
+    "创作说明",
+    "源文件",
+    "展示视频"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": "https://www.5iidea.com/xyj",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "中国大学生广告艺术节学院奖（简称“学院奖”）是由中国广告协会主办的全国性大学生广告创意竞赛。",
+      "document_name": "中国大学生广告艺术节学院奖2026赛事正式启动（武汉学院）",
+      "source_url": "https://am.whxy.edu.cn/info/1033/8888.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国大学生广告艺术节学院奖（简称“学院奖”）是由中国广告协会主办的全国性大学生广告创意竞赛。",
+      "document_name": "中国大学生广告艺术节学院奖2026赛事正式启动（武汉学院）",
+      "source_url": "https://am.whxy.edu.cn/info/1033/8888.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛资格：全国专科、高职、本科、硕士、博士等在校学生。",
+      "document_name": "2026年中国大学生广告艺术节学院奖（赛氪报名页）",
+      "source_url": "https://new.saikr.com/vse/58108",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品提交及截稿日期：2026春季征集大赛开放上传时间为3月，截稿时间为2026年5月30日下午17:00。",
+      "document_name": "关于组织参加中国大学生广告艺术节学院奖2026春季作品征集的通知（长江大学）",
+      "source_url": "https://yscm.yangtzeu.edu.cn/info/1087/11618.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名阶段 2026.03.30 ~ 2026.05.30；作品上传网址 xyj.5iidea.com。",
+      "document_name": "2026年中国大学生广告艺术节学院奖（赛氪报名页）",
+      "source_url": "https://new.saikr.com/vse/58108",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已于2026-07-18经创意星球网（5iidea.com）官方报名页及多所高校通知核验：官方名称为“中国大学生广告艺术节学院奖”（简称学院奖），主办为中国广告协会；2026年分春季赛与秋季赛，春季征集大赛报名/上传开放3月、截稿2026-05-30 17:00（创意星球网 xyj.5iidea.com），免费参赛。原模板名称“学院奖广告创意大赛”及日期（2026-08至09）为占位错误，已更正。result_announcement_date未能核实2026具体日期，置为null；秋季赛另行启动，日期以官网为准。",
+  "official_source_status": "found"
+}

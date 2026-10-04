@@ -1,0 +1,127 @@
+{
+  "competition_name": "APMCM 亚太地区大学生数学建模竞赛（中文赛项）",
+  "document_year": 2026,
+  "organizer": "中国国际科技促进会物联网工作委员会、北京图象图形学学会、亚太地区大学生数学建模竞赛组委会",
+  "category": "modeling",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-06-12",
+  "competition_end_date": "2026-06-15",
+  "result_announcement_date": "2026-08-15",
+  "award_settings": "设创新奖、一等奖、二等奖、三等奖及成功参赛奖。",
+  "brief_description": "APMCM 是面向中国及境外在校学生的国际数学建模竞赛（中文赛项），以 1~3 人组队形式，在约三天内完成建模、求解与论文撰写，强调跨专业协作与创新解法，获奖证书对保研与留学有较高认可度。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "按参赛队伍总数比例评选"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "按参赛队伍总数比例评选"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "按参赛队伍总数比例评选"
+    },
+    {
+      "award": "成功参赛奖",
+      "proportion": "其余成功提交论文队伍",
+      "note": "成功提交完整论文即获"
+    }
+  ],
+  "required_materials": [
+    "论文PDF",
+    "支撑材料",
+    "承诺书"
+  ],
+  "evaluation_dimensions": null,
+  "required_skills": [
+    "数学建模",
+    "计算机编程",
+    "论文写作"
+  ],
+  "official_source_url": "http://www.apmcm.org",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "亚太地区大学生数学建模竞赛是由中国国际科技促进会物联网工作委员会和北京图象图形学学会联合主办的亚太地区大学生学科类竞赛，竞赛由亚太地区大学生数学建模竞赛组委会负责组织",
+      "document_name": "APMCM竞赛官方简介",
+      "source_url": "http://www.apmcm.org",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：即日起至2026年6月12日12:00",
+      "document_name": "2026年第十六届APMCM亚太地区大学生数学建模竞赛（中文赛项）报名通知",
+      "source_url": "https://m.saikr.com/contest/notice_detail/43314",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "比赛时间：2026年6月12日18:00至2026年6月15日20:00；论文提交截止：2026年6月15日20:00",
+      "document_name": "2026年第十六届APMCM亚太地区大学生数学建模竞赛（中文赛项）赛程安排",
+      "source_url": "https://m.saikr.com/contest/notice_detail/43312",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "普通高校全日制在校生（本科生、专科生、研究生）以1~3人为一队，允许跨校、跨年级、跨专业组队参赛",
+      "document_name": "2026年第十六届APMCM亚太地区大学生数学建模竞赛（中文赛项）报名通知",
+      "source_url": "https://m.saikr.com/contest/notice_detail/43314",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_size_max",
+      "page": null,
+      "source_text": "普通高校全日制在校生（本科生、专科生、研究生）以1~3人为一队，允许跨校、跨年级、跨专业组队参赛",
+      "document_name": "2026年第十六届APMCM亚太地区大学生数学建模竞赛（中文赛项）报名通知",
+      "source_url": "https://m.saikr.com/contest/notice_detail/43314",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "本赛奖项设创新、一、二、三等奖、成功参赛奖",
+      "document_name": "2026年第十六届APMCM亚太地区大学生数学建模竞赛（中文赛项）报名通知",
+      "source_url": "http://www.renminjiaoyuzaixian.cn?jiaoyulueying/9919.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "经2026-07-18复核，APMCM亚太地区大学生数学建模竞赛（中文赛项）第十六届（2026）信息已通过官网www.apmcm.org及组委会指定赛氪报名页（new.saikr.com/vse/apmcm2602）确认：主办单位为中国国际科技促进会物联网工作委员会、北京图象图形学学会、亚太地区大学生数学建模竞赛组委会；报名截止2026年6月12日12:00，比赛时间2026年6月12日18:00—6月15日20:00；参赛对象为本科生、专科生、研究生，1~3人组队，可跨校跨专业。重要更正：原占位样例的报名/提交截止（2026-11-20 / 2026-11-24）不实，实为2026年6月赛程。与国赛不同，APMCM允许研究生参赛并允许1–3人组队、跨校组队。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "competition_id": "apmcm_2026"
+}

@@ -1,0 +1,123 @@
+{
+  "competition_id": "chem_exp_2026",
+  "competition_name": "全国大学生化工实验大赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "中国化工教育协会",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "化学工程与工艺",
+    "应用化学",
+    "制药工程",
+    "能源化学工程",
+    "环境工程",
+    "生物工程"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-18",
+  "competition_end_date": "2026-08-11",
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖（由赛区/全国组委会评定，特等奖队伍晋级全国总决赛）。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "赛区定额",
+      "note": "全国总决赛资格"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生化工实验大赛是由中国化工教育协会主办的化工环境类赛事，面向化工与制药类及相关专业全日制在校本科生。以3人固定团队形式参赛，考察化工原理理论、单元仿真操作与化工原理实验能力。",
+  "required_materials": [
+    "化工原理理论答卷",
+    "仿真操作记录",
+    "实验报告",
+    "校赛选拔材料"
+  ],
+  "evaluation_dimensions": [
+    "理论掌握",
+    "仿真操作",
+    "实验技能",
+    "团队配合"
+  ],
+  "required_skills": [
+    "化工原理",
+    "仿真软件",
+    "实验操作",
+    "数据处理"
+  ],
+  "official_source_url": "https://edu.cteic.com/match/app/notice/55",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 中国化工教育协会",
+      "document_name": "关于举办第九届全国大学生化工实验大赛的通知",
+      "source_url": "https://edu.cteic.com/match/app/notice/55",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "大赛为团队赛……每支参赛队由3名选手组成,一经组队,不得随意变更参赛选手",
+      "document_name": "关于举办第九届全国大学生化工实验大赛的通知",
+      "source_url": "https://edu.cteic.com/match/app/notice/55",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛选手为高等学校化工与制药类及相关专业全日制在校本科生",
+      "document_name": "关于举办第九届全国大学生化工实验大赛的通知",
+      "source_url": "https://edu.cteic.com/match/app/notice/55",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "总决赛定于2026年8月8日至11日在郑州大学举办",
+      "document_name": "关于举办第九届全国大学生化工实验大赛的通知",
+      "source_url": "https://edu.cteic.com/match/app/notice/55",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经官网(edu.cteic.com/match)核验：本届为第九届，主题“启航—化学工程师”，总决赛2026-08-08~11在郑州大学，赛区初赛多在2026年7月（如华北赛区7月18-20日）。原记录team_max=4、含研究生、及秋季日期(2026-11-22等)均为占位值/错误，已更正（3人固定队、仅本科生、比赛窗口7-8月）。各赛区报名截止不一（如西南赛区2026-05-25、西北赛区2026-05-15前），无全国统一报名截止，故registration_deadline置空；赛事为现场竞赛，无论文提交截止，submission_deadline置空；result_announcement_date为总决赛后，官方未给统一日期，置空。",
+  "official_source_status": "found"
+}

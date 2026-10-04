@@ -1,0 +1,49 @@
+{
+  "competition_id": "全国大学生AIGC新媒体创作大赛_2026",
+  "competition_name": "全国大学生AIGC·新媒体创作大赛",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "北京都奔信息科技有限公司 AIGC·新媒体创作大赛组委会（支持单位：赛氪网）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-07-28",
+  "competition_end_date": "2026-12-15",
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖及优秀奖",
+  "award_distribution": [],
+  "brief_description": "以“AI眼里的中国美”为主题的免费AIGC创作赛，设AI生成图片、AI生成视频两个赛道，参赛者需在大赛指定AI平台完成创作并提交作品ID。",
+  "required_materials": [
+    "AI生成作品成品",
+    "创作平台作品ID"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "主题契合度",
+    "作品完成度",
+    "文化表达"
+  ],
+  "required_skills": [
+    "AIGC工具使用",
+    "新媒体创作",
+    "视觉设计"
+  ],
+  "official_source_url": "https://www.saikr.com/vse/aigc/xmtcz",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 赛氪 saikr.com/vse/aigc/xmtcz。报名阶段 2026-07-28 起，作品提交截止 2026-12-15；不收取报名费，每半月评阅一次。主办为企业单位，非教育部榜单赛事，含金量偏低，供参考。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

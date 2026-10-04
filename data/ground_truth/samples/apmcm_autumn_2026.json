@@ -1,0 +1,108 @@
+{
+  "competition_id": "apmcm_autumn_2026",
+  "competition_name": "2026年第十六届APMCM亚太地区大学生数学建模竞赛（秋季英文赛项）",
+  "document_year": 2026,
+  "organizer": "中国国际科技促进会物联网工作委员会、北京图象图形学学会",
+  "category": "modeling",
+  "official_source_url": "https://www.apmcm.org/detail/2512",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-03",
+  "last_verified_at": "2026-10-03",
+  "doc_version": "2026_autumn_20261003",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-11-25",
+  "submission_deadline": null,
+  "required_materials": [
+    "电子版英文论文"
+  ],
+  "required_skills": [
+    "数学建模",
+    "Python",
+    "英语",
+    "论文写作"
+  ],
+  "evaluation_dimensions": [],
+  "data_status": "verified",
+  "trusted_level": "A",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "source_text": "报名截止日期为11月25日，报名截止后不能再更改报名信息。",
+      "page": null,
+      "document_name": "apmcm_autumn_2026_official.png",
+      "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+      "trusted_level": "A",
+      "document_sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "eligible_students",
+      "source_text": "竞赛分为研究生组、本科组、专科组，报名时请根据参赛队员中最高在读学历选择组别。",
+      "page": null,
+      "document_name": "apmcm_autumn_2026_official.png",
+      "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+      "trusted_level": "A",
+      "document_sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "team_min",
+      "source_text": "参赛对象为普通高校全日制在校大学生，参赛队由1–3名大学生组成。",
+      "page": null,
+      "document_name": "apmcm_autumn_2026_official.png",
+      "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+      "trusted_level": "A",
+      "document_sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "team_max",
+      "source_text": "参赛对象为普通高校全日制在校大学生，参赛队由1–3名大学生组成。",
+      "page": null,
+      "document_name": "apmcm_autumn_2026_official.png",
+      "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+      "trusted_level": "A",
+      "document_sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "竞赛只需要提交电子版论文，不需要邮寄纸质版论文；所有参赛队必须提交英文版论文。",
+      "page": null,
+      "document_name": "apmcm_autumn_2026_official.png",
+      "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+      "trusted_level": "A",
+      "document_sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "competition_end_date",
+      "source_text": "竞赛的时间确定为2026年11月26日06:00至2026年11月30日09:00。",
+      "page": null,
+      "document_name": "apmcm_autumn_2026_official.png",
+      "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+      "trusted_level": "A",
+      "document_sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    }
+  ],
+  "competition_start_date": "2026-11-26",
+  "competition_end_date": "2026-11-30",
+  "brief_description": "秋季英文赛项，与现有六月中文赛项独立；允许跨校组队，每队最多一名指导教师。",
+  "notes": "原文来自官网通知所链接的盖章图片，经逐项视觉读取；不是OCR自动核验。报名仅给日期，未伪造截止钟点。提交截止细则尚待补充，不将竞赛结束自动当作论文提交截止。最终以官网最新通知为准。"
+}

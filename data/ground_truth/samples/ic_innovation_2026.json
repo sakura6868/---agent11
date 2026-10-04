@@ -1,0 +1,136 @@
+{
+  "competition_id": "ic_innovation_2026",
+  "competition_name": "全国大学生集成电路创新创业大赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "工业和信息化部人才交流中心",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-03-31",
+  "submission_deadline": "2026-05-07",
+  "competition_start_date": "2026-01-01",
+  "competition_end_date": "2026-07-31",
+  "result_announcement_date": "2026-07-31",
+  "award_settings": "设初赛、分赛区决赛、全国总决赛三级赛程；全国总决赛设一、二、三等奖及各类单项奖，总奖金超过100万元，另设优秀指导教师奖与优秀组织奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生集成电路创新创业大赛是由工业和信息化部人才交流中心主办的电子设计类赛事，主要面向本科生、研究生及专科生。要求电子信息、通信、自动化、集成电路等专业的同学以1-3人组队形式参与，考察方案设计、实现效果等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "http://univ.ciciec.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：2026年1月-3月，报名截止日期：2026年3月31日",
+      "document_name": "第十届集创赛主要日程安排（大赛官网）",
+      "source_url": "https://univ.ciciec.com/col.jsp?id=123&id=123",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "初赛作品提交：2026年5月7日截止，评审时间：2026年5月",
+      "document_name": "第十届集创赛主要日程安排（大赛官网）",
+      "source_url": "https://univ.ciciec.com/col.jsp?id=123&id=123",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国总决赛：2026年7月下旬（具体时间、地点待定）",
+      "document_name": "第十届集创赛主要日程安排（大赛官网）",
+      "source_url": "https://univ.ciciec.com/col.jsp?id=123&id=123",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "学生自行组队（可跨校组队），每个团队1-3人",
+      "document_name": "关于举办2026年第十届全国大学生集成电路创新创业大赛的通知",
+      "source_url": "https://cxcyxy.sylu.edu.cn/info/1089/3019.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象为集成电路、微电子、电子科学与技术及相关专业的在校专科生、本科生、硕士研究生和博士研究生",
+      "document_name": "关于组织参加2026年第十届全国大学生集成电路创新创业大赛的通知",
+      "source_url": "https://cxcyxy.sylu.edu.cn/info/1089/3019.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "2026年为第十届全国大学生集成电路创新创业大赛（集创赛），由工业和信息化部人才交流中心主办，官网 univ.ciciec.com 已公布日程。报名1-3月（截止3月31日），初赛作品提交5月7日截止，全国总决赛7月下旬（具体日期待定，故 competition_end_date/result_announcement_date 取月末近似）。原占位日期（9-10月）已更正；eligible_students 据官方通知补充“专科生”。award_distribution比例为示意，非官方固定比例。",
+  "official_source_status": "found"
+}

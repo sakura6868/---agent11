@@ -1,0 +1,146 @@
+{
+  "competition_id": "renewable_2026",
+  "competition_name": "全国大学生可再生能源优秀科技作品竞赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "中国可再生能源学会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "化学",
+    "应用化学",
+    "环境工程",
+    "材料化学",
+    "能源化学",
+    "化学工程与工艺",
+    "新能源"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 7,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-01",
+  "competition_end_date": "2026-04-30",
+  "result_announcement_date": "2026-04-30",
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖；科技作品类与社会实践调查报告类分类评选。另设优秀指导教师奖、优秀组织奖。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "按参赛规模",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "按参赛规模",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "按参赛规模",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "按参赛规模",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生可再生能源优秀科技作品竞赛是由中国可再生能源学会主办的赛事（第八届，2025-2026），紧扣'发展绿色能源 建设美丽中国'主题，分科技作品类与社会实践调查报告类。要求全日制非成人教育专科生、本科生、硕士及博士研究生组队（每组不超过7人）参赛，考察方案可行、绿色安全与创新性。",
+  "required_materials": [
+    "作品申报书",
+    "说明书",
+    "设计文档",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "可行性",
+    "经济性"
+  ],
+  "required_skills": [
+    "化学实验",
+    "数据分析",
+    "仿真模拟",
+    "工艺设计"
+  ],
+  "official_source_url": "http://jingsai.creac.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "关于举办'中国中车杯'第八届全国大学生可再生能源优秀科技作品竞赛的通知",
+      "document_name": "中国可再生能源学会：第八届全国大学生可再生能源优秀科技作品竞赛通知",
+      "source_url": "https://cet.ncepu.edu.cn/docs/2025-11/cf125c7c38ef4beca217f25cf12789f4.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：中国可再生能源学会",
+      "document_name": "第八届全国大学生可再生能源优秀科技作品竞赛通知",
+      "source_url": "https://jingsai.creac.org.cn/index/view/88.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "参赛者必须组队参赛，每组成员不超过7名；参赛队伍按照研究生组和本科生组分别进行比赛",
+      "document_name": "第七届全国大学生可再生能源优秀科技作品竞赛细则",
+      "source_url": "https://jingsai.creac.org.cn/uploads/admin/202409/66f4a2cc2fe88.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "竞赛报名：参赛团队须在2025年11月30日前完成报名；作品提交：参赛团队须在2025年12月31日前提交作品",
+      "document_name": "第八届全国大学生可再生能源优秀科技作品竞赛通知",
+      "source_url": "https://cet.ncepu.edu.cn/docs/2025-11/cf125c7c38ef4beca217f25cf12789f4.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "决赛：2026年4月将举行决赛",
+      "document_name": "第八届全国大学生可再生能源优秀科技作品竞赛通知",
+      "source_url": "https://cet.ncepu.edu.cn/docs/2025-11/cf125c7c38ef4beca217f25cf12789f4.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网：http://jingsai.creac.org.cn/",
+      "document_name": "第八届全国大学生可再生能源优秀科技作品竞赛通知",
+      "source_url": "http://jingsai.creac.org.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "原记录名称'全国大学生可再生能源竞赛'已补全为官方全称'全国大学生可再生能源优秀科技作品竞赛'(第八届，2025-2026跨年举办)。主办由原'相关可再生能源学会'更正为'中国可再生能源学会'。原team_max=4、各round占位日期已据第八届通知更正：队伍不超过7人，报名2025-11-30截止，作品提交2025-12-31，决赛2026年4月。注意该赛事为跨年赛事，报名/提交在2025年、决赛在2026年。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

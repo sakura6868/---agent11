@@ -1,0 +1,37 @@
+[
+  {
+    "document_path": "data/official_sources/autumn_2026/apmcm_autumn_2026_notice.html",
+    "source_url": "https://www.apmcm.org/detail/2512",
+    "sha256": "a3c3406ef8a2e61f0860e4b2a4f3b819fc3dc3ab4d2cf4d48b04a12cb98536e8",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  },
+  {
+    "document_path": "data/official_sources/autumn_2026/apmcm_autumn_2026_official.png",
+    "source_url": "https://files.apmcm.org/uploads/images/20260915/1789456047535603.png",
+    "sha256": "7772500856495bc467e1c423015f8b282188f38bcd1700a31a7f0a03aebc807a",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  },
+  {
+    "document_path": "data/official_sources/autumn_2026/dmt_2026_guide.pdf",
+    "source_url": "https://static.cmit.cn/uploadfile/2026/0924/附件1 2026年第十四届全国大学生数字媒体科技作品及创意竞赛参赛指南.pdf",
+    "sha256": "2aa077845e98468d4571687637480d83ce900d2f18a26b718cdf00491d42f52e",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  },
+  {
+    "document_path": "data/official_sources/autumn_2026/dmt_2026_official.html",
+    "source_url": "https://www.cmit.cn/wap/tongzhigonggao/show-144-45826-1.html",
+    "sha256": "8c05a90992f2ffdac519b41d41f5afd5fb2f77a2863f98b2df3775006a07b342",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  },
+  {
+    "document_path": "data/official_sources/autumn_2026/swb_autumn_2026_official.html",
+    "source_url": "https://www.nmmcm.org.cn/Competition/",
+    "sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+    "acquired_date": "2026-10-03",
+    "source_checked_date": "2026-10-03"
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "competition_id": "stat_model_2026",
+  "competition_name": "全国大学生统计建模大赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "中国统计教育学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": "2026-08-31",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生统计建模大赛是由中国统计教育学会主办的统计类赛事（2026年为第十二届），主要面向全日制在校本科生、研究生，专业不限。要求以3人组队形式参与，围绕年度主题自拟题目撰写论文，考察统计方法、数据分析与论文写作等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "分析报告",
+    "建模代码",
+    "数据集",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "可视化表达",
+    "创新应用"
+  ],
+  "required_skills": [
+    "Python",
+    "数据分析",
+    "机器学习",
+    "SQL",
+    "数据可视化"
+  ],
+  "official_source_url": "http://tjjmds.ai-learning.net/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "2026年（第十二届）全国大学生统计建模大赛定于2026年3月正式启动。大赛由中国统计教育学会主办",
+      "document_name": "中国统计教育学会关于举办2026年（第十二届）全国大学生统计建模大赛的通知",
+      "source_url": "https://www.gzcc.edu.cn/sjjxzx/upload/files/2026/3/ffe85755484454af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每支参赛队须满3人组队，不可跨校组队参赛",
+      "document_name": "中国统计教育学会关于举办2026年（第十二届）全国大学生统计建模大赛的通知",
+      "source_url": "https://www.gzcc.edu.cn/sjjxzx/upload/files/2026/3/ffe85755484454af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "allowed_majors",
+      "page": null,
+      "source_text": "各有关高等院校全日制在校本科生、研究生均可报名，专业不限。",
+      "document_name": "中国统计教育学会关于举办2026年（第十二届）全国大学生统计建模大赛的通知",
+      "source_url": "https://www.gzcc.edu.cn/sjjxzx/upload/files/2026/3/ffe85755484454af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "省赛：6月；国赛：7月至8月份",
+      "document_name": "关于举办2026年全国大学生统计建模大赛上海大学校赛的通知",
+      "source_url": "https://bksy.shu.edu.cn/__local/C/52/64/4B69217F3564DEA75A9BB72008F_D793F737_13BE2.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】已据中国统计教育学会官方通知（第十二届，2026）更正：团队须满3人（原team_min=1有误，已更正为3）；专业不限（原allowed_majors 列表有误，已置空）；赛程为3月启动、各校5月中旬前推荐省赛、省赛6月、国赛7-8月，故 registration_deadline 取各校推荐省赛截止2026-05-17、submission_deadline 取作品提交约2026-05-05（各省略有差异）、competition_end_date/result 取2026-08-31（约值，国赛7-8月）。具体日期以大赛官网 tjjmds.ai-learning.net 及各赛区通知为准。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

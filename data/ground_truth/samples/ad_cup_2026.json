@@ -1,0 +1,119 @@
+{
+  "competition_id": "ad_cup_2026",
+  "competition_name": "全国大学生广告艺术大赛（大广赛）",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "教育部高等学校新闻传播学类专业教学指导委员会、中国高等教育学会广告教育专业委员会（承办：中国传媒大学、全国大学生广告艺术大赛组委会）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": "2026-06-12",
+  "competition_start_date": "2026-01-01",
+  "competition_end_date": "2026-09-30",
+  "result_announcement_date": "2026-09-30",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生广告艺术大赛（大广赛）是由教育部高等学校新闻传播学类专业教学指导委员会、中国高等教育学会广告教育专业委员会主办的艺术设计类赛事，面向全国各类高等院校在校全日制大学生、研究生，不限专业。以团队（最多5人/组，部分类别≤2人）形式参与，考察创意性、表现力等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "设计作品",
+    "创作说明",
+    "源文件",
+    "展示视频"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": "https://www.sun-ada.net/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生广告艺术大赛是由教育部高等教育司指导、教育部高等学校新闻传播学类专业教学指导委员会、中国高等教育学会广告教育专业委员会共同主办，中国传媒大学、全国大学生广告艺术大赛组委会承办",
+      "document_name": "2026第18届全国大学生广告艺术大赛赛事介绍",
+      "source_url": "http://up.ideajl.cn",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "第18届大广赛提交平台将于5月10日正式开放，截至6月12日16:00关闭",
+      "document_name": "第18届全国大学生广告艺术大赛甘肃赛区选拔赛参赛办法",
+      "source_url": "https://www.sun-ada.net/news_xq3s779.html?sid=4",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "作者人数：平面类、文案类不超过2人/组；短视频、互动类、广播类不超过3人/组；影视广告、微电影广告、动画类、策划案类、UI类、科技类、营销创客类不超过5人/组",
+      "document_name": "2026年第18届全国大学生广告艺术大赛参赛对象及要求",
+      "source_url": "https://www.lncu.edu.cn/cxcyxy/?p=28662",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象：全省各高等院校全日制在校本科生、研究生均可参加",
+      "document_name": "第18届全国大学生广告艺术大赛甘肃赛区选拔赛参赛办法",
+      "source_url": "https://www.sun-ada.net/news_xq3s779.html?sid=4",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】依据大广赛官网 sun-ada.net 及第18届（2026）各赛区通知核验：主办单位含教育部新闻传播学类教指委、中国高等教育学会广告教育专业委员会；第18届作品提交平台5月10日开放、6月12日16:00关闭，全国总评审7月、结果9月公布；团队人数按类别2–5人不等（置 team_max=5）。大广赛面向全国全日制本/研在校生、不限专业，故 allowed_majors 置空（原占位所列设计类专业仅为常见参赛专业，非限制条件）。原占位报名/提交截止(2026-09)与2026届实际(2026-06)不符，已更正。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

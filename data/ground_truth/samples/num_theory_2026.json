@@ -1,0 +1,80 @@
+{
+  "competition_id": "num_theory_2026",
+  "competition_name": "全国大学生数论与组合竞赛",
+  "document_year": 2026,
+  "category": "math",
+  "organizer": "相关数学机构",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "信息与计算科学",
+    "统计学",
+    "物理学",
+    "计算机科学与技术"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-10-15",
+  "competition_end_date": "2026-11-08",
+  "result_announcement_date": "2026-12-20",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生数论与组合竞赛是由相关数学机构主办的数学竞技类赛事，主要面向本科生、研究生。要求数学与应用数学、信息与计算科学、统计学等的同学以个人参赛形式参与，考察解题正确、方法严谨等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "答卷",
+    "解题过程",
+    "证明"
+  ],
+  "evaluation_dimensions": [
+    "解题正确",
+    "方法严谨",
+    "思维深度"
+  ],
+  "required_skills": [
+    "数学分析",
+    "高等代数",
+    "概率统计",
+    "解题技巧"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E8%AE%BA%E4%B8%8E%E7%BB%84%E5%90%88%E7%AB%9E%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 2026-07-18 核验：未找到名为“全国大学生数论与组合竞赛”的官方全国性赛事依据；检索到的相关赛事为“全国大学生数学竞赛”（cmathc.cn）与“丘成桐大学生数学竞赛”（其设“代数、数论与组合”科目，非独立竞赛）。字段 organizer/eligible_students/team/dates 等均未能找到官方依据，保留原值待人工确认。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。注：名称相近的真实赛事为“丘成桐大学生数学竞赛”（设“代数、数论与组合”科目，非独立竞赛）与“全国大学生数学竞赛”（cmathc.cn，中国数学会主办）。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

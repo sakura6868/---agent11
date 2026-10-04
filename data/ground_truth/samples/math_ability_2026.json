@@ -1,0 +1,115 @@
+{
+  "competition_id": "math_ability_2026",
+  "competition_name": "全国高等院校数学能力挑战赛",
+  "document_year": 2026,
+  "category": "math",
+  "organizer": "中国国际科技促进会综合素质与职业发展教育专业委员会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-06-26",
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-10",
+  "competition_end_date": "2026-07-05",
+  "result_announcement_date": null,
+  "award_settings": "初赛评一、二、三等奖(分别不超过本场次本组参赛人数10%/20%/30%),初赛一、二等奖入围决赛;决赛评全国一、二、三等奖(分别不超过本组参赛人数5%/15%/20%)。",
+  "award_distribution": [
+    {
+      "award": "初赛一等奖",
+      "proportion": "10%参赛人数",
+      "note": "初赛"
+    },
+    {
+      "award": "初赛二等奖",
+      "proportion": "20%参赛人数",
+      "note": "初赛"
+    },
+    {
+      "award": "初赛三等奖",
+      "proportion": "30%参赛人数",
+      "note": "初赛"
+    }
+  ],
+  "brief_description": "全国高等院校数学能力挑战赛(数挑赛)是由中国国际科技促进会综合素质与职业发展教育专业委员会主办的全国性数学线上竞赛（2026年为第七届），面向专科、本科、硕士在校生，专业不限。为个人赛，采用在线作答方式，考察高等数学等基础能力。",
+  "required_materials": [
+    "答卷"
+  ],
+  "evaluation_dimensions": [
+    "解题正确",
+    "方法严谨",
+    "思维深度"
+  ],
+  "required_skills": [
+    "高等数学",
+    "线性代数",
+    "数学分析",
+    "高等代数"
+  ],
+  "official_source_url": "http://ncmac.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v3",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 中国国际科技促进会综合素质与职业发展教育专业委员会",
+      "document_name": "2026年第七届全国高等院校数学能力挑战赛官网",
+      "source_url": "http://ncmac.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "大赛报名时间:即日起-2026年6月26日17时。",
+      "document_name": "2026年第七届全国高等院校数学能力挑战赛官网",
+      "source_url": "http://ncmac.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "全国高校全日制在校生(研究生、本科生、专科生)均可报名此次大赛。报名成功的同学在规定时间内进行作答并提交答卷。",
+      "document_name": "2026年第七届全国高等院校数学能力挑战赛官网",
+      "source_url": "http://ncmac.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "初赛一等奖 占初赛参赛人数10%...全国决赛一等奖 占决赛参赛人数5%。",
+      "document_name": "大赛题型(ncmac.cn)",
+      "source_url": "https://www.ncmac.cn?reg=38583/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全校全日制在校专科生、本科生,不限专业。",
+      "document_name": "关于组织参加2026年第七届高等院校数学能力挑战赛的通知(新乡工程学院)",
+      "source_url": "https://www.xxgc.edu.cn/jwb/info/1079/2023.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "依据竞赛官网ncmac.cn(第七届,2026)核实并订正：主办单位“中国国际科技促进会综合素质与职业发展教育专业委员会”经官网确认；个人赛(team_min/max=1)保留；报名截止2026-06-26、第一场初赛2026-05-10、决赛2026-07-05经官网确认保留。result_announcement_date原2026-07-15在官网仅对应“决赛获奖公示2026年7月中旬”，非确切日期，故置空以防臆造。竞赛官方名称为“全国高等院校数学能力挑战赛”，可信级别由B升为A(官方竞赛网站)。"
+}

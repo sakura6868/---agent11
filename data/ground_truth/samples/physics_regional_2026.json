@@ -1,0 +1,114 @@
+{
+  "competition_id": "physics_regional_2026",
+  "competition_name": "全国部分地区大学生物理竞赛",
+  "document_year": 2026,
+  "category": "physics",
+  "organizer": "北京物理学会、山东省物理学会、四川省物理学会",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "物理学",
+    "应用物理",
+    "光电信息",
+    "材料物理",
+    "天文学"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "按五个组分别评出一、二、三等奖，对获奖者授予获奖证书；另评团体奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "各组分别评定",
+      "note": "按组评奖"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "各组分别评定",
+      "note": "按组评奖"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "各组分别评定",
+      "note": "按组评奖"
+    }
+  ],
+  "brief_description": "全国部分地区大学生物理竞赛是由北京物理学会、山东省物理学会、四川省物理学会联合主办的区域性物理赛事，主要面向本科生（以当年大一/相应年级为主）。参赛学生均以个人身份参加，不组队，考察基础知识掌握与灵活运用能力。",
+  "required_materials": [
+    "答卷"
+  ],
+  "evaluation_dimensions": [
+    "基础知识掌握",
+    "自学能力",
+    "独立工作能力",
+    "灵活运用知识解决问题"
+  ],
+  "required_skills": [
+    "大学物理",
+    "理论推导",
+    "解题技巧"
+  ],
+  "official_source_url": "http://bjwlxh.cn/Ch/wapNewsView.asp?ID=350",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第41届全国部分地区大学生物理竞赛办法",
+      "document_name": "北京物理学会：第41届全国部分地区大学生物理竞赛办法",
+      "source_url": "http://bjwlxh.cn/Ch/wapNewsView.asp?ID=350",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "经北京物理学会、山东省物理学会、四川省物理学会理事会协商，联合举办第41届全国部分地区大学生物理竞赛",
+      "document_name": "北京物理学会：第41届全国部分地区大学生物理竞赛办法",
+      "source_url": "http://bjwlxh.cn/Ch/wapNewsView.asp?ID=350",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "参赛学生均以个人身份参加，每个学生只有一次参赛机会，不代表所在高校",
+      "document_name": "北京物理学会：第41届全国部分地区大学生物理竞赛办法",
+      "source_url": "http://bjwlxh.cn/Ch/wapNewsView.asp?ID=350",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "第41届全国部分地区大学生物理竞赛办法（北京物理学会官网）",
+      "document_name": "北京物理学会官网通知",
+      "source_url": "http://bjwlxh.cn/Ch/wapNewsView.asp?ID=350",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "原记录将该赛事误列为'团队赛(1-3人)'，实际上为全国部分地区（北京/山东/四川等）联合举办、以个人身份参赛的区域性竞赛，已更正为个人赛。第41届于2025-12-07举行；2026年（第42届）具体报名/竞赛日期官方未明确公布，日期字段置null待人工确认。参赛对象以当年相应年级本科生为主（原allowed_grades已调整）。",
+  "official_source_status": "found"
+}

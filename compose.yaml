@@ -1,0 +1,13 @@
+services:
+  campus-agent:
+    build: .
+    ports:
+      - "${HOST_PORT:-8000}:8000"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: sqlite:////app/data/campus_agent.db
+      PORT: "8000"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

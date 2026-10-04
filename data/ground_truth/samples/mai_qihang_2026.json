@@ -1,0 +1,137 @@
+{
+  "competition_name": "中国高校计算机大赛—移动应用创新赛（启航赛道）",
+  "document_year": 2026,
+  "organizer": "中国高校计算机大赛—移动应用创新赛组织委员会",
+  "category": "software",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-07-31",
+  "submission_deadline": "2026-07-31",
+  "required_materials": [
+    "全体队员签名的报名表",
+    "作品说明文档",
+    "已上架或TestFlight可用的App"
+  ],
+  "evaluation_dimensions": [
+    "作品创新性",
+    "商业前景",
+    "社会价值",
+    "团队展示与表达"
+  ],
+  "required_skills": [
+    "iOS/iPadOS/visionOS开发",
+    "产品设计",
+    "商业分析",
+    "路演表达"
+  ],
+  "official_source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "A",
+  "data_status": "verified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_official_rules_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 2,
+      "source_text": "启航赛道初赛作品提交截止日期为2026年7月31日晚23:59。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 2,
+      "source_text": "启航赛道初赛作品提交截止日期为2026年7月31日晚23:59。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 1,
+      "source_text": "参赛队员应是高等学校的在册和在校学生。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 5,
+      "source_text": "启航赛道的作品必须上架或有TestFlight，并且该作品须在一年内有更新（2025年7月31日至2026年7月31日），在读或毕业五年内的同学均可参与此赛道。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 1,
+      "source_text": "启迪赛道与启航赛道每支参赛队最多由3名队员组成。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 1,
+      "source_text": "启迪赛道与启航赛道每支参赛队最多由3名队员组成。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 1,
+      "source_text": "参赛队伍在网站填写报名表，报名表需要由所有队员签名（可电子签名）后提交至网站。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "初赛提交参赛作品时，必须提交作品说明文档（使用模板）。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": 5,
+      "source_text": "启航赛道评审包括作品创新性35分、商业前景35分、社会价值20分、团队展示与表达10分。",
+      "document_name": "“中国高校计算机大赛—移动应用创新赛”竞赛规程（2026年）.pdf",
+      "source_url": "https://xk.qust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1999506397&wbfileid=17743430",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "按启航赛道单独建档，避免与启明/启迪赛道的6月30日截止混用。规程仅明确队员上限3人；依据本系统“仅公布上限即最少1人”的统一产品规则，team_min记录为1，不将其表述为官方原文。报名系统在截止日前允许完善信息，故报名截止与初赛作品截止统一记录为2026-07-31。",
+  "official_source_status": "found"
+}

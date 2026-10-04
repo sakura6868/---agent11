@@ -1,0 +1,134 @@
+{
+  "competition_id": "chem_design_2026",
+  "competition_name": "全国大学生化工设计竞赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "中国化工学会、中国化工教育协会",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "化学工程与工艺",
+    "应用化学",
+    "环境工程",
+    "材料化学",
+    "能源化学",
+    "化学"
+  ],
+  "team_required": true,
+  "team_min": 5,
+  "team_max": 5,
+  "registration_deadline": "2026-03-31",
+  "submission_deadline": "2026-07-15",
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-08-17",
+  "result_announcement_date": null,
+  "award_settings": "分赛区设一、二、三等奖；全国总决赛设特、一、二、三等奖（具体比例由组委会确定）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生化工设计竞赛是由中国化工学会、中国化工教育协会主办的化工环境类赛事，主要面向全日制在校本科生。以5人固定团队形式参与，考察化工工艺与工程设计、绿色安全等能力，是提升工程实践能力的重要平台。",
+  "required_materials": [
+    "设计说明书",
+    "可行性研究报告",
+    "设计图纸",
+    "3D介绍视频"
+  ],
+  "evaluation_dimensions": [
+    "方案可行",
+    "绿色安全",
+    "创新性",
+    "完成度"
+  ],
+  "required_skills": [
+    "化工原理",
+    "工艺设计",
+    "仿真模拟",
+    "CAD/Aspen",
+    "工程经济"
+  ],
+  "official_source_url": "http://iche.zju.edu.cn/a/sstz/1656.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国化工学会、中国化工教育协会在浙江省天正设计工程有限公司的冠名赞助下举办",
+      "document_name": "2026年“天正设计杯”第二十届全国大学生化工设计竞赛通知",
+      "source_url": "http://iche.zju.edu.cn/a/sstz/1656.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛者为全日制在校本科生,以团队形式参赛",
+      "document_name": "2026年“天正设计杯”第二十届全国大学生化工设计竞赛通知",
+      "source_url": "http://iche.zju.edu.cn/a/sstz/1656.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛团队由同一所学校的5人组成,设队长1人",
+      "document_name": "2026年“天正设计杯”第二十届全国大学生化工设计竞赛通知",
+      "source_url": "http://iche.zju.edu.cn/a/sstz/1656.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间为3月1日~3月31日,请报名参赛的团队登录全国大学生化工设计竞赛网站在线填写报名表",
+      "document_name": "2026年“天正设计杯”第二十届全国大学生化工设计竞赛通知",
+      "source_url": "http://iche.zju.edu.cn/a/sstz/1656.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "自获准参赛日至7月15日为参赛团队实施设计、完成初赛作品的工作时间",
+      "document_name": "2026年“天正设计杯”第二十届全国大学生化工设计竞赛通知",
+      "source_url": "http://iche.zju.edu.cn/a/sstz/1656.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经官网(iche.zju.edu.cn)核验：本届为第二十届“天正设计杯”，总决赛2026-08-12~17在宁夏大学举办。原记录中team_max=4、allowed_majors含研究生、报名/提交截止(2026-08-01/08-31)及比赛日期(2026-08-06~09-02)均为占位值或错误，已按官方通知更正（5人固定队、仅本科生、报名3月31日、提交7月15日）。result_announcement_date为总决赛后，官方未给统一日期，置空。",
+  "official_source_status": "found"
+}

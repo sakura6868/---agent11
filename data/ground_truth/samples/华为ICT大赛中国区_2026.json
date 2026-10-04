@@ -1,0 +1,42 @@
+{
+  "competition_id": "华为ICT大赛中国区_2026",
+  "competition_name": "华为ICT大赛（中国区）",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "华为技术有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "设高教组、高职组奖项；实践赛、创新赛、编程赛国赛一等奖团队晋级全球总决赛。具体奖项数量以各赛道报名页为准。",
+  "award_distribution": [],
+  "brief_description": "华为ICT大赛是华为面向全球高校的年度ICT赛事，主题“联接·荣耀·未来”，在中国被纳入全国普通高校大学生竞赛项目榜单。设实践赛（网络/云/基础软件/昇腾AI）、创新赛、编程赛、挑战赛、教学赛、精英赛等赛道，多为团队赛（3名学生+1名指导教师）。第十届中国赛于2025年9月至2026年4月举办。",
+  "required_materials": [],
+  "evaluation_dimensions": [],
+  "required_skills": [
+    "网络",
+    "云计算",
+    "人工智能",
+    "编程"
+  ],
+  "official_source_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132004",
+  "source_acquired_date": "2026-07-19",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源华为官网 e.huawei.com（第十届华为ICT大赛中国赛通知）。赛季2025.9-2026.4，各赛道报名截止时间不同（实践赛/挑战赛10-31，创新赛/编程赛/教学赛11-30），此处取最晚代表值；比赛/提交/公布等精确日期未确认故留空。数据待人工核验，请勿当作定论。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

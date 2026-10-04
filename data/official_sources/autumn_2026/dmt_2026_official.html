@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>关于举办2026年第十四届全国大学生数字媒体科技作品及创意竞赛的通知 - 通知公告 - 数媒竞赛网</title>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans SC', '思源黑体', 'Microsoft YaHei', 'PingFang SC', 'SimSun', sans-serif;
+  }
+
+  body {
+    background-color: #f9fafb;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  .nav-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    background-color: #fff;
+    border-bottom: 1px solid #e5e7eb;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    box-sizing: border-box;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+
+  .nav-bar.hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+  .back-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+    flex-shrink: 0;
+  }
+
+  .back-btn:hover {
+    background-color: #f3f4f6;
+  }
+
+  .back-btn:active {
+    background-color: #e5e7eb;
+  }
+
+  .arrow-icon {
+    width: 24px;
+    height: 24px;
+    color: #374151;
+  }
+
+  .nav-title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 16px;
+    font-weight: 500;
+    color: #111827;
+    white-space: nowrap;
+    text-align: center;
+  }
+
+  @media (min-width: 769px) {
+    body {
+      max-width: 768px;
+      margin: 0 auto;
+    }
+    .nav-bar {
+      max-width: 768px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+</style>
+<style>
+  /* ============================================================
+   * WAP内容页样式 v10（2026-08-02 根治版）
+   * 设计原则：
+   *   1. CSS优先于JS修复，减少布局抖动
+   *   2. 消除!important冲突，统一选择器优先级
+   *   3. table强制响应式，从根源解决918px容器问题
+   * ============================================================ */
+
+  .content-container {
+    background-color: #fff;
+    padding-top: 12px;
+    padding-bottom: 140px; /* 加大底部留白，防止内容被遮挡 */
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .article-content {
+    padding: 20px 5px 0 5px;
+    font-size: 16px;
+    color: #374151;
+    line-height: 1.8;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* ========== 一、TABLE核心约束（最高优先级）========== */
+  /* 根源修复：所有table（含嵌套子table）强制100%宽度 */
+  .article-content table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    line-height: 1.5 !important;
+    border-collapse: collapse;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+
+  .article-content table td,
+  .article-content table th {
+    word-break: break-all !important;
+    overflow-wrap: break-word !important;
+    padding: 4px 4px;
+    border: 1px solid #d1d5db;
+    box-sizing: border-box;
+  }
+
+  /* 排除已设置border:none的td（如正文td、附件td、落款td） */
+  .article-content table td[style*="border:none"],
+  .article-content table td[style*="border: none"],
+  .article-content table td[style*="border:none;"],
+  .article-content table td[style*="border: none;"] {
+    border: none !important;
+    padding: 4px 6px;
+  }
+
+  /* 签名落款table特殊处理：无边框、靠右 */
+  .article-content table[style*="margin-left:auto"],
+  .article-content div[style*="margin-top:36px"] table,
+  .article-content table:has(> tbody > tr > td > table td[style*="text-align:right"]),
+  .article-content table:has(> tbody > tr > td > table td[align="right"]) {
+    margin-left: auto !important;
+    margin-right: 12px !important;
+    margin-top: 0 !important;
+    border: none !important;
+  }
+
+  /* 签名内层td：无边框、右对齐 */
+  .article-content table td[style*="text-align:right"],
+  .article-content table td[align="right"] {
+    text-align: right !important;
+    border: none !important;
+    padding: 4px 0 !important;
+  }
+
+  /* 签名td内的p强制右对齐（多层兜底） */
+  .article-content table td[style*="text-align:right"] p,
+  .article-content table td[align="right"] p,
+  .article-content div[style*="text-align:right"] p,
+  .article-content p.sign-right {
+    text-align: right !important;
+    text-indent: 0 !important;
+  }
+
+  /* ========== 二、图片规则 ========== */
+  .article-content img {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 8px auto;
+    box-sizing: border-box;
+  }
+
+  /* ========== 三、段落/文本规则 ========== */
+  .article-content p:not([style*="text-align:right"]):not([align="right"]):not(.sign-right) {
+    margin-bottom: 16px;
+    text-align: left;
+    text-indent: 0 !important;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  /* 纯文本段落留白，含图片的段落不留白 */
+  .article-content p:not(:has(img)):not([style*="text-align:right"]):not([align="right"]):not(.sign-right) {
+    max-width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .article-content div p {
+    text-indent: 0 !important;
+  }
+
+  /* 颜色统一（排除头部横幅白色文字和签名落款） */
+  .article-content p:not([style*="color:#FFFFFF"]):not([style*="text-align:right"]),
+  .article-content div:not(table):not([class]),
+  .article-content li,
+  .article-content h1, .article-content h2, .article-content h3,
+  .article-content h4, .article-content h5, .article-content h6 {
+    color: inherit !important;
+  }
+
+  /* ========== 四、链接换行规则（统一不拆分，除非是附件下载链接）========== */
+  .article-content a {
+    color: #2563eb !important;
+    text-decoration: none !important;
+    word-break: keep-all !important; /* 邮箱/URL不拆分 */
+    overflow-wrap: normal !important;
+  }
+  .article-content a:hover {
+    color: #1d4ed8 !important;
+    text-decoration: underline !important;
+  }
+
+  /* 附件下载链接允许折行 */
+  .article-content a[href*=".zip"],
+  .article-content a[href*=".pdf"],
+  .article-content a[href*=".rar"],
+  .article-content a[href*="uploadfile"] {
+    word-break: break-all !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* 标红strong文字允许折行 */
+  .article-content strong[style*="color:#E03131"],
+  .article-content strong[style*="color:#F53F3F"],
+  .article-content strong[style*="color:#FF0000"] {
+    word-break: break-all !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* ========== 五、元信息/相关文章 ========== */
+  .article-source {
+    text-align: right;
+    color: #6b7280;
+    padding-top: 16px;
+    font-size: 13px;
+  }
+
+  .article-meta {
+    border-top: 1px solid #e5e7eb;
+    padding-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #6b7280;
+    margin-top: 16px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .article-meta a {
+    text-decoration: none !important;
+    color: #2563eb;
+  }
+  .article-meta a:hover {
+    text-decoration: none !important;
+    color: #4b5563;
+  }
+
+  .related-articles { padding-top: 12px; }
+  .related-item {
+    border-top: 1px solid #e5e7eb;
+    padding-top: 12px;
+    margin-bottom: 12px;
+  }
+  .related-item a {
+    color: #2563eb;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.2s ease;
+    word-wrap: break-word;
+  }
+  .related-item a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+  }
+
+  @media (min-width: 769px) {
+    body { max-width: 768px; margin: 0 auto; }
+    .nav-bar { max-width: 768px; left: 50%; transform: translateX(-50%); }
+    .content-container { max-width: 768px; margin: 0 auto; }
+  }
+</style>
+  <div class="nav-bar" id="navBar">
+    <button class="back-btn" onclick="goBack()">
+      <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 18-6-6 6-6"/>
+      </svg>
+    </button>
+    <h1 class="nav-title">新闻内容页</h1>
+  </div>
+  <!-- [WAP_FIX_20260802] 防闪烁：先隐藏内容，JS修复完成后再显示 -->
+  <style>.article-content { visibility: hidden; max-width: 98%; margin: 0 auto; }</style>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    'use strict';
+    var startTime = Date.now();
+    console.log('[WAP_FIX] DOMContentLoaded触发，开始执行修复...');
+
+    // 1. 导航栏功能
+    window.goBack = function() { window.history.back(); };
+    window.addEventListener('scroll', function() {
+      var navBar = document.getElementById('navBar');
+      if (!navBar) return;
+      if (window.scrollY > 20) navBar.classList.add('hidden');
+      else navBar.classList.remove('hidden');
+    });
+
+    // 2. 内容区域修复
+    var el = document.querySelector('.article-content');
+    if (!el) {
+      console.error('[WAP_FIX] ❌ 未找到.article-content！');
+      return;
+    }
+    console.log('[WAP_FIX] ✅ 找到.article-content');
+
+    // 2.1 图片：清除UEditor残留宽高，CSS统一max-width:100%控制
+    var allImgs = el.querySelectorAll('img');
+    for (var k = 0; k < allImgs.length; k++) {
+      allImgs[k].removeAttribute('width');
+      allImgs[k].removeAttribute('height');
+    }
+
+    // 2.2 居中p内的图片设置margin:auto + 签名p右对齐
+    var ps = el.querySelectorAll('p');
+    for (var i = 0; i < ps.length; i++) {
+      var align = ps[i].style.textAlign || ps[i].getAttribute('align') || '';
+      if (align === 'center') {
+        var imgs = ps[i].querySelectorAll('img');
+        for (var j = 0; j < imgs.length; j++) {
+          imgs[j].style.display = 'block';
+          imgs[j].style.margin = '8px auto';
+        }
+      }
+      if (align === 'right' || ps[i].classList.contains('sign-right')) {
+        if (ps[i].style.textIndent) ps[i].style.textIndent = '0';
+        ps[i].style.textAlign = 'right';
+      }
+    }
+
+    // 2.3 签名落款兜底：父td有text-align:right但子p被覆盖
+    var rightTds = el.querySelectorAll('td[style*="text-align:right"], td[align="right"]');
+    for (var r = 0; r < rightTds.length; r++) {
+      var innerPs = rightTds[r].querySelectorAll('p');
+      for (var ip = 0; ip < innerPs.length; ip++) {
+        innerPs[ip].style.textAlign = 'right';
+        innerPs[ip].style.textIndent = '0';
+      }
+    }
+
+    // 2.4 【核心】替换签名嵌套table → 右对齐div
+    var allTables = el.querySelectorAll('table');
+    for (var si = 0; si < allTables.length; si++) {
+      var outerTbl = allTables[si];
+      var outerTds = [];
+      if (outerTbl.tBodies && outerTbl.tBodies[0]) {
+        var trs = outerTbl.tBodies[0].rows;
+        if (trs.length > 0) outerTds = trs[0].cells;
+      }
+      if (outerTds.length !== 1) continue;
+      var innerTbl = outerTds[0].querySelector('table');
+      if (!innerTbl) continue;
+      var innerTds = [];
+      if (innerTbl.tBodies && innerTbl.tBodies[0]) {
+        var innerTrs = innerTbl.tBodies[0].rows;
+        if (innerTrs.length > 0) innerTds = innerTrs[0].cells;
+      }
+      if (innerTds.length !== 2) continue;
+      var firstTdStyle = innerTds[0].getAttribute('style') || '';
+      var secondTdStyle = innerTds[1].getAttribute('style') || '';
+      if (firstTdStyle.indexOf('width:50%') === -1 && firstTdStyle.indexOf('width: 50%') === -1) continue;
+      if (secondTdStyle.indexOf('text-align:right') === -1 && secondTdStyle.indexOf('align="right"') === -1) continue;
+      var signPs = innerTds[1].querySelectorAll('p');
+      if (signPs.length === 0) continue;
+
+      var signDiv = document.createElement('div');
+      signDiv.setAttribute('data-wap-sign', 'true');
+      signDiv.style.cssText = 'text-align:right;padding:16px 12px;margin:24px auto 0;border:none !important;';
+      for (var sp = 0; sp < signPs.length; sp++) {
+        var newP = document.createElement('p');
+        newP.style.cssText = 'margin:0 0 6px 0;text-align:right !important;text-indent:0 !important;line-height:1.8;color:inherit;';
+        newP.innerHTML = signPs[sp].innerHTML;
+        signDiv.appendChild(newP);
+      }
+      outerTbl.parentNode.replaceChild(signDiv, outerTbl);
+      break;
+    }
+
+    // 3. 显示内容（防闪烁结束）
+    el.style.visibility = 'visible';
+    console.log('[WAP_FIX] ✅ 全部修复完成，耗时 ' + (Date.now() - startTime) + 'ms');
+
+  }); // DOMContentLoaded结束
+  </script>
+  <div class="content-container">
+    <div class="article-content">
+      <!-- 文章标题（通栏蓝色底+白色字，与正文章节标题 #0058CC 配色一致） -->
+      <table style="width:100%;border-collapse:collapse;margin-bottom:16px;">
+        <tr><td style="background:#0058CC;padding:16px 16px;">
+          <span style="display:block;margin:0;font-size:18px;font-weight:700;color:#FFFFFF;text-align:center;line-height:1.6;word-break:break-all;">关于举办2026年第十四届全国大学生数字媒体科技作品及创意竞赛的通知</span>
+        </td></tr>
+      </table>
+      <table style="max-width:918px;margin:0 auto;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;"><strong>各高等学校、各相关单位：</strong></p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">为深入贯彻党的二十大及二十届四中全会精神，全面落实教育强国、科技强国、人才强国、文化强国与数字中国建设的部署要求，推动人工智能、数字媒体、文化创意、数字艺术等领域实现深度交叉融合，现决定举办2026年第十四届全国大学生数字媒体科技作品及创意竞赛，现将有关事项通知如下。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">一、大赛简介</span></td></tr><tr><td style="border:none;padding:20px 32px;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">全国大学生数字媒体科技作品及创意竞赛（以下简称“数媒竞赛”）是面向全国高校在校学生举办的数字媒体科技与创意实践类赛事，已于2023年正式纳入《全国普通高校大学生竞赛分析报告》竞赛目录。本次竞赛坚持“科技创领未来·创意变革时代”的办赛宗旨，依托作品创作、分级选拔、成果展示、答辩评价等赛事环节，助力数字媒体、人工智能、虚拟现实、数字创意等相关领域的人才培养，推动相关领域实践创新发展。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本届数媒竞赛围绕人工智能、数字媒体技术、虚拟现实、游戏创意、数据可视化、智能产品、数字艺术、移动应用、数字文化传播等方向，开展作品征集、评审展示、交流推广等系列活动，以提升参赛学生的创新技术应用能力、创意表达能力、工程实践能力与综合创新能力，推进高校相关学科专业建设、课程改革与产教融合协同育人建设。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本届竞赛将持续突出“技术前沿+文化创新+社会服务”的办赛特色，进一步强化人工智能赋能、数字文化传播、虚拟现实交互、科普教育、智能创意设计与产教融合实践等发展方向，引导高校学生对接国家战略需求、产业发展趋势与社会应用场景，创作兼具思想性、创新性、技术性、艺术性与应用价值的数字媒体科技作品与创意成果。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">二、组织机构</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（一）主办单位</p><p style="margin: 0px 0px 16px 2em; font-size: 15px; color: rgb(26, 26, 26); line-height: 1.9; ">&nbsp;&nbsp;&nbsp;&nbsp;全国大学生数字媒体科技作品及创意竞赛组委会</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（二）承办单位</p><p style="margin: 0px 0px 16px 2em; font-size: 15px; color: rgb(26, 26, 26); line-height: 1.9; ">&nbsp;&nbsp;&nbsp;&nbsp;北方工业大学、安徽大学、北京电影学院、北京航空航天大学、北京印刷学院、成都工业学院、重庆邮电大学、大连理工大学、福建农林大学、广东工业大学、广东财经大学、广西师范大学、贵州大学、哈尔滨工业大学、杭州电子科技大学、河北师范大学、河南工业大学、华中科技大学、湖北民族大学、湖南工业大学、江南大学、江西财经大学、昆明理工大学、兰州文理学院、内蒙古师范大学、宁夏大学、青海师范大学、山东财经大学、上海大学、沈阳理工大学、太原理工大学、天津职业技术师范大学、武汉商学院、西安工程大学、澳门科技大学、香港理工大学、西南交通大学、新疆师范大学、西藏大学、延边大学、中国传媒大学、中央民族大学、郑州大学、厦门大学（上述单位排名不分先后）</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">三、参赛对象</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（一）本次竞赛报名面向普通高等学校全日制在校学生开放，参赛学生范围包括研究生、本科生及高职高专学生，参赛专业不受限制。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（二）已在国内院校完成正式注册的来华留学生、港澳台地区高校学生及境外高校学生，可依照本通知要求报名参加本次竞赛国际赛道。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（三）毕业未满五年的大学生创业团队，仅可报名参与经赛事组织方批准并在参赛指南中明确开放的指定命题，报名时需按要求提交学历、毕业时间、团队身份等相关证明材料。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（四）本次竞赛的具体报名方式、团队组建要求、参赛资格审核规则及材料提交要求详见附件1《2026年第十四届全国大学生数字媒体科技作品及创意竞赛参赛指南》。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">四、参赛团队</span></td></tr><tr><td style="border:none;padding:20px 32px;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本次竞赛采用团队报名参赛的方式，每个参赛团队的学生人数不超过五人，每支团队可设置一至两名指导教师。赛事鼓励跨学科、跨专业、跨年级、跨院校组队参赛，跨校组队的参赛作品须明确第一申报单位与团队负责人，指导教师须来自团队成员所在的高校。每件参赛作品仅可申报一个赛道或类别，禁止重复申报、多头申报。具体要求详见附件1。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border:none;padding:14px 32px;background:#0058CC;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">五、参赛选题</span></td></tr><tr><td style="border:none;padding:20px 32px;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本届竞赛作品采用自主选题和指定命题两种选题方式。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">自主选题鼓励参赛团队结合学科专业特色、个人兴趣及社会和产业实际需求自主确定选题，注重作品的原创性、创新性、应用性、艺术性和实践价值。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">指定命题围绕国家战略需求、时代发展主题、行业应用场景、文化传播需求和智能科技发展趋势设置，引导参赛团队发挥专业优势，推动数字媒体与人工智能等新技术在文化传播、科普教育、社会服务和创新实践中的融合应用。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">各赛道、赛项及赛题的参赛范围、作品要求、技术规范、提交材料和评审重点等，详见附件1。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">六、赛程安排</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本届竞赛实行校级初赛、赛区选拔赛、全国总决赛三级赛制。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（一）报名及作品提交<br/>&nbsp;&nbsp;&nbsp;&nbsp;赛程时间：截至2026年10月23日23:59:59<br/>&nbsp;&nbsp;&nbsp;&nbsp;主要安排：参赛团队通过竞赛官网完成团队注册、作品报名及作品材料提交。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（二）校级初赛<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;赛程时间：2026年10月24日—10月28日<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;主要安排：各高校组织资格审核、作品遴选、原创性审核、内容导向审核、材料完整性审核和校内推荐。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（三）赛区选拔赛<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;赛程时间：2026年11月2日—11月15日<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;主要安排：各赛区组织专家评审，择优推荐入围全国总决赛作品。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（四）入围名单公布<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;赛程时间：2026年11月19日—11月22日<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;主要安排：公布全国总决赛入围名单及相关安排。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（五）全国总决赛<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;赛程时间：2026年11月27日—11月29日<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;主要安排：组织作品在线评审展示、答辩交流等活动。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（六）颁奖典礼、作品展（待定）<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;赛程时间：2026年12月4日—12月6日<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;举办地点：北京</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">备注：以上时间为竞赛总体安排。具体报名方式、材料格式、总决赛安排要求，以竞赛官网发布的正式通知为准。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border:none;padding:14px 32px;background:#0058CC;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">七、材料提交</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">各参赛团队应当严格按照竞赛官方网站及附件1的要求提交参赛作品材料。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">参赛作品材料通常包含作品本体或可运行文件、作品说明文档、作品演示视频、图像佐证材料、原创性声明、知识产权说明以及人工智能工具使用说明等类别。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">若参赛作品使用生成式人工智能工具参与创作，参赛团队应当如实提交人工智能工具使用说明，明确说明所使用工具的名称、应用环节、生成流程、提示词或工作流、人工筛选与修改过程、参赛团队原创贡献内容，以及版权与数据合规情况等内容。各类材料的具体格式、提交方式、展示交流材料与相关规范要求详见附件1。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">各参赛团队可自主自愿准备适配成果展示、主题展览、媒体传播及对外交流活动的补充材料，该补充材料不作为参赛资格认定与基础评分的附加依据。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border:none;padding:14px 32px;background:#0058CC;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">八、评审与奖项</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本次竞赛严格遵循公平、公正、公开的原则，依照校级初赛、赛区选拔赛、全国总决赛三个阶段组织开展评审工作，实行分类评价、独立评分、择优推荐与全程过程留痕的工作机制。评审专家由主办方按照赛项专业分类遴选产生，且严格执行保密、廉洁与回避制度。全国总决赛采用作品展示、创意/技术演示、专家评审相结合的方式开展评审。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">本届竞赛设置赛区选拔赛与全国总决赛两个奖项层级，各层级仅设置一等奖、二等奖、三等奖三个奖项等次。具体评审指标、奖项比例、同分处理规则、证书发放办法及纪律要求详见附件2。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">九、知识产权、参赛纪律与异议处理</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（一）参赛作品须为学生团队原创成果，不得抄袭、剽窃、套作、冒名或虚假申报。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（二）作品涉及第三方素材、数据、模型、软件、字体、音乐、图像、视频、代码等内容的，应取得合法授权或符合相关使用规范，并在作品材料中注明来源。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（三）参赛团队应对作品内容、数据来源、技术实现、版权授权和申报材料真实性负责。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（四）对涉嫌虚假申报、学术不端、侵犯知识产权、未如实披露人工智能工具使用情况或伪造过程材料的，由赛事专项工作组组织核查并提出处理建议；涉及取消参赛资格、评奖资格或撤销奖项的，按程序报评比与竞赛领导小组审定，并视情通报所在高校。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（五）对公示结果有异议的，应在公示期内以书面形式实名提出并提供必要证明材料。异议和投诉举报由评比与竞赛领导小组办公室统一受理，赛事专项工作组、赛区组织单位及有关专家按要求协助核查；逾期或未提供有效证明材料的，原则上不予受理。</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">十、联系方式</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（一）竞赛官网<br/> <span style="color:#0058CC;font-weight:bold;">www.cmit.cn</span></p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（二）官方邮箱<br/> <span style="color:#0058CC;font-weight:bold;">mail@cmit.cn</span></p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（三）官方微信：</p><p style="text-align:center;margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;"><img src="https://admin1.cmit.cn/uploadfile/2026/0924/20260924121250.png" title="20260924121250.png" alt="1749960028135149.png"/><br/>
+ 服务号：数媒引力场（原名：数媒竞赛）</p><p style="text-align:center;margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;"><img src="/uploadfile/2026/0924/20260924111736.png" title="20260924111736.png" alt="20250830513713.png"/><br/>
+ 订阅号：CMIT</p><p style="margin: 0px 0px 16px 0em; font-size: 15px; color: rgb(26, 26, 26); line-height: 1.9; text-indent: 2em;">（四）赛事联系<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;1）参赛注册事宜：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：李老师，手机号码：19067182272<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：李老师 &nbsp;手机号码：18004512551<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;2）赛区组织联络:<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：党老师 &nbsp;手机号码：19940880552<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;3）校赛组织联络:<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：蔡老师 &nbsp;手机号码：18811716193<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;4）竞赛走进高校：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：唐老师 &nbsp;手机号码：13001237875<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;5）竞赛媒体宣传：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：樊老师 &nbsp;手机号码：15810768095<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;6）赛事主视觉设计：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：金老师 &nbsp;手机号码：15662299122<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;7）赛事技术支持：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：刘老师 &nbsp;手机号码：13021131753<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;8）赛事商务合作：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：刘老师 &nbsp;手机号码：18410868218<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;9）赛事学术咨询：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;联系人：朱老师 &nbsp;手机号码：17884069630</p></td></tr></tbody></table><table style="max-width:918px;margin:20px auto 0;border-collapse:collapse;border:none;table-layout:fixed;width:100%;"><tbody><tr class="firstRow"><td style="border: none; padding: 14px 32px; background: rgb(0, 88, 204); word-break: break-all;"><span style="color:#FFFFFF;font-size:18px;font-weight:bold;letter-spacing:2px;">十一、其他事项</span></td></tr><tr><td style="border: none; padding: 20px 32px; word-break: break-all;"><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（一）本通知未尽事宜，以竞赛后续正式通知为准。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（二）本通知及附件由竞赛秘书处会同赛事专项工作组负责解释。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;">（三）请各高校和有关单位认真组织、规范实施，择优推荐作品参赛。</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;"><br/></p><p style="margin-top: 0px; margin-bottom: 4px; line-height: 1.9; padding: 0px; text-align: right; text-wrap-mode: wrap; font-size: 14px; color: rgb(26, 26, 26);">全国大学生数字媒体科技作品及创意竞赛组委会</p><p style="margin-top: 0px; margin-bottom: 0px; line-height: 1.9; padding: 0px; text-align: right; text-wrap-mode: wrap; font-size: 15px; color: rgb(26, 26, 26);">2026年9月</p><p style="margin:0 0 16px 0;font-size:15px;color:#1a1a1a;line-height:1.9;text-indent:2em;"><br/></p></td></tr></tbody></table><!-- 新增附件下载板块 --><table style="max-width: 918px; margin: 20px auto 0px; border-collapse: collapse; border: none; table-layout: fixed; width: 100%;"><tbody><tr class="firstRow"><td style="background:#F5F8FC;border-left:5px solid #0058CC;border:none;padding:22px 16px;padding-top:36px;"><p style="margin:0 0 14px 0;font-size:15px;color:#1a1a1a;line-height:1.9;font-weight:bold;">附件：</p><div style="overflow-x:auto;-webkit-overflow-scrolling:touch;"><table style="border-collapse:collapse;width:100%;"><tbody><tr class="firstRow"><td style="padding:10px 14px;border:1px solid #D6E4F0;font-size:15px;color:#1a1a1a;line-height:1.9;word-break:break-all;"><span style="display:inline-block;width:24px;height:24px;background:#0058CC;color:#FFFFFF;border-radius:50%;text-align:center;line-height:24px;font-size:13px;font-weight:bold;margin-right:10px;vertical-align:middle;">1</span><a href="https://static.cmit.cn/uploadfile/2026/0924/2026第十四届全国大学生数字媒体科技作品及创意竞赛通知.pdf" target="_self">2026年第十四届全国大学生数字媒体科技作品及创意竞赛通知</a></td></tr><tr><td style="padding:10px 14px;border:1px solid #D6E4F0;font-size:15px;color:#1a1a1a;line-height:1.9;word-break:break-all;"><span style="display:inline-block;width:24px;height:24px;background:#0058CC;color:#FFFFFF;border-radius:50%;text-align:center;line-height:24px;font-size:13px;font-weight:bold;margin-right:10px;vertical-align:middle;">2</span><a href="https://static.cmit.cn/uploadfile/2026/0924/附件1 2026年第十四届全国大学生数字媒体科技作品及创意竞赛参赛指南.pdf" target="_self">附件1：2026年第十四届全国大学生数字媒体科技作品及创意竞赛参赛指南</a></td></tr><tr><td style="padding:10px 14px;border:1px solid #D6E4F0;font-size:15px;color:#1a1a1a;line-height:1.9;word-break:break-all;"><span style="display:inline-block;width:24px;height:24px;background:#0058CC;color:#FFFFFF;border-radius:50%;text-align:center;line-height:24px;font-size:13px;font-weight:bold;margin-right:10px;vertical-align:middle;">3</span><a href="https://static.cmit.cn/uploadfile/2026/0924/附件2 2026年第十四届全国大学生数字媒体科技作品及创意竞赛评分标准及奖项设置.pdf" target="_self">附件2：2026年第十四届全国大学生数字媒体科技作品及创意竞赛评分标准及奖项设置</a></td></tr><tr><td style="padding:10px 14px;border:1px solid #D6E4F0;font-size:15px;color:#1a1a1a;line-height:1.9;word-break:break-all;"><span style="display:inline-block;width:24px;height:24px;background:#0058CC;color:#FFFFFF;border-radius:50%;text-align:center;line-height:24px;font-size:13px;font-weight:bold;margin-right:10px;vertical-align:middle;">4</span><a href="https://www.cmit.cn/html/liucheng/show-277-45689-1.html" target="_self">相关链接：2026全国大学生数字媒体科技作品及创意竞赛电脑版作品提交流程使用说明</a></td></tr><tr><td style="padding:10px 14px;border:1px solid #D6E4F0;font-size:15px;color:#1a1a1a;line-height:1.9;word-break:break-all;"><span style="display:inline-block;width:24px;height:24px;background:#0058CC;color:#FFFFFF;border-radius:50%;text-align:center;line-height:24px;font-size:13px;font-weight:bold;margin-right:10px;vertical-align:middle;">5</span><a href="https://www.cmit.cn/html/liucheng/show-277-45691-1.html" target="_self">相关链接：2026全国大学生数字媒体科技作品及创意竞赛手机版作品提交流程使用说明</a></td></tr><tr><td style="padding:10px 14px;border:1px solid #D6E4F0;font-size:15px;color:#1a1a1a;line-height:1.9;word-break:break-all;"><span style="display:inline-block;width:24px;height:24px;background:#0058CC;color:#FFFFFF;border-radius:50%;text-align:center;line-height:24px;font-size:13px;font-weight:bold;margin-right:10px;vertical-align:middle;">6</span><a href="https://www.cmit.cn/html/tongzhigonggao/show-144-45827-1.html" target="_self">相关链接：关于申报2026年第十四届全国大学生数字媒体科技作品及创意竞赛院校联系人的通知</a></td></tr></tbody></table></div></td></tr></tbody></table>      <div class="article-meta">
+        <span>来源：<a href="https://www.cmit.cn" title="数媒竞赛">数媒竞赛</a></span>
+        <span>发布时间：2026年09月24日</span>
+      </div>
+            <div class="related-articles">
+        <div class="related-item">
+                              <p style="margin:0 0 8px 0;line-height:1.6;color:#1a1a1a;word-break:break-all;">上一篇：<a href="https://www.cmit.cn/wap/tongzhigonggao/show-144-45822-1.html">关于“2025年’智能+’时代背景下数字创意与智能科技人才高质量培养论坛”参会报销与证书查询相关事项的暖心提醒</a></p>
+          <p style="margin:0;line-height:1.6;color:#1a1a1a;word-break:break-all;">下一篇：<a href="https://www.cmit.cn/wap/tongzhigonggao/show-144-45827-1.html">关于申报2026年第十四届全国大学生数字媒体科技作品及创意竞赛院校联系人的通知</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- 已提取到 /statics2026/js/wap_fix.js -->
+<style>
+  .footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-top: 1px solid #e5e7eb;
+    z-index: 9999;
+    width: 100%;
+  }
+
+  .footer-nav {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    height: 74px;
+  }
+
+  .footer-nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    color: #6b7280;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    position: relative;
+  }
+
+  .footer-nav-item:hover {
+    color: #2563eb;
+  }
+
+  .footer-nav-item svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .footer-nav-item.highlighted {
+    color: #2563eb;
+  }
+
+  .footer-nav-item .icon-wrapper {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: #2563eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .footer-nav-item .icon-wrapper svg {
+    color: white;
+  }
+
+  .footer-nav-item .nav-label {
+    font-size: 14px;
+  }
+
+  .footer-nav-item.highlighted .nav-label {
+    color: #2563eb;
+  }
+
+  .footer-login-icon {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer-login-icon.grayscale {
+    filter: grayscale(100%);
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+
+  .nav-badge {
+    position: absolute;
+    top: 8px;
+    right: calc(50% - 20px);
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #22c55e;
+    border: 2px solid white;
+  }
+
+  .footer-dropdown {
+    position: absolute;
+    bottom: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    padding: 0.25rem;
+    min-width: 120px;
+    display: none;
+    z-index: 999;
+  }
+
+  .footer-dropdown.show {
+    display: block;
+  }
+
+  .footer-dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s;
+    text-decoration: none;
+    color: #ef4444;
+  }
+
+  .footer-dropdown-item:hover {
+    background-color: #f3f4f6;
+  }
+
+  .logout-modal-mask {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    display: none;
+  }
+
+  .logout-modal {
+    width: 280px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .logout-modal::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #2563eb, #10b981, #f59e0b, #ef4444);
+  }
+
+  .logout-modal-title {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 16px;
+    font-weight: 500;
+  }
+
+  .logout-modal-btns {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+  }
+
+  .logout-modal-btn {
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    border: 1px solid #e5e7eb;
+    transition: all 0.2s;
+  }
+
+  .logout-modal-btn.cancel {
+    background-color: #f9fafb;
+    color: #6b7280;
+  }
+
+  .logout-modal-btn.cancel:hover {
+    background-color: #f3f4f6;
+  }
+
+  .logout-modal-btn.confirm {
+    background-color: #ef4444;
+    color: white;
+    border-color: #ef4444;
+  }
+
+  .logout-modal-btn.confirm:hover {
+    background-color: #dc2626;
+  }
+</style>
+
+<footer class="footer">
+  <nav class="footer-nav">
+    <a href="/wap/index.html" title="首页"
+      class="footer-nav-item" id="footer-home">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"></path>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z">
+          </path>
+        </svg>
+              <span class="nav-label">首页</span>
+    </a>
+    <a href="/wap/xinwenzhongxin/list-8-1.html" title="新闻资讯"
+      class="footer-nav-item highlighted" id="footer-news">
+      <div class="icon-wrapper">        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2">
+          </path>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 14h-8"></path>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 18h-5"></path>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6h8v4h-8V6Z"></path>
+        </svg>
+              </div>      <span class="nav-label">新闻</span>
+    </a>
+    <div class="footer-nav-item" id="footerLoginContainer">
+      <a href="/index.php?m=member&c=index&a=login" title="用户登录" id="footerUserLoggedIn" class="checklogin_true">
+        <img src="https://static.cmit.cn/statics2026/images/loginin.png" alt="用户头像" id="footerUserAvatar"
+          class="footer-login-icon">
+      </a>
+      <a href="/index.php?m=member&c=index&a=login" title="用户登录" id="footerUserLoggedOut" class="checklogin_false" style="display: none;">
+        <img src="https://static.cmit.cn/statics2026/images/loginin.png" alt="用户头像" id="footerLoginAvatar"
+          class="footer-login-icon grayscale">
+      </a>
+    </div>
+    <a href="/wap/zuopinzhanshi/list-150-1.html" title="作品展示"
+      class="footer-nav-item" id="footer-work">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <rect width="18" height="18" x="3" y="3" rx="2" ry="2" stroke-linecap="round" stroke-linejoin="round"
+            stroke-width="2"></rect>
+          <circle cx="9" cy="9" r="2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+          <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" stroke-linecap="round" stroke-linejoin="round"
+            stroke-width="2"></path>
+        </svg>
+              <span class="nav-label">作品</span>
+    </a>
+    <a href="/index.php?m=member&c=index&a=login" title="个人中心" id="footer-member-btn" class="footer-nav-item footer-member-link">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" class="grayscale-svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"></path>
+        <circle cx="12" cy="7" r="4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+      </svg>
+            <span class="nav-label">我的</span>
+    </a>
+  </nav>
+</footer>
+
+<div class="logout-modal-mask" id="logoutModal" style="display: none;"
+  onclick="if(event.target === this) { hideLogoutModal(); }">
+  <div class="logout-modal">
+    <div class="logout-modal-title">确定要退出账号吗？</div>
+    <div class="logout-modal-btns">
+      <button type="button" class="logout-modal-btn cancel" onclick="hideLogoutModal(); return false;">取消</button>
+      <button type="button" class="logout-modal-btn confirm" onclick="confirmLogout();">确定</button>
+    </div>
+  </div>
+</div>
+
+<!-- 普通用户菜单弹窗 -->
+<div class="logout-modal-mask" id="userMenuModal" style="display: none;"
+  onclick="if(event.target === this) { hideUserMenuModal(); }">
+  <div class="logout-modal" style="width: 280px; text-align: left;">
+    <div class="logout-modal-title" style="text-align: center;">请选择操作</div>
+    <div class="user-menu-options">
+      <a href="/index.php?m=content&c=index&a=lists&catid=250" title="作品列表" class="user-menu-item">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="8" y1="6" x2="21" y2="6"></line>
+          <line x1="8" y1="12" x2="21" y2="12"></line>
+          <line x1="8" y1="18" x2="21" y2="18"></line>
+          <line x1="3" y1="6" x2="3.01" y2="6"></line>
+          <line x1="3" y1="12" x2="3.01" y2="12"></line>
+          <line x1="3" y1="18" x2="3.01" y2="18"></line>
+        </svg>
+        <span>作品列表</span>
+      </a>
+            <a href="/index.php?m=content&c=index&a=lists&catid=351&userid=" title="证书查询下载" class="user-menu-item">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="8" r="7"></circle>
+          <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
+        </svg>
+        <span>证书查询下载</span>
+      </a>
+      <a href="/wap/liucheng/show-277-45691-1.html" title="作品提交流程" class="user-menu-item">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 11l3 3L22 4"></path>
+          <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path>
+        </svg>
+        <span>作品提交流程</span>
+      </a>
+      <div class="user-menu-divider"></div>
+      <a href="/index.php?m=member&c=index&a=gai_intro" title="账号管理" class="user-menu-item">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+          <circle cx="12" cy="7" r="4"></circle>
+        </svg>
+        <span>账号管理</span>
+      </a>
+            
+      <div class="user-menu-divider"></div>
+      <a href="javascript:void(0);" class="user-menu-item" onclick="showLogoutModalFromUserMenu();">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 21H5a2,2 0 0,1 -2,-2V5a2,2 0 0,1 2,-2h4"></path>
+          <polyline points="16 17 21 12 16 7"></polyline>
+          <line x1="21" y1="12" x2="9" y2="12"></line>
+        </svg>
+        <span>退出账号</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+  .user-menu-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .user-menu-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.875rem 1rem;
+    border-radius: 0.5rem;
+    color: #374151;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .user-menu-item:hover {
+    background-color: #f3f4f6;
+    color: #2563eb;
+  }
+  .user-menu-divider {
+    height: 1px;
+    background: #e5e7eb;
+    margin: 0.5rem 0;
+  }
+</style>
+
+<script src="https://static.cmit.cn/statics2026/js/jquery-3.7.1.min.js"></script>
+<script>
+  // 提前定义 toggleMobileMenu，防止按钮点击时报错
+  if (typeof window.toggleMobileMenu === 'undefined') {
+    window.toggleMobileMenu = function() {
+      if (typeof showUserMenuModal === 'function') {
+        showUserMenuModal();
+      }
+    };
+  }
+
+  // 检查 jQuery 是否加载成功
+  if (typeof jQuery === 'undefined') {
+    console.error('jQuery failed to load from CDN');
+  }
+  var _hmt = _hmt || [];
+  (function () {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?00b86c4a8d95cbb328cae8f6c635de4c";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+
+  function checkFooterLogin() {
+    fetch('/index.php?m=member&c=index&a=public_checkLogin')
+      .then(response => response.json())
+      .then(data => {
+        if (data.userid > 0) {
+          $('.checklogin_true').show();
+          $('.checklogin_false').hide();
+        } else {
+          $('.checklogin_false').show();
+          $('.checklogin_true').hide();
+        }
+        initFooterMenuEvent();
+      })
+      .catch(error => {
+      });
+  }
+
+  function isHomePage() {
+    const path = window.location.pathname.toLowerCase();
+    const homePaths = ['/wap/', '/wap/index.php', '/wap/index.html'];
+    return homePaths.includes(path) || (path === '/' && window.location.host.includes('cmit.cn'));
+  }
+
+  function setHomeHighlight() {
+    const homeItem = document.getElementById('footer-home');
+    if (isHomePage()) {
+      homeItem.classList.add('highlighted');
+      const svg = homeItem.querySelector('svg');
+      const wrapper = document.createElement('div');
+      wrapper.className = 'icon-wrapper';
+      svg.parentNode.insertBefore(wrapper, svg);
+      wrapper.appendChild(svg);
+    }
+  }
+
+  function toggleFooterUserMenu() {
+    const userMenu = document.getElementById('footerUserMenu');
+    userMenu.classList.toggle('show');
+  }
+
+  function showLogoutModal() {
+    document.getElementById('logoutModal').style.display = 'flex';
+  }
+
+  function hideUserMenuModal() {
+    document.getElementById('userMenuModal').style.display = 'none';
+  }
+
+  function showUserMenuModal() {
+    document.getElementById('userMenuModal').style.display = 'flex';
+  }
+
+  function showLogoutModalFromUserMenu() {
+    hideUserMenuModal();
+    showLogoutModal();
+  }
+
+  function openLogoutModal() {
+    showLogoutModal();
+  }
+
+  function hideLogoutModal() {
+    document.getElementById('logoutModal').style.display = 'none';
+  }
+
+  function closeLogoutModal() {
+    hideLogoutModal();
+  }
+
+  function confirmLogout() {
+    window.location.href = '/index.php?m=member&c=index&a=logout&forward=/index.php?m=member&c=index&siteid=1';
+  }
+
+  let footerClickHandler = null;
+
+  function initFooterMenuEvent() {
+    const loggedInAvatar = document.getElementById('footerUserAvatar');
+    const loggedOutAvatar = document.getElementById('footerLoginAvatar');
+    const userMenu = document.getElementById('footerUserMenu');
+    const logoutBtn = document.getElementById('footerLogoutBtn');
+    const modalCancelBtn = document.getElementById('modalCancelBtn');
+    const modalConfirmBtn = document.getElementById('modalConfirmBtn');
+    const logoutModal = document.getElementById('logoutModal');
+    const memberBtn = document.getElementById('footer-member-btn');
+
+    if (footerClickHandler) {
+      document.removeEventListener('click', footerClickHandler);
+    }
+
+    footerClickHandler = function (e) {
+      if (logoutModal && logoutModal.style.display === 'flex') {
+        return;
+      }
+      userMenu?.classList.remove('show');
+    };
+
+    // "我的"按钮点击事件
+    if (memberBtn) {
+      memberBtn.onclick = function (e) {
+        e.preventDefault();
+        // 检查是否已登录
+        fetch('/index.php?m=member&c=index&a=public_checkLogin')
+          .then(response => response.json())
+          .then(data => {
+            if (data.userid > 0) {
+              // 已登录，根据用户组决定行为
+              if (data.groupid == 2) {
+                // 普通用户，弹出用户菜单
+                showUserMenuModal();
+              } else if (data.groupid == 9) {
+                // 会员，直接进入作品列表
+                window.location.href = '/index.php?m=content&c=index&a=lists&catid=180';
+              } else if (data.groupid == 14 || data.groupid == 16 || data.groupid == 18) {
+                // 校赛/赛区/省赛管理员，弹出退出确认框
+                showLogoutModal();
+              } else {
+                // 其他用户，弹出用户菜单
+                showUserMenuModal();
+              }
+            } else {
+              // 未登录，跳转登录页
+              window.location.href = '/index.php?m=member&c=index&a=login';
+            }
+          });
+      };
+    }
+
+    if (loggedInAvatar) {
+      loggedInAvatar.onclick = function (e) {
+        e.preventDefault();
+        // 已登录，根据用户组决定行为
+        fetch('/index.php?m=member&c=index&a=public_checkLogin')
+          .then(response => response.json())
+          .then(data => {
+            if (data.groupid == 2) {
+              // 普通用户，弹出用户菜单
+              showUserMenuModal();
+            } else if (data.groupid == 9) {
+              // 会员，直接进入作品列表
+              window.location.href = '/index.php?m=content&c=index&a=lists&catid=180';
+            } else if (data.groupid == 14 || data.groupid == 16 || data.groupid == 18) {
+              // 校赛/赛区/省赛管理员，弹出退出确认框
+              showLogoutModal();
+            } else {
+              // 其他用户，弹出用户菜单
+              showUserMenuModal();
+            }
+          });
+      };
+    }
+
+    if (loggedOutAvatar) {
+      loggedOutAvatar.onclick = function (e) {
+        e.preventDefault();
+        window.location.href = '/index.php?m=member&c=index&a=login';
+      };
+    }
+
+    if (logoutBtn) {
+      logoutBtn.onclick = function (e) {
+        e.stopPropagation();
+        showLogoutModal();
+      };
+    }
+
+    document.addEventListener('click', footerClickHandler);
+
+    if (userMenu) {
+      userMenu.onclick = function (e) {
+        e.stopPropagation();
+      };
+    }
+  }
+
+  // 立即执行登录检查（不等页面加载完成）
+  (function() {
+    checkFooterLogin();
+    initFooterMenuEvent();
+    setHomeHighlight();
+  })();
+
+  window.onload = function () {
+    setHomeHighlight();
+    checkFooterLogin();
+    initFooterMenuEvent();
+  };
+</script>

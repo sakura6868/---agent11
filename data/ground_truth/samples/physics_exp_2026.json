@@ -1,0 +1,142 @@
+{
+  "competition_id": "physics_exp_2026",
+  "competition_name": "全国大学生物理实验竞赛(创新)",
+  "document_year": 2026,
+  "category": "physics",
+  "organizer": "全国大学生物理实验竞赛组织委员会、全国高等学校实验物理教学研究会（指导单位：教育部高等学校大学物理课程教学指导委员会、教育部高等学校物理学类专业教学指导委员会、中国物理学会物理教学委员会、高等学校国家级实验教学示范中心联席会物理学科组）",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": "2026-09-15",
+  "submission_deadline": null,
+  "competition_start_date": "2026-09-01",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖，可视情况设优秀奖；全国预赛获奖比例约为一等奖10%、二等奖20%、三等奖30%。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约10%",
+      "note": "全国预赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约20%",
+      "note": "全国预赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约30%",
+      "note": "全国预赛"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "视情况设置"
+    }
+  ],
+  "brief_description": "全国大学生物理实验竞赛(创新)是由全国大学生物理实验竞赛组织委员会、全国高等学校实验物理教学研究会主办的物理类赛事，主要面向本科生。要求物理学、应用物理、光电信息等的同学以不超过4人组队形式参与，考察原理正确、操作规范等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "研究报告",
+    "演示PPT",
+    "视频资料"
+  ],
+  "evaluation_dimensions": [
+    "原理正确",
+    "操作规范",
+    "数据分析",
+    "创新性"
+  ],
+  "required_skills": [
+    "物理实验",
+    "理论推导",
+    "数据处理",
+    "仪器操作"
+  ],
+  "official_source_url": "https://wlsycx.moocollege.com/",
+  "source_acquired_date": "2026-07-29",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-29",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年第十二届全国大学生物理实验竞赛(创新)第一轮通知",
+      "document_name": "全国大学生物理实验竞赛(创新)赛事通知",
+      "source_url": "https://wlsycx.moocollege.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生物理实验竞赛是由国家级示范中心联席会物理学科组、全国高等学校实验物理教学研究会、教育部大学物理课程教学指导委员会大学物理实验专项委员会和中国物理学会物理教学委员会联合主办",
+      "document_name": "全国大学生物理实验竞赛(创新)赛事简介",
+      "source_url": "https://wlsycx.moocollege.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 2,
+      "source_text": "参赛对象为全国各类高等学校2026年秋季学期在籍本（专）科学生。",
+      "document_name": "第十二届全国大学生物理实验竞赛（创新）第一轮通知.pdf",
+      "source_url": "https://jwc.ustb.edu.cn/docs/2026-03/ce7f8929264847f5b89a67e54d9117c5.pdf",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 2,
+      "source_text": "每支队伍参赛指导教师不得多于2人，学生最多5人，其中讲课类项目每支队伍的学生最多3人。",
+      "document_name": "第十二届全国大学生物理实验竞赛（创新）第一轮通知.pdf",
+      "source_url": "https://jwc.ustb.edu.cn/docs/2026-03/ce7f8929264847f5b89a67e54d9117c5.pdf",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": 3,
+      "source_text": "9月1日~9月15日向组委会提交正式报名、上传参赛资料、完成缴费。",
+      "document_name": "第十二届全国大学生物理实验竞赛（创新）第一轮通知.pdf",
+      "source_url": "https://jwc.ustb.edu.cn/docs/2026-03/ce7f8929264847f5b89a67e54d9117c5.pdf",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "各参赛高校将赛题要求的参赛资料（包括研究报告、演示PPT、视频资料等）按要求提交至竞赛组委会。",
+      "document_name": "第十二届全国大学生物理实验竞赛（创新）第一轮通知.pdf",
+      "source_url": "https://jwc.ustb.edu.cn/docs/2026-03/ce7f8929264847f5b89a67e54d9117c5.pdf",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网：https://wlsycx.moocollege.com/",
+      "document_name": "全国大学生物理实验竞赛(创新)官方平台",
+      "source_url": "https://wlsycx.moocollege.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-29复核】依据第十二届全国大学生物理实验竞赛（创新）第一轮通知：面向2026年秋季在籍本（专）科生；一般类别每队学生最多5人（讲课类最多3人）；9月1日至15日完成正式报名、上传资料和缴费；参赛资料包括研究报告、演示PPT、视频资料等。官方未单列最小人数，按产品规则统一按1人处理。",
+  "official_source_status": "found"
+}

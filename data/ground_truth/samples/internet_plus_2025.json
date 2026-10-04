@@ -1,0 +1,97 @@
+{
+  "competition_name": "中国国际大学生创新大赛（2025）高教主赛道",
+  "document_year": 2025,
+  "organizer": "教育部等部门和河南省人民政府",
+  "category": "innovation",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 15,
+  "registration_deadline": "2025-07-01",
+  "submission_deadline": null,
+  "required_materials": [],
+  "evaluation_dimensions": [],
+  "required_skills": [
+    "商业策划",
+    "项目运营",
+    "技术创新",
+    "路演答辩"
+  ],
+  "official_source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349375155.docx",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2025_moe_official_docx_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 1,
+      "source_text": "报名系统开放时间为5月9日，报名截止时间由各地根据复赛安排自行决定，但不得晚于7月1日。",
+      "document_name": "教育部关于举办中国国际大学生创新大赛（2025）的通知（教高函〔2025〕7号）",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/t20250509_1189810.html",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 3,
+      "source_text": "根据参赛申报人所处学习阶段，项目分为本科生组、研究生组。项目负责人及成员均须为普通高等学校全日制在校本专科生（不含在职教育）。",
+      "document_name": "中国国际大学生创新大赛（2025）高教主赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349375155.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 4,
+      "source_text": "创业组参赛申报人须为普通高等学校全日制在校本专科生，或毕业5年以内的全日制本专科学生（即2020年之后的毕业生，不含在职教育）。",
+      "document_name": "中国国际大学生创新大赛（2025）高教主赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349375155.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 3,
+      "source_text": "本赛道以团队为单位报名参赛。允许跨校组建参赛团队，每个团队的成员不少于3人，不多于15人（含团队负责人），须为项目的实际核心成员。",
+      "document_name": "中国国际大学生创新大赛（2025）高教主赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349375155.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 3,
+      "source_text": "本赛道以团队为单位报名参赛。允许跨校组建参赛团队，每个团队的成员不少于3人，不多于15人（含团队负责人），须为项目的实际核心成员。",
+      "document_name": "中国国际大学生创新大赛（2025）高教主赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349375155.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "所有参赛材料和现场答辩原则上使用中文或英文，如有其他语言需求，请联系大赛组委会。",
+      "document_name": "中国国际大学生创新大赛（2025）高教主赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349375155.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "按高教主赛道单独建档。教育部通知只给出全国最晚报名日期，各地校赛/省赛可更早；附件未列明统一材料清单和评分维度，因此对应字段保持空数组，不采用高校二次通知中的项目书、PPT或视频要求。｜本赛事与 internet_plus_industry_2025、internet_plus_red_dream_2025、internet_plus_vocational_2025 同属中国国际大学生创新大赛（2025）不同赛道，全国报名截止最晚2025-07-01，全国总决赛约2025年10月在郑州（河南省）举行。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,97 @@
+{
+  "competition_name": "蓝桥杯全国软件和信息技术专业人才大赛",
+  "document_year": 2025,
+  "organizer": "工业和信息化部人才交流中心",
+  "category": "programming",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "高职高专学生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "required_materials": [
+    "身份证正反面照片",
+    "学生证电子版",
+    "2寸彩色证件照"
+  ],
+  "evaluation_dimensions": [
+    "算法与编程能力",
+    "解题正确率",
+    "代码质量"
+  ],
+  "required_skills": [
+    "C/C++",
+    "Java",
+    "Python",
+    "算法",
+    "Web应用开发",
+    "网络安全"
+  ],
+  "official_source_url": "https://dasai.lanqiao.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2025_v2",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "软件赛报名时间:2024年10月8日—12月13日",
+      "document_name": "关于举办第十六届蓝桥杯全国软件和信息技术专业人才大赛的通知（组委会通知，第三方镜像/高校转发）",
+      "source_url": "https://www.saikr.com/vse/53226",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "具有正式全日制学籍且符合相关科目报名要求的研究生、本科生及高职高专学生(以报名时状态为准)。",
+      "document_name": "关于举办第十六届蓝桥杯全国软件和信息技术专业人才大赛的通知（组委会通知，第三方镜像/高校转发）",
+      "source_url": "https://www.saikr.com/vse/53226",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "1.软件赛(个人赛) (1)C/C++程序设计(研究生组、大学A组、B组、C组) (2)Java软件开发(研究生组、大学A组、B组、C组) (3)Python程序设计……(5)网络安全。",
+      "document_name": "关于组织参加2025年第十六届蓝桥杯全国软件和信息技术专业人才大赛的通知（高校官方转发）",
+      "source_url": "https://jwc.cueb.edu.cn/jwgg/e5e36ba16916499d951e4ef606100a05.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "学生实名认证信息包括:姓名、证件号码、2寸彩色证件照电子版……及身份证正反面照片；学生填写所在院系认证:……学生证照片等。",
+      "document_name": "第十六届蓝桥杯软件赛和电子赛报名指南（PDF，高校转发）",
+      "source_url": "https://ggxy.cueb.edu.cn/docs/2024-11/dd909a4600a24239a23180a210d9a48e.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_skills",
+      "page": null,
+      "source_text": "软件赛 (1)C/C++程序设计 (2)Java 软件开发 (3)Python 程序设计 (4)Web 应用开发 (5)网络安全。",
+      "document_name": "关于举办第十六届蓝桥杯全国软件和信息技术专业人才大赛的通知（组委会通知，第三方镜像/高校转发）",
+      "source_url": "https://www.saikr.com/vse/53226",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "【核实结论 2026-07-18】已找到官方依据（蓝桥杯大赛官网 dasai.lanqiao.cn 及高校官方转发）。第十六届蓝桥杯于2025年举办，省赛2025年4月，全国总决赛2025年6月中上旬，主办单位为工业和信息化部人才交流中心（组委会通知落款）。截止时间差异：不同赛项报名/作品提交截止不同——软件赛/电子赛/项目实战赛为2024-12-13，数字科技创新赛2025-03-28，视觉艺术设计赛2025-04-25，专项赛2024-11月；本标注取软件赛主赛项截止2024-12-13。官网主通知在 dasai.lanqiao.cn 检索未直接命中，registration_deadline 证据来自组委会通知的第三方镜像(saikr)及高校官方转发(首都经贸大学)，二者一致；总决赛通知则可于官网 dasai.lanqiao.cn/notices/1784/ 直接核实。2025年官方名称为“蓝桥杯全国软件和信息技术专业人才大赛”。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "competition_id": "lanqiao_2025"
+}

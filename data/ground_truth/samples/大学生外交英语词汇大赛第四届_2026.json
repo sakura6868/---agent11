@@ -1,0 +1,44 @@
+{
+  "competition_id": "大学生外交英语词汇大赛第四届_2026",
+  "competition_name": "大学生外交英语词汇大赛（第四届）",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "中国西部研究与发展促进会教育工作委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-08-29",
+  "competition_end_date": "2026-11-28",
+  "award_settings": "各场次独立评奖，获奖名单于每场结束后一周内公示；另设笔译技能证书",
+  "award_distribution": [],
+  "brief_description": "以外交时政为主题的线上英语词汇竞赛，客观单选题50道、每题2分、满分100分，设8月29日、9月19日、10月24日、11月28日四场考试可任选。",
+  "required_materials": [],
+  "evaluation_dimensions": [
+    "外交英语词汇量",
+    "时政英语理解"
+  ],
+  "required_skills": [
+    "英语词汇",
+    "时政英语"
+  ],
+  "official_source_url": "https://new.saikr.com/vse/DESC-Vocabulary-Fourth",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 赛氪 new.saikr.com/vse/DESC-Vocabulary-Fourth。报名阶段 2026-08-12 起，考试至 2026-11-28。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

@@ -1,0 +1,131 @@
+{
+  "competition_id": "neccs_2026",
+  "competition_name": "全国大学生英语竞赛（NECCS）",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "全国高等师范院校外语教学与研究协作组（全国大学生英语竞赛组织委员会承办）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-03-13",
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-12",
+  "competition_end_date": "2026-05-10",
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖；二等奖和三等奖由初赛产生，特等奖和一等奖由决赛产生，对获奖学生颁发证书。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "约0.1%",
+      "note": "全国（决赛产生）"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国（决赛产生）"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国（初赛产生）"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约30%",
+      "note": "全国（初赛产生）"
+    }
+  ],
+  "brief_description": "全国大学生英语竞赛（NECCS）是由全国高等师范院校外语教学与研究协作组主办、全国大学生英语竞赛组织委员会承办的全国性大学生英语综合能力竞赛，分A（研究生）、B（英语专业本专科）、C（非英语专业本科）、D（体育艺术类本科及高职高专）四类，以个人方式参赛，考察英语综合应用能力。",
+  "required_materials": [
+    "参赛答卷（笔答与听力）"
+  ],
+  "evaluation_dimensions": [
+    "词汇语法",
+    "听力理解",
+    "阅读理解",
+    "写作翻译"
+  ],
+  "required_skills": [
+    "英语综合应用",
+    "听力",
+    "阅读",
+    "写作"
+  ],
+  "official_source_url": "https://neccs.saikr.com",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "本届全国大学生英语竞赛由全国高等师范院校外语教学与研究协作组主办，英语辅导报北京研发中心协办，全国大学生英语竞赛组织委员会承办。",
+      "document_name": "欢迎参加2026年全国大学生英语竞赛！（全国大学生英语竞赛官网）",
+      "source_url": "http://www.chinaneccs.cn/pages/list/list?type=neccsnews&id=607&Cid=undefined",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "2026年全国大学生英语竞赛预计将于2025年12月17日--2026年3月13日报名，报名截止时间为2026年3月13日。",
+      "document_name": "欢迎参加2026年全国大学生英语竞赛！（全国大学生英语竞赛官网）",
+      "source_url": "http://www.chinaneccs.cn/pages/list/list?type=neccsnews&id=607&Cid=undefined",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "2026年4月12日（周日）举行全国初赛；2026年5月10日（周日）举行全国决赛。",
+      "document_name": "2026年全国大学生英语竞赛（赛氪报名页）",
+      "source_url": "https://neccs.saikr.com",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "决赛定于2026年5月10日（周日）举行。",
+      "document_name": "2026年全国大学生英语竞赛上海健康医学院分赛区（赛氪）",
+      "source_url": "https://www.saikr.com/vse/neccs/sumhs/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "竞赛分A、B、C、D四个类别：A类适用于研究生；B类适用于英语专业本、专科学生；C类适用于非英语专业本科生；D类适用于体育类和艺术类本科生和非英语专业高职高专类学生。",
+      "document_name": "欢迎参加2026年全国大学生英语竞赛！（全国大学生英语竞赛官网）",
+      "source_url": "http://www.chinaneccs.cn/pages/list/list?type=neccsnews&id=607&Cid=undefined",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "竞赛面向全体在校大学生，提倡“重在参与”的奥林匹克精神，坚持自愿报名参加的原则。",
+      "document_name": "欢迎参加2026年全国大学生英语竞赛！（全国大学生英语竞赛官网）",
+      "source_url": "http://www.chinaneccs.cn/pages/list/list?type=neccsnews&id=607&Cid=undefined",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据全国大学生英语竞赛官网（chinaneccs.cn）及赛氪报名页（neccs.saikr.com）核验。原记录日期（2026-10/11月）为错误占位，已更正为2026年真实赛程（报名至3月13日、初赛4月12日、决赛5月10日）。原required_materials/revaluation_dimensions/required_skills中“演讲稿、参赛视频、公众演讲”等内容与NECCS笔试（笔答+听力）性质不符，已按英语综合能力竞赛性质修正（官方未单列详细评分细则，相关维度为通用归纳）。result_announcement_date：官方称成绩查询为2026年5月下旬，未给确切日期，置空待补充。全国总决赛拟定2026年8月2日-7日在安徽合肥举办。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

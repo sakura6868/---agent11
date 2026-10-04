@@ -1,0 +1,80 @@
+{
+  "competition_id": "prob_stat_2026",
+  "competition_name": "全国大学生概率统计竞赛",
+  "document_year": 2026,
+  "category": "math",
+  "organizer": "相关统计学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "信息与计算科学",
+    "统计学",
+    "物理学",
+    "计算机科学与技术"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生概率统计竞赛是由相关统计学会主办的数学竞技类赛事，主要面向本科生、研究生。要求数学与应用数学、信息与计算科学、统计学等的同学以个人参赛形式参与，考察解题正确、方法严谨等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "答卷",
+    "解题过程",
+    "证明"
+  ],
+  "evaluation_dimensions": [
+    "解题正确",
+    "方法严谨",
+    "思维深度"
+  ],
+  "required_skills": [
+    "数学分析",
+    "高等代数",
+    "概率统计",
+    "解题技巧"
+  ],
+  "official_source_url": null,
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": null,
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验。经网络检索，未找到以'全国大学生概率统计竞赛'为名的官方全国性赛事；最接近的真实赛事为'全国大学生统计建模大赛'(中国统计教育学会，ai-learning.net)以及赛氪平台'数学周报全国大学生数学能力大赛—概率统计赛道'(商业性线上赛，主办：数学周报社)。本记录字段均未能找到官方依据，保留原值待人工确认；official_source_url原指向百度搜索，已置空。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。注：名称相近的真实赛事为“全国大学生统计建模大赛”（中国统计教育学会主办）与“数学周报全国大学生数学能力大赛—概率统计赛道”（商业性线上赛）。"
+}

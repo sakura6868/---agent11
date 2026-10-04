@@ -1,0 +1,140 @@
+{
+  "competition_id": "challenge_cup_small_2026",
+  "competition_name": "挑战杯中国大学生创业计划竞赛（小挑）",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "共青团中央、教育部、人力资源社会保障部、中国科协、中国科学院、中国社会科学院、中国工程院、全国学联、辽宁省人民政府",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生",
+    "研究生",
+    "职业本科生",
+    "高职高专生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "工商管理",
+    "市场营销",
+    "计算机科学与技术",
+    "电子信息",
+    "机械工程",
+    "生物科学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": "2026-05-31",
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-01",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖（由全国组委会组织专家评定）；设学校集体奖（挑战杯、优胜杯）。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "少量",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "挑战杯中国大学生创业计划竞赛（小挑）是由共青团中央等九家单位共同主办的创新创业类赛事，面向2026年6月1日前正式注册的全日制在校专科生、本科生、硕士和博士研究生及职业教育本科/高职高专学生。以团队形式参与，考察创新性、商业价值与社会价值等能力。",
+  "required_materials": [
+    "商业计划书（PPT版，≤20页）",
+    "项目介绍材料（PDF）",
+    "支撑材料",
+    "路演答辩材料"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "商业价值",
+    "社会价值",
+    "实践过程",
+    "团队协作"
+  ],
+  "required_skills": [
+    "商业计划书撰写",
+    "路演答辩",
+    "市场分析",
+    "产品设计",
+    "团队协作"
+  ],
+  "official_source_url": "https://old.tiaozhanbei.net/article/15842/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位:共青团中央、教育部、人力资源社会保障部、中国科协、中国科学院、中国社会科学院、中国工程院、全国学联、辽宁省人民政府",
+      "document_name": "关于举办第十五届“挑战杯”建设银行中国大学生创业计划竞赛的通知",
+      "source_url": "https://old.tiaozhanbei.net/article/15842/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "2026年6月1日以前正式注册的国内全日制非成人教育的普通高等学校在校专科生、本科生、硕士和博士研究生(不含在职研究生),以及全日制职业教育本科、高职高专在校学生",
+      "document_name": "关于举办第十五届“挑战杯”建设银行中国大学生创业计划竞赛的通知",
+      "source_url": "https://old.tiaozhanbei.net/article/15842/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "校级初赛(5月底前)。省级复赛(6月底前)。全国决赛(11月前)。",
+      "document_name": "关于举办第十五届“挑战杯”建设银行中国大学生创业计划竞赛的通知",
+      "source_url": "https://old.tiaozhanbei.net/article/15842/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国决赛(11月前)。全国终审决赛将在大连理工大学举办",
+      "document_name": "关于举办第十五届“挑战杯”建设银行中国大学生创业计划竞赛的通知",
+      "source_url": "https://old.tiaozhanbei.net/article/15842/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "设特、一、二、三等奖,由全国组委会组织专家进行评定",
+      "document_name": "关于举办第十五届“挑战杯”建设银行中国大学生创业计划竞赛的通知",
+      "source_url": "https://old.tiaozhanbei.net/article/15842/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经挑战杯官网(old.tiaozhanbei.net)核验：本届为第十五届（2026年小挑年），全国终审决赛在大连理工大学。原记录organizer(仅共青团中央/教育部/全国学联)、eligible_students含“毕业生(毕业5年内)”（2026通知限在校生）、及秋季日期(2026-08-07等)均为占位值/错误，已更正。赛程为校赛(5月底前)→省赛(6月底前)→全国决赛(11月前)，无全国统一报名/提交截止，registration_deadline取校赛截止(2026-05-31)作参考，submission_deadline与result_announcement_date置空。关系：小挑2024=第十四届(tiaozhanbei_small_2024)，小挑2026=第十五届；创青春即小挑旧称/合并品牌，详见 chuangqingchun_2026.json。",
+  "official_source_status": "found"
+}

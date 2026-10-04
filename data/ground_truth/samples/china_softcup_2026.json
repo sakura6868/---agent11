@@ -1,0 +1,97 @@
+{
+  "competition_name": "“中国软件杯”大学生软件设计大赛",
+  "document_year": 2026,
+  "organizer": "“中国软件杯”大学生软件设计大赛组委会",
+  "category": "software",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "中职生",
+    "高职高专生",
+    "职业本科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-07-20",
+  "submission_deadline": "2026-07-20",
+  "required_materials": [
+    "参赛作品（源代码、可执行文件、相关文档）",
+    "演示视频（建议不超过7分钟）",
+    "电子版报名表"
+  ],
+  "evaluation_dimensions": [],
+  "required_skills": [],
+  "official_source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "A",
+  "data_status": "verified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "page": 1,
+      "source_text": "全日制普通高等院校（含海外院校）在籍学生【含本科生、研究生及以上学历、中职、高职（高专）、职业本科】，报名将分两组进行，其中本科生、研究生及以上学历、中职、高职（高专）、职业本科可报A组赛题，中职、高职（高专）、职业本科可报B组赛题。",
+      "document_name": "关于举办第十五届“中国软件杯”大学生软件设计大赛的通知.pdf",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 1,
+      "source_text": "以组队报名形式参赛，每队成员不超过4名（含4名，其中队长1名，指导教师1名，其他队员不超过2名）。",
+      "document_name": "关于举办第十五届“中国软件杯”大学生软件设计大赛的通知.pdf",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 1,
+      "source_text": "以组队报名形式参赛，每队成员不超过4名（含4名，其中队长1名，指导教师1名，其他队员不超过2名）。",
+      "document_name": "关于举办第十五届“中国软件杯”大学生软件设计大赛的通知.pdf",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": 2,
+      "source_text": "（一）报名阶段（2026年3月24日-7月20日）各参赛团队在“中国软件杯”大学生软件设计大赛网站在线报名。",
+      "document_name": "关于举办第十五届“中国软件杯”大学生软件设计大赛的通知.pdf",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 3,
+      "source_text": "作品提交截止时间暂定：2026年7月20日15:00。",
+      "document_name": "关于举办第十五届“中国软件杯”大学生软件设计大赛的通知.pdf",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "提交内容包括但不限于：参赛作品（源代码、可执行文件、相关文档）、演示视频（格式不限，时间尽量控制在7分钟以内）等，提交作品形式为网上提交。",
+      "document_name": "关于举办第十五届“中国软件杯”大学生软件设计大赛的通知.pdf",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "人工逐页核验组委会正式通知。队伍上限按学生成员计算为3人（队长1人、其他队员不超过2人），通知中的4人总数包含1名指导教师。报名与作品提交均以2026-07-20为日期，作品提交时刻为15:00。本文件为'中国软件杯'2026赛季的权威/正确记录（第十五届，截止2026-07-20）；china_software_cup_2026.json 为同一赛事的重复/错误记录（其12月日期与官方不符），建议以本文件为准并合并/删除 china_software_cup_2026.json。",
+  "official_source_status": "found"
+}

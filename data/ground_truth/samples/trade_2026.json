@@ -1,0 +1,125 @@
+{
+  "competition_id": "trade_2026",
+  "competition_name": "POCIB全国大学生外贸从业能力大赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "中国国际贸易学会、全国外经贸职业教育教学指导委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "工商管理",
+    "会计学",
+    "金融学",
+    "市场营销",
+    "经济学",
+    "国际经济与贸易"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设个人奖与团体奖，对获奖团队/个人颁发证书；分春季赛与秋季赛，每年持续约20天线上模拟操作。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "POCIB全国大学生外贸从业能力大赛是由中国国际贸易学会、全国外经贸职业教育教学指导委员会主办的外贸类赛事，以国际贸易仿真训练为核心，将外贸企业岗位培训与院校实践教学融合。分个人赛与团队赛，线上模拟操作，每年设春季赛与秋季赛，考察外贸业务操作、商务英语函电、成本核算与风险防控等能力。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "http://winner.pocib.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办方:中国国际贸易学会､全国外经贸职业教育教学指导委员会",
+      "document_name": "POCIB全国大学生外贸从业能力大赛（湖北工业大学教务处）",
+      "source_url": "https://jwc.hbut.edu.cn/info/1141/3557.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛网站:http://winner.pocib.com",
+      "document_name": "POCIB全国大学生外贸从业能力大赛（湖北工业大学教务处）",
+      "source_url": "https://jwc.hbut.edu.cn/info/1141/3557.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "个人奖项:基于各赛站,根据比赛最终成绩,按每一赛站每一个国家赛区的5%、10%、25%的比例四舍五入计算,评选出个人一等奖、二等奖、三等奖。",
+      "document_name": "第十四届 POCIB 全国外贸从业能力大赛（西安工业大学PDF，中国国际贸易学会发文）",
+      "source_url": "https://jgxy.xatu.edu.cn/__local/6/3E/C3/361905D6E5DB724897E2D79F970_EE11C1E2_2434E.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "official_source_status",
+      "page": null,
+      "source_text": "本次大赛由中国国际贸易学会与全国外经贸职业教育教学指导委员会联合主办,吸引了全国310所高等院校的992支队伍、共计9920名选手参赛。",
+      "document_name": "全国POCIB大赛落幕,松田商贸学院揽获团体二等奖及8项个人奖（人民号）",
+      "source_url": "https://xyh.univs.cn/a/xyh_xyh_gzstzyxy/250517/2006225.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "2026-07-19 复核：经高校官方门户（宁波财经学院）与报名平台（applysquare）核验，竞赛正式名称为“POCIB全国大学生外贸从业能力大赛”，主办单位为中国国际贸易学会、全国外经贸职业教育教学指导委员会，官方报名平台为 winner.pocib.com（官网根路径抓取返回404，但多来源一致指向该域名，可信）。POCIB每年分春季赛与秋季赛，每赛季持续约20天（如2024-2025春季赛报名2025-03-03至03-24、竞赛2025-03-27至04-19）。未能获取2026赛季具体报名/比赛日期，原模板日期（2026-12至2027-01）为占位错误，故日期字段置为 null，具体以官网 winner.pocib.com 公布为准。team 规模（1-5）、eligible_students（本科生/研究生）等未见2026官方专项章程直接佐证，保留原值待确认；本记录因来源为高校门户与报名平台（二级），trusted_level 维持 B、data_status 为 unverified。"
+}

@@ -1,0 +1,110 @@
+{
+  "competition_id": "robocon_2026",
+  "competition_name": "全国大学生机器人大赛RoboCon",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "全国大学生机器人大赛组织委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设冠亚季军及单项奖，获奖团队颁发证书；冠军队代表中国参加亚太大学生机器人大赛(ABU ROBOCON)。",
+  "award_distribution": [
+    {
+      "award": "冠军",
+      "proportion": "按赛事",
+      "note": "全国"
+    },
+    {
+      "award": "亚军",
+      "proportion": "按赛事",
+      "note": "全国"
+    },
+    {
+      "award": "季军",
+      "proportion": "按赛事",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生机器人大赛RoboCon是由全国大学生机器人大赛组织委员会主办、中国高等教育学会支持的机器人与人工智能类赛事，始于2002年，每年一届。冠军队代表中国参加ABU ROBOCON。以学校为单位组建研发团队参赛，考察技术难度、完成度等能力。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "https://robocon.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第二十五届全国大学生机器人大赛ROBOCON",
+      "document_name": "全国大学生机器人大赛ROBOCON官方站点",
+      "source_url": "https://robocon.org.cn/h-col-104.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生机器人大赛ROBOCON赛事始于2002年，每年举办一次；大赛目前已成为国内技术挑战性最强、影响力最大的大学生机器人赛事",
+      "document_name": "全国大学生机器人大赛ROBOCON官方站点",
+      "source_url": "http://www.cnrobocon.net/#/about/laboratory",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "全国大学生机器人大赛ROBOCON官网：robocon.org.cn / cnrobocon.net",
+      "document_name": "全国大学生机器人大赛ROBOCON官方站点",
+      "source_url": "https://robocon.org.cn/h-col-104.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已确认RoboCon为全国大学生机器人大赛系列赛事之一，由全国大学生机器人大赛组织委员会主办，官网robocon.org.cn（原cnrobocon.net）。2026年为第二十五届（主题'武林探秘'），报名于2025年12月启动、2026年6月发布比赛通知，但全国赛(决赛)具体日期官方未明确，日期字段置null待人工确认。注意RoboCon以学校为单位组建研发团队，并非严格1-4人小队，team规模保留原值待人工确认。原organizer'共青团中央/国际机器人竞技联合会'不准确，已更正。",
+  "official_source_status": "found"
+}

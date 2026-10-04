@@ -1,0 +1,84 @@
+{
+  "competition_id": "fashion_2026",
+  "competition_name": "全国大学生服装与服饰设计大赛",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "相关服装设计协会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "视觉传达设计",
+    "环境设计",
+    "数字媒体艺术",
+    "工业设计",
+    "动画"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生服装与服饰设计大赛是由相关服装设计协会主办的艺术设计类赛事，主要面向本科生、研究生。要求视觉传达设计、环境设计、数字媒体艺术等的同学以1-3人组队形式参与，考察创意性、表现力等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "设计作品",
+    "创作说明",
+    "源文件",
+    "展示视频"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": null,
+  "official_source_status": "not_found",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验。2026-07-18 网络检索未能确认名为“全国大学生服装与服饰设计大赛”的2026年官方国家级赛事。检索到名称相近的“2026中国好创意·全国女装设计大赛（新长征杯）”（主办：中国好创意大赛组委会、江西省高等教育学会等，报名截至2026年5月16日）、“Style3D杯”浙江省大学生服装服饰创意设计大赛（省级）、“正佳杯”第三届大学生创新创业服装设计大赛等，但均非原名称所指的全国赛事，无法确认。字段 registration_deadline/submission_deadline/competition_start_date/competition_end_date/result_announcement_date 原值为占位符且无官方依据，已置空；organizer、eligible_students、team 等字段保留原值待人工确认。正式报名请以主办单位官方通知为准。 【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。未检索到“全国大学生服装与服饰设计大赛”官方赛事；相近赛事为“新长征杯全国女装设计大赛”（主办：中国好创意大赛组委会）及省级“湖南省大学生服装设计大赛”，疑似名称混淆，请以主办单位官方通知为准。"
+}

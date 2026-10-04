@@ -1,0 +1,126 @@
+{
+  "competition_id": "water_2026",
+  "competition_name": "全国大学生水利创新设计大赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "中国水利教育协会（教育部高等学校水利类专业教学指导委员会指导）",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "全国总决赛设特等奖、一等奖、二等奖等奖项，对获奖团队颁发证书（第九届2025评选特等奖54项、一等奖101项、二等奖125项）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生水利创新设计大赛是由中国水利教育协会主办的水利类工程创新赛事，每两年举办一届，被视为全国水利类大学生的“奥林匹克”竞赛。主要面向水利类相关专业全日制本科生，以团队形式参赛（每队不超过5人），提交体现创新构想的水利作品（含设计说明书与实物/模型），考察方案可行性、绿色安全、创新性等能力。第十届（2026）为全国总决赛年。",
+  "required_materials": [
+    "实验报告",
+    "设计文档",
+    "仿真结果",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方案可行",
+    "绿色安全",
+    "创新性",
+    "完成度"
+  ],
+  "required_skills": [
+    "水利工程设计",
+    "数据分析",
+    "仿真模拟",
+    "工艺设计"
+  ],
+  "official_source_url": "https://sljzw.hhu.edu.cn/11822/list.psp",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "official_source_status",
+      "page": null,
+      "source_text": "版权所有:高等学校水利类专业教学指导委员会 技术支持:南京先极科技有限公司",
+      "document_name": "全国大学生水利创新设计大赛（水利教指委官方网站）",
+      "source_url": "https://sljzw.hhu.edu.cn/11822/list.psp",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生水利创新设计大赛,又称水利类专业“奥林匹克”竞赛,是由中国水利教育协会主办的国家级学科竞赛",
+      "document_name": "全国大学生水利创新设计大赛（百度百科，引官方章程）",
+      "source_url": "https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B0%B4%E5%88%A9%E5%88%9B%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/66833656",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象为全日制本科在校学生,每个参赛队学生人数不得超过5人,指导教师不超过2人。",
+      "document_name": "全国大学生水利创新设计大赛（百度百科，引官方章程）",
+      "source_url": "https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B0%B4%E5%88%A9%E5%88%9B%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/66833656",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "official_source_status",
+      "page": null,
+      "source_text": "本次比赛为团体赛,鼓励跨专业组队,每队队员不超过5人。",
+      "document_name": "关于举办第十届全国大学生水利创新设计大赛(校赛)的通知（兰州信息科技学院）",
+      "source_url": "https://tmgc.lzxk.edu.cn/info/1184/3037.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "第九届于2025年在江苏科技大学举办,共有160所高校428组作品报名参赛,评选出特等奖54项、一等奖101项、二等奖125项。",
+      "document_name": "全国大学生水利创新设计大赛（百度百科，引第九届结果）",
+      "source_url": "https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B0%B4%E5%88%A9%E5%88%9B%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/66833656",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "2026-07-19 复核：经水利教指委官方网站（sljzw.hhu.edu.cn，主办单位为高等学校水利类专业教学指导委员会，属官方组织委员会站点，故 trusted_level 升为 A）及高校育人号报道核验：主办为中国水利教育协会（教育部高等学校水利类专业教学指导委员会指导），每两年一届，第十届为2026年全国总决赛年。已更正：eligible_students 由[本科生,研究生]更正为[本科生]（官方章程参赛对象为全日制本科在校学生，不含研究生）；team_max 由4更正为5（往届农业水利创新设计大赛规则为≤4，与本赛事不同；本赛事官方规则为≤5）。team_min 维持1（官方仅规定上限≤5）。原模板 allowed_majors 误填化学类专业已置 null（本赛事面向水利类相关专业）。category 暂保留原值 chem_env，语义实为水利/工程类。全国决赛具体报名/比赛/结果日期未能核实，日期字段保持 null；校赛层面第十届报名多在2026年4-5月（如兰州信息科技学院校赛报名截止2026-04-25）。"
+}

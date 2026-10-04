@@ -1,0 +1,111 @@
+{
+  "competition_id": "catti_youth_2026",
+  "competition_name": "中译国青杯国际组织文件翻译大赛",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "中国对外翻译有限公司（指导单位：中国出版集团有限公司、联合国训练研究所UNITAR上海国际培训中心）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设学生组和职业组，各组别设一、二、三等奖若干名，另设优秀组织奖。为线上笔译竞赛。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "学生组/职业组"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "学生组/职业组"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "学生组/职业组"
+    }
+  ],
+  "brief_description": "中译国青杯国际组织文件翻译大赛是由中国对外翻译有限公司主办、聚焦国际组织文件翻译的线上笔译赛事，设学生组和职业组，以个人形式参赛，旨在选拔具备国际视野的优秀青年翻译人才。",
+  "required_materials": [
+    "译文作品",
+    "书面作品"
+  ],
+  "evaluation_dimensions": [
+    "语言表达",
+    "内容深度",
+    "逻辑思维",
+    "忠实原文"
+  ],
+  "required_skills": [
+    "英语读写",
+    "翻译能力",
+    "国际组织知识",
+    "批判性思维"
+  ],
+  "official_source_url": "http://youthcup.ctpc.com.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第六届\"中译国青杯\"国际组织文件翻译大赛",
+      "document_name": "关于组织参加第六届\"中译国青杯\"国际组织文件翻译大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/15254.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：中国对外翻译有限公司",
+      "document_name": "关于组织参加第六届\"中译国青杯\"国际组织文件翻译大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/15254.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "本次大赛为线上笔译竞赛",
+      "document_name": "关于组织参加第六届\"中译国青杯\"国际组织文件翻译大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/15254.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "登录\"中译国青杯\"大赛官方网站（http://youthcup.ctpc.com.cn）",
+      "document_name": "关于组织参加第六届\"中译国青杯\"国际组织文件翻译大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/15254.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：organizer原\"中国翻译协会\"有误，已更正为\"中国对外翻译有限公司\"（指导单位为中国出版集团、UNITAR上海中心）；本赛事为线上笔译个人赛。2026年（第七届）具体报名/提交/比赛时间官网尚未检索到（第六届2025年为报名9月19日-12月14日、译文提交截止12月15日），原占位日期字段置空，请以官网youthcup.ctpc.com.cn为准。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-10-04T06:44:32.526506+00:00",
+  "mode": "clean extracted release, isolated database, existing Python environment, offline HTTP",
+  "archive_sha256": "b5af5b25acf66b1e5d0253376ec2d539deb7196e0f2f17ccb934ad1aed0b3c44",
+  "records": 201,
+  "registerable": 11,
+  "checks": [
+    {
+      "name": "final_video_only",
+      "passed": true
+    },
+    {
+      "name": "pytest_configuration",
+      "passed": true
+    },
+    {
+      "name": "no_private_environment",
+      "passed": true
+    },
+    {
+      "name": "no_database",
+      "passed": true
+    },
+    {
+      "name": "no_local_secrets",
+      "passed": true
+    },
+    {
+      "name": "health_connected",
+      "passed": true
+    },
+    {
+      "name": "health_no_connection_information",
+      "passed": true
+    },
+    {
+      "name": "frontend_available",
+      "passed": true
+    },
+    {
+      "name": "model_disabled",
+      "passed": true
+    },
+    {
+      "name": "ground_truth_records_initialized",
+      "passed": true
+    },
+    {
+      "name": "catalog_partition",
+      "passed": true
+    },
+    {
+      "name": "demo_login",
+      "passed": true
+    },
+    {
+      "name": "only_formal_recommendations",
+      "passed": true
+    },
+    {
+      "name": "join_formal_project",
+      "passed": true
+    },
+    {
+      "name": "tasks_and_materials",
+      "passed": true
+    },
+    {
+      "name": "calendar_export",
+      "passed": true
+    },
+    {
+      "name": "project_delete",
+      "passed": true
+    },
+    {
+      "name": "candidate_project_blocked",
+      "passed": true
+    },
+    {
+      "name": "admin_closed_upload",
+      "passed": true
+    },
+    {
+      "name": "admin_closed_parse",
+      "passed": true
+    },
+    {
+      "name": "admin_closed_competitions",
+      "passed": true
+    },
+    {
+      "name": "admin_closed_competitions/bulk",
+      "passed": true
+    },
+    {
+      "name": "canonical_deadline",
+      "passed": true
+    }
+  ],
+  "passed": 23,
+  "total": 23
+}

@@ -1,0 +1,125 @@
+{
+  "competition_id": "chengtu_2026",
+  "competition_name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "全国大学生先进成图技术与产品信息建模创新大赛组委会、中国图学学会制图技术专业委员会、中国图学学会产品信息建模专业委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "力学",
+    "能源与动力工程",
+    "材料成型",
+    "水利类",
+    "建筑类",
+    "道桥类",
+    "电子类",
+    "环艺类"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 20,
+  "registration_deadline": "2026-04-25",
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-31",
+  "competition_end_date": "2026-08-03",
+  "result_announcement_date": null,
+  "award_settings": "设团体一、二、三等奖（获奖比例约为各类别参赛队总数的10%、15%、25%）及各类单项奖。",
+  "award_distribution": [
+    {
+      "award": "团体一等奖",
+      "proportion": "约10%",
+      "note": "全国"
+    },
+    {
+      "award": "团体二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "团体三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生先进成图技术与产品信息建模创新大赛（高教杯）是由大赛组委会与中国图学学会相关专委会主办的图学类国家级赛事，面向普通高等院校在籍全日制学生。以学校为单位组队（每校每类别限1队、每队≤20名选手），考察先进成图技术、产品信息建模等能力。",
+  "required_materials": [
+    "校赛选拔材料",
+    "成图作品",
+    "建模文件",
+    "答辩材料"
+  ],
+  "evaluation_dimensions": [
+    "成图精度",
+    "建模能力",
+    "创新思维",
+    "现场展示"
+  ],
+  "required_skills": [
+    "工程制图",
+    "CAD/UG/SolidWorks",
+    "产品信息建模",
+    "有限元分析",
+    "BIM"
+  ],
+  "official_source_url": "http://www.chengtudasai.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生先进成图技术与产品信息建模创新大赛组委会、中国图学学会制图技术专业委员会、中国图学学会产品信息建模专业委员会",
+      "document_name": "第十九届全国大学生先进成图技术与产品信息建模创新大赛 第一轮通知",
+      "source_url": "http://www.chengtudasai.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "大学生赛道:省赛报名:2026年4月1日09:00-4月25日24:00;国赛报名:2026年6月5日09:00-6月25日24:00",
+      "document_name": "第十九届全国大学生先进成图技术与产品信息建模创新大赛 第一轮通知",
+      "source_url": "http://www.chengtudasai.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每所高校在同一专业类别限报1支队伍,每队限报选手20人、领队1人、指导教师1-8人",
+      "document_name": "第十九届全国大学生先进成图技术与产品信息建模创新大赛 第一轮通知",
+      "source_url": "http://www.chengtudasai.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "省级预选赛于5月29-30日举行,全国总决赛于7月31日-8月3日举行",
+      "document_name": "西北农林科技大学关于组织参加2026年成图大赛暨校内选拔赛的通知（引官方第一轮通知）",
+      "source_url": "https://zhxy.nwsuaf.edu.cn/bksjy/jxdt/8953788f9bac47948578e0c6d916a872.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经官网(chengtudasai.com)及多校通知核验：本届为第十九届“高教杯”。省赛报名截止2026-04-25（国赛报名2026-06-25），省赛2026-05-29~30，全国总决赛2026-07-31~08-03。原记录organizer(相关成图教学指导委员会)、team_max=5、及秋季日期(2026-08-02等)均为占位值/错误，已更正（组委会+中国图学学会两专委会、国赛每队≤20人、比赛窗口7月底-8月初）。国赛时间不同来源有7.20-24(某专项赛道)与7.31-8.3两种说法，建议以chengtudasai.com官网为准；作品提交按各省/校安排，无全国统一提交截止，submission_deadline置空。",
+  "official_source_status": "found"
+}

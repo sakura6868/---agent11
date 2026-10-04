@@ -1,0 +1,127 @@
+{
+  "competition_id": "chenzhi_2026",
+  "competition_name": "传智杯全国大学生IT技能大赛",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "全国高等院校计算机基础教育研究会、全国高等学校计算机教育研究会、工业和信息化职业教育教学指导委员会计算机分委会、《计算机教育》杂志社（主办）；传智教育院校邦（承办）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "人工智能",
+    "信息安全",
+    "数据科学与大数据技术",
+    "网络空间安全"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-03-29",
+  "submission_deadline": null,
+  "competition_start_date": "2026-02-28",
+  "competition_end_date": "2026-04-30",
+  "result_announcement_date": null,
+  "award_settings": "各赛项设一、二、三等奖及优秀奖，设晋级机制（初赛→省赛→决赛），获奖比例详见竞赛官网。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "传智杯全国大学生IT技能大赛（第八届，2025-2026赛季）由全国高等院校计算机基础教育研究会等主办、传智教育院校邦承办，面向本专科在校大学生及研究生，含技术应用、艺术设计、企业专项三类赛道（个人赛与团队赛1-3人并存），考察编程与IT技能。",
+  "required_materials": [
+    "报名信息",
+    "初赛答题记录",
+    "作品（团队/设计类赛项）",
+    "省赛/国赛材料"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "代码规范",
+    "完成速度",
+    "创新性"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java",
+    "AI应用"
+  ],
+  "official_source_url": "https://www.cnchuangsai.com/57482.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由全国高等院校计算机基础教育研究会主办、传智教育院校邦承办",
+      "document_name": "关于举办全国大学生计算机应用能力与数字素养大赛暨2025-2026第八届“传智杯”全国IT技能大赛的报名通知",
+      "source_url": "https://www.cnchuangsai.com/57482.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "初赛报名...第一场:2026年2月27日 第二场:2026年3月29日",
+      "document_name": "关于举办全国大学生计算机应用能力与数字素养大赛暨2025-2026第八届“传智杯”全国IT技能大赛的报名通知",
+      "source_url": "https://www.cnchuangsai.com/57482.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "普通高等院校、高职院校、本、专科在校大学生及研究生均可报名参加",
+      "document_name": "关于举办全国大学生计算机应用能力与数字素养大赛暨2025-2026第八届“传智杯”全国IT技能大赛的报名通知",
+      "source_url": "https://www.cnchuangsai.com/57482.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "国赛时间:2026年4月",
+      "document_name": "关于举办全国大学生计算机应用能力与数字素养大赛暨2025-2026第八届“传智杯”全国IT技能大赛的报名通知",
+      "source_url": "https://www.cnchuangsai.com/57482.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经报名通知(cnchuangsai.com)核验：本届为第八届（2025-2026赛季）。初赛第一场2026-02-28、第二场2026-03-30，报名截止2026-03-29（第二场）；省赛2025-12月~2026-03月，国赛2026年4月。原记录organizer仅写“传智教育”（实为承办）、及秋季日期(2026-09-22等)均为占位值/错误，已更正（报名截止2026-03-29，比赛窗口2026-02-28~04-30）。赛事含个人赛与团队赛(1-3人)，submission_deadline为考试/答题制、无论文提交，置空。",
+  "official_source_status": "found"
+}

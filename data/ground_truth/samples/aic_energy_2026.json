@@ -1,0 +1,141 @@
+{
+  "competition_id": "aic_energy_2026",
+  "competition_name": "第八届AIC算法大赛—AI+能源主题赛（科技创新组）",
+  "document_year": 2026,
+  "organizer": "全球校园人工智能算法精英大赛全国组委会",
+  "category": "robotics_ai",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-10-15",
+  "submission_deadline": "2026-10-15",
+  "registration_deadline_at": "2026-10-15T20:00:00+08:00",
+  "submission_deadline_at": "2026-10-15T20:00:00+08:00",
+  "deadline_timezone_basis": "campus_default",
+  "required_materials": [
+    "可运行代码、模型或系统原型及数据、部署说明",
+    "技术报告（PDF）",
+    "汇报PPT",
+    "演示视频（MP4，5分钟以内）"
+  ],
+  "required_skills": [
+    "Python",
+    "机器学习",
+    "能源系统"
+  ],
+  "official_source_url": "https://www.aicomp.cn/tracks/4726.html",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-04",
+  "last_verified_at": "2026-10-04",
+  "doc_version": "2026_official_2026-10-04",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "source_text": "参赛成员须为国内外高校（含研究所）在读学生，包括研究生、本科生、专科生（高职/高专），不包含任何企业人员或非在校学生。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_min",
+      "source_text": "参赛选手可单人创建队伍参赛，也可与其他选手组队参赛，不得跨学校组队（含分校），每支团队成员上限3名。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_max",
+      "source_text": "参赛选手可单人创建队伍参赛，也可与其他选手组队参赛，不得跨学校组队（含分校），每支团队成员上限3名。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline",
+      "source_text": "报名截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline_at",
+      "source_text": "报名截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "submission_deadline",
+      "source_text": "初赛作品提交截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "submission_deadline_at",
+      "source_text": "初赛作品提交截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "可运行的代码、模型或系统原型（提供数据，并附详细部署说明）",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "技术报告（PDF格式）、汇报PPT、演示视频（5分钟以内，MP4格式）",
+      "source_url": "https://www.aicomp.cn/tracks/4726.html",
+      "document_name": "aic_energy_2026_official.html",
+      "document_sha256": "871cb32b25206a7f819c0538455c18c201410ba0f387f82beb043effb426ea1f",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    }
+  ],
+  "brief_description": "第八届AIC算法大赛—AI+能源主题赛（科技创新组）",
+  "notes": "仅科技创新组；同校组队，每队500元。硬件照片/录像为涉及硬件时的可选附件。 时刻未明示时区时使用校园UTC+08:00假设；最终以官网及学校审核为准。"
+}

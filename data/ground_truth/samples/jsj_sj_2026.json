@@ -1,0 +1,92 @@
+{
+  "competition_name": "中国大学生计算机设计大赛",
+  "document_year": 2026,
+  "organizer": "中国大学生计算机设计大赛组织委员会",
+  "category": "software",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 9,
+  "registration_deadline": null,
+  "submission_deadline": "2026-05-30",
+  "required_materials": [
+    "可安装运行的作品文档或可访问的网站地址",
+    "演示视频（不超过10分钟）"
+  ],
+  "evaluation_dimensions": [],
+  "required_skills": [],
+  "official_source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "page": 3,
+      "source_text": "参赛对象是全国高等院校中所有专业的、本届赛程期间在籍的本科生（含港澳台学生，以及来华留学生）。",
+      "document_name": "2026年（第19届）中国大学生计算机设计大赛竞赛规程.pdf",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 3,
+      "source_text": "每个参赛队（每件作品的所有作者）由同一所院校的2～9名全日制本科生组成，每队的指导教师不多于2名。",
+      "document_name": "2026年（第19届）中国大学生计算机设计大赛竞赛规程.pdf",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 3,
+      "source_text": "每个参赛队（每件作品的所有作者）由同一所院校的2～9名全日制本科生组成，每队的指导教师不多于2名。",
+      "document_name": "2026年（第19届）中国大学生计算机设计大赛竞赛规程.pdf",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": 3,
+      "source_text": "校级赛与省级赛：3月～5月（自行组织，上推国赛作品数据于5月30日截止）。",
+      "document_name": "2026年（第19届）中国大学生计算机设计大赛竞赛规程.pdf",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 13,
+      "source_text": "在通过省级赛获得入围国赛资格后，还应通过国赛竞赛平台完成信息填报和核查工作，截止日期均为2026年5月30日，逾期视为自动放弃参赛资格。",
+      "document_name": "2026年（第19届）中国大学生计算机设计大赛竞赛规程.pdf",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 5,
+      "source_text": "每件作品答辩时，作者陈述（含作品演示）不超过10分钟。提交的演示视频不超过10分钟。本类作品提交的作品文档需包含可安装运行的作品文档或可访问的网站地址。",
+      "document_name": "2026年（第19届）中国大学生计算机设计大赛竞赛规程.pdf",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "人工逐页核验组委会通知与竞赛规程。校赛和省赛由各赛区自行组织，文件没有全国统一报名截止日，因此registration_deadline保持null；2026-05-30仅作为上推国赛作品数据及信息填报核查截止日。材料字段按软件应用与开发类要求标注。",
+  "official_source_status": "found"
+}

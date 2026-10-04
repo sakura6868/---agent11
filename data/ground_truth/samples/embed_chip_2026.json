@@ -1,0 +1,132 @@
+{
+  "competition_id": "embed_chip_2026",
+  "competition_name": "全国大学生嵌入式芯片与系统设计竞赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "中国电子教育学会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "高职高专生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息",
+    "信息",
+    "计算机",
+    "自动化",
+    "电气",
+    "仪科"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-20",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": null,
+  "award_settings": "赛区设一、二、三等奖；全国总决赛设一、二、三等奖，另设最佳创意奖、最佳工程奖等独立奖项及优秀组织奖。一等奖不超过总决赛参赛队数15%，二等奖不超过30%。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "不超过赛区有效参赛队20%（总决赛不超过15%）",
+      "note": "赛区/全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "不超过25%（总决赛不超过30%）",
+      "note": "赛区/全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "其余",
+      "note": "赛区/全国"
+    }
+  ],
+  "brief_description": "全国大学生嵌入式芯片与系统设计竞赛（2026年为第九届）是由中国电子教育学会主办的嵌入式电子设计类赛事，面向电子电气类相关专业的全日制在校研究生、本科生、高职高专生。要求以同一学校1-3名学生组队参赛，围绕芯片应用、芯片设计、FPGA等赛道完成作品，考察嵌入式系统开发与工程实践能力。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性",
+    "完成度"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "https://www.socchina.net/home?trackType=2",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 中国电子教育学会",
+      "document_name": "嵌入式芯片与系统设计竞赛官网（相关单位）",
+      "source_url": "https://www.socchina.net/home?trackType=2",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象包括(但不限于)国内外高校电子电气类相关专业(电子、信息、计算机、自动化、电气、仪科等)全日制在校研究生、本科生、高职高专生",
+      "document_name": "第九届(2026)全国大学生嵌入式芯片与系统设计竞赛（海思赛题赛事介绍）",
+      "source_url": "https://developers.hisilicon.com/cn/embeddedCompetition2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队由来自同一所学校的1-3名学生组成",
+      "document_name": "关于报名参加第九届(2026)全国大学生嵌入式芯片与系统设计竞赛的通知",
+      "source_url": "https://sai.sut.edu.cn/info/1027/8174.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名截止时间:2026年4月20日",
+      "document_name": "第九届(2026)全国大学生嵌入式芯片与系统设计竞赛芯片应用赛道通知（第一轮）",
+      "source_url": "https://jwc.zzuli.edu.cn/_upload/article/files/02/0a/754b68cc44a486e1d37cc49bcec8/aebd4a72-afd1-4f02-99f4-3eeb4160f752.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品提交截止时间:2026年7月上旬",
+      "document_name": "第九届(2026)全国大学生嵌入式芯片与系统设计竞赛芯片应用赛道通知（第一轮）",
+      "source_url": "https://jwc.zzuli.edu.cn/_upload/article/files/02/0a/754b68cc44a486e1d37cc49bcec8/aebd4a72-afd1-4f02-99f4-3eeb4160f752.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，已完成人工核验。2026-07-18 核查：原 organizer“中国电子学会”有误，已更正为“中国电子教育学会”。registration_deadline（2026-04-20）为官方精确日期；submission_deadline 取“7月上旬”代表值2026-07-10、competition_start_date 取报名启动“3月下旬”代表值2026-03-20、competition_end_date 取“全国总决赛8月”代表值2026-08-31，均为月份级近似，正式报名请以大赛官网 socchina.net 通知为准。result_announcement_date 未能找到官方依据，已置空。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

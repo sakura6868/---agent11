@@ -1,0 +1,83 @@
+{
+  "competition_id": "chip_test_2026",
+  "competition_name": "全国大学生集成电路测试大赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "相关行业协会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖（具体比例由组委会确定）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生集成电路测试大赛——未在公开官方来源检索到独立的该项赛事。最接近的官方赛事为“全国大学生集成电路创新创业大赛”（集创赛，第十届2026，工业和信息化部人才交流中心主办），其设有“半导体测试实践”赛道，面向本硕博学生、1-3人组队。",
+  "required_materials": [
+    "测试程序/代码",
+    "设计文档",
+    "测试数据"
+  ],
+  "evaluation_dimensions": [
+    "测试方案",
+    "代码实现",
+    "数据分析",
+    "创新性"
+  ],
+  "required_skills": [
+    "集成电路测试",
+    "ATE/FPGA",
+    "嵌入式开发",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "https://univ.ciciec.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "字段<organizer><registration_deadline><submission_deadline><competition_start_date><competition_end_date><result_announcement_date>未能找到官方依据，原值为占位值，已置空待人工确认。未检索到独立的“全国大学生集成电路测试大赛”官方赛事；最接近的官方赛事为“全国大学生集成电路创新创业大赛(集创赛)”第十届2026（工业和信息化部人才交流中心主办，官网univ.ciciec.com，报名截止2026-03-31，初赛作品提交2026-05-07，分赛区2026年6-7月，全国总决赛2026年7月下旬），设有“半导体测试实践”赛道。本记录名称/主办/日期疑似与集创赛测试赛道混淆，建议核实或改名后重新核验。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。另：未检索到独立的“全国大学生集成电路测试大赛”官方赛事；最接近的官方赛事为“全国大学生集成电路创新创业大赛”（集创赛，工业和信息化部人才交流中心主办，官网univ.ciciec.com），其设有“集成电路测试”方向赛道。"
+}

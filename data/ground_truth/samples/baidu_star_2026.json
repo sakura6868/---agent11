@@ -1,0 +1,155 @@
+{
+  "competition_id": "baidu_star_2026",
+  "competition_name": "百度之星·程序设计大赛",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "百度公司（百度在线网络技术（北京）有限公司）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "人工智能",
+    "信息安全",
+    "数据科学与大数据技术",
+    "网络空间安全"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-09-19",
+  "submission_deadline": null,
+  "competition_start_date": "2026-08-23",
+  "competition_end_date": "2026-09-19",
+  "result_announcement_date": null,
+  "award_settings": "设省赛金、银、铜奖（每场初赛按参赛人数约5%、10%、15%设置）及全国总决赛金、银、铜奖（各组约10%、20%、30%）；总决赛前十名另有奖金（第1名10000元等）。优秀选手获百度校园招聘绿色通道。",
+  "award_distribution": [
+    {
+      "award": "省赛金奖",
+      "proportion": "约5%",
+      "note": "每场初赛"
+    },
+    {
+      "award": "省赛银奖",
+      "proportion": "约10%",
+      "note": "每场初赛"
+    },
+    {
+      "award": "省赛铜奖",
+      "proportion": "约15%",
+      "note": "每场初赛"
+    },
+    {
+      "award": "总决赛金奖",
+      "proportion": "约10%",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "总决赛银奖",
+      "proportion": "约20%",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "总决赛铜奖",
+      "proportion": "约30%",
+      "note": "全国总决赛"
+    }
+  ],
+  "brief_description": "百度之星·程序设计大赛（第二十二届，2026）是由百度公司主办的算法类程序设计赛事，主要面向本科生、研究生，以个人形式参赛。初赛两场（2026年8月23日、9月19日），考察算法与程序设计能力，是业内具有较高影响力的编程竞赛。",
+  "required_materials": [
+    "源代码",
+    "设计文档",
+    "答辩PPT",
+    "自测报告"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "时间与空间复杂度",
+    "代码规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java",
+    "Git"
+  ],
+  "official_source_url": "https://star.baidu.com/#/program-design-match2026?tab=1",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "百度公司决定举办第二十二届百度之星程序设计大赛",
+      "document_name": "关于举办\"2026年第二十二届百度之星程序设计大赛\"的通知",
+      "source_url": "https://site.gcc.edu.cn/jxgl/xkjs/f1753a9e019d497f9684a797054b13ac.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：百度在线网络技术（北京）有限公司",
+      "document_name": "关于举办\"2026年第二十二届百度之星程序设计大赛\"的通知",
+      "source_url": "https://site.gcc.edu.cn/jxgl/xkjs/f1753a9e019d497f9684a797054b13ac.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "选手以个人为单位参赛",
+      "document_name": "关于组织参加\"2026年百度之星程序设计大赛\"的通知",
+      "source_url": "https://tuanwei.sdufe.edu.cn/info/1022/46801.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间自本通知发布之日起至2026年9月19日止",
+      "document_name": "关于组织我校学生参加2026年第二十届百度之星程序设计大赛的通知",
+      "source_url": "https://xkjszx.nwafu.edu.cn/sstz/d6ee4d81393a4ef1a7d49ce5b2be3be7.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "第一场（线上）：2026年8月23日；第二场（线上）：2026年9月19日",
+      "document_name": "关于举办\"2026年第二十二届百度之星程序设计大赛\"的通知",
+      "source_url": "https://site.gcc.edu.cn/jxgl/xkjs/f1753a9e019d497f9684a797054b13ac.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官方网站：https://star.baidu.com/#/program-design-match2026?tab=1",
+      "document_name": "关于组织参加\"2026年百度之星程序设计大赛\"的通知",
+      "source_url": "https://tuanwei.sdufe.edu.cn/info/1022/46801.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。经2026-07-18核验：本赛事为个人赛（非组队），原team_required=true/team_max=3有误；决赛时间地点待定（result_announcement_date 置空）；初赛两场线上（8/23、9/19），报名截止9/19。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,84 @@
+{
+  "competition_id": "deep_learning_2026",
+  "competition_name": "全国大学生深度学习算法竞赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "相关人工智能联盟",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-11-01",
+  "competition_end_date": "2026-11-20",
+  "result_announcement_date": "2026-12-27",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生深度学习算法竞赛是由相关人工智能联盟主办的机器人与人工智能类赛事，主要面向本科生、研究生。要求人工智能、自动化、机器人工程等的同学以1-4人组队形式参与，考察技术难度、完成度等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 字段未核实：经检索未找到名为“全国大学生深度学习算法竞赛”的官方赛事；相关权威赛事有“全国人工智能应用场景创新挑战赛（cicas.cn）”“全球校园人工智能算法精英大赛（AIC）”等。本条目名称疑似讹写或地方/企业级赛事，所有日期均为占位符，待人工核实后再行更正。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。另：未检索到名为“全国大学生深度学习算法竞赛”的官方赛事；相关权威赛事有“全球校园人工智能算法精英大赛（AIC，aicomp.cn）”“全球校园深度学习算法精英大赛（sophgo.com）”“全国人工智能应用场景创新挑战赛（cicas.cn）”等。本条目名称疑似讹写或地方/企业级赛事。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

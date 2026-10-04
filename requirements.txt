@@ -1,0 +1,23 @@
+# 校园科创导航智能体 —— 依赖清单（隔离环境安装）
+# 核心依赖（必装，构建/运行必需）：
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+sqlalchemy>=2.0
+psycopg2-binary>=2.9        # PostgreSQL 驱动（可选；仅配置 PostgreSQL 时使用，本地 SQLite 不受影响）
+pdfplumber>=0.11
+python-docx>=1.1
+requests>=2.28              # LLM 润色层 + 联网补充检索的 HTTP 客户端（核心，必装；缺失会导致线上 LLM/联网全部关闭）
+httpx2>=2.0.0              # Starlette TestClient（自动回归测试）
+
+# —— 以下均为可选依赖，应用内置等价实现，未安装也能完整运行 ——
+# 构建 Docker / 本地部署时省略它们，镜像更小、装得更快更稳。
+
+# 1) LangGraph 编排：未安装时自动降级到内置 _graph_shim（已验证等价，本地默认即走此路）
+# langgraph>=0.2
+# 2) Chroma 向量库：本地隔离检索已内置；仅当你要连接远程 Chroma 时才需要
+# chromadb>=0.5
+# 3) 语义 embedding（RAG_USE_ST=1 时启用，需联网下载 all-MiniLM-L6-v2 模型）
+# sentence-transformers>=2.5
+# 4) LLM 润色（配置了 AGENT_LLM_API_KEY 时启用，OpenAI 兼容接口）
+# langchain-openai>=0.1

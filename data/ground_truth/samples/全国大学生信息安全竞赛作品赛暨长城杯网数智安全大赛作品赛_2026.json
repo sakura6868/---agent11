@@ -1,0 +1,45 @@
+{
+  "competition_id": "全国大学生信息安全竞赛作品赛暨长城杯网数智安全大赛作品赛_2026",
+  "competition_name": "全国大学生信息安全竞赛（作品赛）暨“长城杯”网数智安全大赛（作品赛）",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "中国信息安全测评中心、教育部高等学校网络空间安全专业教学指导委员会",
+  "eligible_students": [
+    "本科生",
+    "专科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "分自由作品赛与命题挑战赛两个赛道，设奖项，具体以竞赛官网及章程为准。",
+  "award_distribution": [],
+  "brief_description": "全国大学生信息安全竞赛是网络空间安全学科领域重要赛事，2026年为第十九届，暨第三届“长城杯”网数智安全大赛。分自由作品赛（专科/本科，不含研究生）与命题挑战赛（专科/本科/研究生均可）两赛道，每支参赛队不超过4名学生，不可跨校组队。作品以信息安全技术与应用设计为主要内容。",
+  "required_materials": [
+    "参赛作品",
+    "作品报告",
+    "原创性声明"
+  ],
+  "evaluation_dimensions": [],
+  "required_skills": [
+    "网络空间安全",
+    "密码技术",
+    "软件/硬件开发"
+  ],
+  "official_source_url": "http://www.ciscn.cn",
+  "source_acquired_date": "2026-07-19",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源竞赛官网 www.ciscn.cn 及多所高校教务处报名通知（电子科技大学、西北工业大学等）。第十九届，报名与作品提交 2026-05-29 至 07-05；决赛及颁奖约在8月，精确日期各校说法不一故留空。数据待人工核验，请勿当作定论。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

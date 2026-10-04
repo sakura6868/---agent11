@@ -1,0 +1,155 @@
+{
+  "competition_id": "swb_autumn_2026",
+  "competition_name": "2026年第十二届数维杯全国大学生数学建模挑战赛（秋季赛）",
+  "document_year": 2026,
+  "organizer": "中国仿真学会、辽宁科技大学",
+  "category": "modeling",
+  "official_source_url": "https://www.nmmcm.org.cn/Competition/",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-03",
+  "last_verified_at": "2026-10-03",
+  "doc_version": "2026_autumn_20261003",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-11-20",
+  "submission_deadline": "2026-11-24",
+  "required_materials": [
+    "电子版PDF格式英文论文（按题号与队伍编号命名）"
+  ],
+  "required_skills": [
+    "数学建模",
+    "Python",
+    "论文写作",
+    "英语"
+  ],
+  "evaluation_dimensions": [],
+  "data_status": "verified",
+  "trusted_level": "A",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "source_text": "报名截止：即日起至2026年11月20日06:00",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "registration_deadline_at",
+      "source_text": "报名截止：即日起至2026年11月20日06:00",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "eligible_students",
+      "source_text": "全国普通高校全日制在校生（分专科组、本科生组、研究生组）。以队为单位报名，每队1–3名学生",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "team_min",
+      "source_text": "全国普通高校全日制在校生（分专科组、本科生组、研究生组）。以队为单位报名，每队1–3名学生",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "team_max",
+      "source_text": "全国普通高校全日制在校生（分专科组、本科生组、研究生组）。以队为单位报名，每队1–3名学生",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "参赛队伍仅须提交电子版PDF格式论文，无需另附纸质文件。",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "submission_deadline",
+      "source_text": "论文提交截止：2026年11月24日10:00（逾期提交无效）",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "submission_deadline_at",
+      "source_text": "论文提交截止：2026年11月24日10:00（逾期提交无效）",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "competition_end_date",
+      "source_text": "竞赛时间：2026年11月20日09:00—11月24日09:00",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    },
+    {
+      "field": "fee",
+      "source_text": "每队缴纳报名费200元",
+      "page": null,
+      "document_name": "swb_autumn_2026_official.html",
+      "source_url": "https://www.nmmcm.org.cn/Competition/",
+      "trusted_level": "A",
+      "document_sha256": "9b0d9abc939ee2c3ef869e719dc5a514c78de27269f18331578f87c95fe8174a",
+      "acquired_date": "2026-10-03",
+      "last_verified_at": "2026-10-03"
+    }
+  ],
+  "registration_deadline_at": "2026-11-20T06:00:00+08:00",
+  "submission_deadline_at": "2026-11-24T10:00:00+08:00",
+  "deadline_timezone_basis": "campus_default",
+  "competition_start_date": "2026-11-20",
+  "competition_end_date": "2026-11-24",
+  "brief_description": "秋季英文论文赛，允许跨校组队，报名截止与竞赛结束、论文提交为三个不同时间。",
+  "notes": "独立于春季赛；原文未说明时区，精确时刻采用校园UTC+08:00假设。论文须符合官网规范及原创性要求；最终以官网最新通知为准。"
+}

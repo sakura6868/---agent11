@@ -1,0 +1,135 @@
+{
+  "competition_id": "vehicle_2026",
+  "competition_name": "中国大学生方程式汽车大赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国汽车工程学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "材料成型",
+    "力学",
+    "能源与动力工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": null,
+  "registration_deadline": "2026-03-08",
+  "submission_deadline": null,
+  "competition_start_date": "2026-11-03",
+  "competition_end_date": "2026-11-08",
+  "result_announcement_date": "2026-11-08",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国大学生方程式汽车大赛（FSC）是由中国汽车工程学会主办的机械与工程类赛事，面向高校车队（本科生、研究生）。各院校以车队为单位参赛，在一年内设计制造一辆小型单座赛车，于决赛周完成静态与动态项目比拼，考察设计合理、制造工艺等能力，是提升工程实践与综合素养的重要平台。",
+  "required_materials": [
+    "实物作品",
+    "设计说明书",
+    "图纸",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "设计合理",
+    "制作工艺",
+    "创新点",
+    "现场展示"
+  ],
+  "required_skills": [
+    "机械设计",
+    "CAD/UG",
+    "工程制图",
+    "有限元分析",
+    "加工工艺"
+  ],
+  "official_source_url": "http://www.formulastudent.com.cn/index.php",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026“吉利杯”中国大学生方程式汽车大赛……由中国汽车工程学会主办、汽车行业骨干单位共同支持。",
+      "document_name": "2026“吉利杯”中国大学生方程式汽车大赛启动公告（一号公告）",
+      "source_url": "http://www.formulastudent.com.cn/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由中国汽车工程学会主办、汽车行业骨干单位共同支持的中国大学生方程式汽车大赛已连续举办16届。",
+      "document_name": "2026“吉利杯”中国大学生方程式汽车大赛启动公告（一号公告）",
+      "source_url": "http://www.formulastudent.com.cn/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "境内车队报名截止时间：2026年3月8日9:30；境外车队报名截止时间：2026年4月30日。",
+      "document_name": "2026“吉利杯”中国大学生方程式汽车大赛启动公告（一号公告）",
+      "source_url": "http://www.formulastudent.com.cn/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "拟比赛时间：2026年11月3-8日。",
+      "document_name": "2026“吉利杯”中国大学生方程式汽车大赛启动公告（一号公告）",
+      "source_url": "http://www.formulastudent.com.cn/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "拟比赛时间：2026年11月3-8日。",
+      "document_name": "2026“吉利杯”中国大学生方程式汽车大赛启动公告（一号公告）",
+      "source_url": "http://www.formulastudent.com.cn/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已于2026-07-18经赛事官网（formulastudent.com.cn）启动公告核验：2026年为“吉利杯”中国大学生方程式汽车大赛（FSCC燃油组），由中国汽车工程学会主办，境内车队报名截止2026-03-08 9:30，决赛2026-11-03至11-08。FSC以院校车队为单位参赛（每校原则上一支燃油车队），车队成员规模无硬性上限，故team_max置为null；无单篇“作品提交”截止，submission_deadline置为null。原模板名称“全国大学生方程式汽车大赛”、报名/比赛日期（2026-11）及team_max=5等均为占位错误，已更正。",
+  "official_source_status": "found"
+}

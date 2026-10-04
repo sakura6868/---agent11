@@ -1,0 +1,115 @@
+{
+  "competition_id": "sas_2026",
+  "competition_name": "中国高校SAS数据分析大赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "SAS中国",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "统计学",
+    "数据科学与大数据技术",
+    "计算机科学与技术",
+    "经济学",
+    "信息管理与信息系统",
+    "数学与应用数学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国高校SAS数据分析大赛是由SAS中国发起的非盈利性公益数据分析赛事，主要面向高校本科与研究生。参赛团队以1-3人组队形式参与，考察数据分析、建模与解决实际问题等能力。注：2026赛季官方信息未检索到，赛期待确认。",
+  "required_materials": [
+    "分析报告",
+    "建模代码",
+    "数据集",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "可视化表达",
+    "创新应用"
+  ],
+  "required_skills": [
+    "Python",
+    "数据分析",
+    "机器学习",
+    "SQL",
+    "数据可视化"
+  ],
+  "official_source_url": "http://www.saschampion.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "中国高校SAS数据分析大赛（由SAS中国发起，针对中国高校的非盈利性公益大赛）",
+      "document_name": "2021年SAS中国高校数据分析大赛报名通知",
+      "source_url": "http://strong-vinda.com/article/22/270.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由SAS中国发起",
+      "document_name": "2021年SAS中国高校数据分析大赛报名通知",
+      "source_url": "http://strong-vinda.com/article/22/270.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每队1-3名队员皆可（可以跨年级、跨专业，不可跨校进行组队）",
+      "document_name": "中国高校SAS数据分析大赛2018宣讲会（华南赛区）",
+      "source_url": "https://www.deeao.net/nd.jsp?fromColId=130&id=61",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】竞赛存在性可确认（中国高校SAS数据分析大赛，SAS中国主办，团队1-3人；官方报名网站 saschampion.com），原名“全国大学生SAS数据分析大赛”为同一赛事异称，已更正。但2026赛季官方信息未检索到（公开资料多为2017-2021届），故报名/提交/赛期/结果日期均无法核实，已全部置空待人工确认。trusted_level 标 A 仅表示名称/主办/团队规模等基础字段已据公开资料确认，不代表2026赛季时间已确认。",
+  "official_source_status": "found"
+}

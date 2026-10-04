@@ -1,0 +1,134 @@
+{
+  "competition_id": "mech_innov_2026",
+  "competition_name": "第十二届全国大学生机械创新设计大赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "全国大学生机械创新设计大赛组委会",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-15",
+  "competition_end_date": "2026-07-31",
+  "result_announcement_date": null,
+  "award_settings": "常规赛全国决赛设立设计奖，分设一、二、三等奖；另设“优秀组织奖”等奖项。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "由组委会确定",
+      "note": "全国决赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "由组委会确定",
+      "note": "全国决赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "由组委会确定",
+      "note": "全国决赛"
+    },
+    {
+      "award": "优秀组织奖",
+      "proportion": "若干",
+      "note": "全国决赛"
+    }
+  ],
+  "brief_description": "全国大学生机械创新设计大赛是由全国大学生机械创新设计大赛组委会主办、面向全国在校本专科生的机械工程类赛事，2026年为第十二届常规赛赛季（主题“灵巧·智能，美好生活”），要求以1-5人团队完成作品的设计与实物制作，考察创新设计、综合设计与工程实践能力。",
+  "required_materials": [
+    "作品报名表",
+    "设计说明书及主要设计图纸",
+    "实物样机或放缩实物样机",
+    "作品功能介绍视频（≤3分钟）"
+  ],
+  "evaluation_dimensions": [
+    "设计创新",
+    "综合设计能力",
+    "工程实践",
+    "团队协作"
+  ],
+  "required_skills": [
+    "机械设计",
+    "CAD/UG",
+    "工程制图",
+    "实物制作",
+    "团队协作"
+  ],
+  "official_source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第十二届全国大学生机械创新设计大赛的主题为“灵巧·智能，美好生活”。",
+      "document_name": "第十二届全国大学生机械创新设计大赛主题与内容的通知（第1号通知）",
+      "source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "第十二届全国大学生机械创新设计大赛主办单位为：全国大学生机械创新设计大赛组委会。",
+      "document_name": "第十二届全国大学生机械创新设计大赛主题与内容的通知（第1号通知）",
+      "source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全国在校本、专科大学生（含2026届毕业生）均可以个人或小组的方式，通过学校推荐报名参加。",
+      "document_name": "第十二届全国大学生机械创新设计大赛主题与内容的通知（第1号通知）",
+      "source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每个参赛队学生人数不得多于5人，指导教师不多于2人。",
+      "document_name": "第十二届全国大学生机械创新设计大赛主题与内容的通知（第1号通知）",
+      "source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "常规赛全国决赛将于2026年7月中下旬在哈尔滨工业大学（地点：黑龙江省哈尔滨市）举行。",
+      "document_name": "第十二届全国大学生机械创新设计大赛主题与内容的通知（第1号通知）",
+      "source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "向学校和各赛区组委会提交：作品报名表、完整的设计说明书和主要设计图纸、作品的实物样机或放缩的实物样机、介绍作品功能的视频录像（3分钟之内）。",
+      "document_name": "第十二届全国大学生机械创新设计大赛主题与内容的通知（第1号通知）",
+      "source_url": "https://12umic.hit.edu.cn/2025/0321/c20012a364782/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据第十二届大赛第1号通知（全国大学生机械创新设计大赛官网/哈尔滨工业大学）核验。原记录日期（2026-11/12月）属错误占位，已更正：2026年为第十二届常规赛赛季，各赛区预赛须于2026年5月10日前完成，全国决赛于2026年7月中下旬在哈尔滨工业大学举行（具体日期由后续通知明确，本表competition日期取“7月中下旬”窗口）。原organizer“教育部高等学校机械基础课程教学指导分委员会”不准确，已更正为大赛组委会；原eligible_students含“研究生”有误，官方明确仅在校本、专科大学生（含2026届毕业生）。registration_deadline/submission_deadline因采取校赛—省赛—全国决赛逐级推荐、无全国统一截止日，置空；result_announcement_date置空（决赛后公布，官网2026-06-22已发布第二阶段评审拟获奖公示）。第十二届大赛另设2027年挑战赛赛季（数字孪生设计），本表仅记录2026常规赛。",
+  "official_source_status": "found"
+}

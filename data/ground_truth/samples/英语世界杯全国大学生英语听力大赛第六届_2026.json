@@ -1,0 +1,43 @@
+{
+  "competition_id": "英语世界杯全国大学生英语听力大赛第六届_2026",
+  "competition_name": "《英语世界》杯全国大学生英语听力大赛（第六届）",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "商务印书馆《英语世界》杂志社",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-08-23",
+  "competition_end_date": "2026-10-25",
+  "award_settings": "分A/B/C/D四个类别独立评奖，可作为高校综合素质测评加分参考",
+  "award_distribution": [],
+  "brief_description": "本届主题为“色彩的奥秘”，采用线上报名、线上考试形式，30道客观单选题、满分100分、时长60分钟，设8月23日、9月13日、10月25日三场考试可任选。",
+  "required_materials": [],
+  "evaluation_dimensions": [
+    "英语听力理解",
+    "主题知识掌握"
+  ],
+  "required_skills": [
+    "英语听力"
+  ],
+  "official_source_url": "https://new.saikr.com/vse/Listening26",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 赛氪 new.saikr.com/vse/Listening26。报名 2026-07-20 至 2026-10-24；A类研究生、B类英语专业本专科、C类非英语专业本科、D类体艺类及高职高专。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

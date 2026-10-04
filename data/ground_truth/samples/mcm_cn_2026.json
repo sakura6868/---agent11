@@ -1,0 +1,125 @@
+{
+  "competition_name": "高教社杯全国大学生数学建模竞赛（国赛）",
+  "document_year": 2026,
+  "organizer": "中国工业与应用数学学会",
+  "category": "modeling",
+  "eligible_students": [
+    "本科生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-09-07",
+  "submission_deadline": "2026-09-14",
+  "required_materials": [
+    "参赛论文（PDF或Word）",
+    "支撑材料（如有，ZIP或RAR）",
+    "纸质论文",
+    "参赛承诺书"
+  ],
+  "evaluation_dimensions": [
+    "假设合理性",
+    "建模创造性",
+    "结果正确性",
+    "文字表述清晰程度"
+  ],
+  "required_skills": [
+    "数学建模",
+    "计算机编程",
+    "论文写作"
+  ],
+  "official_source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "A",
+  "data_status": "verified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 1,
+      "source_text": "向全国组委会报名的截止时间为9月7日（周一）20时。所有报名均采用网上报名方式。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 3,
+      "source_text": "提交参赛论文和支撑材料：9月13日20:30至9月14日14:00。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 6,
+      "source_text": "竞赛分本科、高职高专两组进行，所有大学生均可参加本科组竞赛，但只有高职高专学生可以参加高职高专组竞赛（也可参加本科组竞赛）。研究生不得参加本项竞赛。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 1,
+      "source_text": "参赛队由1-3名大学生组成（鼓励不填写指导教师）。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 1,
+      "source_text": "参赛队由1-3名大学生组成（鼓励不填写指导教师）。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 4,
+      "source_text": "各参赛队提交的参赛作品通常有“参赛论文”和“支撑材料”两部分，其中“参赛论文”是必要的。参赛论文文件格式只能用PDF或Word格式之一；支撑材料使用WinRAR压缩为一个ZIP或RAR文件。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 5,
+      "source_text": "同时打印承诺书和编号专用页，签字后附在论文之前一并装订。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": 6,
+      "source_text": "竞赛评奖以假设的合理性、建模的创造性、结果的正确性和文字表述的清晰程度为主要标准。",
+      "document_name": "2026高教社杯全国大学生数学建模竞赛第一次通知.pdf",
+      "source_url": "http://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "人工逐页核验全国大学生数学建模竞赛官网发布的2026第一次通知及其合并附件。报名截止记录全国统一节点，提交截止记录最终电子文档上传节点。",
+  "official_source_status": "found"
+}

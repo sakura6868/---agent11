@@ -1,0 +1,89 @@
+{
+  "competition_id": "2026年大学生AI信息素养大赛_2026",
+  "competition_name": "2026年大学生“AI+信息素养”大赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "大学生“AI+信息素养”大赛组织委员会（指导单位：教育部高等学校图书情报工作指导委员会、重庆市教育委员会、四川省教育厅）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "高职高专生",
+    "职业本科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-09-17",
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-09-19",
+  "competition_end_date": null,
+  "award_settings": "校赛设校级一、二、三等奖；市赛/省赛设特等奖、一、二、三等奖及优秀组织奖；晋级全国联赛者获联赛奖项。",
+  "award_distribution": [],
+  "brief_description": "面向高校在校生的AI与信息素养赛事，设本科生、研究生、高职高专和职业本科组。校赛以个人线上答题方式报名；晋级省赛后按3人团队参赛并提交决赛作品，之后进入全国联赛。报名平台 https://csc.xxsuyang.com/ 。",
+  "required_materials": [
+    "在线答题",
+    "区赛/省赛决赛作品"
+  ],
+  "evaluation_dimensions": [
+    "信息检索",
+    "AI应用能力",
+    "数据素养"
+  ],
+  "required_skills": [
+    "信息素养",
+    "AI工具应用"
+  ],
+  "official_source_url": "https://csc.xxsuyang.com/",
+  "source_acquired_date": "2026-07-29",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-29",
+  "official_source_status": "found",
+  "notes": "【2026-07-29人工核验】依据广西科技大学图书馆发布的2026年赛事通知完成报名日期、参赛组别、赛制和决赛作品节点核验。校赛为个人报名；省赛阶段按3人团队参赛，故本系统以个人可报名（team_required=false）展示、队伍上限保留为3。team_min=1是本系统对“仅公布上限”的统一产品规则，不是对官方原文的引述。",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "大赛设置本科生组、研究生组、高职高专组、职业本科组。",
+      "document_name": "关于举办2026年大学生\"AI+信息素养\"大赛的通知",
+      "source_url": "https://tsg.gxust.edu.cn/info/1131/4277.htm",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "进入区赛的参赛学生以团队形式（3人）参赛。",
+      "document_name": "关于举办2026年大学生\"AI+信息素养\"大赛的通知",
+      "source_url": "https://tsg.gxust.edu.cn/info/1131/4277.htm",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：2026年7月3日—9月17日，参赛学生登录大赛平台（https://csc.xxsuyang.com/）进行个人报名。",
+      "document_name": "关于举办2026年大学生\"AI+信息素养\"大赛的通知",
+      "source_url": "https://tsg.gxust.edu.cn/info/1131/4277.htm",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "区赛决赛作品提交时间：截至11月2日。",
+      "document_name": "关于举办2026年大学生\"AI+信息素养\"大赛的通知",
+      "source_url": "https://tsg.gxust.edu.cn/info/1131/4277.htm",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    }
+  ],
+  "doc_version": "2026_official_notice_v2"
+}

@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>2026年第八届全国高校计算机能力挑战赛官网 - 数字媒体创新设计赛</title>
+    <link rel="stylesheet" href="/static/admin/layui/src/css/layui.css?v=1.1.02"/>
+    <link rel="stylesheet" href="/static/index/css/public.css?v=1.1.02"/>
+    <link rel="stylesheet" href="/static/index/css/index.css?v=1.1.02" media="screen and (min-width:768px)">
+    <link rel="stylesheet" href="/static/index/css/indexMobile.css?v=1.1.02" media="screen and (min-width:0px) and (max-width:768px)">
+    <script src="/static/index/js/jquery.min.js?v=1.1.02"></script>
+    <script src="/static/index/js/public.js?v=1.1.02"></script>
+    <script src="/static/admin/layui/src/layui.js?v=1.1.02"></script>
+    <script src="/static/index/layer/layer.js?v=1.1.02"></script>
+</head>
+<style>
+    table{
+        margin: auto;
+    }
+    table td{
+        border-style: solid;
+    }
+</style>
+<body>
+<div class="page_container">
+    <!--header-mobile-->
+<div class="header page_mobile">
+    <ul class="h_sub_menu clearfix">
+<!--        （signup_state_gray）报名结束加class名-->
+        <li class="h_sub_item"><a class="anchor_link" href="/index/Index/index.html#details" style="background-color: coral">五大赛项</a></li>
+        <li class="h_sub_item h_office">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case3.html" style="background-color: #0052d9;">Office</a>
+        </li>
+        <li class="h_sub_item h_cxsj">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case4.html" style="background-color: #0052d9;">程序设计</a>
+        </li>
+        <li class="h_sub_item h_rgzn">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case1.html" style="background-color: #0052d9;">人工智能</a>
+        </li>
+        <li class="h_sub_item h_dsj">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case2.html" style="background-color: #0052d9;">大数据</a>
+        </li>
+<!--        <li class="h_sub_item h_jsjxt"><a href="/index/Paper/case5.html">计算机系统</a></li>-->
+<!--        <li class="h_sub_item h_qrsxt"><a href="/index/Paper/case6.html">嵌入式</a></li>-->
+        <li class="h_sub_item h_szmt">
+            <div class="signup_state">报名中</div>
+            <a href="/index/Paper/case7.html" style="background-color: #0052d9;">数字媒体</a>
+        </li>
+    </ul>
+    <div class="nav">
+        <ul class="nav_list">
+            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html">首页</a></li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Cms/content.html?id=372">章程</a></li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Cms/category.html">新闻</a></li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#org">组织</a></li>-->
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#about">详情</a></li>-->
+<!--            <li class="nav_item rank_nav">-->
+<!--                <span style="color: red">公示</span>-->
+<!--                <div class="modal_rank">-->
+<!--                    <a class="anchor_link" href="/index/Publicity/publicity.html" style="color: red">区域赛/省赛公示</a>-->
+<!--                    <a class="anchor_link" href="/index/FinalPublicity/publicity.html" style="color: red">国赛/决赛公示</a>-->
+<!--                </div>-->
+<!--            </li>-->
+            <li class="nav_item preparation_guide">
+                <a href="javascript:void(0)">备赛</a>
+                <ul class="nav_menu">
+                    <li class="nav_tkxl">
+                        <a href="/index/Practice/contest.html">
+                            <p>题库训练</p>
+                            <p>往届真题·在线刷题·实时评测</p>
+                        </a>
+                    </li>
+                    <li class="nav_zjfd">
+                        <a href="/index/Practice/video.html">
+                            <p>专家辅导</p>
+                            <p>名师答疑·攻克难点·直播回放</p>
+                        </a>
+                    </li>
+                    <li class="nav_wjzp">
+                        <a href="/index/Index/previousWorks.html">
+                            <p>往届作品</p>
+                            <p>借鉴学习·提升审美·了解评分</p>
+                        </a>
+                    </li>
+                    <li class="nav_zxlx">
+                        <a href="/index/Practice/exercise.html">
+                            <p>在线练习</p>
+                            <p>模拟实战·限时答题·自动评分</p>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav_item prov">
+                <span style="color: #fff">省赛</span>
+                <div class="modal_prov">
+                    <a href="http://www.ncccu.org.cn/gansu/Index/index.html" target="_blank">甘肃</a>
+                    <a href="http://www.ncccu.org.cn/sichuan/Index/index.html" target="_blank">四川</a>
+                    <a href="http://www.ncccu.org.cn/hubei/Index/index.html" target="_blank">湖北</a>
+                </div>
+            </li>
+            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#subjectMenu">赛项</a></li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Index/index.html#awards">风采</a></li>-->
+            <li class="nav_item history">
+                <span style="color: #fff">往届</span>
+                <div class="modal_history" style="right: -12px">
+                    <a href="http://2025.ncccu.org.cn/" target="_blank">25年官网</a>
+                    <a href="/index/PreviousEditions/certificate.html">往届证书</a>
+                </div>
+            </li>
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/Publicity/publicity.html" style="color: red;">区域赛公示</a></li>-->
+<!--            <li class="nav_item"><a class="anchor_link" href="/index/FinalPublicity/publicity.html" style="color: red;">国赛/决赛公示</a></li>-->
+        </ul>
+    </div>
+</div>
+<!--header-pc-->
+<div class="header page_pc">
+    <div class="h_mian clearfix">
+        <div class="h_logo"><a href="/index/Index/index.html"><img src="/static/index/images/logo.png" alt="logo"></a></div>
+        <div class="h_nav">
+            <ul class="clearfix">
+                <li><a href="/index/Cms/content.html?id=372">大赛章程</a></li>
+<!--                <li><a href="/index/Cms/content.html?id=108">大赛详情</a></li>-->
+                <li><a href="/index/Cms/category.html">新闻通知</a></li>
+<!--                <li><a href="/index/Index/index.html#org">组织机构</a></li>-->
+                <li class="prov">
+                    <span>省赛相关</span>
+                    <div class="modal_prov">
+                        <a href="http://www.ncccu.org.cn/gansu/Index/index.html" target="_blank">甘肃省赛</a>
+                        <a href="http://www.ncccu.org.cn/sichuan/Index/index.html" target="_blank">四川省赛</a>
+                        <a href="http://www.ncccu.org.cn/hubei/Index/index.html" target="_blank">湖北省赛</a>
+                    </div>
+                </li>
+                <li><a href="/index/Index/index.html#subjectMenuPC">大赛赛项</a></li>
+                <li class="preparation_guide">
+                    <a href="javascript:void(0)">备赛指南</a>
+                    <ul class="nav_menu">
+                        <li class="nav_tkxl">
+                            <a href="/index/Practice/contest.html">
+                                <p>题库训练</p>
+                                <p>往届真题·在线刷题·实时评测</p>
+                            </a>
+                        </li>
+                        <li class="nav_zjfd">
+                            <a href="/index/Practice/video.html">
+                                <p>专家辅导</p>
+                                <p>名师答疑·攻克难点·直播回放</p>
+                            </a>
+                        </li>
+                        <li class="nav_wjzp">
+                            <a href="/index/Index/previousWorks.html">
+                                <p>往届作品</p>
+                                <p>借鉴学习·提升审美·了解评分</p>
+                            </a>
+                        </li>
+                        <li class="nav_zxlx">
+                            <a href="/index/Practice/exercise.html">
+                                <p>在线练习</p>
+                                <p>模拟实战·限时答题·自动评分</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+<!--                <li><a href="/index/Index/index.html#awards">活动风采</a></li>-->
+<!--                <li><a href="/index/Publicity/publicity.html" style="color: red">区域赛/省赛公示</a></li>-->
+<!--                <li><a href="/index/FinalPublicity/publicity.html" style="color: red">国赛/决赛公示</a></li>-->
+
+                <li class="history">
+                    <span>往届查询</span>
+                    <div class="modal_history">
+                        <a href="http://2025.ncccu.org.cn/" target="_blank">25年官网</a>
+                        <a href="/index/PreviousEditions/certificate.html">往届证书</a>
+                    </div>
+                </li>
+                <li><a href="/index/Index/index.html#contact">联系我们</a></li>
+            </ul>
+        </div>
+        <div class="h_login">
+                            <a href="/index/Login/login.html">考生登录</a>
+                            <a href="/index/Login/teamLogin.html">承办登录</a>
+                    </div>
+    </div>
+</div>
+    <div class="center page_case">
+        <ul class="case_sub_menu">
+    <li class="c_sub_item c_dsj"><a href="/index/Paper/case2.html">大数据</a></li>
+    <li class="c_sub_item c_rgzn"><a href="/index/Paper/case1.html">人工智能</a></li>
+    <li class="c_sub_item c_office"><a href="/index/Paper/case3.html">Office</a></li>
+    <li class="c_sub_item c_cxsj"><a href="/index/Paper/case4.html">程序设计</a></li>
+<!--    <li class="c_sub_item c_cxsj"><a href="/index/Paper/case8.html">计算机设计</a></li>-->
+<!--    <li class="c_sub_item c_jsjxt"><a href="/index/Paper/case5.html">计算机系统</a></li>-->
+<!--    <li class="c_sub_item c_qrsxt"><a href="/index/Paper/case6.html">嵌入式</a></li>-->
+    <li class="c_sub_item c_szmt"><a href="/index/Paper/case7.html">数字媒体</a></li>
+    <li class="c_sub_item c_add_qun"><a href="http://cp.52jingsai.com/qrcode/191" target="_blank">加本赛项群</a></li>
+</ul>
+<script>
+    $(document).ready(function(){
+        $(".piaochuang").css("display","none");
+    });
+
+    //        飘窗滚动
+    var fcModel=$(".case_sub_menu");
+    $(document).ready(function(){
+        const $ScrollWrap = $(document);
+        // 监听滚动停止
+        var t1 = 0;
+        var t2 = 0;
+        var timer = null; // 定时器
+        $ScrollWrap.on("touchstart", function(){
+            // 触摸开始 ≈ 滚动开始
+        });
+        $ScrollWrap.on("scroll", function(){
+            // 滚动
+            fcModel.removeClass("slideLeft");
+            fcModel.addClass("slideRight");
+            clearTimeout(timer);
+            timer = setTimeout(isScrollEnd, 100);
+            t1 = $ScrollWrap.scrollTop();
+        });
+        function isScrollEnd() {
+            t2 = $ScrollWrap.scrollTop();
+            if(t2 == t1){
+                fcModel.addClass("slideLeft");
+                fcModel.removeClass("slideRight");
+                clearTimeout(timer)
+            }
+        }
+    });
+</script>
+        <div class="subject_main_info clearfix">
+            <div class="subject_img">
+                <img src="/static/index/images/subject_07.png" alt="subject"/>
+                <div class="case_bm"><a href="#bmtop">报名参赛</a></div>
+            </div>
+            <div class="subject_info">
+                <h3>赛项：数字媒体创新设计赛</h3>
+                <div class="case_org">
+                    <p>组织架构</p>
+                    主办单位：全国高等学校计算机教育研究会<br />
+承办单位：安徽省高等学校计算机教育研究会、山西省计算机学会、四川省计算机学会、海南省计算机学会、《软件导刊》杂志社、济南计算机学会<br />
+技术支持：中觅科技有限公司、未来教育等                </div>
+                <div class="test_sub">
+                    <p>参赛对象</p>
+                    <p id="bmtop">大赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。</p>
+                </div>
+                <ul class="case_time page_pc clearfix">
+                    <li><p>报名时间</p><p style="color: #0052d9">2026年7月9日&mdash;11月19日</p></li>
+                    <li><p>区域赛/省赛时间</p><p>2026年8月6日&mdash;11月19日</p></li>
+                    <li><p>晋级国赛公示</p><p>2026年11月30日</p></li>
+                    <li><p>国赛时间</p><p>2026年12月5日&mdash;6日（以考前通知时间为准）</p></li>
+                    <li><p>国赛公示</p><p>2026年12月中旬</p></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="subject_content">
+            <div class="case_main clearfix">
+                <ul class="anchor_point page_pc">
+                    <li><a href="#cs1">赛题背景</a></li>
+                    <li><a href="#cs2">时间安排</a></li>
+                    <li><a href="#cs3">奖项设置</a></li>
+                    <li><a href="#cs4">参赛组队</a></li>
+                    <li><a href="#cs5">竞赛规则</a></li>
+                    <li><a href="#cs6">成绩评定</a></li>
+                    <li><a href="#cs7">联系信息</a></li>
+                </ul>
+                <div class="sub_details">
+                    <div class="csign">
+                        <div class="csign_subject szmt_sub">
+                            <p> *请勾选你要报名的科目</p>
+                            <ul class="clearfix">
+                                                                    <li>
+                                        <label for="c0">海报设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id0" id="c0" value="13">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c1">动画设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id1" id="c1" value="14">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c2">视频设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id2" id="c2" value="15">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c3">AIGC创意设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id3" id="c3" value="16">
+                                                                            </li>
+                                                            </ul>
+                        </div>
+                                                   <div class="select_pay">
+                                <p>*支付方式</p>
+                                <div class="paymethod clearfix">
+                                    <div class="pay_item"><input type="radio" value="1" name="paymethod" id="wx" checked=""> <label for="wx"><img src="/static/index/images/wx.png" width="20"> 微信支付</label></div>
+                                    <div class="pay_item"><input type="radio" value="2" name="paymethod" id="zfb" > <label for="zfb"><img src="/static/index/images/zfb.png" width="20"> 支付宝</label></div>
+                                </div>
+                            </div>
+                                                <!--报名方法onclick="createOrder()"-->
+                        <div class="csign_btn" onclick="createOrder()">报名参赛</div>
+                        <div class="case_tips">
+                            报名时间：2026年7月9日—11月19日<br/>
+                            区域赛设计与提交时间：2026年8月6日—11月19日
+                        </div>
+                    </div>
+                    <div class="subject_test_rule">
+                        <p style="text-indent:43px;text-autospace:ideograph-numeric;line-height:37px"><strong style="text-indent: 2em;">一、赛题背景</strong></p><p style="text-indent: 2em;">本赛项属于作品赛。</p><p style="text-indent: 2em;">为进一步提升大学生通过数字媒体技术进行创新和实践的能力，鼓励院校相关专业培养社会需要的各类数字媒体人才，提升数字内容创作水平，为数字中国建设添砖加瓦。</p><p style="text-indent: 2em;">本届数字媒体创新设计赛分海报设计、视频设计、动画设计、AIGC创意设计四个科目，各科目分别竞赛分别评比，考生可单独报名一科或多科。</p><p style="text-indent: 2em;"><strong>二、时间安排</strong></p><p style="text-indent: 2em;">报名时间：2026年7月9日—11月19日</p><p style="text-indent: 2em;">区域赛设计与提交时间：2026年8月6日—11月19日</p><p style="text-indent: 2em;">区域赛奖项与晋级公示时间：2026年11月30日</p><p style="text-indent: 2em;">国赛时间：2026年12月5日—6日（以具体通知时间为准）</p><p style="text-indent: 2em;">获奖公示：2026年12月中旬</p><p style="text-indent: 2em;">说明：比赛获奖公示后3个工作日内，接受异议、申诉和违规举报。</p><p style="text-indent: 2em;"><strong>三、奖项设置</strong></p><p style="text-indent: 2em;">省赛段奖项设置由各省赛区自行设定，详见各省赛区赛事官网。省赛和区域赛合并办赛的，以所在省成绩排名来晋级国赛。</p><p style="text-indent: 2em;">区域赛各科目成绩根据各区域考生成绩分别排名，分设一等奖10%、二等奖20%和三等奖25%，颁发电子荣誉证书和电子指导老师证书。</p><p style="text-indent: 2em;">各区域一、二等奖获奖选手将晋级国赛，国赛设一等奖不超过参赛数的10%、二等奖不超过参赛数的20%、三等奖不超过参赛数的30%，获奖师生将颁发电子荣誉证书和电子指导老师证书。各赛项成绩前三名获奖队伍将获得大赛奖金。颁发奖金1000元/队伍（税前）。</p><p style="text-indent: 2em;"><strong>四、参赛组队</strong></p><p style="text-indent: 2em;">1.参赛对象</p><p style="text-indent: 2em;">计挑赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。</p><p style="text-indent: 2em;">2.参赛费用</p><p style="text-indent: 2em;">区域赛赛段团队赛各科目收取报名、考试及评审费人民币200元/队。参赛学生可以根据自己的实际情况选择一科或者多科参赛。计挑赛秉持公益办赛原则，费用仅用于获奖奖金、大赛系统开发、场地、设备、专家评审等。费用由技术支持单位中觅科技有限公司（开户行名称：招商银行股份有限公司合肥三孝口支行&nbsp;银行账号：551908703110002）代收代付并开具发票，学校有关部门要积极支持大赛工作，对指导教师在工作量、活动经费等方面给予必要的支持。</p><p style="text-indent: 2em;">国赛不再另行收费。</p><p style="text-indent: 2em;">3.参赛组队</p><p style="text-indent: 2em;">参赛学生自行在大赛官网进行报名，缴费考生默认为队长，每支参赛队伍限1—3名队员 (含1名队长) ，队员信息由队长在官网填写，队员无需重复缴费。参赛队伍可设1名指导老师。单院校报名不得超过100支队伍，允许跨校组队。</p><p style="text-indent: 2em;"><strong>五、竞赛规则</strong></p><p style="text-indent: 2em;">1.竞赛主题</p><p style="text-indent: 2em;"><strong><span style="color: rgb(79, 129, 189);">“新质·新生——数智时代的青年表达”</span></strong></p><p style="text-indent: 2em;">以青春视角观察时代变迁，以数字智慧描绘未来图景。在“十五五”规划开局之年，我们既是新质生产力的见证者，也是文化新生的创造者。</p><p style="text-indent: 2em;">&nbsp;主题说明：2026年，国家发展进入“十五五”规划的重要阶段。这一规划承前启后，既是面向未来的战略部署，也为青年成长提供了新的历史机遇。值得关注的是，规划首次以专节形式将“青年发展”纳入国家政策框架，体现了对青年群体的高度重视，也为民族复兴注入了持续动力。</p><p style="text-indent: 2em;">与此同时，人工智能技术迅速发展，AIGC、沉浸式媒介等新兴手段不断拓展内容创作的边界。国潮文化兴起，情绪消费成为新趋势，青年文化正在打破传统圈层，展现出强大的渗透力。中华优秀传统文化也在数字技术的赋能下，以更富时代感的方式重回公众视野，焕发新的生命力。</p><p style="text-indent: 2em;">在技术变革与文化演进交织的时代背景下，当代大学生既是科技发展的亲历者，也是文化创新的实践者。大赛以“新质·新生”为核心主题：“新质”强调新质生产力所驱动的技术创新与产业转型；“新生”则聚焦青年一代的文化自觉与创意表达。二者交汇之处，正是数字媒体艺术得以深耕的沃土，也为青年创作者提供了思想与灵感自由碰撞的广阔空间。</p><p style="text-indent: 2em;">2.竞赛内容</p><p style="text-indent: 2em;">竞赛内容分为海报设计、视频设计、动画设计、AIGC创意设计。参赛作品需围绕大赛给定主题进行原创创作，内容新颖有创意，作品形式和要求如下：</p><table align="center"><tbody><tr style="height:54px" class="firstRow"><td width="123" valign="middle" style="padding: 0px; border-width: 1px; border-color: rgb(0, 0, 0);" align="center"><p>科目</p></td><td width="181.66666666666666" valign="middle" style="padding: 0px; border-width: 1px; border-color: rgb(0, 0, 0);" align="center"><p>作品形式</p></td><td width="313.6666666666667" valign="middle" style="padding: 0px; border-width: 1px; border-color: rgb(0, 0, 0);" align="center"><p>提交要求</p></td></tr><tr style="height:46px"><td width="123" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="center"><p>海报设计</p></td><td width="202" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="left"><p>海报</p></td><td width="313.6666666666667" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="left"><p>规格为A3 (297*420mm) ，分辨率300DPI ，以JPG格式上传，单个文件大小不超过5M，系列作品不得超过3件，需上传源文件，大小不超过500M。并附上500字以内的设计说明。</p></td></tr><tr style="height:92px"><td width="123" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="center"><p>视频设计</p></td><td width="202" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0); word-break: break-all;" align="left"><p>短视频，可自行选择创作方向，航拍作品、真人出镜并有介绍或互动内容者尤佳。</p></td><td width="313.6666666666667" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="left"><p>横屏或竖屏拍摄，时长不超过3分钟；参赛作品应为原创且独家作品。请在规定时间内上传作品至短视频平台(不指定)&nbsp;后，将作品链接和500字以内的设计说明提交至大赛官网。</p></td></tr><tr style="height:92px"><td width="123" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="center"><p>动画设计</p></td><td width="202" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0); word-break: break-all;" align="left"><p>原创动画设计（概念画/动画表现）、游戏美术创作；<br/>虚拟现实平台搭建（测试/数据可视化/仿真模拟）等形式。</p></td><td width="313.6666666666667" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="left"><p>动画总时长为30秒至180秒(不得超过180秒)，画面宽&nbsp;度600—960像素，24帧/秒，创作方式及制作软件不限。作品以MP4格式上传，文件大小不超过500MB，&nbsp;并附上500字以内的设计说明。</p></td></tr><tr style="height:171px"><td width="123" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="center"><p>AIGC创意设计</p></td><td width="202" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="left"><p>积极探索AIGC技术的创新应用，不限制使用任何特定的AIGC工具或软件，利用AI算法生成高质量图片、视频素材，探索新颖表达形式，展现技术潜力。务必标新立异，避免同质化，实现差异化呈现。</p></td><td width="313.6666666666667" valign="middle" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);" align="left"><p>1.图片规格为A3 (297*420mm) ，分辨率300DPI ，以JPG格式上传，单个文件大小不超过5M，系列作品不得超过3件。<br/>2.视频规格为30秒至180秒(不得超过180秒)，画面宽度600—960像素，24帧/秒，文件大小不超过 500MB，以MP4格式上传。并附上500字以内的设计说明。</p></td></tr><tr style="height:171px"><td width="658.6666666666666" valign="center" colspan="3" style="padding: 0px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-width: 1px; border-right-color: rgb(0, 0, 0); border-top: none; border-bottom-width: 1px; border-bottom-color: rgb(0, 0, 0);"><p>说明：</p><p>海报设计、视频设计和动画设计不得使用AIGC相关工具，使用AI 工具的请报名AIGC创意设计，且需在《设计说明》中详述其用途、使用方法、输入素材及配置参数，以供评委评估合理性和效果。</p></td></tr></tbody></table><p><br/></p><p style="text-indent: 2em;"><strong>3.竞赛形式与时间</strong></p><p style="text-indent: 2em;">数字媒体创新设计赛区域赛采用专家网评打分，荣获各区域一、二等奖的参赛队伍将晋级国赛，国赛采用现场或网络答辩的方式进行。</p><p style="text-indent: 2em;">整体分为线上报名组队、区域赛设计与提交、线上评审、国赛答辩四个阶段。线上报名组队后，要求参赛队伍根据大赛主题进行作品创作并在截止时间前将设计说明、作品或链接上传至大赛官网参赛页面。线上评审后，选取各区域赛一、二等奖进入国赛参与答辩。</p><p style="text-indent: 2em;"><strong><span style="text-indent: 2em;">4.其他说明</span></strong></p><p style="text-indent: 2em;">参赛作品中不得出现学校名称、团队名称及成员姓名等信息。</p><p style="text-indent: 2em;">参赛作品必须带有<span style="text-align: justify; text-indent: 32px; text-wrap: wrap; font-family: 微软雅黑; color: rgb(0, 0, 0);">大赛</span><span style="text-align: justify; text-indent: 32px; text-wrap: wrap; font-family: 微软雅黑;"><a href="http://www.ncccu.org.cn/static/index/images/logo_3.png" target="_blank" style="display: inline;"><span style="color: rgb(255, 0, 0);">Logo水印</span></a><em>（点击即可下载）</em></span>，选手可根据作品对水印进行调整，包括：位置，大小，透明或半透明，水印整体与作品不冲突，美观即可。注：不得添加与本次大赛无关的第三方Logo形象。</p><p style="text-indent: 2em;">提交作品时须提交设计说明文档，文档内容主要包括作品简介、设计思路、主要技术运用等。海报设计、视频设计和动画设计不得使用AIGC相关工具，使用AI 工具的请报名AIGC创意设计，且需在《设计说明》中详述其用途、使用方法、输入素材及配置参数，以供评委评估合理性和效果。</p><p style="text-indent: 2em;">参赛选手确保所有参赛作品需为原创作品，未被商用或授权他人使用，未公开发表发布。作品中使用的全部素材（包括但不限于字体、图像、照片、音频、视频等）享有合法版权或版权方的合法代理权，若引用他人素材需在设计说明里注明来源并获取合法授权。</p><p style="text-indent: 2em;">参赛团队不得抄袭、盗用他人作品，不得侵犯任何第三方知识产权，如发现违反此原则，立即取消参赛资格与所获奖项；如因参赛选手作品原因产生的版权纠纷，由参赛选手自行承担。已产生的参赛费用不予退还。</p><p style="text-indent: 2em;">参赛选手拥有参赛作品的版权，并同意大赛组委会对作品进行宣传、展示、传播等无偿使用。</p><p style="line-height: 1.75em; text-align: justify; text-indent: 2em;"><span style="font-size: 18px;"><span style="font-family: 微软雅黑; font-weight: bold;">六、</span><strong><span style="font-family: 微软雅黑;">成绩评定</span></strong></span></p><p style="text-indent: 2em;">参赛作品需符合大赛主题，内容健康、充实，具有观赏性、普及性、艺术性。设计思路清晰，明确表达设计意图，色彩搭配协调、布局合理、富有创意。动画类，视频类要求符合影视作品的视听规律，要有镜头的切换，有配音、字幕，视频剪辑合理、转场效果自然，合理使用视频特效，加强画面和情节表现，具有一定的原创性和感染力。</p><p style="text-indent: 2em;">区域赛由竞赛评委专家进行评分，各区域分别排名，晋级名单将在大赛官网进行公示。</p><p style="text-indent: 2em;">国赛采用现场或网络答辩的形式，需要晋级的队伍准备 PPT，在规定时间内进行演示和答辩。根据专家组评分排名选出国赛奖项并在官网公示，后公示期满并无异议后，颁发国赛奖项。</p><p style="line-height: 1.75em; text-align: justify; text-indent: 2em;"><span style="font-family: 微软雅黑;"></span></p><p style="line-height: 1.75em; text-align: justify; text-indent: 2em;"><span style="font-size: 18px;"><span style="font-family: 微软雅黑; font-weight: bold;">七、</span><strong><span style="font-family: 微软雅黑;">联系信息</span></strong></span></p><p style="line-height: 1.75em; text-align: justify; text-indent: 2em;"><span style="font-family: 微软雅黑;">竞赛官网</span><span style="font-family: 微软雅黑;">：</span></p><p style="line-height: 1.75em; text-align: justify; text-indent: 2em;"><span style="font-family: 微软雅黑;">http://www.ncccu.org.cn/index/P</span><span style="font-family: 微软雅黑;">aper/case7.h</span><span style="font-family: 微软雅黑;">tml</span></p>                    </div>
+                    <div class="csign" id="bm">
+                        <div class="csign_subject szmt_sub">
+                            <p>*请勾选你要报名的科目</p>
+                            <ul class="clearfix">
+                                                                    <li>
+                                        <label for="c0">海报设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id0" id="c0" value="13">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c1">动画设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id1" id="c1" value="14">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c2">视频设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id2" id="c2" value="15">
+                                                                            </li>
+                                                                    <li>
+                                        <label for="c3">AIGC创意设计</label>
+                                                                                    <input type="checkbox" name="subject_id[]" class="subject_id3" id="c3" value="16">
+                                                                            </li>
+                                                            </ul>
+                        </div>
+                                                   <div class="select_pay">
+                                <p>*支付方式</p>
+                                <div class="paymethod clearfix">
+                                    <div class="pay_item"><input type="radio" value="1" name="paymethods" id="wxs" checked=""> <label for="wxs"><img src="/static/index/images/wx.png" width="20"> 微信支付</label></div>
+                                    <div class="pay_item"><input type="radio" value="2" name="paymethods" id="zfbs" > <label for="zfbs"><img src="/static/index/images/zfb.png" width="20"> 支付宝</label></div>
+                                </div>
+                            </div>
+                                                <div class="csign_btn" onclick="createOrder()">报名参赛</div>
+                        <div class="case_tips">
+                            报名时间：2026年7月9日—11月19日<br/>
+                            区域赛设计与提交时间：2026年8月6日—11月19日
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer" id="contact">
+    <div class="f_main clearfix">
+        <div class="f_left">
+            <ul>
+                <li class="f_qq">考生赛事咨询QQ：<a target="_blank" href="http://cp.52jingsai.com/qrcode/163" style="color: red;">1090489144</a>（点击即可加群）</li>
+                <li class="f_tel">
+                    院校承办咨询电话：<br>
+                    王老师：16601164190<span>（西北赛区）</span><br>
+                    李老师：13281263326<span>（西南赛区）</span><br>
+                    赵老师：13051355695<span>（华东赛区）</span><br>
+                    魏老师：13671104231<span>（华中赛区、华南赛区）</span><br>
+                    石老师：13521527466<span>（东北赛区、华北赛区）</span><br>
+                </li>
+            </ul>
+        </div>
+        <div class="f_right page_pc">
+            <img src="/static/index/images/ewm.jpg" width="100" height="100" alt="">
+            <p>扫码领真题</p>
+        </div>
+    </div>
+    <div class="f_beian page_pc">
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34011102001686" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/static/index/images/gongan.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">皖公网安备 34011102001686号</p></a><br>
+        <a target="cyxyv" href="https://v.yunaq.com/certificate?domain=www.ncccu.org.cn&amp;from=label&amp;code=90020"> <img src="/static/index/images/label_lg_90020.png"></a><br>
+        <a href="https://beian.miit.gov.cn/" target="_blank" style="color:#939393;font-size:14px;">京ICP备18046968号-3</a>
+    </div>
+</div>
+
+<!--footer_tab-->
+<div class="footer_tab page_mobile clearfix">
+    <div class="tab_item" data-id="0">
+        <a href="/index/Index/index.html">
+            <img src=" /static/index/images/tab_icon_19.png " data-src="/static/index/images/tab_icon_19.png" data-active="/static/index/images/tab_icon_active_19.png" alt="tab_icon"/>
+            <p>首页</p>
+        </a>
+    </div>
+    <div class="tab_item" data-id="1" style="font-size: 12px">
+        <a href="/index/User/sign.html">
+            <img src=" /static/index/images/tab_icon_active_21.png " data-src="/static/index/images/tab_icon_21.png" data-active="/static/index/images/tab_icon_active_21.png" alt="tab_icon"/>
+            <p>报名参赛</p>
+        </a>
+    </div>
+<!--    <div class="tab_item" data-id="2">-->
+<!--        <a href="/index/User/volunteer.html">-->
+<!--            <img src=" /static/index/images/tab_icon_23.png " data-src="/static/index/images/tab_icon_23.png" data-active="/static/index/images/tab_icon_active_23.png" alt="tab_icon"/>-->
+<!--            <p>宣传奖励</p>-->
+<!--        </a>-->
+<!--    </div>-->
+    <div class="tab_item" data-id="2">
+        <a href="/index/User/user.html">
+            <img src=" /static/index/images/tab_icon_26.png " data-src="/static/index/images/tab_icon_26.png" data-active="/static/index/images/tab_icon_active_26.png" alt="tab_icon"/>
+            <p>个人中心</p>
+        </a>
+    </div>
+</div>
+<div class="piaochuang">
+    <img src="/static/index/images/piaochuang_05.png?v=1.1.02" alt="piaochuang">
+    <span class="notic_qun"></span>
+    <a href="/index/User/sign.html" class="pc_bm"></a>
+    <div class="zx_list">
+        <ul>
+            <li><a href="http://cp.52jingsai.com/qrcode/185" target="_blank">大数据群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/188" target="_blank">人工智能群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/175" target="_blank">Office群</a></li>
+            <li><a href="http://cp.52jingsai.com/qrcode/181" target="_blank">程序设计群</a></li>
+<!--            <li><a href="http://cp.52jingsai.com/qrcode/11268" target="_blank">计算机系统群</a></li>-->
+<!--            <li><a href="http://cp.52jingsai.com/qrcode/193" target="_blank">嵌入式系统群</a></li>-->
+            <li><a href="http://cp.52jingsai.com/qrcode/191" target="_blank">数字媒体群</a></li>
+        </ul>
+    </div>
+</div>
+<style>
+    .tab_item {
+        width: 33.33333%;
+    }
+</style>
+<script>
+    //通知群
+    var piapCElem=$('.notic_qun');
+    var zxList=$('.zx_list');
+    piapCElem.mouseover(function() {
+        zxList.css("display","block");
+    });
+    zxList.mouseover(function() {
+        zxList.css("display","block");
+    });
+    piapCElem.mouseout( function() {
+        zxList.css("display","none");
+    });
+    zxList.mouseout( function() {
+        zxList.css("display","none");
+    });
+    piapCElem.click(function(){
+        zxList.toggle();
+    });
+</script>
+<script>
+    //checkbox联动选中
+    $(document).on('change','input[type="checkbox"]',function(){
+        let $this = $(this);
+        let cls = null;
+        $.each(this.className.split(' '),function(i,c){
+            if(c.startsWith('subject_id')){
+                cls = c;
+                return false;
+            }
+        });
+        if(!cls) return;
+        $('.'+cls).prop('checked', $this.prop('checked'));
+    });
+
+    var success = true;
+    var user = [];
+    function createOrders() {
+        if (user.length <= 0) {
+            location.href = "/index/Login/login.html";
+            return false;
+        }
+        if (!user.school_id) {
+            layer.msg('请先填写您的个人信息！',{icon:5,time:1500},function (){
+                location.href="/index/User/user.html"
+            });
+            return false;
+        }
+        var pay_type = 1;
+        pay_type = $('input[name="paymethods"]:checked').val();
+        var subject_id = [];
+        $.each($('input:checkbox'), function () {
+            if (this.checked) {
+                subject_id.push($(this).val());
+            }
+        });
+        if (subject_id.length <= 0) {
+            layer.msg('请选择报名科目', {icon: 5, time: 1500});
+            return false;
+        }
+        layer.confirm('报名成功后，请前往个人中心填写组队信息！！！', function () {
+            Ajax({
+                type: 'post',
+                url: "/index/order/createPcSignOrder.html",
+                async: true,
+                params: {subject_id: subject_id, pay_type: pay_type},
+                responseType: 'json',
+                contentType: 'application/x-www-form-urlencoded'
+            });
+        });
+        return false;
+    }
+
+    function createOrder(){
+        if (user.length <= 0){
+            location.href="/index/Login/login.html";return false;
+        }
+        if (!user.school_id) {
+            layer.msg('请先填写您的个人信息！',{icon:5,time:1500},function (){
+                location.href="/index/User/user.html"
+            });
+            return false;
+        }
+        var pay_type = 1;
+        pay_type = $('input[name="paymethod"]:checked').val();
+        var subject_id = [];
+        $.each($('input:checkbox'),function(){
+            if(this.checked){
+                subject_id.push($(this).val());
+            }
+        });
+        if (subject_id.length <= 0){
+            layer.msg('请选择报名科目',{icon:5,time:1500});return false;
+        }
+        layer.confirm('报名成功后，请前往个人中心填写组队信息！！！', function () {
+            Ajax({
+                type: 'post',
+                url: "/index/order/createPcSignOrder.html",
+                async: true,
+                params: {subject_id: subject_id, pay_type: pay_type},
+                responseType: 'json',
+                contentType: 'application/x-www-form-urlencoded'
+            });
+        })
+        return false;
+
+
+
+
+        // var option = '<option value="">队员1院校</option>';
+        // var options = '<option value="">队员2院校</option>';
+        // for (var i=0;i<school.length;i++){
+        //     option += '<option value="'+school[i].school_name+'">'+school[i].school_name+'</option>';
+        //     options += '<option value="'+school[i].school_name+'">'+school[i].school_name+'</option>';
+        // }
+        // var content =  "<form class=\"layui-form\" action=\"\">\n" +
+        //     "<div className=\"layui-bg-gray\" style=\"padding:0 30px;\">\n" +
+        //     "    <div className=\"layui-row layui-col-space15\">\n" +
+        //     "        <div className=\"layui-col-md6\">\n" +
+        //     "            <div className=\"layui-panel\">\n" +
+        //     "                 <div style=\"padding: 20px 30px;color: red\">报名人默认为队长，请队长在此处添加队员信息，若不需要组队，点击下方“报名”即可。提交作品前，队长可在个人中心处修改组队信息。</div>\n" +
+        //     "            </div>\n" +
+        //     "        </div>\n" +
+        //     "    </div>\n" +
+        //     "</div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">队长姓名</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"captain_name\" value='"+user.name+"' readonly autocomplete=\"off\" placeholder=\"请输入队长姓名\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">队长手机号</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"captain_phone\" value='"+user.phone+"' readonly autocomplete=\"off\" placeholder=\"请输入队长手机号\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">队长院校</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"captain_school\" value='"+user.school+"' readonly autocomplete=\"off\" placeholder=\"请输入队长院校\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">1号队员姓名</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"one_name\" id='one_name' autocomplete=\"off\" placeholder=\"请输入1号队员姓名\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">1号队员手机号</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"one_phone\" id='one_phone' autocomplete=\"off\" placeholder=\"请输入1号队员手机号\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">1号队员院校</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "        <select name=\"one_school\" className=\"layui-select\" id='one_school' lay-filter=\"search\" lay-search>\n" +
+        //     "   "+option+" \n"+
+        //     "       </select>\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">2号队员姓名</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"two_name\" id='two_name' autocomplete=\"off\" placeholder=\"请输入2号队员姓名\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">2号队员手机号</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "      <input type=\"text\" name=\"two_phone\" id='two_phone' autocomplete=\"off\" placeholder=\"请输入2号队员手机号\" class=\"layui-input\">\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "  <div class=\"layui-form-item\"> " +
+        //     "   <label class=\"layui-form-label\">2号队员院校</label>\n" +
+        //     "    <div class=\"layui-input-block\">\n" +
+        //     "        <select name=\"two_school\" className=\"layui-select\" id='two_school' lay-filter=\"search\" lay-search>\n" +
+        //     "   "+options+" \n"+
+        //     "       </select>\n" +
+        //     "    </div>" +
+        //     "  </div>\n" +
+        //     "</form>";
+        // layui.use(['form','layer'],function (){
+        //     var form = layui.form,
+        //         layer = layui.layer;
+        //     if (browserRedirect() == 'pc') var area = ['50%','60%'];
+        //     else var area = ['100%','100%'];
+        //     layer.open({
+        //         type: 1,
+        //         title: '填写组队信息',
+        //         area: area,
+        //         fixed: false, //不固定
+        //         maxmin: true,
+        //         content: content,
+        //         btn:['报名','取消'],
+        //         btn1:function (){
+        //             Ajax({type:'post',url:"/index/order/createPcSignOrder.html",async:true,
+        //                 params:{subject_id:subject_id,pay_type:pay_type,one_name:$('#one_name').val(),one_phone:$('#one_phone').val(),one_school:$('#one_school').val(),
+        //                     two_name:$('#two_name').val(),two_phone:$('#two_phone').val(),two_school:$('#two_school').val()},
+        //                 responseType:'json',contentType:'application/x-www-form-urlencoded'});
+        //         }
+        //     });
+        //     form.render();
+        // });
+    }
+
+    function Ajax({type,url,async,params = {},responseType = "text",contentType = "application/x-www-form-urlencoded"}){
+        if (!success) return false;
+        success = false;
+        type = type.toUpperCase();
+        params = formatParams(params);
+        //创建xhr对象 step1
+        const xhr = window.ActiveXObject ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();
+        xhr.responseType = responseType;
+        //接收 step3
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState === 4) {
+                const status = xhr.status;
+                const response = xhr.response;
+                if (response.code == 200){
+                    success = true;
+                    if (typeof response.data == 'string'){
+                        const div=document.createElement('divform');
+                        div.innerHTML=response.data;
+                        document.body.appendChild(div);
+                        document.forms['alipaysubmit'].acceptCharset='GBK';//保持与支付宝默认编码格式一致，如果不一致将会出现：调试错误，请回到请求来源地，重新发起请求，错误代码 invalid-signature 错误原因: 验签出错，建议检查签名字符串或签名私钥与应用公钥是否匹配
+                        document.forms['alipaysubmit'].submit();
+                    }else if(typeof response.data == 'object'){
+                        if (browserRedirect() == 'pc'){
+                            var content = '<form class="layui-form" action=""><div class="layui-bg-gray" style="padding: 30px;">\n' +
+                                '  <div class="layui-row layui-col-space15">\n' +
+                                '    <div class="layui-col-md12">\n' +
+                                '      <div class="layui-card">\n' +
+                                '        <div class="layui-card-header" style="text-align: center;">请打开微信扫码支付</div>\n' +
+                                '        <div class="layui-card-body" style="text-align: center;"><img src="'+response.data.code_img+'"></div>\n' +
+                                '      </div>\n' +
+                                '    </div>\n' +
+                                '  </div>\n' +
+                                '</div> </form>';
+                            layer.open({
+                                type: 1,
+                                title: '',
+                                area: ['50%','40%'],
+                                fixed: false, //不固定
+                                maxmin: true,
+                                content: content
+                            });
+                            setInterval(function (){
+                                $.ajax({
+                                    url : "/index/Order/queryOrder.html",
+                                    data : {order_sn:response.data.order_sn},
+                                    dataType : 'json',
+                                    type : "post",
+                                    success : function (res){
+                                        if (res.data.status == 1){
+                                            layer.msg('扫码支付成功',{icon:6,time:1500},function (){
+                                                location.href="/index/User/sign.html";
+                                            })
+                                        }
+                                    }
+                                })
+                            },2000);
+                        }else{
+                            var arr = Object.keys(response.data);
+                            if (arr.length > 2){
+                                if ('code_img' in response.data) {
+                                    var content = '<form class="layui-form" action=""><div class="layui-bg-gray" style="padding: 30px;">\n' +
+                                        '  <div class="layui-row layui-col-space15">\n' +
+                                        '    <div class="layui-col-md12">\n' +
+                                        '      <div class="layui-card">\n' +
+                                        '        <div class="layui-card-header" style="text-align: center;">请截图保存，微信扫码支付</div>\n' +
+                                        '        <div class="layui-card-body" style="text-align: center;">' +
+                                        '           <img src="'+response.data.code_img+'">' +
+                                        '       </div>\n' +
+                                        '      </div>\n' +
+                                        '    </div>\n' +
+                                        '  </div>\n' +
+                                        '</div> </form>';
+                                    layer.open({
+                                        type: 1,
+                                        title: '',
+                                        area: ['92%','50%'],
+                                        fixed: false, //不固定
+                                        maxmin: true,
+                                        content: content
+                                    });
+                                }else{
+                                    callpay(response.data);
+                                }
+                            }else{
+                                window.location.href=response.data[0];
+                            }
+                        }
+                    }
+                }else{
+                    success = true;
+                    if (response.code == 4001){
+                        layer.msg(response.msg,{icon:5,time:1500},function (response){
+                            location.href="/index/Login/login.html";
+                        });
+                    }else if (response.code == 201){
+                        if (browserRedirect() == 'pc') var area = ['50%','60%'];
+                        else var area = ['100%','100%'];
+                        layer.open({
+                            type: 1,
+                            title: '提示信息',
+                            area: area,
+                            fixed: false, //不固定
+                            maxmin: true,
+                            content: "<div style='text-align: center;'>" +
+                                "<p style='padding: 5px 5px;'>本校为院校统一组织报名，可联系韦老师：18966901995</p>" +
+                                "<p style='padding: 5px 5px;'>统一报名，或加本校QQ群：924574833 咨询。</p>" +
+                                "<p style='padding: 5px 5px;'>扫码可加群</p>" +
+                                "<p><img src='/static/index/images/xihuadaxue.jpg' style='width: 50%;height: auto'></p></div>"
+                        })
+                    }else{
+                        layer.msg(response.msg);
+                    }
+                }
+            }
+        }
+        //发送 step2
+        if (type === "GET") {
+            xhr.open("GET", url + "?" + params, async);
+            xhr.send(null);
+        } else if (type === "POST"){
+            xhr.open("POST", url, async);
+            //设置表单提交时的内容类型
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.setRequestHeader("Accept", "application/json, text/javascript");
+            xhr.send(params);
+        }
+    }
+
+    function formatParams(params){
+        const arr = [];
+        for (let name in params) {
+            arr.push(encodeURIComponent(name) + "=" + encodeURIComponent(params[name]));
+        }
+        return arr.join("&");
+    }
+
+    function jsApiCall(data)
+    {
+        WeixinJSBridge.invoke(
+            'getBrandWCPayRequest',
+            data,
+            function(res){
+                WeixinJSBridge.log(res.err_msg);
+                if (res.err_msg == 'get_brand_wcpay_request:ok'){
+                    layer.msg('支付成功',{icon:6,time:1000},function (){
+                        location.href="/index/User/sign.html";
+                    });
+                }
+                if (res.err_msg == 'get_brand_wcpay_request:cancel'){
+                    layer.msg('您已取消支付',{icon:5,time:1000});
+                }
+                if (res.err_msg == 'get_brand_wcpay_request:fail'){
+                    layer.msg('支付失败',{icon:5,time:1000});
+                }
+            }
+        );
+    }
+
+    function callpay(data)
+    {
+        if (typeof WeixinJSBridge == "undefined"){
+            if( document.addEventListener ){
+                document.addEventListener('WeixinJSBridgeReady', jsApiCall, false);
+            }else if (document.attachEvent){
+                document.attachEvent('WeixinJSBridgeReady', jsApiCall);
+                document.attachEvent('onWeixinJSBridgeReady', jsApiCall);
+            }
+        }else{
+            jsApiCall(data);
+        }
+    }
+</script>
+</body>
+</html>

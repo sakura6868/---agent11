@@ -1,0 +1,145 @@
+{
+  "competition_id": "huawei_soft_2026",
+  "competition_name": "华为软件精英挑战赛",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "华为技术有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "人工智能",
+    "信息安全",
+    "数据科学与大数据技术",
+    "网络空间安全"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-04-09",
+  "submission_deadline": "2026-04-12",
+  "competition_start_date": "2026-03-16",
+  "competition_end_date": "2026-05-17",
+  "result_announcement_date": "2026-05-16",
+  "award_settings": "全球总决赛设一等奖（1队，奖金20万元）、二等奖（2队，10万元）、三等奖（5队，5万元）及软件开发最佳实践奖（3队，1万元）；各赛区复赛前4强获大赛获奖证书及华为手表等奖励，初赛33-64强获证书。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "华为软件精英挑战赛是由华为技术有限公司主办的程序设计类赛事，主要面向本科生、研究生。要求计算机科学与技术、软件工程、人工智能等的同学以1-3人组队形式参与，考察算法正确性、时间与空间复杂度等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "源代码",
+    "设计文档",
+    "答辩PPT",
+    "自测报告"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "时间与空间复杂度",
+    "代码规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java",
+    "Git"
+  ],
+  "official_source_url": "https://developer.huaweicloud.com/codecraft2026",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "区域初赛 大赛报名 开始时间 3月16日9:00 截止时间 4月09日18:00",
+      "document_name": "2026华为软件精英挑战赛——普朗克计划（大赛日程）",
+      "source_url": "https://developer.huaweicloud.com/codecraft2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "区域初赛 作品提交 开始时间 4月10日9:00 截止时间 4月12日18:00",
+      "document_name": "2026华为软件精英挑战赛——普朗克计划（大赛日程）",
+      "source_url": "https://developer.huaweicloud.com/codecraft2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "2026华为软件精英挑战赛 赛程 2026/3/16-2026/5/17",
+      "document_name": "华为云开发者官网-赛事列表",
+      "source_url": "https://developer.huaweicloud.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每支队伍由1-3人组成，成员需在同一赛区，可跨学校组队。",
+      "document_name": "2026華為軟體精英挑戰賽",
+      "source_url": "https://www.newton.com.tw/wiki/2026%E8%8F%AF%E7%82%BA%E8%BB%9F%E9%AB%94%E7%B2%BE%E8%8B%B1%E6%8C%91%E6%88%B0%E8%B3%BD/67516941",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支队伍由1-3人组成，成员需在同一赛区，可跨学校组队。",
+      "document_name": "2026華為軟體精英挑戰賽",
+      "source_url": "https://www.newton.com.tw/wiki/2026%E8%8F%AF%E7%82%BA%E8%BB%9F%E9%AB%94%E7%B2%BE%E8%8B%B1%E6%8C%91%E6%88%B0%E8%B3%BD/67516941",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "华为软件精英挑战赛作为华为公司面向全球在校大学生举办的大型软件编程竞赛",
+      "document_name": "2026第十二届华为软件精英挑战赛正式启动报名",
+      "source_url": "https://baby.ifeng.com/c/8rXhE3Hj08N",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "2026第十二届华为软件精英挑战赛（普朗克计划），由华为技术有限公司主办。官网 codecraft2026 已公布赛程：报名3月16日-4月9日，区域初赛作品提交4月10-12日，全球总决赛5月16日（赛程区间3/16-5/17）。原占位日期（8-9月）已按官方赛程更正。award_distribution比例为示意，非官方固定比例。",
+  "official_source_status": "found"
+}

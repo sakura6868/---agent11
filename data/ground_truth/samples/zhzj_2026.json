@@ -1,0 +1,118 @@
+{
+  "competition_id": "zhzj_2026",
+  "competition_name": "中华职业教育创新创业大赛",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "中华职业教育社",
+  "eligible_students": [
+    "专科生",
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 7,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "大赛设学生赛道、教师赛道、具身智能产业赛道，各赛道评选出一、二、三等奖及优秀组织奖，对获奖团队颁发证书。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中华职业教育创新创业大赛由中华职业教育社主办，面向职业教育层次（中职组、高职组、应用技术型本科组），旨在激发职业教育创新创业创造活力，培养高素质技术技能人才。以团队形式参赛（通常3-7人），考察项目创新性、商业性、团队情况与引领教育等，是职教领域重要的创新创业赛事。第九届（2026）全国现场总决赛在江苏常州举办。",
+  "required_materials": [
+    "商业计划书",
+    "路演PPT",
+    "项目原型",
+    "财务预测"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "商业价值",
+    "团队能力",
+    "落地可行"
+  ],
+  "required_skills": [
+    "商业计划书",
+    "路演答辩",
+    "市场分析",
+    "产品设计",
+    "团队协作"
+  ],
+  "official_source_url": "https://www.news.cn/20260619/b0d5883de6134a17b409f9c999c30fb4/c.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "第九届中华职业教育创新创业大赛全国现场总决赛由中华职业教育社主办,江苏省中华职业教育社、常州市人民政府、常州工业职业技术学院联合承办",
+      "document_name": "第九届中华职业教育创新创业大赛全国现场总决赛举办（中国教育新闻网）",
+      "source_url": "https://share.app3.jyb.cn/news_d/326bd74d2143c2e9dc43c016feefc959",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "大赛最终评选出学生赛道、教师赛道、具身智能产业赛道一、二、三等奖等多个奖项。",
+      "document_name": "第九届中华职业教育创新创业大赛全国现场总决赛举办（中国教育新闻网）",
+      "source_url": "https://share.app3.jyb.cn/news_d/326bd74d2143c2e9dc43c016feefc959",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "各参赛团队参赛选手3-7名,其中1人为领衔人;每个参赛团队指导教师1-2名。",
+      "document_name": "关于组织参加重庆市第十届中华职业教育创新创业大赛的通知（重庆外语外事学院）",
+      "source_url": "https://cxcy.cqwu.edu.cn/article_431110.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "official_source_status",
+      "page": null,
+      "source_text": "颁奖环节揭晓了三等奖85个项目、二等奖61个项目、一等奖32个项目",
+      "document_name": "第九届中华职业教育创新创业大赛全国现场总决赛在常州闭幕（新华网）",
+      "source_url": "http://www.js.xinhuanet.com/20260617/46cc513d09044e62acb15f326092aaf0/c.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026-07-19 复核：经新华网（news.cn）、中国教育新闻网（jyb.cn）核验，第九届中华职业教育创新创业大赛全国现场总决赛于2026年在江苏常州举办，由中华职业教育社主办，trusted_level 升为 A、data_status 为 verified。已更正：team_min 由1更正为3（重庆省级通知明确“各参赛团队参赛选手3-7名”；具身智能赛道固定3名）；eligible_students 维持[专科生,本科生]（全国赛学生赛道分中职组、高职组、本科组，不含普通研究生，故不含研究生）。全国总决赛2026具体报名/比赛/结果日期以官方发布为准，原模板日期为占位错误，日期字段置 null。official_source_url 指向新华网2026总决赛报道（官方媒体确认主办单位）；国家级具体章程（社发〔2026〕8号）以中华职业教育社发布为准。"
+}

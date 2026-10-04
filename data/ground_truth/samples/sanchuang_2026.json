@@ -1,0 +1,97 @@
+{
+  "competition_name": "第十六届全国大学生电子商务“创新、创意及创业”挑战赛（三创赛）",
+  "document_year": 2026,
+  "organizer": "全国电子商务产教融合创新联盟、西安交通大学",
+  "category": "innovation",
+  "eligible_students": ["专科生", "本科生", "研究生"],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": "2025-12-31",
+  "submission_deadline": null,
+  "required_materials": ["项目报告书", "演讲PPT电子版", "项目报告书纸质版5份", "参赛团队承诺与说明书", "团队高校指导老师承诺书"],
+  "evaluation_dimensions": ["创新", "创意", "创业", "演讲", "文案"],
+  "required_skills": ["电子商务运营", "商业策划", "路演答辩", "团队协同"],
+  "official_source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+  "source_acquired_date": "2026-07-16",
+  "trusted_level": "A",
+  "data_status": "verified",
+  "last_verified_at": "2026-07-16",
+  "official_source_status": "found",
+  "doc_version": "2026_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 15,
+      "source_text": "参赛团队须在2025年12月31日前在三创赛官网上报名。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 15,
+      "source_text": "参赛团队成员必须是经教育部批准设立的普通高等学校的全日制在校大学生（专科、本科、研究生均可，专业不限）。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 16,
+      "source_text": "参赛团队应包括3-5名学生，其中一名为队长；0-2名高校指导老师，0-2名企业指导老师。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 16,
+      "source_text": "参赛团队应包括3-5名学生，其中一名为队长；0-2名高校指导老师，0-2名企业指导老师。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 17,
+      "source_text": "参赛团队在现场比赛前，向赛场评委提交演讲文稿（PPT电子版）到赛场和《项目报告书》（纸质版5份）。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 18,
+      "source_text": "从扉页开始，依次附上《参赛团队承诺与说明书》和《团队高校指导老师承诺书》。实战赛团队还必须依次添加《实战赛参赛学生知情书》和必要的授权书（协议）。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": 19,
+      "source_text": "常规赛评分项目为创新、创意、创业、演讲、文案，分值分别为25、25、25、15、10。",
+      "document_name": "第十六届三创赛竞赛规则（2025年10月修订）.pdf",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "关键字段均锚定同一版官方竞赛规则；系统提供辅助信息，报名前仍须查看赛事官网最新通知。"
+}

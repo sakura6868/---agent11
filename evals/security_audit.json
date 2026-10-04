@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-04T06:40:16.349555+00:00",
+  "current_findings": [],
+  "historical_findings": [],
+  "current_clean": true,
+  "scope": "tracked working-tree files",
+  "limitations": "Pattern-based scan; not a full security audit. Historical exposure requires provider-side rotation.",
+  "cloud_rotation_verified": false
+}

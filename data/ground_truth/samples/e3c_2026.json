@@ -1,0 +1,129 @@
+{
+  "competition_id": "e3c_2026",
+  "competition_name": "全国大学生电子商务“创新、创意及创业”挑战赛（三创赛）",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "教育部高等学校电子商务类专业教学指导委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": "2025-12-31",
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-11",
+  "competition_end_date": "2026-08-10",
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖，另设最佳创新奖、最佳创意奖、最佳创业奖等单项奖；获奖证书由官网自动生成。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约30%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "单项奖"
+    }
+  ],
+  "brief_description": "全国大学生电子商务“创新、创意及创业”挑战赛（三创赛）是由教育部高等学校电子商务类专业教学指导委员会主办的创新创业类赛事，面向专科、本科、研究生（专业不限）。以3-5人团队参赛，设常规赛、实战赛等，考察创新性、商业价值、团队能力与落地可行性。",
+  "required_materials": [
+    "商业计划书",
+    "路演PPT",
+    "产品原型",
+    "财务预测"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "商业价值",
+    "团队能力",
+    "落地可行"
+  ],
+  "required_skills": [
+    "商业计划书",
+    "路演答辩",
+    "市场分析",
+    "产品设计",
+    "团队协作"
+  ],
+  "official_source_url": "https://www.3chuang.net",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年第十六届全国大学生电子商务“创新、创意及创业”挑战赛",
+      "document_name": "安徽省教育厅关于举办2026年第十六届全国大学生电子商务“创新、创意及创业”挑战赛安徽赛区选拔赛的通知",
+      "source_url": "https://jyt.ah.gov.cn/tsdw/gdjyc/dxsxkhjnjs/40790593.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "参赛队伍报名截止时间为2025年12月31日",
+      "document_name": "关于做好第十六届全国大学生电子商务“创新、创意及创业”挑战赛报名工作的通知",
+      "source_url": "https://jyzdzx.xjnu.edu.cn/info/1262/5874.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "参赛团队学生3-5名（1名为队长）",
+      "document_name": "关于第十六届全国大学生电子商务“创新、创意及创业”挑战赛报名的通知",
+      "source_url": "https://www.sxyyc.net/xsc/info/1039/2155.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全日制在校大学生（专科、本科、研究生均可，专业不限）",
+      "document_name": "安徽省教育厅关于举办2026年第十六届全国大学生电子商务“创新、创意及创业”挑战赛安徽赛区选拔赛的通知",
+      "source_url": "https://jyt.ah.gov.cn/tsdw/gdjyc/dxsxkhjnjs/40790593.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "校赛举办时间：2026年3月11日-2026年4月10日；省级赛：2026年4月20日-2026年6月22日；全国总决赛：2026年7月10日-2026年8月10日",
+      "document_name": "关于第十六届全国大学生电子商务“创新、创意及创业”挑战赛报名通知",
+      "source_url": "https://www.gxufe.edu.cn/www/myweb/informationShow.html?informationid=1582864&typeid=www0102&typeid0=www01",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 已核实：第十六届（2026）官方名称、全国团队注册报名截止2025-12-31、团队3-5人、赛程2026-03-11（校赛）至2026-08-10（国赛）；原占位日期已更正。毕业生（毕业5年内）不在常规赛参赛范围内，已移除。",
+  "official_source_status": "found"
+}

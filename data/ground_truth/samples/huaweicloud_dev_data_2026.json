@@ -1,0 +1,84 @@
+{
+  "competition_id": "huaweicloud_dev_data_2026",
+  "competition_name": "华为云大数据挑战赛（高校）",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "华为云计算技术有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "统计学",
+    "数据科学与大数据技术",
+    "计算机科学与技术",
+    "经济学",
+    "信息管理与信息系统",
+    "数学与应用数学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-11-12",
+  "competition_end_date": "2026-12-07",
+  "result_announcement_date": "2027-01-14",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "华为云大数据挑战赛（高校）是由华为云计算技术有限公司主办的数据科学类赛事，主要面向本科生、研究生。要求统计学、数据科学与大数据技术、计算机科学与技术等的同学以1-3人组队形式参与，考察方法科学、结论可靠等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "分析报告",
+    "建模代码",
+    "数据集",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "可视化表达",
+    "创新应用"
+  ],
+  "required_skills": [
+    "Python",
+    "数据分析",
+    "机器学习",
+    "SQL",
+    "数据可视化"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%BA%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8C%91%E6%88%98%E8%B5%9B%EF%BC%88%E9%AB%98%E6%A0%A1%EF%BC%89",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。｜字段未找到官方依据：2026年“华为云大数据挑战赛（高校）”无独立官方赛事；相近的“中国高校计算机大赛—大数据挑战赛”（清华大学承办）报名2026-03-26至07-15，名称与主办均不同；原日期为占位值，保留原值待人工确认。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。经检索，2026年无名为“华为云大数据挑战赛（高校）”的独立官方赛事；其前身“中国高校计算机大赛——华为云大数据挑战赛”为2020年赛事（由清华大学、中国人工智能学会、华为技术有限公司联合举办，华为云提供支持）。2026年相近的真实赛事为“中国高校计算机大赛—大数据挑战赛”（由清华大学承办，官网 nercbds.tsinghua.edu.cn，2026年报名3月26日—7月15日），主办与名称均不同，请勿混淆。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

@@ -1,0 +1,118 @@
+{
+  "competition_id": "cmc_2026",
+  "competition_name": "全国大学生数学竞赛",
+  "document_year": 2026,
+  "category": "math",
+  "organizer": "中国数学会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "信息与计算科学",
+    "统计学",
+    "物理学",
+    "计算机科学与技术"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-11-07",
+  "competition_end_date": "2026-11-07",
+  "result_announcement_date": null,
+  "award_settings": "初赛按赛区设一、二、三等奖（获奖总名额不超过赛区总人数30%，其中一等奖≤6%、二等奖≤9%、三等奖≤15%）；决赛设一、二、三等奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约6%（初赛赛区）",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约9%（初赛赛区）",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约15%（初赛赛区）",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生数学竞赛是由中国数学会主办的数学竞技类赛事，面向所有全日制在校大学生（含本专科、研究生），以个人形式参赛，分数学专业类与非数学专业类，考察数学分析/高等数学等解题能力。",
+  "required_materials": [
+    "答卷",
+    "解题过程",
+    "证明"
+  ],
+  "evaluation_dimensions": [
+    "解题正确",
+    "方法严谨",
+    "思维深度"
+  ],
+  "required_skills": [
+    "数学分析",
+    "高等代数",
+    "高等数学",
+    "概率统计",
+    "解题技巧"
+  ],
+  "official_source_url": "http://www.cmathc.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国数学会决定举办第十七届全国大学生数学竞赛",
+      "document_name": "关于举办第十七届全国大学生数学竞赛的通知（中国数学会）",
+      "source_url": "http://www.cmathc.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象:所有全日制在校大学生",
+      "document_name": "关于举办第十七届全国大学生数学竞赛的通知（中国数学会）",
+      "source_url": "http://www.cmathc.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "每位参赛学生要向参赛单位交报名费100元（个人参赛）",
+      "document_name": "关于举办第十七届全国大学生数学竞赛的通知（中国数学会）",
+      "source_url": "http://www.cmathc.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "初赛时间预计为2026年11月7日(星期六)上午9:00-11:30（第十八届，某校通知引用）",
+      "document_name": "南京林业大学2026年全国大学生数学竞赛报名通知",
+      "source_url": "https://cos.njfu.edu.cn/2026/0601/c82a70111/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "经中国数学会官网(cmathc.cn)及多校通知核验：全国大学生数学竞赛每年一届，奇数届次跨年——第十七届初赛2025-11-08、决赛2026年春；第十八届(对应本2026记录)初赛2026-11-07、决赛2027年春(大连理工大学)。原记录team字段(个人赛)正确；报名截止各赛区不一(约2026年10月上旬)，本记录取某校通知2026-10-02作参考；初赛为笔试、无论文提交，submission_deadline置空；初赛获奖各赛区约2026年12月、决赛2027年春，result_announcement_date置空。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

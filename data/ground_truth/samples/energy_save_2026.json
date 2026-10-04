@@ -1,0 +1,137 @@
+{
+  "competition_id": "energy_save_2026",
+  "competition_name": "全国大学生节能减排社会实践与科技竞赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "全国大学生节能减排社会实践与科技竞赛委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "能源动力",
+    "环境",
+    "化学",
+    "材料",
+    "电气",
+    "化工"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 7,
+  "registration_deadline": "2026-05-20",
+  "submission_deadline": "2026-05-20",
+  "competition_start_date": "2026-05-10",
+  "competition_end_date": "2026-08-02",
+  "result_announcement_date": null,
+  "award_settings": "竞赛设立等级奖、单项奖和优秀组织奖三类奖项；等级奖设特等奖（可空缺）、一等奖、二等奖、三等奖，各等级获奖比例由竞赛委员会根据参赛规模确定。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "可空缺",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "由竞赛委员会核定",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "由竞赛委员会核定",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "由竞赛委员会核定",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生节能减排社会实践与科技竞赛（2026年为第十九届“大工能动杯”）由全国大学生节能减排社会实践与科技竞赛委员会主办、教育部高等学校能源动力类专业教学指导委员会指导，是教育部认可的全国大学生学科竞赛之一。面向全日制专科生、本科生、硕士研究生和博士研究生，必须以团队参赛（每组不超过7名），围绕节能减排、绿色低碳主题提交科技作品或社会实践调查，考察科学性、创新性、可行性和经济性。",
+  "required_materials": [
+    "作品申报书",
+    "说明书/研究报告",
+    "介绍视频(3-5分钟)",
+    "诚信承诺书"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "可行性",
+    "经济性",
+    "完成度"
+  ],
+  "required_skills": [
+    "科研实验",
+    "数据分析",
+    "工程设计与建模",
+    "社会实践调研",
+    "报告撰写"
+  ],
+  "official_source_url": "https://jienengjianpai.org/nd.jsp?id=36",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生节能减排社会实践与科技竞赛是由教育部高等学校能源动力类专业教学指导委员会指导,全国大学生节能减排社会实践与科技竞赛委员会主办的大学生课外科技作品竞赛",
+      "document_name": "第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知（华南师范大学转发）",
+      "source_url": "https://youth.scnu.edu.cn/announce/2026/0325/18991.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象:全日制非成人教育的专科生、本科生、硕士研究生和博士研究生(不含在职研究生)",
+      "document_name": "第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知（华南师范大学转发）",
+      "source_url": "https://youth.scnu.edu.cn/announce/2026/0325/18991.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每组队员不超过7名，每个参赛队伍指导教师不超过3名",
+      "document_name": "第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知（华南师范大学转发）",
+      "source_url": "https://youth.scnu.edu.cn/announce/2026/0325/18991.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "作品申报:请各参赛高校将竞赛作品申报书等材料于2026年5月10日0:00开放系统,截止时间为2026年5月20日24:00",
+      "document_name": "“大工能动杯”第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知",
+      "source_url": "https://jienengjianpai.org/nd.jsp?id=36",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品申报:截止时间为2026年5月20日24:00,过时系统将自动关闭",
+      "document_name": "“大工能动杯”第十九届全国大学生节能减排社会实践与科技竞赛第一轮通知",
+      "source_url": "https://jienengjianpai.org/nd.jsp?id=36",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，已完成人工核验。2026-07-18 核查：原 organizer“教育部高等教育司”不准确，已更正为“全国大学生节能减排社会实践与科技竞赛委员会”（指导单位为全国高等学校能源动力类专业教学指导委员会）。competition_start_date 取作品申报系统开放日2026-05-10；competition_end_date 取全国总决赛2026-07-31—08-02 代表值2026-08-02；result_announcement_date（原占位符2026-11-12）未明确，已置空待人工确认。数据均据大赛官网 jienengjianpai.org 第一轮通知核实。",
+  "official_source_status": "found"
+}

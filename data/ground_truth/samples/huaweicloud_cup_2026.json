@@ -1,0 +1,115 @@
+{
+  "competition_id": "huaweicloud_cup_2026",
+  "competition_name": "华为云开发者大赛（高校）",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "华为技术有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "数字媒体技术",
+    "人工智能",
+    "物联网工程",
+    "网络工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "大赛设省赛、全国半决赛、全国总决赛，按赛道评选获奖队伍（具体奖项与奖金以各赛区/赛道官方页面为准）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "华为云开发者大赛（高校）对应华为官方“华为开发者大赛”（2026赛季，主题“创想无限”）的高校赛道，由华为面向全球开发者（含高校师生）举办，考察软件应用开发能力，是高校学生参与华为云生态实践的重要平台。",
+  "required_materials": [
+    "软件作品",
+    "演示视频",
+    "设计文档",
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "功能完整",
+    "技术创新",
+    "用户体验",
+    "工程质量"
+  ],
+  "required_skills": [
+    "前端开发",
+    "后端开发",
+    "数据库",
+    "UI设计",
+    "项目管理"
+  ],
+  "official_source_url": "https://developer.huaweicloud.com/competition/information/1300000120",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "华为开发者大赛是华为公司面向全球、全领域开发者(包括高校、企业、个人)的旗舰赛事……举办方:华为技术有限公司",
+      "document_name": "华为开发者大赛·广东赛区（华为云开发者大赛平台官方页）",
+      "source_url": "https://developer.huaweicloud.com/competition/information/1300000120",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "参赛组队:大赛以单人或2-5人组队参赛，且每位参赛者只能加入一支队伍。",
+      "document_name": "华为开发者大赛·广东赛区（华为云开发者大赛平台官方页）",
+      "source_url": "https://developer.huaweicloud.com/competition/information/1300000120",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "2026赛季华为开发者大赛正式启幕。本届大赛以“创想无限”为主题，设置高校和产业两大赛道，邀请全球开发者围绕真实产业场景展开创新探索。",
+      "document_name": "华为云加速构建AI共赢生态（引述华为云峰会官方发布，媒体报道）",
+      "source_url": "https://iot.china.com.cn/content/2026-06/10/content_43445973.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "【核实结论 2026-07-18】已找到官方依据：本赛事对应华为官方“华为开发者大赛”（2026赛季，主题“创想无限”），设高校与产业两大赛道，主办为华为（官方竞赛平台页标注举办方：华为技术有限公司）。该赛事为真实存在的国家级开发者赛事。重要说明：原JSON名称“华为云开发者大赛（高校）”为名称变体，2026官方名称为“华为开发者大赛”（高校赛道）；原报名/提交/赛程占位日期(2026-11-25等)无官方依据，已清空待确认。team规模(1-5人)取自官方竞赛平台“单人或2-5人组队”说明；2026高校赛道具体报名与作品提交时间官方页面未单独列出，留空待人工确认。"
+}

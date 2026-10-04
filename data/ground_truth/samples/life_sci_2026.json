@@ -1,0 +1,110 @@
+{
+  "competition_id": "life_sci_2026",
+  "competition_name": "全国大学生生命科学竞赛",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "全国大学生生命科学竞赛委员会",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": [
+    "生物科学",
+    "生物技术",
+    "基础医学",
+    "药学",
+    "临床医学",
+    "生态学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": "2026-07-31",
+  "result_announcement_date": "2026-07-31",
+  "award_settings": "设一、二、三等奖；竞赛分科学探究类和创新创业类两个赛道，分别评奖，每年举办一届。",
+  "award_distribution": null,
+  "brief_description": "全国大学生生命科学竞赛是由全国大学生生命科学竞赛委员会主办的全国性生命科学学科竞赛，主要面向全日制本科与专科在校生。竞赛分科学探究类和创新创业类两个赛道，要求围绕生命科学相关领域科学问题，以不超过5名学生的团队形式开展自主实验设计、研究与论文撰写，考察科学性、创新性、完成度与表达等能力，是生命科学领域重要的高水平学科竞赛。",
+  "required_materials": [
+    "研究综述与实验设计",
+    "实验记录",
+    "研究论文",
+    "论文查重报告",
+    "参赛承诺书"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "完成度",
+    "表达"
+  ],
+  "required_skills": [
+    "实验操作",
+    "数据分析",
+    "文献检索",
+    "科研写作"
+  ],
+  "official_source_url": "https://www.culsc.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛条件：全日制非成人教育的各类高等院校在校本、专科生，参赛资格由所在学校确认，报名时须为在校生。",
+      "document_name": "关于举办“第十一届全国大学生生命科学竞赛(科学探究类)”的通知（官网/高校转发）",
+      "source_url": "https://xkjszx.nwafu.edu.cn/docs/2025-09/e1b4c37b3d9a44e0a5122d0c45dd33af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛团队由 1~2 名指导老师和不超过 5 名学生组成。",
+      "document_name": "关于举办“第十一届全国大学生生命科学竞赛(科学探究类)”的通知（官网/高校转发）",
+      "source_url": "https://xkjszx.nwafu.edu.cn/docs/2025-09/e1b4c37b3d9a44e0a5122d0c45dd33af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "2026年1月15日，网络报名截止。",
+      "document_name": "关于举办“第十一届全国大学生生命科学竞赛(科学探究类)”的通知（官网/高校转发）",
+      "source_url": "https://xkjszx.nwafu.edu.cn/docs/2025-09/e1b4c37b3d9a44e0a5122d0c45dd33af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "2026年5月31日，实验记录、论文、查重报告、参赛承诺书上传截止，团队成员、指导老师加入截止。",
+      "document_name": "关于举办“第十一届全国大学生生命科学竞赛(科学探究类)”的通知（官网/高校转发）",
+      "source_url": "https://xkjszx.nwafu.edu.cn/docs/2025-09/e1b4c37b3d9a44e0a5122d0c45dd33af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由全国大学生生命科学竞赛委员会设立了全国大学生生命科学竞赛，竞赛分为科学探究类和创新创业类两个赛道，每年举办一届。",
+      "document_name": "关于举办“第十一届全国大学生生命科学竞赛(科学探究类)”的通知（官网/高校转发）",
+      "source_url": "https://xkjszx.nwafu.edu.cn/docs/2025-09/e1b4c37b3d9a44e0a5122d0c45dd33af.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据官网culsc.cn及第十一届(2026)竞赛通知核实并订正：原eligible_students含研究生(错误，本竞赛仅面向本、专科生)、team_max=3(错误，应为不超过5名)、registration_deadline=2026-09-06、submission_deadline=2026-09-27均为占位错误，已更正(报名截止2026-01-15、材料上传截止2026-05-31、全国决赛2026年7月下旬)。第十一届设科学探究类与创新创业类两赛道，二者赛程略有差异(创新创业类网报2026-01-20至2026-04-20)，本标注以科学探究类为主。原award_distribution占位百分比无官方依据，已置空。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

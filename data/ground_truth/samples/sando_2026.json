@@ -1,0 +1,118 @@
+{
+  "competition_id": "sando_2026",
+  "competition_name": "全国高等院校数智化企业经营沙盘大赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "中国商业联合会、新道科技股份有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 4,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": "2026-11-30",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国高等院校数智化企业经营沙盘大赛（新道杯）是由中国商业联合会、新道科技股份有限公司主办的财经商科类赛事（2026年为第二十二届），主要面向本科生、研究生，专业不限。要求以4人组队形式参与，分别担任财务/生产/营销/人力总监，考察企业经营决策、数据分析与团队协作等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "https://www.seentao.com/competition?raceType=567",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "中国商业联合会携手新道科技股份有限公司特举办全国高等院校数智化企业经营沙盘大赛",
+      "document_name": "全国高等院校数智化企业经营沙盘大赛赛事指南（北方民族大学）",
+      "source_url": "https://www.nxist.com/jjglxy/info/2766/30981.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：中国商业联合会、新道科技股份有限公司",
+      "document_name": "关于举办全国高等院校数智化企业经营沙盘大赛的通知（青岛黄海学院）",
+      "source_url": "https://www.qdhhc.edu.cn/mb/4/p_detail.aspx?id=62494&wsId=63",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队由4名参赛选手、1~2名指导教师组成",
+      "document_name": "关于举办全国高等院校数智化企业经营沙盘大赛的通知（青岛黄海学院）",
+      "source_url": "https://www.qdhhc.edu.cn/mb/4/p_detail.aspx?id=62494&wsId=63",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "报名时间：3-5月；省级选拔赛：5-8月；全国总决赛：9-11月",
+      "document_name": "全国高等院校数智化企业经营沙盘大赛赛事指南（北方民族大学）",
+      "source_url": "https://www.nxist.com/jjglxy/info/2766/30981.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】已据官方赛事指南/通知更正：官方2026名称为“全国高等院校数智化企业经营沙盘大赛”（原名“新道杯全国大学生企业模拟沙盘大赛”为旧称/俗称）；主办单位为中国商业联合会、新道科技股份有限公司；团队4人（原team_min=1、team_max=5有误，已更正为4）；全国赛期窗口为报名3-5月、省赛5-8月、总决赛9-11月，故 competition_start_date=2026-03-01、competition_end_date/result=2026-11-30（约值），registration_deadline 取报名窗口末2026-05-31（具体以新道官方通知为准）；该赛事为模拟经营对抗，无统一作品提交截止，submission_deadline 置空。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

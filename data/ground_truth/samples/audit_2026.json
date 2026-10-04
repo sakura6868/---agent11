@@ -1,0 +1,105 @@
+{
+  "competition_id": "audit_2026",
+  "competition_name": "“福思特杯”全国大学生审计精英挑战赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "中国审计学会审计教育分会（承办：南京审计大学政府审计学院；技术支持：广州市福思特科技有限公司）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "工商管理",
+    "会计学",
+    "审计学",
+    "金融学",
+    "经济学",
+    "国际经济与贸易"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-11-01",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": "2026-11-30",
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖等，对获奖团队颁发证书（本科组/研究生组/高职组分组评奖）。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "约前24队（第八届）",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约36队（第八届）",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "其余晋级决赛队伍",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "“福思特杯”全国大学生审计精英挑战赛是由中国审计学会审计教育分会主办、南京审计大学政府审计学院承办的财经商科类赛事，主要面向本科生、研究生。以团队形式参与，考察审计专业素养、案例分析等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "审计综合素质测试",
+    "审计案例分析",
+    "商业计划书",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "审计专业知识",
+    "案例分析",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "审计实务",
+    "案例分析",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "https://www.nau.edu.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生审计精英挑战赛是由中国审计学会审计教育分会主办、南京审计大学政府审计学院承办、广州市福思特科技有限公司提供技术支持的全国性审计竞赛",
+      "document_name": "关于组织2026年第九届全国大学生审计精英挑战赛校内选拔赛的通知（南京财经大学红山学院）",
+      "source_url": "https://hs.nufe.edu.cn/kjx/2026/0602/c527a27132/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_schedule",
+      "page": null,
+      "source_text": "2026年全国大学生审计精英挑战赛预计于11月举行（大赛通知一般于每年9月发布）",
+      "document_name": "关于组织2026年第九届全国大学生审计精英挑战赛校内选拔赛的通知（南京财经大学红山学院）",
+      "source_url": "https://hs.nufe.edu.cn/kjx/2026/0602/c527a27132/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】依据多校2026年第九届校内选拔赛通知核验：主办单位为中国审计学会审计教育分会，承办为南京审计大学政府审计学院，品牌为“福思特杯”；第九届预计2026年11月举行，正式通知一般9月发布。原 competition_name「全国大学生审计精英挑战赛」补全品牌名为“福思特杯”全国大学生审计精英挑战赛。因全国赛具体报名/提交日期随9月通知发布而确定，registration_deadline、submission_deadline 置空，仅保留总决赛月份区间；原占位赛期(2026-10至2026-11)与“11月举行”基本吻合，保留11月区间。",
+  "official_source_status": "found"
+}

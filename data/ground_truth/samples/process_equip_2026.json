@@ -1,0 +1,137 @@
+{
+  "competition_id": "process_equip_2026",
+  "competition_name": "中国大学生机械工程创新创意大赛——过程装备实践与创新赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国机械工程学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "材料成型",
+    "力学",
+    "能源与动力工程",
+    "过程装备与控制工程",
+    "化学工程与工艺"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": "2026-04-30",
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-20",
+  "competition_end_date": "2026-08-30",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖及优胜奖，颁发奖励证书；获奖比例按赛项实施细则确定。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "按实施细则",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "按实施细则",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "按实施细则",
+      "note": "全国"
+    },
+    {
+      "award": "优胜奖",
+      "proportion": "其余",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "过程装备实践与创新赛是中国机械工程学会主办的中国大学生机械工程创新创意大赛创新赛道系列赛项之一，主要面向本科生、研究生。要求机械工程、过程装备与控制工程、能源与动力工程等专业的同学以不超过4人组队形式参与，考察设计合理、制作工艺等能力。",
+  "required_materials": [
+    "实物作品",
+    "设计说明书",
+    "图纸",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "设计合理",
+    "制作工艺",
+    "创新点",
+    "现场展示"
+  ],
+  "required_skills": [
+    "机械设计",
+    "CAD/UG",
+    "工程制图",
+    "有限元分析",
+    "加工工艺"
+  ],
+  "official_source_url": "https://www.gczbds.org/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年中国大学生机械工程创新创意大赛-第十七届过程装备实践与创新赛",
+      "document_name": "过程装备实践与创新赛官方平台",
+      "source_url": "https://www.gczbds.org/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "过程装备实践与创新赛是中国机械工程学会主办的中国大学生机械工程创新创意大赛创新赛道系列赛项之一",
+      "document_name": "过程装备实践与创新赛官方平台",
+      "source_url": "https://www.gczbds.org/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每个参赛团队的学生人数不多于4人，并指定1名学生为团队负责人",
+      "document_name": "陕西理工大学2026年第十七届过程装备实践与创新大赛校内选拔赛通知",
+      "source_url": "https://gxzx.snut.edu.cn/info/1481/7491.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "请各参赛团队4月20日-4月30日在赛事官网完成报名；报名截止时间：2026年4月30日",
+      "document_name": "青岛科技大学/陕西理工大学等校2026年过程装备实践与创新赛报名通知",
+      "source_url": "https://www.gczbds.org/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛报名网站：http://www.gczbds.org",
+      "document_name": "中北大学2025年过程装备实践与创新大赛报名通知",
+      "source_url": "https://cxcy.nuc.edu.cn/info/1040/3287.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "原记录名称'全国大学生过程装备实践与创新大赛'为该赛项常用简称，已补全为官方全称'中国大学生机械工程创新创意大赛——过程装备实践与创新赛'(2026年为第十七届)。原team_max=5、各round日期为占位值，已据多校2026通知更正：队伍学生不超过4人，报名2026-04-30截止，全国总决赛2026年8月30日前。结果公布具体日期官方未明确，已置null待人工确认。常用简称仍为'全国大学生过程装备实践与创新大赛'。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,147 @@
+{
+  "competition_id": "zq_cup_2026",
+  "competition_name": "中青杯全国大学生数学建模竞赛",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "中国国际科技促进会综合素质与职业发展教育专业委员会（承办：我爱竞赛网、北京中青英才教育科技有限公司）",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "统计学",
+    "信息与计算科学",
+    "经济学",
+    "物理学",
+    "计算机科学与技术",
+    "自动化"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-06-04",
+  "submission_deadline": "2026-06-07",
+  "competition_start_date": "2026-06-04",
+  "competition_end_date": "2026-06-07",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中青杯全国大学生数学建模竞赛是由中国国际科技促进会综合素质与职业发展教育专业委员会主办的数学建模类赛事，面向研究生组、本科生组、专科生组（允许跨校组队）。要求参赛者以1-3人组队形式参与，在规定时间内完成选题、建模、求解与论文撰写，考察模型合理性、求解精度等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "建模论文",
+    "程序代码",
+    "数据附件",
+    "支撑材料"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新与实用",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析",
+    "LaTeX"
+  ],
+  "official_source_url": "http://www.cycmcm.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：中国国际科技促进会综合素质与职业发展教育专业委员会；承办单位：我爱竞赛网、北京中青英才教育科技有限公司。",
+      "document_name": "关于举办2026年第八届中青杯全国大学生数学建模竞赛的通知",
+      "source_url": "http://www.cycmcm.com/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "竞赛分为研究生组、本科生组和专科生组三组进行……参赛团队由队员（1-3名学生，允许跨校组队）和指导老师（1名）组成。",
+      "document_name": "关于举办2026年第八届中青杯全国大学生数学建模竞赛的通知",
+      "source_url": "http://www.cycmcm.com/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：即日起至2026年6月4日中午12:00可登录竞赛官网注册并填写个人信息缴费报名。",
+      "document_name": "关于举办2026年第八届中青杯全国大学生数学建模竞赛的通知",
+      "source_url": "http://www.cycmcm.com/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "竞赛时间：参赛选手在2026年6月4日17:00至6月7日17:00登录官网查看题目并提交作品。",
+      "document_name": "关于举办2026年第八届中青杯全国大学生数学建模竞赛的通知",
+      "source_url": "http://www.cycmcm.com/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "所有队伍都必须于2026年6月4日中午12:00前在大赛官网报名……论文提交时间为2026年6月4日17:00至6月7日17:00。",
+      "document_name": "2026年第八届中青杯全国大学生数学建模竞赛参赛细则",
+      "source_url": "http://www.cycmcm.com/news-44.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "公示时间：获奖名单暂定2026年8月在官网公示。",
+      "document_name": "关于举办2026年第八届中青杯全国大学生数学建模竞赛的通知",
+      "source_url": "http://www.cycmcm.com/index.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已于2026-07-18经官网（cycmcm.com）核验：2026年为第八届，报名截止2026-06-04 12:00，竞赛2026-06-04 17:00至06-07 17:00，获奖名单暂定2026年8月公示（具体日期未定，result_announcement_date置为null）。分研究生组/本科生组/专科生组，允许跨校组队，每队1-3人。原模板日期（2026-11至2027-01）为占位错误，已更正。",
+  "official_source_status": "found"
+}

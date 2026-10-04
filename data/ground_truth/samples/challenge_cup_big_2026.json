@@ -1,0 +1,146 @@
+{
+  "competition_id": "challenge_cup_big_2026",
+  "competition_name": "挑战杯全国大学生课外学术科技作品竞赛（大挑）",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "共青团中央、中国科协、教育部、中国社会科学院、中国工程院、全国学联（逢单数年主办，由相关省份人民政府联合主办）",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 10,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖、三等奖（由全国组委会评定）；按学历最高的参赛成员划分专科组、本科组、硕士组、博士组分开评审。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖以下",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "挑战杯全国大学生课外学术科技作品竞赛（俗称“大挑”）是由共青团中央、中国科协、教育部、中国社会科学院、中国工程院、全国学联共同主办的学术科技创新类赛事，逢单数年举办。面向全日制在校专科生、本科生、硕士研究生、博士研究生，以课外学术科技作品参赛，作品分自然科学类学术论文、哲学社会科学类社会调查报告、科技发明制作三类，考察科学性、先进性与现实意义。",
+  "required_materials": [
+    "作品申报书",
+    "参赛作品正文（自然科学类学术论文 / 哲学社会科学类社会调查报告 / 科技发明制作）",
+    "支撑证明材料（专利、查新、鉴定、应用证明等）",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "先进性",
+    "现实意义",
+    "创新性"
+  ],
+  "required_skills": [
+    "科研与学术研究",
+    "学术写作",
+    "创新设计",
+    "作品打磨",
+    "答辩展示",
+    "团队协作"
+  ],
+  "official_source_url": "https://www.tiaozhanbei.net/",
+  "source_acquired_date": "2026-07-21",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-21",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由共青团中央、中国科协、教育部、中国社会科学院、中国工程院、全国学联共同主办的“挑战杯”全国大学生课外学术科技作品竞赛。",
+      "document_name": "挑战杯竞赛官网（赛事概况）",
+      "source_url": "https://www.tiaozhanbei.net/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "凡在举办竞赛终审决赛的当年6月1日以前正式注册的国内全日制非成人教育的各类高等院校在校专科生、本科生、硕士研究生和博士研究生（均不含在职研究生）都可申报作品参赛。",
+      "document_name": "“挑战杯”全国大学生课外学术科技作品竞赛章程",
+      "source_url": "https://www.tiaozhanbei.net/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "申报参赛的作品可分为个人作品和集体作品。集体作品的作者人数不超过10人（含作品申报者）。",
+      "document_name": "“挑战杯”全国大学生课外学术科技作品竞赛章程",
+      "source_url": "https://www.tiaozhanbei.net/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "集体作品的作者人数不超过10人（含作品申报者）。",
+      "document_name": "“挑战杯”全国大学生课外学术科技作品竞赛章程",
+      "source_url": "https://www.tiaozhanbei.net/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "申报参赛的作品分为自然科学类学术论文、哲学社会科学类社会调查报告、科技发明制作三类。参赛作品须由两名具有高级专业技术职称的指导教师（或教研组）推荐，经本校学籍管理、教务、科研管理部门审核确认。",
+      "document_name": "“挑战杯”全国大学生课外学术科技作品竞赛章程",
+      "source_url": "https://www.tiaozhanbei.net/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": null,
+      "source_text": "全国评审委员会对各省级组织协调委员会和发起高校报送的参赛作品进行预审，评出报送作品的90%左右进入终审决赛。终审决赛评审按学历最高的参赛成员划分专科组、本科组、硕士组、博士组分开评审。",
+      "document_name": "“挑战杯”全国大学生课外学术科技作品竞赛章程",
+      "source_url": "https://www.tiaozhanbei.net/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "第十九届“挑战杯”中国移动全国大学生课外学术科技作品竞赛终审决赛于2025年10月31日至11月3日在南京大学举行。",
+      "document_name": "第十九届“挑战杯”竞赛组委会新闻通气会（人民网/官网）",
+      "source_url": "https://www.tiaozhanbei.net/article/15807/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-21 复核修正】原记录（doc_version 2026_v1）内容实为“小挑”（创业计划竞赛），且与小挑混淆、official_source_status 误置 not_found、evidence 为空。已更正：本记录对应“大挑”（挑战杯全国大学生课外学术科技作品竞赛），逢单数年举办——2025 为第十九届（南京大学承办），2026 为“小挑”年，国家级大挑不在 2026 举办，下一届（第二十届）预计 2027 年。本 2026 记录作为大挑通用画像：official_source_status 更正为 found，官方入口 tiaozhanbei.net，证据取自竞赛章程与第十九届官网。备赛建议适用于下一届大挑，具体赛季时间以当年官网通知为准。真实届次数据另见 tiaozhanbei_2025.json（第十九届）。",
+  "official_source_status": "found"
+}

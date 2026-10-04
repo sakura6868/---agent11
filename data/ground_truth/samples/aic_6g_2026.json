@@ -1,0 +1,132 @@
+{
+  "competition_id": "aic_6g_2026",
+  "competition_name": "第八届AIC算法大赛—人工智能+6G青年创新创业专项赛（学生组）",
+  "document_year": 2026,
+  "organizer": "全球校园人工智能算法精英大赛全国组委会",
+  "category": "innovation",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-11-13",
+  "submission_deadline": "2026-11-13",
+  "registration_deadline_at": "2026-11-13T20:00:00+08:00",
+  "submission_deadline_at": "2026-11-13T20:00:00+08:00",
+  "deadline_timezone_basis": "campus_default",
+  "required_materials": [
+    "作品名称与简介",
+    "作品方案（PDF）",
+    "演示视频（MP4，3—5分钟）",
+    "答辩PPT（PDF）",
+    "佐证材料（PDF）",
+    "其他材料分享链接"
+  ],
+  "required_skills": [
+    "人工智能",
+    "通信技术",
+    "技术报告"
+  ],
+  "official_source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-04",
+  "last_verified_at": "2026-10-04",
+  "doc_version": "2026_official_2026-10-04",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "source_text": "全球各高等院校、科研单位、企事业单位、初创团队、个人等均可免费报名参赛。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_min",
+      "source_text": "学生组：参赛选手可单人创建队伍参赛，也可与本校（不含分校）其他选手组队参赛，每支团队成员上限3名（跨校组队无效）。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_max",
+      "source_text": "学生组：参赛选手可单人创建队伍参赛，也可与本校（不含分校）其他选手组队参赛，每支团队成员上限3名（跨校组队无效）。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline",
+      "source_text": "报名及作品提交截止日期为11月13日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline_at",
+      "source_text": "报名及作品提交截止日期为11月13日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "submission_deadline",
+      "source_text": "报名及作品提交截止日期为11月13日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "submission_deadline_at",
+      "source_text": "报名及作品提交截止日期为11月13日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-4/5322.html",
+      "document_name": "aic_6g_2026_official.html",
+      "document_sha256": "afc96cd601548311439e6d124afe52ee72321ed34eda2bf9662b84ae81e3406a",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "作品材料包括：作品名称、作品简介、作品方案、演示视频、答辩PPT、佐证材\n料、作品其他材料链接等，提交规范如下：",
+      "source_url": "https://www.aicomp.cn/wp-content/uploads/2026/09/附件1-人工智能6G青年创新创业专项赛作品提交要求-1.pdf",
+      "document_name": "aic_6g_requirements.pdf",
+      "document_sha256": "26b427d7a113d014d0cf54d6c36e90978596a1086fd7399db60e48e5b60f891e",
+      "page": 1,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    }
+  ],
+  "brief_description": "第八届AIC算法大赛—人工智能+6G青年创新创业专项赛（学生组）",
+  "notes": "仅学生组，同校组队，免费报名。作品材料不得出现单位名称、LOGO和指导教师信息；须披露生成式AI使用。企业组规则不混入学生组。 时刻未明示时区时使用校园UTC+08:00假设；最终以官网及学校审核为准。"
+}

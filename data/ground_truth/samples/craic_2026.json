@@ -1,0 +1,126 @@
+{
+  "competition_id": "craic_2026",
+  "competition_name": "中国机器人及人工智能大赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "中国人工智能学会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-07-31",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国机器人及人工智能大赛是由中国人工智能学会主办的机器人与人工智能类赛事，主要面向研究生、本科生、专科生。以1-3人团队参赛，设创新赛、应用赛、竞技赛、挑战赛等赛道，考察技术难度、完成度、创新点与现场表现。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "http://www.caairobot.com",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第二十八届中国机器人及人工智能大赛",
+      "document_name": "中国机器人及人工智能大赛官网",
+      "source_url": "http://www.caairobot.com",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国机器人及人工智能大赛是由中国人工智能学会主办的全国性学科竞赛",
+      "document_name": "关于组织参加第二十八届中国机器人及人工智能大赛通知",
+      "source_url": "https://cxcyxy.ntu.edu.cn/2026/0430/c10412a290319/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支团队可1-3人参赛，可设置1-2名指导教师",
+      "document_name": "关于举办第二十八届中国机器人及人工智能大赛（江苏赛区）暨第六届江苏省机器人及人工智能大赛的通知",
+      "source_url": "https://www.jsai.org.cn/wp-content/uploads/2026/04/%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E6%B1%9F%E8%8B%8F%E8%B5%9B%E5%8C%BA%E6%AF%94%E8%B5%9B%E6%9A%A8%E7%AC%AC%E5%85%AD%E5%B1%8A%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E7%9A%84%E9%80%9A%E7%9F%A5-260316.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "研究生、本科生（含职教本科）、专科生（含高职）",
+      "document_name": "关于举办第二十八届中国机器人及人工智能大赛（江苏赛区）暨第六届江苏省机器人及人工智能大赛的通知",
+      "source_url": "https://www.jsai.org.cn/wp-content/uploads/2026/04/%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E6%B1%9F%E8%8B%8F%E8%B5%9B%E5%8C%BA%E6%AF%94%E8%B5%9B%E6%9A%A8%E7%AC%AC%E5%85%AD%E5%B1%8A%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E7%9A%84%E9%80%9A%E7%9F%A5-260316.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 已核实：第二十八届（2026）名称、主办单位中国人工智能学会、团队1-3人、参赛对象含专科生；报名系统2026-03-01开放、全国决赛2026年7月，各省报名截止时间不同（多数为2026年5月），原占位日期已更正/置空，请以官网为准。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,109 @@
+{
+  "competition_id": "mcm_icm_2026",
+  "competition_name": "美国大学生数学建模竞赛（MCM/ICM）",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "美国数学及其应用联合会（COMAP）主办",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设 Outstanding Winner（特等奖，约1%）、Finalist（特等奖提名）、Meritorious Winner（一等奖）、Honorable Mention（二等奖）、Successful Participant（成功参赛）等级，具体比例以当年 COMAP 公告为准。",
+  "award_distribution": [
+    {
+      "award": "Outstanding Winner",
+      "proportion": "约1%",
+      "note": "全球"
+    },
+    {
+      "award": "Finalist",
+      "proportion": "约2%-3%",
+      "note": "全球"
+    },
+    {
+      "award": "Meritorious Winner",
+      "proportion": "约10%",
+      "note": "全球"
+    }
+  ],
+  "brief_description": "美国大学生数学建模竞赛（MCM/ICM）由美国数学及其应用联合会（COMAP）主办，每年1月底/2月初举行，为期4天（96小时）。MCM 偏数学建模（连续/离散/大数据），ICM 偏跨学科建模（环境、政策、运筹等）；三人组队，需提交英文论文，是国内高校认可度极高的国际建模赛事，与国赛并称“数学建模两大顶赛”。",
+  "required_materials": [
+    "英文参赛论文（含 Summary、模型、求解、检验、参考文献）",
+    "支撑材料（程序、数据、附录）",
+    "控制页（Control Sheet）"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "英文论文与摘要质量",
+    "创新性",
+    "结果可信度",
+    "跨学科视野（ICM）"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB / Python 编程求解",
+    "英文学术写作",
+    "文献检索",
+    "LaTeX 排版"
+  ],
+  "official_source_url": "https://www.comap.com/undergraduate/contests/",
+  "source_acquired_date": "2026-07-21",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-21",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "MCM/ICM is organized by the Consortium for Mathematics and Its Applications (COMAP).",
+      "document_name": "COMAP Official Contest Page",
+      "source_url": "https://www.comap.com/undergraduate/contests/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "Teams may consist of up to three students enrolled at the same institution.",
+      "document_name": "COMAP MCM/ICM Rules",
+      "source_url": "https://www.comap.com/undergraduate/contests/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "The contest takes place over a four-day period, typically in late January or early February each year.",
+      "document_name": "COMAP MCM/ICM Contest Schedule",
+      "source_url": "https://www.comap.com/undergraduate/contests/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "Each team submits a solution paper (typed, in English) including a Summary Sheet, the model development, computation, and conclusion, plus appendices.",
+      "document_name": "COMAP MCM/ICM Summary and Paper Guidelines",
+      "source_url": "https://www.comap.com/undergraduate/contests/",
+      "acquired_date": "2026-07-21",
+      "last_verified_at": "2026-07-21",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-21 新增】补充美赛 MCM/ICM found 数据，覆盖「数学建模/美赛怎么备赛」类问法，与国赛共用建模专属模板（英文论文+4天赛制差异化）。具体赛季日期以 COMAP 官网为准。",
+  "official_source_status": "found"
+}

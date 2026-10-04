@@ -1,0 +1,110 @@
+{
+  "competition_id": "business_elite_2026",
+  "competition_name": "全国高校商业精英挑战赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "中国国际贸易促进委员会商业行业委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "工商管理",
+    "会计学",
+    "金融学",
+    "市场营销",
+    "经济学",
+    "国际经济与贸易"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "各赛道设一、二、三等奖及优胜奖，并设优秀指导教师奖、优秀组织奖等。具体比例按各赛道实施细则执行。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "各赛道"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "各赛道"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "各赛道"
+    }
+  ],
+  "brief_description": "全国高校商业精英挑战赛（亦称全国大学生商业精英挑战赛）是由中国国际贸易促进委员会商业行业委员会主办的财经商科类赛事，下设品牌策划、创新创业、国际贸易、会计与商业管理案例、商务谈判等多个赛道，多为团体赛，面向本科生、研究生。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "https://ssyth.cubec.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年全国高校商业精英挑战赛创新创业竞赛",
+      "document_name": "关于举办2026年全国高校商业精英挑战赛创新创业竞赛的通知",
+      "source_url": "https://www.ccpitcsc.org/mcdt/4857",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：中国国际贸易促进委员会商业行业委员会",
+      "document_name": "关于举办2026年全国高校商业精英挑战赛创新创业竞赛的通知",
+      "source_url": "https://www.ccpitcsc.org/mcdt/4857",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "全国高校商业精英挑战赛赛事一体化管理平台",
+      "document_name": "全国高校商业精英挑战赛赛事一体化管理平台",
+      "source_url": "https://ssyth.cubec.org.cn/home",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：官方名称为\"全国高校商业精英挑战赛\"（\"全国大学生商业精英挑战赛\"为常见别称）；organizer已确认。该赛事为多赛道（品牌策划、创新创业、国际贸易、会计与商业管理案例、商务谈判等），各赛道时间不一、全年滚动，原单一系列占位日期字段不适用已置空；代表性节点：创新创业竞赛创业计划赛道院校报名截至2026-09-16、全国总决赛2026-11-08。具体以各赛道通知为准。",
+  "official_source_status": "found"
+}

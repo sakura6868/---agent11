@@ -1,0 +1,124 @@
+{
+  "competition_id": "nuedc_2026",
+  "competition_name": "全国大学生电子设计竞赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "教育部 / 工业和信息化部",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖，对获奖团队颁发证书；全国赛最高奖为“TI杯”。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生电子设计竞赛是由教育部、工业和信息化部联合主办的电子设计类国家级赛事，主要面向全日制在校本科生。要求电子信息类、通信类、自动化、计算机等相关专业学生以3人一组形式参赛，在四天三夜内完成理论设计与实物制作，考察电子系统设计、嵌入式开发与工程实践能力。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "http://nuedc.xjtu.edu.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "全国大学生电子设计竞赛是教育部与工信部联合主办的国家级赛事",
+      "document_name": "关于2026年全国大学生电子设计竞赛福建赛区报名通知",
+      "source_url": "https://cyxx.jmu.edu.cn/info/1091/1968.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生电子设计竞赛是教育部与工信部联合主办的国家级赛事",
+      "document_name": "关于2026年全国大学生电子设计竞赛福建赛区报名通知",
+      "source_url": "https://cyxx.jmu.edu.cn/info/1091/1968.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队限学生3人",
+      "document_name": "(本)关于报名参加2026年TI杯全国大学生电子设计竞赛(辽宁赛区)的通知",
+      "source_url": "https://cxcy.sut.edu.cn/info/1098/8442.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象：具有正式学籍的全日制在校本科生",
+      "document_name": "(本)关于报名参加2026年TI杯全国大学生电子设计竞赛(辽宁赛区)的通知",
+      "source_url": "https://cxcy.sut.edu.cn/info/1098/8442.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026-07-18 核验：竞赛名称、主办单位（教育部/工信部）、组队人数（3人/队）、参赛学生层次（全日制本科）均获官方赛区通知确认（trusted_level A）。原 organizer 字段无误。原 eligible_students 含“研究生”已根据辽宁/福建赛区通知更正为仅“本科生”（NUEDC 国赛面向本科生）。日期字段原为占位估计；2026 年为省赛年（国赛逢奇数年举办），已知 2026 年 TI 杯省赛于 2026-07-29 至 2026-08-01 举行，全国赛具体日程本轮未获取官方依据，故置空待官方通知。奖项比例、allowed_grades/allowed_majors 等未获官方精确依据，保留原值待确认。",
+  "official_source_status": "found"
+}

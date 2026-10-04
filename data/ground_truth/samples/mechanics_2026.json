@@ -1,0 +1,93 @@
+{
+  "competition_id": "mechanics_2026",
+  "competition_name": "全国周培源大学生力学竞赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国力学学会、周培源基金会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖，对获奖学生颁发证书；另设团体赛奖项。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "由组委会确定",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "由组委会确定",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "由组委会确定",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国周培源大学生力学竞赛是由中国力学学会和周培源基金会共同主办、面向全国在校大学生及研究生的力学类赛事，含个人赛（闭卷笔试，覆盖理论力学与材料力学）与团体赛，每两年举办一届（单数年）。",
+  "required_materials": [
+    "笔试答卷"
+  ],
+  "evaluation_dimensions": [
+    "力学基础",
+    "分析问题能力",
+    "解决问题能力"
+  ],
+  "required_skills": [
+    "理论力学",
+    "材料力学",
+    "力学建模"
+  ],
+  "official_source_url": "http://zpy.cstam.org.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "全国周培源大学生力学竞赛发起于1988年，由中国力学学会和周培源基金会共同主办。",
+      "document_name": "全国青少年科技创新大赛关联赛事名单（中国力学学会官方说明）",
+      "source_url": "https://www.cyscc.org/castic/#/home/article/249846",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "第十五届全国周培源大学生力学竞赛受教育部高等教育司委托，由中国力学学会和周培源基金会共同主办。",
+      "document_name": "第十五届全国周培源大学生力学竞赛（个人赛）5月18日在全国举行（中国力学学会新闻）",
+      "source_url": "https://lxsj.cstam.org.cn/news/462",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "竞赛每2年举办一届，单数年举办，双数年12月份启动报名，单数年5月份个人赛，7-8月份团体赛。",
+      "document_name": "全国青少年科技创新大赛关联赛事名单（中国力学学会官方说明）",
+      "source_url": "https://www.cyscc.org/castic/#/home/article/249846",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据中国力学学会官方说明及新闻核验竞赛名称、主办单位与举办周期。重要：全国周培源大学生力学竞赛为每两年一届、单数年举办（个人赛在单数年5月）。第十五届于2025年5月18日举行，第十六届将于2027年举办；2026年为双数年，无全国个人赛/团体赛（仅2026年12月启动2027年第十六届报名）。因此本“2026版”没有对应的全国赛事，原记录中registration_deadline/submission_deadline/competition_start_date/competition_end_date/result_announcement_date（2026-10至2026-12）均属错误占位，已置空（N/A）。若需2026年参赛信息，可关注各省力学学会举办的省级大学生力学竞赛（如河南省2026大学生力学竞赛初赛2026-05-23、安徽省大学生力学竞赛2026年5月）。team为个人赛（team_required=false、team_max=1）。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,100 @@
+{
+  "competition_id": "qiangguo_2026",
+  "competition_name": "强国杯技术技能大赛（软件赛项）",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "工业和信息化部教育与考试中心",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "人工智能",
+    "信息安全",
+    "数据科学与大数据技术",
+    "网络空间安全"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "区域复赛及全国总决赛设一、二、三等奖及奖金（各赛项奖励办法详见赛项技术方案）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "按赛项",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "按赛项",
+      "note": "全国总决赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "按赛项",
+      "note": "全国总决赛"
+    }
+  ],
+  "brief_description": "强国杯技术技能大赛是由工业和信息化部教育与考试中心主办的赛事，设工业互联网工业软件设计与应用、大数据技术应用、智能网联技术应用等多个赛项（含软件相关赛项），面向企业职工、院校师生分组参赛，考察理论与实操综合能力。",
+  "required_materials": [
+    "源代码",
+    "设计文档",
+    "答辩PPT",
+    "自测报告"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "时间与空间复杂度",
+    "代码规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java",
+    "Git"
+  ],
+  "official_source_url": "https://www.qiangguobei.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "工业和信息化部教育与考试中心决定举办2022年度'强国杯'技术技能大赛",
+      "document_name": "工业和信息化部教育与考试中心：强国杯技术技能大赛文件",
+      "source_url": "https://www.miiteec.org.cn/ueditor/php/upload/file/20220615/1655273170251225.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "2022年度'强国杯'技术技能大赛官网：www.qiangguobei.org.cn",
+      "document_name": "强国杯技术技能大赛官方网站",
+      "source_url": "https://www.qiangguobei.org.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已确认'强国杯'技术技能大赛由工业和信息化部教育与考试中心主办（官网qiangguobei.org.cn），主办单位由原'工业和信息化部'更正为'工业和信息化部教育与考试中心'。'软件赛项'对应工业互联网工业软件设计与应用等赛项，但具体指哪一项需以2026年(第四届)各赛项通知为准。2026年各赛项报名/竞赛日期官方未明确检索到，日期字段置null待人工确认；team规模亦因赛项而异（如2022年工业互联网工业软件赛项为每队2人），保留原值待人工确认。",
+  "official_source_status": "found"
+}

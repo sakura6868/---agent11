@@ -1,0 +1,47 @@
+{
+  "competition_id": "四川省天顺杯大学生智慧农牧与食品营养健康就业创业挑战赛首届_2026",
+  "competition_name": "四川省“天顺杯”大学生智慧农牧与食品营养健康就业创业挑战赛（首届）",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "四川省教育厅主办，四川农业大学、西南财经大学、成都中医药大学、四川师范大学、西华师范大学、成都大学、宜宾学院、西昌学院、乐山师范学院联合承办",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": null,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "决赛在四川农业大学（成都校区）举办，奖项设置详见官方通知",
+  "award_distribution": [],
+  "brief_description": "四川省首届智慧农牧与食品营养健康主题创新创业挑战赛，设健康养殖、食品深加工与产品创新研发、农牧食品全产业链商业运营与营销策划三大核心赛道，面向全国全日制本硕博开放并支持跨校组队。",
+  "required_materials": [
+    "参赛方案",
+    "项目计划书"
+  ],
+  "evaluation_dimensions": [
+    "产业契合度",
+    "创新性",
+    "商业可行性"
+  ],
+  "required_skills": [
+    "农牧食品专业知识",
+    "商业策划",
+    "产品研发"
+  ],
+  "official_source_url": "https://cxcyxy.cdu.edu.cn/info/1019/4352.htm",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 成都大学创新创业学院通知 cxcyxy.cdu.edu.cn/info/1019/4352.htm（2026-07-19 发布）。报名截止 2026-09-10 24:00，报名网址 cp.moocollege.com。省级赛事但面向全国开放。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

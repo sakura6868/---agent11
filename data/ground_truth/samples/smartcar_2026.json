@@ -1,0 +1,135 @@
+{
+  "competition_id": "smartcar_2026",
+  "competition_name": "全国大学生智能汽车竞赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "中国自动化学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": "2026-06-20",
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-08-31",
+  "result_announcement_date": "2026-08-31",
+  "award_settings": "设全国一等奖、全国二等奖、全国三等奖、优胜奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "全国一等奖",
+      "proportion": "约8%",
+      "note": "全国"
+    },
+    {
+      "award": "全国二等奖",
+      "proportion": "约17%",
+      "note": "全国"
+    },
+    {
+      "award": "全国三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优胜奖",
+      "proportion": "其余",
+      "note": "赛区"
+    }
+  ],
+  "brief_description": "全国大学生智能汽车竞赛是由教育部高等教育司指导、中国自动化学会（2020年起，原教育部高等学校自动化类专业教学指导委员会）主办的机器人与人工智能类赛事（2026年为第二十一届），主要面向本科生、研究生。各赛项以3-5人组队形式参与，考察智能车设计、控制算法与系统实现等能力，是提升工程实践能力的重要平台。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "http://www.smartcarrace.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "全国大学生智能汽车竞赛是由教育部高等教育司指导、高校自动化专业教学指导委员会（2020年起变更为中国自动化学会）主办的国家级A类学科竞赛",
+      "document_name": "关于组织学生参加“2026年第二十一届全国大学生智能汽车竞赛”的通知（上海工程技术大学）",
+      "source_url": "https://www.sues.edu.cn/85/1b/c26790a296219/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每支参赛队由本校3-5名学生组成",
+      "document_name": "关于组织学生参加“2026年第二十一届全国大学生智能汽车竞赛”的通知（上海工程技术大学）",
+      "source_url": "https://www.sues.edu.cn/85/1b/c26790a296219/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队由本校3-5名学生组成",
+      "document_name": "关于组织学生参加“2026年第二十一届全国大学生智能汽车竞赛”的通知（上海工程技术大学）",
+      "source_url": "https://www.sues.edu.cn/85/1b/c26790a296219/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "即日起至2026年6月20日（校内/华东赛正式报名）",
+      "document_name": "关于组织参加2026年全国大学生智能汽车竞赛山东赛区比赛的通知（齐鲁工业大学）",
+      "source_url": "https://dqxy.qlu.edu.cn/2026/0713/c8228a281178/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "全国总决赛：2026年8月（分赛区：2026年7月）",
+      "document_name": "关于开展“2026年第二十一届全国大学生智能汽车竞赛”通知（西安交通大学）",
+      "source_url": "https://dean.xjtu.edu.cn/info/1172/9891.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】已据2026年（第二十一届）各高校通知更正：现主办单位为中国自动化学会（原自动化教指委，2020年起变更）；团队3-5人（原team_min=1、team_max=4有误，已更正为3-5）；分赛区2026年7月、全国总决赛2026年8月，报名各高校多在6月上中旬截止（取代表性2026-06-20，实际以各校/赛区通知为准）；该赛事为现场竞赛，无统一作品提交截止，submission_deadline 置空。",
+  "official_source_status": "found"
+}

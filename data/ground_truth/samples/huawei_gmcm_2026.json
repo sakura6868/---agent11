@@ -1,0 +1,188 @@
+{
+  "competition_id": "huawei_gmcm_2026",
+  "competition_name": "华为杯中国研究生数学建模竞赛",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "中国学位与研究生教育学会（教育部学位管理与研究生教育司指导；2026第二十三届由西安交通大学承办，秘书处设在东南大学）",
+  "eligible_students": [
+    "研究生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "统计学",
+    "信息与计算科学",
+    "经济学",
+    "物理学",
+    "计算机科学与技术",
+    "自动化"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": "2026-09-19",
+  "submission_deadline": "2026-09-28",
+  "competition_start_date": "2026-09-23",
+  "competition_end_date": "2026-09-27",
+  "result_announcement_date": "2026-11-30",
+  "award_settings": "设一等奖、二等奖、三等奖、企业专项奖、“数模之星”冠亚季军等；一、二、三等奖获奖队数原则上不超过参赛队总数的1.5%、13%、20%。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "≤1.5%",
+      "note": "参赛队总数"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "≤13%",
+      "note": "参赛队总数"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "≤20%",
+      "note": "参赛队总数"
+    }
+  ],
+  "brief_description": "华为杯中国研究生数学建模竞赛是由中国学位与研究生教育学会主办的数学建模类赛事（第二十三届，2026），面向在读硕士研究生、博士研究生（含2026级新生及国际学生），不含本科生。以3人团队形式参赛，考察模型合理性、求解精度、创新与实用及论文表达等能力。",
+  "required_materials": [
+    "PDF格式竞赛论文"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新与实用",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析",
+    "LaTeX"
+  ],
+  "official_source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+  "source_acquired_date": "2026-07-29",
+  "trusted_level": "A",
+  "data_status": "verified",
+  "last_verified_at": "2026-07-29",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国研究生数学建模竞赛是教育部学位管理与研究生教育司指导，中国学位与研究生教育学会主办的“中国研究生创新实践系列大赛”主题赛事之一。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象是中国（含港澳台地区）高校、科研院所的在读研究生（硕士生、博士生）和将于2026年秋季学期入学的研究生（硕士生、博士生）。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "研究生组队参赛（每队3人，专业不限）。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "研究生组队参赛（每队3人，专业不限）。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "参赛团队报名起止时间为：2026年6月1日（周一）8:00至9月19日（周六）17:00。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "竞赛时间：竞赛2026年9月23日（周三）8:00至9月27日（周日）12:00举行。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "竞赛时间：竞赛2026年9月23日（周三）8:00至9月27日（周日）12:00举行。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "上传PDF格式论文时间为2026年9月27日（周日）14:00至9月28日（周一）24:00。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "竞赛组委会将于2026年11月中下旬在“研创网”公示竞赛结果并发布拟获奖名单。",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "各参赛队队长使用指定的MD5码校验工具，上传PDF格式论文时间为2026年9月27日14:00至9月28日24:00。",
+      "document_name": "关于开展“华为杯”第二十三届中国研究生数学建模竞赛的通知",
+      "source_url": "https://news.dhu.edu.cn/2026/0530/c7759a426599/pagem.htm",
+      "acquired_date": "2026-07-29",
+      "last_verified_at": "2026-07-29",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "中国研究生数学建模竞赛官方网站：https://cpipc.acge.org.cn/cw/hp/4",
+      "document_name": "“华为杯”第二十三届中国研究生数学建模竞赛参赛通知",
+      "source_url": "https://www.cmathc.org.cn/mcm/tz/465.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-29复核】原organizer“教育部学位与研究生教育发展中心”有误，实际主办为中国学位与研究生教育学会；本赛仅面向研究生（硕/博），固定3人团队。官方通知明确参赛论文以PDF格式上传；结果在11月中下旬公示。",
+  "official_source_status": "found"
+}

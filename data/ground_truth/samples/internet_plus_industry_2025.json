@@ -1,0 +1,115 @@
+{
+  "competition_name": "中国国际大学生创新大赛（2025）产业赛道",
+  "document_year": 2025,
+  "organizer": "教育部等部门和河南省人民政府",
+  "category": "innovation",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 15,
+  "registration_deadline": "2025-07-01",
+  "submission_deadline": "2025-07-01",
+  "required_materials": [
+    "命题对策",
+    "应答材料"
+  ],
+  "evaluation_dimensions": [
+    "命题契合度",
+    "对策讲解",
+    "实物展示",
+    "专家问辩"
+  ],
+  "required_skills": [
+    "产业问题分析",
+    "技术方案设计",
+    "成果转化",
+    "路演答辩"
+  ],
+  "official_source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "A",
+  "data_status": "verified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2025_moe_official_docx_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 4,
+      "source_text": "参赛报名及对策提交的截止时间为北京时间2025年7月1日24:00。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 4,
+      "source_text": "参赛报名及对策提交的截止时间为北京时间2025年7月1日24:00。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 2,
+      "source_text": "项目负责人须为普通高等学校全日制在校生（包括本专科生、研究生，不含在职教育），或毕业5年以内的全日制学生（即2020年之后毕业的本专科生、研究生，不含在职教育）。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 2,
+      "source_text": "允许跨校组建、师生共同组建参赛团队，每个团队的成员不少于3人，不多于15人（含团队负责人），须为揭榜答题的实际核心成员。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 2,
+      "source_text": "允许跨校组建、师生共同组建参赛团队，每个团队的成员不少于3人，不多于15人（含团队负责人），须为揭榜答题的实际核心成员。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "参赛团队所提交的命题对策须符合所答企业命题要求，命题企业将对命题对策进行契合度审核评价。参赛团队须对提交的应答材料拥有自主知识产权。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": 4,
+      "source_text": "入围总决赛项目通过对策讲解、实物展示和专家问辩等环节，决出各类奖项。",
+      "document_name": "中国国际大学生创新大赛（2025）产业赛道方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349394817.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "按产业赛道单独建档。官方方案明确报名与对策提交同为2025-07-01，并明确团队、对象、应答材料和总决赛环节。｜本赛事与 internet_plus_2025、internet_plus_red_dream_2025、internet_plus_vocational_2025 同属中国国际大学生创新大赛（2025）不同赛道，全国报名截止最晚2025-07-01，全国总决赛约2025年10月举行。",
+  "official_source_status": "found"
+}

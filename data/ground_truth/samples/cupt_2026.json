@@ -1,0 +1,132 @@
+{
+  "competition_id": "cupt_2026",
+  "competition_name": "中国大学生物理学术竞赛（CUPT）",
+  "document_year": 2026,
+  "category": "physics",
+  "organizer": "中国大学生物理学术竞赛组委会（教育部物理学育人模式改革虚拟教研室）",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "物理学",
+    "应用物理",
+    "光电信息",
+    "材料物理",
+    "天文学"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": "2026-07-20",
+  "submission_deadline": null,
+  "competition_start_date": "2026-08-12",
+  "competition_end_date": "2026-08-17",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国大学生物理学术竞赛（CUPT）是由中国大学生物理学术竞赛组委会主办的物理学类赛事，面向本科生。以3-5人团队参赛（国赛每队5名选手），采用团队辩论对抗赛形式，考察针对开放性物理问题的研究、实验与答辩能力。",
+  "required_materials": [
+    "实验报告",
+    "论文",
+    "装置照片",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "原理正确",
+    "操作规范",
+    "数据分析",
+    "创新性"
+  ],
+  "required_skills": [
+    "物理实验",
+    "理论推导",
+    "数据处理",
+    "仪器操作"
+  ],
+  "official_source_url": "https://cupt-iypt.com",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年第十七届CUPT",
+      "document_name": "关于“2026年中国大学生物理学术竞赛”的通知",
+      "source_url": "http://jwzx.hrbust.edu.cn/homepage/infoSingleArticle.do?articleId=5466",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "2026年第十七届CUPT由中国大学生物理学术竞赛组委会、教育部物理学育人模式改革虚拟教研室主办",
+      "document_name": "关于“2026年中国大学生物理学术竞赛”的通知",
+      "source_url": "http://jwzx.hrbust.edu.cn/homepage/infoSingleArticle.do?articleId=5466",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "比赛时间：2026年8月12日-8月17日。地点：苏州大学天赐庄校区",
+      "document_name": "关于“2026年中国大学生物理学术竞赛”的通知",
+      "source_url": "http://jwzx.hrbust.edu.cn/homepage/infoSingleArticle.do?articleId=5466",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "请参赛高校于2026年7月20日前，登录竞赛网站完成报名并提交作品存档",
+      "document_name": "关于“2026年中国大学生物理学术竞赛”的通知",
+      "source_url": "http://jwzx.hrbust.edu.cn/homepage/infoSingleArticle.do?articleId=5466",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "现场团体赛：每支代表队由1-2名领队和5名参赛选手组成",
+      "document_name": "关于“2026年中国大学生物理学术竞赛”的通知",
+      "source_url": "http://jwzx.hrbust.edu.cn/homepage/infoSingleArticle.do?articleId=5466",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 已核实：第十七届（2026）名称、组委会主办、全国赛2026-08-12至08-17（苏州大学）、高校报名/作品提交截止2026-07-20；CUPT为本科生赛事，已移除研究生；团队规模校赛通常3-5人、国赛5人。原占位日期已更正/置空。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,113 @@
+{
+  "competition_id": "fltrp_writing_2026",
+  "competition_name": "外研社·国才杯“理解当代中国”全国大学生外语能力大赛（英语写作赛项）",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "北京外国语大学（主办）、外语教学与研究出版社（承办）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "校赛设金、银、铜奖，获奖比例分别为本校参赛选手人数的5%、15%、25%；省赛、国赛设相应奖项并晋级。",
+  "award_distribution": [
+    {
+      "award": "金奖（校赛）",
+      "proportion": "5%",
+      "note": "本校参赛选手"
+    },
+    {
+      "award": "银奖（校赛）",
+      "proportion": "15%",
+      "note": "本校参赛选手"
+    },
+    {
+      "award": "铜奖（校赛）",
+      "proportion": "25%",
+      "note": "本校参赛选手"
+    }
+  ],
+  "brief_description": "外研社·国才杯“理解当代中国”全国大学生外语能力大赛（英语写作赛项）由北京外国语大学主办、外语教学与研究出版社承办的外语类赛事，主要面向全日制在校本科生、硕士研究生。以个人参赛形式参与，考察书面表达、内容深度、逻辑思维等能力。",
+  "required_materials": [
+    "演讲稿",
+    "参赛视频",
+    "书面作品",
+    "成绩单"
+  ],
+  "evaluation_dimensions": [
+    "语言表达",
+    "内容深度",
+    "逻辑思维",
+    "临场表现"
+  ],
+  "required_skills": [
+    "英语听说",
+    "英语读写",
+    "公众演讲",
+    "批判性思维"
+  ],
+  "official_source_url": "https://ucc.fltrp.com/c/2026-04-15/517928.shtml",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+      "document_name": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛通知",
+      "source_url": "https://ucc.fltrp.com/c/2026-04-15/517928.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "大赛由北京外国语大学主办，外语教学与研究出版社（简称“外研社”）承办。",
+      "document_name": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛通知",
+      "source_url": "https://ucc.fltrp.com/c/2026-04-15/517928.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "英语组 全国普通高等学校全日制在校本科生和硕士研究生，包括来华留学生。",
+      "document_name": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛通知",
+      "source_url": "https://ucc.fltrp.com/c/2026-04-15/517928.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网：https://ucc.fltrp.com",
+      "document_name": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛通知",
+      "source_url": "https://ucc.fltrp.com/c/2026-04-15/517928.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-18核验】2026年英语写作已并入“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛，作为英语组写作赛项，由北京外国语大学主办、外语教学与研究出版社承办。官方仅公布赛程月份区间（校赛4-10月、省赛9-11月、国赛10-12月），由各校自行组织校赛，无全国统一报名截止日，故具体日期字段置空待人工确认。原“由公开赛事名录整理、尚未完成人工核验”备注已失效。",
+  "official_source_status": "found"
+}

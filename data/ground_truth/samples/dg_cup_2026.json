@@ -1,0 +1,137 @@
+{
+  "competition_id": "dg_cup_2026",
+  "competition_name": "“中国电机工程学会杯”全国大学生电工数学建模竞赛（电工杯）",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "中国电机工程学会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "统计学",
+    "信息与计算科学",
+    "经济学",
+    "物理学",
+    "计算机科学与技术",
+    "自动化"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-22",
+  "competition_end_date": "2026-05-25",
+  "result_announcement_date": "2026-07-31",
+  "award_settings": "设立特等奖和一、二、三等奖，获奖比例不超过参赛队总数的45%；另设优秀组织奖。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "少量",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "“中国电机工程学会杯”全国大学生电工数学建模竞赛（电工杯）是由中国电机工程学会主办的数学建模类赛事，面向本科生、研究生、专科生。以不超过3人团队参赛（禁止跨校组队），竞赛时长72小时，考察模型合理性、求解精度与论文表达。",
+  "required_materials": [
+    "建模论文",
+    "程序代码",
+    "数据附件",
+    "支撑材料"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新与实用",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析",
+    "LaTeX"
+  ],
+  "official_source_url": "http://shumo.neepu.edu.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第十八届“中国电机工程学会杯”全国大学生电工数学建模竞赛",
+      "document_name": "中国电机工程学会文件（第十八届电工杯报名通知）",
+      "source_url": "https://www.csee.org.cn/pic/u/cms/www/202604/10085613lz5t.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国电机工程学会杯全国大学生电工数学建模竞赛",
+      "document_name": "中国电机工程学会文件（第十八届电工杯报名通知）",
+      "source_url": "https://www.csee.org.cn/pic/u/cms/www/202604/10085613lz5t.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "2026年4月10日-5月20日：竞赛报名",
+      "document_name": "中国电机工程学会文件（第十八届电工杯报名通知）",
+      "source_url": "https://www.csee.org.cn/pic/u/cms/www/202604/10085613lz5t.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "2026年5月22日08:00-5月25日08:00（72小时）：竞赛时间",
+      "document_name": "中国电机工程学会文件（第十八届电工杯报名通知）",
+      "source_url": "https://www.csee.org.cn/pic/u/cms/www/202604/10085613lz5t.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每队最多3名学生、1名指导教师，各院校参赛队数不限；禁止跨校组队",
+      "document_name": "第十八届“中国电机工程学会杯”全国大学生电工数学建模竞赛报名通知（最后一轮）",
+      "source_url": "https://shumo.neepu.edu.cn/tzgg.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 已核实：第十八届（2026）名称（含“中国电机工程学会杯”）、主办单位、报名截止2026-05-20、竞赛2026-05-22至05-25（72小时）、成绩2026年7月下旬公布；原占位日期已更正。参赛对象含专科生（全国普通高校全日制在校学生），已补充。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

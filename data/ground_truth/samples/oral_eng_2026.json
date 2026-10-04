@@ -1,0 +1,77 @@
+{
+  "competition_id": "oral_eng_2026",
+  "competition_name": "全国大学生英语口语竞赛",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "相关外语教学机构",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-12-26",
+  "competition_end_date": "2027-01-16",
+  "result_announcement_date": "2027-03-01",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生英语口语竞赛是由相关外语教学机构主办的外语类赛事，主要面向本科生、研究生。要求不限专业的同学以个人参赛形式参与，考察语言表达、内容深度等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "演讲稿",
+    "参赛视频",
+    "书面作品",
+    "成绩单"
+  ],
+  "evaluation_dimensions": [
+    "语言表达",
+    "内容深度",
+    "逻辑思维",
+    "临场表现"
+  ],
+  "required_skills": [
+    "英语听说",
+    "英语读写",
+    "公众演讲",
+    "批判性思维"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E7%AB%9E%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 2026-07-18 核验：未找到名为“全国大学生英语口语竞赛”的权威全国性赛事依据；检索到的相关赛事为“全国大学生英语竞赛（NECCS，chinaneccs.cn，含决赛口试）”与区域性的“讯飞杯全国高校英语口语大赛”（安徽）等。字段 organizer/eligible_students/team/dates 等均未能找到官方依据，保留原值待人工确认。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。注：名称相近的真实赛事为“全国大学生英语竞赛(NECCS)”（chinaneccs.cn，含决赛口试环节）。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

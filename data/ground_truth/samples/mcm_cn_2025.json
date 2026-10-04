@@ -1,0 +1,114 @@
+{
+  "competition_name": "高教社杯全国大学生数学建模竞赛（国赛）",
+  "document_year": 2025,
+  "organizer": "中国工业与应用数学学会",
+  "category": "modeling",
+  "eligible_students": [
+    "本科生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": null,
+  "team_max": 3,
+  "registration_deadline": "2025-09-01",
+  "submission_deadline": "2025-09-08",
+  "required_materials": [
+    "参赛论文（PDF或Word）",
+    "支撑材料（如有，ZIP或RAR）",
+    "纸质论文"
+  ],
+  "evaluation_dimensions": [
+    "假设合理性",
+    "建模创造性",
+    "结果正确性",
+    "文字表述清晰程度"
+  ],
+  "required_skills": [
+    "数学建模",
+    "计算机编程",
+    "论文写作"
+  ],
+  "official_source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2025_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 3,
+      "source_text": "参赛队报名注册及参赛学生资格审查：5月1日09:00至9月1日20:00。",
+      "document_name": "全国大学生数学建模竞赛报名和参赛须知（2025年4月2日修订）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 4,
+      "source_text": "各参赛队务必在2025年9月7日20:30至8日14:00之间，将已上传到竞赛管理系统的MD5码对应的“参赛论文”与“支撑材料”电子文档通过客户端对应功能上传至竞赛管理系统，过时无效。",
+      "document_name": "全国大学生数学建模竞赛报名和参赛须知（2025年4月2日修订）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 6,
+      "source_text": "竞赛分本科、高职高专两组进行，所有大学生均可参加本科组竞赛，但只有高职高专学生可以参加高职高专组竞赛（也可参加本科组竞赛）。研究生不得参加本项竞赛。",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 6,
+      "source_text": "大学生以队为单位参赛，每队不超过3人（须属于同一所学校），专业不限。",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 6,
+      "source_text": "大学生以队为单位参赛，每队不超过3人（须属于同一所学校），专业不限。",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 4,
+      "source_text": "各参赛队提交的参赛作品通常有“参赛论文”和“支撑材料”两部分，其中“参赛论文”是必要的。参赛论文文件格式只能用PDF或Word格式之一；支撑材料使用WinRAR压缩为一个ZIP或RAR文件。",
+      "document_name": "全国大学生数学建模竞赛报名和参赛须知（2025年4月2日修订）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": 6,
+      "source_text": "竞赛评奖以假设的合理性、建模的创造性、结果的正确性和文字表述的清晰程度为主要标准。",
+      "document_name": "全国大学生数学建模竞赛章程（2023年修订稿）.pdf",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "人工逐页核验安徽省教育厅托管的全国组委会规则汇编。章程只规定每队不超过3人，未明文给出下限，因此team_min保持null。9月7日20:00是论文及支撑材料MD5码截止，最终电子文档上传截止是9月8日14:00，submission_deadline据最终上传节点记录为2025-09-08。",
+  "official_source_status": "found"
+}

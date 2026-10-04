@@ -1,0 +1,83 @@
+{
+  "competition_id": "neuro_2026",
+  "competition_name": "全国大学生神经科学竞赛",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "相关神经科学学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "生物科学",
+    "生物技术",
+    "基础医学",
+    "药学",
+    "临床医学",
+    "生态学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-12-24",
+  "competition_end_date": "2027-01-24",
+  "result_announcement_date": "2027-02-22",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生神经科学竞赛是由相关神经科学学会主办的生命科学类赛事，主要面向本科生、研究生。要求生物科学、生物技术、基础医学等的同学以1-3人组队形式参与，考察科学性、创新性等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "实验报告",
+    "研究论文",
+    "海报",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "完成度",
+    "表达"
+  ],
+  "required_skills": [
+    "实验操作",
+    "数据分析",
+    "文献检索",
+    "科研写作"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6%E7%AB%9E%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 2026-07-18 核验：未找到“全国大学生神经科学竞赛”的官方主办/赛事依据（检索结果主要为面向中小学生的 Brain Bee 脑科学活动），字段 organizer/eligible_students/team/dates 等均未能找到官方依据，保留原值待人工确认。 【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。经核验，以“全国大学生神经科学竞赛”为精确名称的2026年官方全国性赛事不存在；检索结果主要为面向中小学生的Brain Bee脑科学活动(brainbee.org.cn)及“脑未来(Brain Future)脑科学与脑技术创新大赛”(中国神经科学学会神经科学研究技术分会等主办，名称不一致)。本条目字段均未能找到官方依据，请勿当作定论。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

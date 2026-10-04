@@ -1,0 +1,130 @@
+{
+  "competition_name": "第十四届“挑战杯”秦创原中国大学生创业计划竞赛（小挑）",
+  "document_year": 2024,
+  "organizer": "共青团中央、教育部、人力资源社会保障部、中国科协、全国学联、陕西省人民政府联合主办；西安交通大学、共青团陕西省委承办",
+  "category": "innovation",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 15,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2024-10-29",
+  "competition_end_date": "2024-11-02",
+  "result_announcement_date": "2024-11-02",
+  "required_materials": [
+    "项目简介（1000字以内）",
+    "项目介绍材料（20页以内PPT转PDF）",
+    "其他支撑材料（选报）",
+    "项目介绍视频（选报）"
+  ],
+  "evaluation_dimensions": [
+    "社会价值",
+    "实践过程",
+    "创新意义",
+    "发展前景",
+    "团队协作"
+  ],
+  "required_skills": [
+    "商业策划",
+    "路演答辩",
+    "项目运营",
+    "团队协作"
+  ],
+  "official_source_url": "https://www.tiaozhanbei.net/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2024_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "第十四届“挑战杯”秦创原中国大学生创业计划竞赛由共青团中央、教育部、人力资源社会保障部、中国科协、全国学联、陕西省人民政府联合主办，由西安交通大学、共青团陕西省委承办。",
+      "document_name": "第十四届“挑战杯”秦创原中国大学生创业计划竞赛在西安交通大学举行（人民网）",
+      "source_url": "https://cpc.people.com.cn/n1/2024/1030/c64387-40350632.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "在举办竞赛全国决赛的当年6月1日以前正式注册的全日制非成人教育的各类普通高等学校在校专科生、本科生、硕士研究生（不含在职研究生）。……博士研究生仅可作为项目团队成员参赛（不作项目负责人），且人数不超过团队成员数量的30%。",
+      "document_name": "挑战杯赛事介绍（引用创青春/章程）",
+      "source_url": "https://www.dztvc.edu.cn/tuanwei/cover3/sstj/2024-06-20/9485.html",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每个项目的团队成员不少于3人，原则上不多于15人（含团队负责人），须为项目实际成员。",
+      "document_name": "重庆大学转发“秦创原”创新挑战赛组委会通知",
+      "source_url": "https://youth.cqu.edu.cn/info/1013/22539.htm",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每个项目的团队成员不少于3人，原则上不多于15人（含团队负责人），须为项目实际成员。",
+      "document_name": "重庆大学转发“秦创原”创新挑战赛组委会通知",
+      "source_url": "https://youth.cqu.edu.cn/info/1013/22539.htm",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "参赛项目须提交项目简介（1000字以内）、项目介绍材料（20页以内PPT转PDF格式）、其他支撑材料（选报）、项目介绍视频（选报）",
+      "document_name": "重庆大学转发“秦创原”创新挑战赛组委会通知",
+      "source_url": "https://youth.cqu.edu.cn/info/1013/22539.htm",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": null,
+      "source_text": "赛事的评审标准是什么？项目社会价值、实践过程、创新意义、发展前景和团队协作等5个方面",
+      "document_name": "挑战杯赛事介绍（创青春常见问题）",
+      "source_url": "https://www.dztvc.edu.cn/tuanwei/cover3/sstj/2024-06-20/9485.html",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "B"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "第十四届“挑战杯”秦创原中国大学生创业计划竞赛于10月29日至11月2日在西安交通大学（兴庆校区）举行。",
+      "document_name": "第十四届“挑战杯”秦创原中国大学生创业计划竞赛在西安交通大学举行（人民网）",
+      "source_url": "https://cpc.people.com.cn/n1/2024/1030/c64387-40350632.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "11月2日，面向全体参赛队伍召开闭幕会暨大学生青创报国汇报会。",
+      "document_name": "第十四届“挑战杯”秦创原中国大学生创业计划竞赛在西安交通大学圆满收官",
+      "source_url": "https://yurenhao.sizhengwang.cn/a/xajtdxdw/241113/1962548.shtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "本标注由 AI 基于挑战杯官网、创青春官方资讯及省级/高校转发通知整理，并已于2026-07-18经挑战杯官网(www.tiaozhanbei.net)及人民网核验：第十四届（2024）正式名称为“第十四届‘挑战杯’秦创原中国大学生创业计划竞赛”，由共青团中央、教育部、人力资源社会保障部、中国科协、全国学联、陕西省人民政府联合主办，西安交通大学、共青团陕西省委承办，终审决赛2024-10-29至11-02在西安交通大学（兴庆校区）举行。registration_deadline/submission_deadline 记为 null：主体赛无全国统一报名截止，由各省/校自定；配套活动“秦创原”校选赛报名截止2024-06-29，全国决赛2024年11月初在西安举办。required_materials 取自“秦创原”配套活动官方要求，主体赛材料清单以各省/校通知为准。evaluation_dimensions 为创青春公布的主体赛评审五方面。关系说明：本文件与 challenge_cup_small_2026 为同一竞赛（挑战杯·小挑/创业计划竞赛）的不同届次——本文件为第十四届（2024，西安交通大学承办），challenge_cup_small_2026 为第十五届（2026）。",
+  "official_source_status": "found"
+}

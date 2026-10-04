@@ -1,0 +1,102 @@
+{
+  "competition_name": "中国国际大学生创新大赛（2025）青年红色筑梦之旅赛道",
+  "document_year": 2025,
+  "organizer": "教育部等部门和河南省人民政府",
+  "category": "innovation",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 15,
+  "registration_deadline": "2025-07-01",
+  "submission_deadline": null,
+  "required_materials": [],
+  "evaluation_dimensions": [
+    "创新性",
+    "实效性",
+    "可持续性",
+    "社会价值"
+  ],
+  "required_skills": [
+    "乡村振兴实践",
+    "社会调研",
+    "项目运营",
+    "创新创业"
+  ],
+  "official_source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2025_moe_official_docx_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 2,
+      "source_text": "组织团队登录全国大学生创业服务网或微信公众号进行报名，报名系统开放时间为5月9日至7月1日。",
+      "document_name": "中国国际大学生创新大赛（2025）“青年红色筑梦之旅”活动方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 3,
+      "source_text": "参赛申报人须为项目负责人，须为普通高等学校全日制在校生（包括本专科生、研究生，不含在职教育），或毕业5年以内的全日制学生（即2020年之后的毕业生，不含在职教育）。",
+      "document_name": "中国国际大学生创新大赛（2025）“青年红色筑梦之旅”活动方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 3,
+      "source_text": "以团队为单位报名参赛。允许跨校组建团队，每个团队的参赛成员不少于3人，不多于15人（含团队负责人），须为项目的实际核心成员。",
+      "document_name": "中国国际大学生创新大赛（2025）“青年红色筑梦之旅”活动方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 3,
+      "source_text": "以团队为单位报名参赛。允许跨校组建团队，每个团队的参赛成员不少于3人，不多于15人（含团队负责人），须为项目的实际核心成员。",
+      "document_name": "中国国际大学生创新大赛（2025）“青年红色筑梦之旅”活动方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "参赛团队所报参赛创业项目，须为本团队策划或经营的项目，不得借用他人项目参赛。",
+      "document_name": "中国国际大学生创新大赛（2025）“青年红色筑梦之旅”活动方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "evaluation_dimensions",
+      "page": 2,
+      "source_text": "项目应在推进农业农村、城乡社区经济社会发展等方面有创新性、实效性和可持续性。",
+      "document_name": "中国国际大学生创新大赛（2025）“青年红色筑梦之旅”活动方案.docx",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s5672/202505/W020250509342349388165.docx",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "按青年红色筑梦之旅赛道单独建档。官方方案未列统一材料清单和独立提交截止，因此required_materials保持空数组、submission_deadline保持null。｜本赛事与 internet_plus_2025、internet_plus_industry_2025、internet_plus_vocational_2025 同属中国国际大学生创新大赛（2025）不同赛道，全国报名截止最晚2025-07-01，全国总决赛约2025年10月举行。",
+  "official_source_status": "found"
+}

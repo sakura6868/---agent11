@@ -1,0 +1,13 @@
+{
+  "acquired_date": "2026-10-03",
+  "sources": [
+    {
+      "competition_id": "mathorcup_data_2026",
+      "document_path": "data/official_sources/mathorcup_data_2026_official.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260903/1788430033944665.pdf",
+      "official_notice_url": "https://mathorcup.org/detail/2494",
+      "sha256": "a45b950e7284ede52ea3dd1ceb11da83982fa34eebbd23147fc69676eec3a9f0",
+      "pages": 7
+    }
+  ]
+}

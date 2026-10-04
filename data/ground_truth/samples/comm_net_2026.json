@@ -1,0 +1,84 @@
+{
+  "competition_id": "comm_net_2026",
+  "competition_name": "全国大学生通信网络部署与运维大赛",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "相关通信学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-10-16",
+  "competition_end_date": "2026-11-09",
+  "result_announcement_date": "2026-12-21",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生通信网络部署与运维大赛是由相关通信学会主办的电子设计类赛事，主要面向本科生、研究生。要求电子信息工程、通信工程、自动化等的同学以1-3人组队形式参与，考察方案设计、实现效果等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "http://www.ccndo.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 字段未核实：经检索未找到名为“全国大学生通信网络部署与运维大赛”的官方赛事；最接近的官方赛事为“全国大学生现代通信网络部署与优化设计大赛”（中国通信学会主办，官网ccndo.cn，近年为第七届/2023年）。本条目名称疑似为上述赛事的讹写，所有日期均为占位符，待人工对照官方赛事核实后再行更正。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。另：未检索到名为“全国大学生通信网络部署与运维大赛”的官方赛事；最接近的官方赛事为中国通信学会主办的“全国大学生现代通信网络部署与优化设计大赛”（曾名“经世IUV杯”，官网ccndo.cn，第八届起更名为“全国大学生网络与信息技术大赛”）。本条目名称疑似为上述赛事的讹写。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

@@ -1,0 +1,141 @@
+{
+  "competition_id": "aic_interconnect_2026",
+  "competition_name": "第八届AIC算法大赛—智能体互联主题赛",
+  "document_year": 2026,
+  "organizer": "全球校园人工智能算法精英大赛全国组委会",
+  "category": "software",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-10-15",
+  "submission_deadline": "2026-10-15",
+  "registration_deadline_at": "2026-10-15T20:00:00+08:00",
+  "submission_deadline_at": "2026-10-15T20:00:00+08:00",
+  "deadline_timezone_basis": "campus_default",
+  "required_materials": [
+    "可运行工程代码",
+    "完整技术报告",
+    "演示视频",
+    "梧桐平台后台访问数据、运行截图和互联交互记录"
+  ],
+  "required_skills": [
+    "Python",
+    "智能体开发",
+    "接口开发"
+  ],
+  "official_source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-04",
+  "last_verified_at": "2026-10-04",
+  "doc_version": "2026_official_2026-10-04",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "source_text": "全球高校和科研院所拥有正式学籍的在读学生（含研究生、本科生、专科生）均可报名参赛。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_min",
+      "source_text": "参赛选手可单人创建队伍参赛，也可与其他选手组队参赛，每支团队成员上限3名。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_max",
+      "source_text": "参赛选手可单人创建队伍参赛，也可与其他选手组队参赛，每支团队成员上限3名。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline",
+      "source_text": "报名截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline_at",
+      "source_text": "报名截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "submission_deadline",
+      "source_text": "初赛作品提交截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "submission_deadline_at",
+      "source_text": "初赛作品提交截止时间为10月15日20:00。",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "参赛成果需包含可运行工程代码与完整技术报告",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "并在技术报告与演示视频中提交平台后台访问数据、运行截图及互联交互记录等佐证材料",
+      "source_url": "https://www.aicomp.cn/tracks/tracks-5/5169.html",
+      "document_name": "aic_interconnect_2026_official.html",
+      "document_sha256": "c0a51d00f5cc319268ae9728a387c3612ecddb2feb14037de5020f85d7deee90",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    }
+  ],
+  "brief_description": "第八届AIC算法大赛—智能体互联主题赛",
+  "notes": "须接入梧桐智能体互联平台，完成注册、自动发现、跨端访问验证；每队500元。 时刻未明示时区时使用校园UTC+08:00假设；最终以官网及学校审核为准。"
+}

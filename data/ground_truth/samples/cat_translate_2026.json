@@ -1,0 +1,110 @@
+{
+  "competition_id": "cat_translate_2026",
+  "competition_name": "全国大学生英语翻译大赛（NETCCS）",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "高等学校大学外语教学研究会、全国高等师范院校外语教学与研究协作组",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设国家级一、二、三等奖及省一、二、三等奖，师生同奖。国家级获奖比例约参赛人数的10%（其中一等奖约1%、二等奖约4%、三等奖约5%）。",
+  "award_distribution": [
+    {
+      "award": "全国一等奖",
+      "proportion": "约1%",
+      "note": "全国"
+    },
+    {
+      "award": "全国二等奖",
+      "proportion": "约4%",
+      "note": "全国"
+    },
+    {
+      "award": "全国三等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "全国大学生英语翻译大赛（NETCCS）由高等学校大学外语教学研究会和全国高等师范院校外语教学与研究协作组联合主办，面向全国高校研究生、本科、专科学生，以个人形式参赛，为笔译类赛事（需手写译文于专用翻译纸），分A/B/C/D类。",
+  "required_materials": [
+    "翻译专用纸手写译文",
+    "书面作品"
+  ],
+  "evaluation_dimensions": [
+    "语言表达",
+    "内容深度",
+    "忠实原文",
+    "书写规范"
+  ],
+  "required_skills": [
+    "英语读写",
+    "翻译能力",
+    "批判性思维"
+  ],
+  "official_source_url": "https://netccs.saikr.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "全国大学生英语翻译大赛(National English Translation Competition for College Students,简称NETCCS)",
+      "document_name": "2025年全国大学生英语翻译大赛·NETCCS",
+      "source_url": "https://netccs.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "高等学校大学外语教学研究会和全国高等师范院校外语教学与研究协作组决定联合举办全国大学生英语翻译大赛",
+      "document_name": "2025年全国大学生英语翻译大赛·NETCCS",
+      "source_url": "https://netccs.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "以个人名义报名参赛",
+      "document_name": "2025年全国大学生英语翻译大赛·NETCCS",
+      "source_url": "https://netccs.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网",
+      "document_name": "2025年全国大学生英语翻译大赛·NETCCS",
+      "source_url": "https://netccs.saikr.com/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：竞赛名称、主办方（全国高等师范院校外语教学与研究协作组＋高等学校大学外语教学研究会）、个人赛形式均已确认；原required_materials中的\"演讲稿/参赛视频\"不适用于笔译赛事（应为翻译专用纸手写译文），已修正。2026年度赛事通常于9月前后启动报名（2025届为9月2日-12月10日），2026具体日程官网尚未公布，原占位日期字段置空，请以官网netccs.saikr.com为准。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,115 @@
+{
+  "competition_id": "supply_chain_2026",
+  "competition_name": "全国供应链大赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "中国物流与采购联合会、中国物流学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "工商管理",
+    "会计学",
+    "金融学",
+    "市场营销",
+    "经济学",
+    "国际经济与贸易"
+  ],
+  "team_required": true,
+  "team_min": 4,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-01",
+  "competition_end_date": "2026-06-15",
+  "result_announcement_date": "2026-06-15",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国供应链大赛（原文件名“全国大学生智慧供应链创新创业挑战赛”未检索到同名全国赛事；最接近且已核实的全国赛事为“全国供应链大赛”，第七届，2026）是由中国物流与采购联合会、中国物流学会主办的供应链与物流经管类国家级赛事，主要面向专科、本科、研究生，专业不限。要求以4人组队形式参与，考察供应链全流程运营决策、数据分析与团队博弈等能力。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "https://supplychain.chinawuliu.com.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "指导单位：中国物流与采购联合会；主办单位：中国物流与采购联合会、中国物流学会",
+      "document_name": "全国供应链大赛介绍（云南大学）",
+      "source_url": "http://www.bts.ynu.edu.cn/info/1086/2916.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "学生组每队4人，可配备1-2名指导教师",
+      "document_name": "全国供应链大赛介绍（云南大学）",
+      "source_url": "http://www.bts.ynu.edu.cn/info/1086/2916.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名：2026年4月15日17:00截止；省赛：2026年4月26日前；全国初赛：2026年5月9日；全国总决赛：2026年6月初前",
+      "document_name": "关于举办第七届全国供应链大赛的通知",
+      "source_url": "https://jw.wzbc.edu.cn/UploadFile/202603/202603301522526497.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】原文件名“全国大学生智慧供应链创新创业挑战赛”未检索到同名全国赛事；已核实的最接近全国赛事为“全国供应链大赛”（第七届，2026，中国物流与采购联合会、中国物流学会主办，团队4人，报名2026-04-15截止，全国总决赛2026年6月初），已按此更正名称、主办单位、团队(4人)与赛期。另有“山东省大学生智慧供应链创新创业大赛”（2026，山东省科协，报名2026-10-12截止）名称相近，请确认目标赛事究竟是哪项。allowed_majors 等未逐条核实，原值可能不准确。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

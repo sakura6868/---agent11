@@ -1,0 +1,97 @@
+{
+  "competition_id": "kunpeng_2026",
+  "competition_name": "鲲鹏应用创新大赛（高校赛道）",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "华为技术有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "数字媒体技术",
+    "人工智能",
+    "物联网工程",
+    "网络工程"
+  ],
+  "team_required": true,
+  "team_min": null,
+  "team_max": null,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设区域赛与全国赛两级赛制，分金奖、银奖、铜奖、优秀奖；高校参赛者另享华为开发者大会展示、走进华为、华为优才实习计划等权益。",
+  "award_distribution": [
+    {
+      "award": "金奖",
+      "proportion": "若干",
+      "note": "高校赛"
+    },
+    {
+      "award": "银奖",
+      "proportion": "若干",
+      "note": "高校赛"
+    },
+    {
+      "award": "铜奖",
+      "proportion": "若干",
+      "note": "高校赛"
+    }
+  ],
+  "brief_description": "鲲鹏应用创新大赛（高校赛道）对应华为官方“鲲鹏创新大赛2026”，由华为技术有限公司主办、联合中国软件行业协会等举办，面向基础软/硬件开发者（含高校师生），鼓励基于鲲鹏全栈根技术打造解决方案。",
+  "required_materials": [
+    "作品方案",
+    "演示视频",
+    "设计文档",
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "技术创新性",
+    "应用完整性",
+    "可落地执行"
+  ],
+  "required_skills": [
+    "鲲鹏开发",
+    "软件设计",
+    "应用开发"
+  ],
+  "official_source_url": "https://www.hikunpeng.com/zh/developer/contests/kunpeng-competition2026",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v3",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "本届大赛秉承‘以赛促学、以赛促教、以赛促用’理念，由华为技术有限公司主办，联合中国软件行业协会等三大行业协会共同举办。",
+      "document_name": "鲲鹏创新大赛2026官方页面（hikunpeng.com）",
+      "source_url": "https://www.hikunpeng.com/zh/developer/contests/kunpeng-competition2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "鲲鹏创新大赛2026是面向基础软/硬件开发者的顶级赛事……鼓励广大开发者基于鲲鹏全栈根技术……权益三：走进华为机会（仅限高校）。",
+      "document_name": "鲲鹏创新大赛2026官方页面（hikunpeng.com）",
+      "source_url": "https://www.hikunpeng.com/zh/developer/contests/kunpeng-competition2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【核实结论 2026-07-18】已找到官方依据（hikunpeng.com，华为鲲鹏官方社区）。主办单位(华为技术有限公司)经2026官方页面核实。重要说明：2026年华为鲲鹏赛事官方名称为“鲲鹏创新大赛2026”(原“鲲鹏应用创新大赛”为2024及以前往届名称)，由华为技术有限公司主办、联合中国软件行业协会等三大行业协会共同举办。官方2026页面列出的子赛事为“鲲鹏高性能计算全球挑战赛”(S1/S2赛季)，并设“仅限高校”的走进华为等权益，但未在2026页面单独列出名为“高校赛道”的独立赛道及其报名/作品提交时间，故registration/submission/competition等日期及team规模均置空待确认。eligible_students取“面向基础软/硬件开发者（含高校师生）”，具体年级/专业限制以官方后续赛道细则为准。"
+}

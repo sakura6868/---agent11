@@ -1,0 +1,115 @@
+{
+  "competition_id": "struct_design_2026",
+  "competition_name": "全国大学生结构设计竞赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国高等教育学会工程教育专业委员会、高等学校土木工程学科专业指导委员会、中国土木工程学会教育工作委员会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "材料成型",
+    "力学",
+    "能源与动力工程"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-11-28",
+  "competition_end_date": "2026-12-18",
+  "result_announcement_date": "2027-01-20",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生结构设计竞赛是由相关教指委与学会共同主办的土木与工程类赛事（2026年为第十九届），主要面向本科生、研究生。要求以3人组队形式参与，考察结构方案设计、模型制作与加载试验等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "实物作品",
+    "设计说明书",
+    "图纸",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "设计合理",
+    "制作工艺",
+    "创新点",
+    "现场展示"
+  ],
+  "required_skills": [
+    "机械设计",
+    "CAD/UG",
+    "工程制图",
+    "有限元分析",
+    "加工工艺"
+  ],
+  "official_source_url": "http://www.structurecontest.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "该竞赛由中国高等教育学会工程教育专业委员会、高等学校土木工程学科专业指导委员会、中国土木工程学会教育工作委员会和教育部科学技术委员会环境与土木水利学部共同主办",
+      "document_name": "2026年上海师范大学大学生结构设计竞赛暨第九届上海市大学生结构设计竞赛选拔赛报名通知",
+      "source_url": "https://jwc.shnu.edu.cn/f2/68/c17118a848488/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "各个参赛队队员由3名全日制在校本、专科生组成",
+      "document_name": "2026年第十三届湖北省大学生结构设计竞赛暨第十九届全国大学生结构设计竞赛分区赛通知",
+      "source_url": "https://www.hbjsjy.org.cn/news/show-478.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "各个参赛队队员由3名全日制在校本、专科生组成",
+      "document_name": "2026年第十三届湖北省大学生结构设计竞赛暨第十九届全国大学生结构设计竞赛分区赛通知",
+      "source_url": "https://www.hbjsjy.org.cn/news/show-478.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】已据官方/省级通知更正：主办单位为相关教指委与学会（原“教育部高等学校土木工程专业教学指导分委员会”为旧称/不完整，已更正）；团队3人（原team_min=1、team_max=5有误，已更正为3）。字段registration_deadline/submission_deadline/competition_start_date/competition_end_date/result_announcement_date 未能从官方来源逐一确认（原文件 trusted_level C 的占位值，保留原值待人工确认）；分区赛多在夏季（如湖北赛区2026-07-08至07-10），全国总决赛时间请以 structurecontest.com 官方通知为准。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

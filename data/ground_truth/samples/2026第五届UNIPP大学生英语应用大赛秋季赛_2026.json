@@ -1,0 +1,45 @@
+{
+  "competition_id": "2026第五届UNIPP大学生英语应用大赛秋季赛_2026",
+  "competition_name": "2026第五届UNIPP大学生英语应用大赛（秋季赛）",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "UNIPP大学生英语应用系列大赛组委会（指导单位：中国联合国采购促进会 CAPUNP）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-09-13",
+  "competition_end_date": null,
+  "award_settings": "按研究生组、本科组、高职高专组分别设特等奖、一、二、三等奖及优秀奖；全国赛一等奖晋级特等奖挑战赛。",
+  "award_distribution": [],
+  "brief_description": "全国性权威英语赛事（原“联合国采购杯”），每年分春、秋季两届。设词汇、阅读、翻译三大并行赛道，省赛—全国赛—特等奖挑战赛三级递进。采用线上单机位闭卷答题。报名平台赛氪。",
+  "required_materials": [
+    "线上答题"
+  ],
+  "evaluation_dimensions": [
+    "英语词汇",
+    "英语阅读",
+    "英语翻译"
+  ],
+  "required_skills": [
+    "英语应用"
+  ],
+  "official_source_url": "https://m.saikr.com/vse/UNIPPNC2026",
+  "source_acquired_date": "2026-07-19",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源赛氪赛事页 m.saikr.com/vse/UNIPPNC2026。省赛报名至 2026-09-13，全国赛报名至 2026-12-20；此处 registration_deadline 取省赛截止。数据待人工核验，请勿当作定论。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

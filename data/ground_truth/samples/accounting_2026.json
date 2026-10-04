@@ -1,0 +1,77 @@
+{
+  "competition_id": "accounting_2026",
+  "competition_name": "全国大学生会计技能竞赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "相关会计学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-12-08",
+  "competition_end_date": "2026-12-23",
+  "result_announcement_date": "2027-01-25",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生会计技能竞赛是由相关会计学会主办的财经商科类赛事，主要面向本科生、研究生。要求不限专业的同学以1-5人组队形式参与，考察分析深度、决策合理等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BC%9A%E8%AE%A1%E6%8A%80%E8%83%BD%E7%AB%9E%E8%B5%9B",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】未能找到名为“全国大学生会计技能竞赛”的官方赛事。检索到的相近赛事：①“正保会计网校杯”第十五届全国校园财会大赛（中国商业会计学会主办，官网 chinaacc.com，2026初赛4–6月、复赛10月、总决赛11月）；②“科云杯”全国大学生财会职业能力大赛。原 name/organizer/dates 均未能找到官方依据，保留原值待人工确认；official_source_url 仅为百度检索占位链接，非官方来源。\n【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。\n疑似与“正保会计网校杯”全国校园财会大赛（中国商业会计学会主办）等财会类赛事名称混淆。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。"
+}

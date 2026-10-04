@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8.0
+pytest-subtests>=0.14
+imageio-ffmpeg>=0.6

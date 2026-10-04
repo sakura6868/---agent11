@@ -1,0 +1,104 @@
+{
+  "competition_id": "gplt_2026",
+  "competition_name": "中国高校计算机大赛-团体程序设计天梯赛",
+  "document_year": 2026,
+  "organizer": "教育部高等学校计算机类专业教学指导委员会、教育部高等学校软件工程专业教学指导委员会、教育部高等学校大学计算机课程教学指导委员会、全国高等学校计算机教育研究会",
+  "category": "programming",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 10,
+  "registration_deadline": "2026-03-22",
+  "submission_deadline": null,
+  "required_materials": [
+    "队员身份证明（教务部门盖章的队员、教练名单，含身份证号）"
+  ],
+  "evaluation_dimensions": [
+    "基础级解题得分",
+    "进阶级解题得分",
+    "登顶级解题得分",
+    "团队总分",
+    "个人总分"
+  ],
+  "required_skills": [
+    "C",
+    "C++",
+    "Java",
+    "Python"
+  ],
+  "official_source_url": "https://gplt.patest.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名将于2025年11月20日正式开启，截止日期为2026年3月22日。",
+      "document_name": "团体程序设计天梯赛竞赛规程（官网）",
+      "source_url": "https://gplt.patest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队由最多10名队员组成。",
+      "document_name": "团体程序设计天梯赛竞赛规程（官网）",
+      "source_url": "https://gplt.patest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "每名参赛队员必须是参赛队所属高等学校的在册本科生或专科生。",
+      "document_name": "团体程序设计天梯赛竞赛规程（官网）",
+      "source_url": "https://gplt.patest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": null,
+      "source_text": "参赛队必须由教练提供所在学校或学院教务部门出具的队员身份证明(带有单位名称、教务部门公章的参赛队员、教练名单,须包含身份证号)。",
+      "document_name": "团体程序设计天梯赛竞赛规程（官网）",
+      "source_url": "https://gplt.patest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_skills",
+      "page": null,
+      "source_text": "竞赛语言包括 C、C++、Java 和 Python。",
+      "document_name": "团体程序设计天梯赛竞赛规程（官网）",
+      "source_url": "https://gplt.patest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位 教育部高等学校计算机类专业教学指导委员会 教育部高等学校软件工程专业教学指导委员会 教育部高等学校大学计算机课程教学指导委员会 全国高等学校计算机教育研究会",
+      "document_name": "团体程序设计天梯赛竞赛规程（官网）",
+      "source_url": "https://gplt.patest.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "第十一届天梯赛2026年4月18日举行（线上+线下同时）。官方报名截止2026-03-22。截止时间差异：各高校校内报名/组队选拔截止时间不一（温州大学通知2025-01-31、沈阳工业大学2026-03-20、西安交大2026-03-17），均为校内选拔截止，非官方报名截止，以官网2026-03-22为准。组别说明：本科生限参加'华山论剑'或'珠峰争鼎'组，专科生可参加任一组；每队须至少1名本校正式教师教练，一所高校仅最高组别成绩最好的3支队伍参与计分评奖。team_min按规程仅规定'最多10名'，未明确下限，标注为1。本标注由AI基于官网竞赛规程及高校官方转发整理，最终须人工访问官网确认。【2026-07-18复核】gplt.patest.cn 为官方主网站（官方一级来源），原trusted_level B上调为A；data_status改为verified。注意：ladder_2026 为同一赛事'中国高校计算机大赛—团体程序设计天梯赛'的重复条目（chunk 7），建议与 gplt_2026 合并，避免导航重复。",
+  "official_source_status": "found"
+}

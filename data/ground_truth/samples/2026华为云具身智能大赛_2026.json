@@ -1,0 +1,47 @@
+{
+  "competition_id": "2026华为云具身智能大赛_2026",
+  "competition_name": "2026华为云具身智能大赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "华为云计算技术有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "设奖项，具体名额与奖金以华为云开发者大赛平台公告为准。",
+  "award_distribution": [],
+  "brief_description": "华为云首届具身智能大赛，分线上仿真初赛与线下真机决赛两个赛段，聚焦数据合成、策略训练与泛化评测等具身智能技术方向。面向高校学生及开发者。",
+  "required_materials": [
+    "算法/模型",
+    "仿真提交物"
+  ],
+  "evaluation_dimensions": [
+    "具身智能",
+    "策略训练",
+    "泛化评测"
+  ],
+  "required_skills": [
+    "机器人",
+    "人工智能",
+    "仿真"
+  ],
+  "official_source_url": "https://developer.huaweicloud.cn/competition/list",
+  "source_acquired_date": "2026-07-19",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源华为云开发者大赛平台 developer.huaweicloud.cn。报名阶段截止 2026-08-30；团队人数上限以平台报名页为准（此处取常见上限5）。比赛/提交等精确日期未确认故留空；数据待人工核验，请勿当作定论。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

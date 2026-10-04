@@ -1,0 +1,141 @@
+{
+  "competition_id": "robocup_2026",
+  "competition_name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "中国自动化学会",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-02",
+  "competition_end_date": "2026-05-04",
+  "result_announcement_date": "2026-05-04",
+  "award_settings": "RoboCup赛区国赛设一等奖、二等奖、三等奖（比例约一等奖15%-25%、二等奖20%-30%、三等奖35%-45%）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "15%-25%",
+      "note": "RoboCup赛区国赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "20%-30%",
+      "note": "RoboCup赛区国赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "35%-45%",
+      "note": "RoboCup赛区国赛"
+    }
+  ],
+  "brief_description": "中国机器人大赛暨RoboCup机器人世界杯中国赛是由中国自动化学会主办的机器人与人工智能类赛事，每年举办一次，是面向大学生、研究生影响力最大的机器人学科竞赛之一。2026年(RoboCup赛区)国赛于5月2-4日在北京举行，以团队（3-5人）形式参赛。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "http://rcccaa.drct-caa.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "中国机器人大赛暨RoboCup机器人世界杯中国赛，冠名为'中国机器人大赛暨RoboCup机器人世界杯中国赛'，赛制为每年举办一次",
+      "document_name": "中国自动化学会：中国机器人大赛暨RoboCup机器人世界杯中国赛简介",
+      "source_url": "https://www.caa.org.cn/Content/33.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "大赛由中国自动化学会主办",
+      "document_name": "中国自动化学会：中国机器人大赛暨RoboCup机器人世界杯中国赛简介",
+      "source_url": "https://www.caa.org.cn/Content/33.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "系统报名截止日期为2026年3月31日（校赛选拔）",
+      "document_name": "2026中国机器人大赛暨RoboCup机器人世界杯中国赛(RoboCup赛区)比赛通知",
+      "source_url": "https://rcccaa.drct-caa.org.cn/image/file/20260313/1773376419973626.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "比赛时间：5月2日-4日；本届大赛于2026年5月2至4日在首都国际会议中心举行",
+      "document_name": "2026中国机器人大赛暨RoboCup机器人世界杯中国赛(RoboCup赛区)比赛通知/秩序册",
+      "source_url": "https://rcccaa.drct-caa.org.cn/image/file/20260313/1773376419973626.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "团队 3-5人（历届参赛规模统计）",
+      "document_name": "中国自动化学会：中国机器人大赛历届参赛规模",
+      "source_url": "https://www.caa.org.cn/Content/33.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官方网站：http://rcccaa.drct-caa.org.cn",
+      "document_name": "2026中国机器人大赛暨RoboCup机器人世界杯中国赛(RoboCup赛区)比赛通知",
+      "source_url": "http://rcccaa.drct-caa.org.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "原记录名称'中国机器人大赛暨RoboCup公开赛'已更正为官方全称'中国机器人大赛暨RoboCup机器人世界杯中国赛'，主办由原'中国自动化学会'保持并确认。该赛事含'中国机器人大赛赛区'与'RoboCup赛区'两套日程：本记录采用RoboCup赛区2026年日程（校赛报名截止2026-03-31，国赛2026-05-02至05-04，北京）；中国机器人大赛赛区报名截止为2026-07-15、全国总决赛约2026年10月，若需可另建记录。team规模采用历届3-5人。提交作品日期未单列，已置null。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

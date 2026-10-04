@@ -1,0 +1,124 @@
+{
+  "competition_id": "astronomy_2026",
+  "competition_name": "中国天文学会天文创新作品征集活动（CAIC）",
+  "document_year": 2026,
+  "category": "physics",
+  "organizer": "中国天文学会（共同主办：西交利物浦大学物理系；承办：中国天文学会普及工作委员会、天文科学教育联盟、中国天文学会教育工作委员会）",
+  "eligible_students": [
+    "本科生",
+    "专科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "物理学",
+    "应用物理",
+    "光电信息",
+    "天文学",
+    "天文科学与技术相关"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": "2026-06-02",
+  "competition_start_date": "2026-04-30",
+  "competition_end_date": "2026-07-24",
+  "result_announcement_date": "2026-07-24",
+  "award_settings": "设A、B、C三类作品及创意作品，颁发证书；对组织突出贡献的学校/机构及指导教师授予证书。",
+  "award_distribution": [
+    {
+      "award": "A类作品",
+      "proportion": "按综合评价评选",
+      "note": "全国"
+    },
+    {
+      "award": "B类作品",
+      "proportion": "按综合评价评选",
+      "note": "全国"
+    },
+    {
+      "award": "C类作品",
+      "proportion": "按综合评价评选",
+      "note": "全国"
+    },
+    {
+      "award": "创意作品",
+      "proportion": "其余入围终评但放弃者",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "中国天文学会天文创新作品征集活动（CAIC）是由中国天文学会主办的天文类赛事，面向全国高校全日制在读本科生、专科生、研究生。以不超过5人组队形式参与，考察科学性、创新性等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "作品登记表",
+    "研究报告/论文",
+    "海报",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "科学性",
+    "创新性",
+    "实用性",
+    "表达"
+  ],
+  "required_skills": [
+    "天文观测",
+    "科学研究",
+    "科普创作",
+    "数据处理"
+  ],
+  "official_source_url": "http://caic.china-vo.org/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：中国天文学会；共同（联合）主办单位：西交利物浦大学物理系；承办单位：中国天文学会普及工作委员会、天文科学教育联盟、中国天文学会教育工作委员会",
+      "document_name": "2026第九届中国天文学会天文创新作品征集活动终评与成果发布活动通知",
+      "source_url": "http://caic.china-vo.org/notice_final2026.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品征集（提交）截止时间：已延长至2026年6月2日（二）早8时",
+      "document_name": "2026年第九届中国天文学会天文创新作品征集活动——作品征集（提交）",
+      "source_url": "https://nadc.china-vo.org/events/caic2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每个征集作品团队应包含一位项目负责人，团队总人数一般不超过5人",
+      "document_name": "中国天文学会天文创新作品征集活动（CAIC）活动说明",
+      "source_url": "https://caic.china-vo.org/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "第九届活动于2026年1~7月开展；终评与成果发布活动日期：2026年7月23-24日",
+      "document_name": "2026第九届中国天文学会天文创新作品征集活动终评与成果发布活动通知",
+      "source_url": "http://caic.china-vo.org/notice_final2026.php",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】依据CAIC官网(caic.china-vo.org)核验：主办单位为中国天文学会；第九届(2026)作品征集2026.04.30–06.02（已延期至6月2日），初评6月，终评与成果发布2026.07.23–24（西交利物浦大学）。团队总人数一般不超过5人（原占位team_max=3修正为5）。原占位赛期(2026-08至2026-09)与第九届实际(2026年1–7月)不符，已更正。大学生组含本、专科、研究生。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

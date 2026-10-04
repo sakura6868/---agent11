@@ -1,0 +1,157 @@
+{
+  "competition_id": "dingtalk_model_2026",
+  "competition_name": "创新杯（原钉钉杯）大学生大数据挑战赛",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "天津市大数据协会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "数学与应用数学",
+    "统计学",
+    "信息与计算科学",
+    "经济学",
+    "物理学",
+    "计算机科学与技术",
+    "自动化"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-07-24",
+  "submission_deadline": null,
+  "competition_start_date": "2026-07-24",
+  "competition_end_date": "2026-07-31",
+  "result_announcement_date": null,
+  "award_settings": "设初赛、复赛、决赛各阶段奖项（一、二、三等奖及优秀奖），决赛设冠、亚、季军并含奖金；另设优秀组织奖、优秀指导教师奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约30%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "创新杯（原钉钉杯）大学生大数据挑战赛是由天津市大数据协会主办的全国性大数据竞赛，面向专科、本科、研究生。以1-3人自由组队（可跨校），设数据分析与数据挖掘两大赛道，分初赛、复赛、决赛，考察机器学习与建模能力。",
+  "required_materials": [
+    "建模论文",
+    "程序代码",
+    "数据附件",
+    "支撑材料"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新与实用",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析",
+    "LaTeX"
+  ],
+  "official_source_url": "https://www.mojinghub.com/competitions/data/2026",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026年第五届“创新杯”大学生大数据挑战赛",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：天津市大数据协会",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象为在校专科生、本科生、研究生",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每组参赛人数为1-3人，允许跨校组队",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间 2026/03/01 ~ 2026/07/24",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "初赛 7月24日09:00-7月31日09:00",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "初赛 7月24日09:00-7月31日09:00",
+      "document_name": "模竞网：2026年第五届“创新杯”大学生大数据挑战赛报名页",
+      "source_url": "https://www.mojinghub.com/competitions/data/2026",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已核实：官方名称已更名为“创新杯（原钉钉杯）大学生大数据挑战赛”、主办单位为天津市大数据协会（2026年第五届）、团队1-3人且可跨校、参赛对象含专科生；2026年报名截止2026-07-24、初赛2026-07-24至2026-07-31（复赛8月28-31日、决赛10月中旬，官方未给确切日期，故相关字段置空）。原占位日期已按官方报名平台（模竞网）更新；官方报名网址已更正为 https://www.mojinghub.com/competitions/data/2026（此前误填为电工杯链接）。",
+  "official_source_status": "found"
+}

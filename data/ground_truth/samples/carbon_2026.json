@@ -1,0 +1,129 @@
+{
+  "competition_id": "carbon_2026",
+  "competition_name": "中国研究生\"双碳\"创新与创意大赛",
+  "document_year": 2026,
+  "category": "chem_env",
+  "organizer": "中国学位与研究生教育学会（秘书处：清华大学碳中和研究院）",
+  "eligible_students": [
+    "研究生",
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "化学",
+    "应用化学",
+    "环境工程",
+    "材料化学",
+    "能源化学",
+    "化学工程与工艺"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 6,
+  "registration_deadline": "2026-09-11",
+  "submission_deadline": null,
+  "competition_start_date": "2026-09-14",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": "2026-11-30",
+  "award_settings": "设一等奖（含冠、亚、季军各1名）、二等奖、三等奖，获奖作品颁发荣誉证书，一、二等奖颁发奖金。获奖比例不超过20%，其中一等奖不超过2%。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "不超过2%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "不超过6%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "不超过12%",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "中国研究生\"双碳\"创新与创意大赛（第五届，2026）是\"中国研究生创新实践系列大赛\"主题赛事之一，由教育部学位管理与研究生教育司指导、中国学位与研究生教育学会主办，秘书处设在清华大学碳中和研究院，2026年由西北工业大学承办。面向在读研究生及已获研究生资格的大四本科生，以3-6人团队参赛，聚焦碳达峰碳中和领域。",
+  "required_materials": [
+    "实验报告",
+    "设计文档",
+    "仿真结果",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方案可行",
+    "绿色安全",
+    "创新性",
+    "完成度"
+  ],
+  "required_skills": [
+    "化学实验",
+    "数据分析",
+    "仿真模拟",
+    "工艺设计"
+  ],
+  "official_source_url": "https://cpipc.acge.org.cn/cw/hp/2c90800c8093eef401809d348f8b0653",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第五届中国研究生\"双碳\"创新与创意大赛",
+      "document_name": "关于组织参加第五届中国研究生\"双碳\"创新与创意大赛的通知",
+      "source_url": "https://www.graduate.nuaa.edu.cn/2026/0711/c2145a405264/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "由教育部学位管理与研究生教育司指导，中国学位与研究生教育学会主办",
+      "document_name": "中国研究生创新实践系列大赛——第五届中国研究生\"双碳\"创新与创意大赛参赛通知",
+      "source_url": "https://grad.cnu.edu.cn/py1/xscx/304253783b5945c7bddfe87679f07395.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "每支参赛队伍由3-6名学生组成",
+      "document_name": "中国研究生创新实践系列大赛——第五届中国研究生\"双碳\"创新与创意大赛参赛通知",
+      "source_url": "https://grad.cnu.edu.cn/py1/xscx/304253783b5945c7bddfe87679f07395.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "大赛报名时间：6月23日-9月11日",
+      "document_name": "关于组织参加第五届中国研究生\"双碳\"创新与创意大赛的通知",
+      "source_url": "https://www.graduate.nuaa.edu.cn/2026/0711/c2145a405264/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网 https://cpipc.acge.org.cn/",
+      "document_name": "关于组织参加第五届中国研究生\"双碳\"创新与创意大赛的通知",
+      "source_url": "https://www.graduate.nuaa.edu.cn/2026/0711/c2145a405264/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：该赛事官方名称为\"中国研究生'双碳'创新与创意大赛\"（属中国研究生创新实践系列大赛），并非\"全国大学生\"赛事，原名称有误已更正；主要面向在读研究生（及已获推免资格的大四本科生），原eligible_students\"本科生\"范围应理解为仅限已获研究生资格的大四生；原organizer\"相关碳中和学会\"已更正；team原1-4人有误，已更正为3-6人；2026决赛11月下旬在西北工业大学举行。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

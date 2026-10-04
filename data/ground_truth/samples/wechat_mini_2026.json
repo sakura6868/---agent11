@@ -1,0 +1,126 @@
+{
+  "competition_id": "wechat_mini_2026",
+  "competition_name": "中国高校计算机大赛—微信小程序应用开发赛",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "中国高校计算机大赛（C4）赛项之一；C4 由全国高等学校计算机教育研究会主办（微信小程序应用开发赛往届由清华大学、腾讯公司共同组织，2026年承办待核实）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "数字媒体技术",
+    "人工智能",
+    "物联网工程",
+    "网络工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "全国总决赛设一、二、三等奖，总决赛奖金池50万元（往届）。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国高校计算机大赛—微信小程序应用开发赛是由全国高等学校计算机教育研究会主办的“中国高校计算机大赛（C4）”赛项之一，面向高校在校学生（本科生、研究生、高职高专等），以团队形式参赛（每队不超过4人，可单人），考察小程序的功能完整、技术创新与用户体验等能力。",
+  "required_materials": [
+    "软件作品",
+    "演示视频",
+    "设计文档",
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "功能完整",
+    "技术创新",
+    "用户体验",
+    "工程质量"
+  ],
+  "required_skills": [
+    "前端开发",
+    "后端开发",
+    "数据库",
+    "UI设计",
+    "项目管理"
+  ],
+  "official_source_url": "http://www.c4best.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "中国高校计算机大赛(C4)由教育部高等学校计算机类专业教学指导委员会、软件工程专业教学指导委员会、大学计算机课程教学指导委员会、全国高等学校计算机教育研究会联合创办。",
+      "document_name": "关于举办“2026年中国高校计算机大赛”校内赛的通知（上海海事大学）",
+      "source_url": "http://jcsysx.shmtu.edu.cn/2026/0420/c12467a290204/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "面向中国及境外的高等学校在校学生(包括本科生、研究生、高职高专等),参赛者可以单人参赛或自由组队,但每支参赛队伍人数最多不超过4人。",
+      "document_name": "微信喊你来参赛!用小程序为乡村振兴出力（环球网）",
+      "source_url": "https://hope.huanqiu.com/article/47PoqpfvfBD?re=nextnews",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每支参赛队伍人数最多不超过4人,允许跨年级、跨专业、跨校和跨赛区组队。",
+      "document_name": "微信喊你来参赛!用小程序为乡村振兴出力（环球网）",
+      "source_url": "https://hope.huanqiu.com/article/47PoqpfvfBD?re=nextnews",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "大赛设立全国总决赛一二三等奖,总决赛奖金池为50万元人民币。",
+      "document_name": "微信喊你来参赛!用小程序为乡村振兴出力（环球网）",
+      "source_url": "https://hope.huanqiu.com/article/47PoqpfvfBD?re=nextnews",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "2026-07-19 复核：确认“中国高校计算机大赛（C4，官网 c4best.cn）”为真实国家级赛事（由全国高等学校计算机教育研究会主办），微信小程序应用开发赛为其赛项之一（环球网专题报道描述其完整规则：面向本科生/研究生/高职高专，≤4人，1名指导教师，总决赛一二三等奖、奖金池50万）。已更正：team_max 由5更正为4；eligible_students 补充专科生（高职高专）。重要提示：c4best.cn 2026年赛项列表展示的8个模块（团体程序设计天梯赛、大数据挑战赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛、嵌入式设计赛、智能交互创新赛、AIGC创新赛）中未单列“微信小程序应用开发赛”，2026年是否继续举办该专项或已并入/调整，未见2026官方专项报名通知直接佐证，故 trusted_level 维持 B、data_status 为 unverified；2026具体报名/比赛日期未知，日期字段置 null。往届由清华大学、腾讯公司共同组织的承办信息来自历史资料，2026年承办待核实；2026年微信另有“微信小程序开发大赛”（WAIC 2026启动，面向全球开发者）等同类活动，非本 C4 赛项，勿混淆。"
+}

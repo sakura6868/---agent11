@@ -1,0 +1,140 @@
+{
+  "competition_id": "fltrp_debate_2026",
+  "competition_name": "外研社·国才杯全国大学生英语辩论赛",
+  "document_year": 2026,
+  "category": "english",
+  "organizer": "北京外国语大学（主办）、外语教学与研究出版社等（承办）",
+  "eligible_students": [
+    "本科生",
+    "专科生",
+    "研究生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大一",
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [],
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 2,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "校园选拔赛设一等奖（5%）、二等奖（15%）、三等奖（25%）及最佳辩手奖；全国决赛设相应奖项。",
+  "award_distribution": [
+    {
+      "award": "一等奖（校选赛）",
+      "proportion": "5%",
+      "note": "校选赛"
+    },
+    {
+      "award": "二等奖（校选赛）",
+      "proportion": "15%",
+      "note": "校选赛"
+    },
+    {
+      "award": "三等奖（校选赛）",
+      "proportion": "25%",
+      "note": "校选赛"
+    },
+    {
+      "award": "最佳辩手",
+      "proportion": "若干",
+      "note": "校选赛"
+    }
+  ],
+  "brief_description": "外研社·国才杯全国大学生英语辩论赛是由北京外国语大学主办、外语教学与研究出版社等承办的外语类赛事（第28届，2026），面向中国籍全日制本科生、专科生、硕士研究生及博士研究生。以2人团队（BP英国议会制辩论）形式参赛，考察语言表达、逻辑推理与思辨能力。",
+  "required_materials": [
+    "演讲稿",
+    "参赛视频",
+    "书面作品",
+    "成绩单"
+  ],
+  "evaluation_dimensions": [
+    "语言表达",
+    "内容深度",
+    "逻辑思维",
+    "临场表现"
+  ],
+  "required_skills": [
+    "英语听说",
+    "英语读写",
+    "公众演讲",
+    "批判性思维"
+  ],
+  "official_source_url": "https://www5.zzu.edu.cn/fld/info/1029/4896.htm",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第28届“外研社·国才杯”全国大学生英语辩论赛",
+      "document_name": "郑州大学校园选拔赛通知（第28届）",
+      "source_url": "https://www5.zzu.edu.cn/fld/info/1029/4896.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "北京外国语大学、外语教学与研究出版社、北京外国语大学中国外语测评中心和北京外研在线数字科技有限公司正式启动第28届“外研社·国才杯”全国大学生英语辩论赛。",
+      "document_name": "郑州大学校园选拔赛通知（第28届）",
+      "source_url": "https://www5.zzu.edu.cn/fld/info/1029/4896.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "普通高等学校全日制在校本科生、专科生、硕士研究生及博士研究生，且具有中国国籍。",
+      "document_name": "郑州大学校园选拔赛通知（第28届）",
+      "source_url": "https://www5.zzu.edu.cn/fld/info/1029/4896.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "每队2名成员。",
+      "document_name": "沈阳工业大学本研校级选拔赛报名通知",
+      "source_url": "https://cxcy.sut.edu.cn/info/1098/7802.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每场比赛由四支队伍构成，每队由两名辩手组成。",
+      "document_name": "重庆交通大学英语辩论赛校园选拔赛通知",
+      "source_url": "http://sfs.cqjtu.edu.cn/info/1004/8389.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛具体事宜将陆续发布在“思辨精英平台”微信公众号。",
+      "document_name": "第24届“外研社·国才杯”全国大学生英语辩论赛通知",
+      "source_url": "https://heep.fltrp.com/contents/17124643120005961",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "【2026-07-18核验】第28届（2026）全国大学生英语辩论赛为独立赛事（非外语能力大赛赛项），由北京外国语大学等主办，采用BP英国议会制辩论，每队2名辩手。2026赛程：校园选拔赛3月中旬、全国复赛4月初、全国决赛6月（线上+线下）；各校校园赛报名截止时间不一（多为1-3月），无全国统一报名截止日，故具体日期字段置空待人工确认。原“由公开赛事名录整理、尚未完成人工核验”备注已失效。",
+  "official_source_status": "found"
+}

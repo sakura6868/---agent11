@@ -1,0 +1,115 @@
+{
+  "competition_id": "ai_algo_2026",
+  "competition_name": "全球校园人工智能算法精英大赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "全球校园人工智能算法精英大赛组委会（秘书处设在江苏省人工智能学会）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "人工智能",
+    "自动化",
+    "机器人工程",
+    "计算机科学与技术",
+    "电子信息",
+    "机械电子工程"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-04-01",
+  "competition_end_date": "2026-12-31",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全球校园人工智能算法精英大赛是由全球校园人工智能算法精英大赛组委会（秘书处设在江苏省人工智能学会）主办的机器人与人工智能类赛事，主要面向全球高校和科研机构在读学生（含研究生、本科生、专科生）。考察技术难度、完成度等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "算法代码",
+    "机器人实物",
+    "技术报告",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "技术难度",
+    "完成度",
+    "创新点",
+    "现场表现"
+  ],
+  "required_skills": [
+    "机器学习",
+    "Python",
+    "ROS",
+    "嵌入式",
+    "计算机视觉"
+  ],
+  "official_source_url": "https://www.aicomp.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "大赛组委会秘书处设在江苏省人工智能学会，负责竞赛组织、实施与执行",
+      "document_name": "关于举办第八届全球校园人工智能算法精英大赛的通知",
+      "source_url": "https://www.aicomp.cn/notice/notice-1/3618.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_schedule",
+      "page": null,
+      "source_text": "经大赛组委会研究，决定于2026年4月-12月期间举办第八届全球校园人工智能算法精英大赛",
+      "document_name": "关于举办第八届全球校园人工智能算法精英大赛的通知",
+      "source_url": "https://www.aicomp.cn/notice/notice-1/3618.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "主要面向全球高校和科学研究机构拥有正式学籍的在读学生（含研究生、本科生、专科生）",
+      "document_name": "关于举办第八届全球校园人工智能算法精英大赛的通知",
+      "source_url": "https://www.aicomp.cn/notice/notice-1/3618.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】依据第八届（2026）官方通知(aicomp.cn)核验：主办单位为全球校园人工智能算法精英大赛组委会，秘书处设在江苏省人工智能学会；赛事于2026年4月–12月举办。各赛道报名/提交/决赛具体日期由赛道规则另行发布（如“数字经济分析与智能决策应用赛”报名2026.04.28–09.10），故 registration_deadline、submission_deadline、result_announcement_date 置空，仅保留赛季区间。原占位数据(2026-11至2027-01)与第八届赛季(2026年4–12月)不符，已更正。",
+  "official_source_status": "found"
+}

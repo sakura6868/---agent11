@@ -1,0 +1,136 @@
+{
+  "competition_id": "datang_2026",
+  "competition_name": "大学生新一代信息通信科技大赛（原“大唐杯”全国大学生新一代信息通信技术大赛）",
+  "document_year": 2026,
+  "category": "electronics",
+  "organizer": "工业和信息化部人才交流中心、中国通信企业协会、中信科移动通信技术股份有限公司",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "电子信息工程",
+    "通信工程",
+    "自动化",
+    "电气工程",
+    "集成电路设计与集成系统",
+    "物联网工程"
+  ],
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 6,
+  "registration_deadline": "2026-04-04",
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "大学生新一代信息通信科技大赛（原“大唐杯”全国大学生新一代信息通信技术大赛）是由工业和信息化部人才交流中心、中国通信企业协会、中信科移动通信技术股份有限公司主办的电子信息类赛事，面向本科生、研究生、博士生。设工程实践赛（2人组）、产教融合5G+创新应用赛（4-6人组）、ICT基础通识赛（2人组）等赛道，考察5G/6G、人工智能等信息通信技术的工程实践与创新能力。",
+  "required_materials": [
+    "硬件作品",
+    "设计报告",
+    "测试数据",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "方案设计",
+    "实现效果",
+    "工程规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "电路设计",
+    "嵌入式开发",
+    "PCB绘制",
+    "C语言",
+    "信号处理"
+  ],
+  "official_source_url": "https://dtcup.dtxiaotangren.com",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第十三届大学生新一代信息通信科技大赛（原“大唐杯”全国大学生新一代信息通信技术大赛）",
+      "document_name": "关于邀请参加第十三届大学生新一代信息通信科技大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/16218.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：工业和信息化部人才交流中心、中国通信企业协会、中信科移动通信技术股份有限公司",
+      "document_name": "关于邀请参加第十三届大学生新一代信息通信科技大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/16218.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名截止时间：2026年4月4日",
+      "document_name": "关于邀请参加第十三届大学生新一代信息通信科技大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/16218.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "工程实践赛：2人为参赛小组；产教融合5G+创新应用赛：4-6名为参赛小组；ICT基础通识赛：2人为参赛小组",
+      "document_name": "关于邀请参加第十三届大学生新一代信息通信科技大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/16218.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全日制在籍的职业院校学生、普通高等教育学生（本/硕/博）",
+      "document_name": "关于邀请参加第十三届大学生新一代信息通信科技大赛的通知",
+      "source_url": "https://www.cuit.edu.cn/info/1006/16218.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。 已核实：第十三届大赛官方名称、主办单位、报名截止2026-04-04、各赛道组队人数（2人/4-6人）；省赛约2026年4-5月、国赛约2026年6-7月，原占位日期已置空，请以官网为准。",
+  "official_source_status": "found"
+}

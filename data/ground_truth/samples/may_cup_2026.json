@@ -1,0 +1,141 @@
+{
+  "competition_id": "may_cup_2026",
+  "competition_name": "第二十三届五一数学建模竞赛",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "江苏省工业与应用数学学会、中国矿业大学、徐州市工业与应用数学学会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-05-01",
+  "competition_end_date": "2026-05-04",
+  "result_announcement_date": null,
+  "award_settings": "竞赛按组别分别设一等奖、二等奖、三等奖和成功参赛奖，对获奖团队颁发证书。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "不超过报名队数5%",
+      "note": "各组别"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "不超过报名队数15%",
+      "note": "各组别"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "不超过报名队数25%",
+      "note": "各组别"
+    },
+    {
+      "award": "成功参赛奖",
+      "proportion": "成功提交有效论文者",
+      "note": "各组别"
+    }
+  ],
+  "brief_description": "五一数学建模竞赛是由江苏省工业与应用数学学会、中国矿业大学、徐州市工业与应用数学学会主办的全国性数学建模类赛事，主要面向本科生、研究生、专科生。参赛队以1-3人组队，在竞赛时间内就所选赛题进行建模并撰写论文，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "竞赛论文（PDF，以团队编号命名）"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新性",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析"
+  ],
+  "official_source_url": "https://51mcm.cumt.edu.cn/_upload/article/files/1e/a8/ed8d5e654819a39546373d70ca0b/efe60eb1-e79b-4e08-aa57-f123f54af0bf.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026 年第二十三届五一数学建模竞赛报名通知",
+      "document_name": "第二十三届五一数学建模竞赛说明（含组队报名交费流程）",
+      "source_url": "https://51mcm.cumt.edu.cn/_upload/article/files/1e/a8/ed8d5e654819a39546373d70ca0b/efe60eb1-e79b-4e08-aa57-f123f54af0bf.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：江苏省工业与应用数学学会 中国矿业大学 徐州市工业与应用数学学会",
+      "document_name": "五一数学建模竞赛官方网站（51mcm.cumt.edu.cn）",
+      "source_url": "https://51mcm.cumt.edu.cn",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间：2026年4月2日8:00至4月30日24:00",
+      "document_name": "第二十三届五一数学建模竞赛说明（含组队报名交费流程）",
+      "source_url": "https://51mcm.cumt.edu.cn/_upload/article/files/1e/a8/ed8d5e654819a39546373d70ca0b/efe60eb1-e79b-4e08-aa57-f123f54af0bf.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "竞赛时间：2026年5月1日10:00至2026年5月4日12:00",
+      "document_name": "第二十三届五一数学建模竞赛说明（含组队报名交费流程）",
+      "source_url": "https://51mcm.cumt.edu.cn/_upload/article/files/1e/a8/ed8d5e654819a39546373d70ca0b/efe60eb1-e79b-4e08-aa57-f123f54af0bf.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "竞赛论文提交截止时间：2026年5月4日上午12:00",
+      "document_name": "第二十三届五一数学建模竞赛说明（含组队报名交费流程）",
+      "source_url": "https://51mcm.cumt.edu.cn/_upload/article/files/1e/a8/ed8d5e654819a39546373d70ca0b/efe60eb1-e79b-4e08-aa57-f123f54af0bf.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每个参赛队不超过3名队员",
+      "document_name": "关于2026年（第二十三届）五一数学建模竞赛报名的通知（南京财经大学）",
+      "source_url": "https://ie.njxzc.edu.cn/2d/7a/c8772a142714/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "竞赛分为研究生组、本科生组、专科生组、高中生组",
+      "document_name": "关于组织我校学生参加2026年五一数学建模竞赛暨全国大学生数学建模竞赛校内选拔赛的通知（南京财经大学）",
+      "source_url": "https://jwc.nufe.edu.cn/info/1031/18172.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据五一数学建模竞赛官方网站（51mcm.cumt.edu.cn）及第二届十三届官方说明PDF核验。原记录中报名/竞赛日期（2026-12/2027-01）为错误占位值，已更正为2026年真实赛程（报名至4月30日、竞赛5月1-4日）。官方竞赛设研究生组、本科生组、专科生组、高中生组，本表仅列高校相关组别（本科生/研究生/专科生），高中生组未在校园导航范围内。各高校校内报名截止可能早于全国截止（如南京理工4月28日、南京财经4月12日），以各校通知为准。result_announcement_date官方说明未给出确切日期，置空待补充。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

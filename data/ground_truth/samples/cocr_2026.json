@@ -1,0 +1,80 @@
+{
+  "competition_id": "cocr_2026",
+  "competition_name": "全国高校计算机能力挑战赛",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "全国高等学校计算机教育研究会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "区域赛各科目按成绩排名设一、二、三等奖（约10%/20%/25%）；晋级国赛者国赛设一、二、三等奖（约10%/20%/30%），前三名获奖金。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约10%",
+      "note": "区域赛/国赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约20%",
+      "note": "区域赛/国赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "区域赛"
+    }
+  ],
+  "brief_description": "全国高校计算机能力挑战赛（第八届，2026）由全国高等学校计算机教育研究会主办，面向高校所有专业在校生（本研组与高职组分别评奖），含程序设计、Office、大数据、数字媒体、人工智能等赛项，个人赛与团队赛并存。",
+  "required_materials": [
+    "报名信息",
+    "答题记录/作品",
+    "设计文档（团队/设计类）"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "完成度",
+    "创新性",
+    "代码规范"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java",
+    "Office/大数据"
+  ],
+  "official_source_url": "http://www.ncccu.org.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位:全国高等学校计算机教育研究会",
+      "document_name": "2026年第八届全国高校计算机能力挑战赛 通知",
+      "source_url": "http://www.ncccu.org.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "本记录为多赛项目录汇总，不能用程序设计赛的日期代表全部赛项，故汇总日期置空。官网面向高校所有专业在校生，不限制大二至大四或计算机专业。请进入独立赛项查看报名与提交要求：大数据 ncccu_data_2026、人工智能 ncccu_ai_2026、数字媒体 ncccu_digital_2026。其他个人赛仍以官网科目通知为准；汇总记录保持候选状态，不输出正式评分。最终以官网最新通知为准。",
+  "official_source_status": "found"
+}

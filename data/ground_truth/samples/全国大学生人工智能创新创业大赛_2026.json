@@ -1,0 +1,65 @@
+{
+  "competition_id": "全国大学生人工智能创新创业大赛_2026",
+  "competition_name": "全国大学生“人工智能+”创新创业大赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "中国技术创业协会校企融合专业委员会（指导单位：中国技术创业协会）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": "2026-12-07",
+  "competition_start_date": null,
+  "competition_end_date": "2026-12-06",
+  "award_settings": "初赛设一、二、三等奖（按分数段）；决赛设金奖、银奖、铜奖、优秀奖",
+  "award_distribution": [
+    {
+      "award": "金奖",
+      "proportion": "约10%",
+      "note": "决赛队伍数占比，荣誉证书+奖章"
+    },
+    {
+      "award": "银奖",
+      "proportion": "约15%",
+      "note": "决赛队伍数占比"
+    },
+    {
+      "award": "铜奖",
+      "proportion": "约25%",
+      "note": "决赛队伍数占比"
+    }
+  ],
+  "brief_description": "面向全国高校在校生的“人工智能+”创新创业赛事，初赛为30分钟在线AI素养测试，决赛提交创新创业计划书，设AI+科技创新、AI+传统产业、AI+公共服务三大赛道。",
+  "required_materials": [
+    "创新创业计划书"
+  ],
+  "evaluation_dimensions": [
+    "AI基础知识",
+    "创新创业知识",
+    "伦理判断",
+    "方案完整性"
+  ],
+  "required_skills": [
+    "人工智能基础",
+    "商业计划撰写",
+    "案例分析"
+  ],
+  "official_source_url": "http://rgzn.52jingsai.com/",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 大赛官网 rgzn.52jingsai.com。初赛报名至 2026-10-28，决赛作品截止 11-05，决赛评审 11-06 至 12-06，获奖公示 12-07。决赛收取评审费（个人70元/组队60元每人）。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

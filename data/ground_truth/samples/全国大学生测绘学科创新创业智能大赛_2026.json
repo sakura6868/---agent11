@@ -1,0 +1,68 @@
+{
+  "competition_id": "全国大学生测绘学科创新创业智能大赛_2026",
+  "competition_name": "全国大学生测绘学科创新创业智能大赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "中国测绘学会教育工作委员会（承办：河南理工大学；协办：广州南方测绘科技股份有限公司）",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 2,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "设单项奖（一、二、三等奖），不设团体奖；特等奖选手指导教师获优秀指导教师奖，组织积极且成绩优秀的学校获优秀组织单位奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "入选《全国普通高校大学生竞赛分析报告》竞赛目录的测绘类最高级别赛事，设测绘技能、开发设计、科技论文三个赛项，2026年7月底举办决赛。",
+  "required_materials": [
+    "报名表（加盖公章）",
+    "学信网学籍证明",
+    "参赛作品（软件/设计报告/创业计划书/科技论文）",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "实践操作能力",
+    "创新创业意识",
+    "科技写作能力"
+  ],
+  "required_skills": [
+    "测绘地理信息",
+    "编程",
+    "科技论文写作"
+  ],
+  "official_source_url": "https://www.csgpc.org/detail/27080.html",
+  "source_acquired_date": "2026-07-20",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源 https://www.csgpc.org/detail/27080.html（中国测绘学会一号通知，2026-04-03 发布）。该赛事2026年报名已于6月20日截止，决赛于2026年7月底举行；registration_deadline 等日期以官方通知为准，数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

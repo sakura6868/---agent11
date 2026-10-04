@@ -1,0 +1,88 @@
+{
+  "competition_id": "ncupe_2026",
+  "competition_name": "全国大学生创新创业训练计划年会（大创年会）",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "教育部高等教育司",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "年会设学术论文类、改革成果项目类、创业项目推介类优秀项目,遴选优秀项目颁发证书;年会将遴选约10项优秀创业推介项目,直接晋级下一年度中国国际“互联网+”大学生创新创业大赛总决赛。",
+  "award_distribution": [
+    {
+      "award": "优秀学术论文",
+      "proportion": "由组委会确定",
+      "note": "全国年会"
+    },
+    {
+      "award": "优秀改革成果项目",
+      "proportion": "由组委会确定",
+      "note": "全国年会"
+    },
+    {
+      "award": "最佳创业项目推介",
+      "proportion": "由组委会确定",
+      "note": "全国年会"
+    }
+  ],
+  "brief_description": "全国大学生创新创业训练计划年会（大创年会）是由教育部高等教育司发起和主办、依托“国创计划”开展的年度性展示交流活动，面向历年国家级/省级大创项目（以本科生为主，一年级研究生可参加），分学术论文类、改革成果展示类和创业项目推介类进行交流。",
+  "required_materials": [
+    "项目简介",
+    "路演PPT",
+    "论文或成果展板",
+    "推荐表"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "成果水平",
+    "团队协作",
+    "落地可行"
+  ],
+  "required_skills": [
+    "项目总结",
+    "路演答辩",
+    "学术写作",
+    "团队协作"
+  ],
+  "official_source_url": "https://www.gjcxcy.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v3",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "教育部高等教育司关于做好第十八届全国大学生创新年会准备工作的通知",
+      "document_name": "全国大学生创新年会官方网站通知公告(gjcxcy.cn)",
+      "source_url": "https://www.gjcxcy.cn/",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "项目要求第一作者或第一完成人是参加大学生创新创业训练计划项目的本科生（项目已经完成并继续攻读研究生的学生，允许一年级的研究生参加年会）。",
+      "document_name": "辽宁省大学生创新年会校赛通知（沈阳理工大学）",
+      "source_url": "https://sai.sut.edu.cn/info/1027/8374.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "主办单位（教育部高等教育司）经全国大学生创新年会官方平台gjcxcy.cn（通知标题“教育部高等教育司关于做好第十八届全国大学生创新年会准备工作的通知”）及多所高校转发通知佐证，可信级别由B升为A。第十九届全国大学生创新年会官方通知截至2026-07-18尚未发布（官网最新为第十八届2025年11月通知），故全国年会的具体举办时间、承办高校及报名/材料提交截止日期均无法核实，registration_deadline/submission_deadline/competition日期保持置空，待官方通知发布后补全。eligible_students以本科生为主，已攻读研究生的允许一年级研究生参加；team规模因项目类型而异（创新训练≤5人、创业训练3-6人、创业实践≤10人），本表取创新训练上限5人。"
+}

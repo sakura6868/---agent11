@@ -1,0 +1,115 @@
+{
+  "competition_id": "peak_2026",
+  "competition_name": "尖烽时刻全国商业模拟大赛",
+  "document_year": 2026,
+  "category": "business",
+  "organizer": "北欧模拟教学交流联盟中心（全球主办）；尖烽时刻组委会、对外经济贸易大学国际商学院（中国区联合主办）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "工商管理",
+    "会计学",
+    "金融学",
+    "市场营销",
+    "经济学",
+    "国际经济与贸易"
+  ],
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设特等奖、一等奖、二等奖及三等奖等，本科生组与MBA/研究生组分别评奖；冠军队伍代表中国参加全球赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "尖烽时刻全国商业模拟大赛（CESIM ELITE，源自北欧 PEAK TIME）由北欧模拟教学交流联盟中心作为全球主办方，尖烽时刻组委会与对外经济贸易大学国际商学院联合主办，主要面向本科生、研究生。要求以2-4人团队参赛，初赛/复赛在线进行，决赛现场商业演示与答辩，考察分析深度、决策合理与团队协作。",
+  "required_materials": [
+    "商业计划书",
+    "模拟经营报告",
+    "财务表",
+    "路演PPT"
+  ],
+  "evaluation_dimensions": [
+    "分析深度",
+    "决策合理",
+    "团队协作",
+    "结果表现"
+  ],
+  "required_skills": [
+    "财务分析",
+    "市场调研",
+    "沙盘模拟",
+    "商业写作",
+    "Excel"
+  ],
+  "official_source_url": "http://lsfz.yeeol.com/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "由北欧模拟教学交流联盟中心作为全球赛事主办方，尖烽时刻组委会与对外经济贸易大学国际商学院为联合主办方的第十八届尖烽时刻全国商业模拟大赛即将开始",
+      "document_name": "第十八届尖烽时刻全国商业模拟大赛报名通知（北京师范大学）",
+      "source_url": "https://mba.bnu.edu.cn/tzgg/b3d253d194fd4b0c98dc3f020d43e8ab.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "尖烽时刻组委会与对外经济贸易大学国际商学院为联合主办方",
+      "document_name": "第十八届尖烽时刻全国商业模拟大赛报名通知（北京师范大学）",
+      "source_url": "https://mba.bnu.edu.cn/tzgg/b3d253d194fd4b0c98dc3f020d43e8ab.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "以团队形式参加比赛，每团队最多4人，最少2人",
+      "document_name": "第十八届尖烽时刻全国商业模拟大赛报名通知（北京师范大学）",
+      "source_url": "https://mba.bnu.edu.cn/tzgg/b3d253d194fd4b0c98dc3f020d43e8ab.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "2026-07-18 核验：竞赛名称、主办单位（北欧模拟教学交流联盟中心全球主办；尖烽时刻组委会、对外经济贸易大学国际商学院中国区联合主办）、组队人数（2-4人/队）均获北京师范大学官方报名通知确认（trusted_level A）。原 organizer“相关商学院联盟”为占位，已更正。第十八届（2025-2026）赛程为报名截至2025-11、初赛2025-12上旬、复赛2025-12中旬、决赛2026-04（北京）、全球决赛2026-06；原JSON中2026-11至2027-01的日期为下一届（十九届）占位估计，本轮未获取官方依据，已置空待确认。",
+  "official_source_status": "found"
+}

@@ -1,0 +1,78 @@
+{
+  "competition_id": "rk_finance_2026",
+  "competition_name": "中国金融科技创新创业大赛（高校组）",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "相关行业协会",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "中国金融科技创新创业大赛（高校组）是由相关行业协会主办的创新创业类赛事，主要面向本科生、研究生、毕业生（毕业5年内）。要求不限专业的同学以1-5人组队形式参与，考察创新性、商业价值等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "商业计划书",
+    "路演PPT",
+    "产品原型",
+    "财务预测"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "商业价值",
+    "团队能力",
+    "落地可行"
+  ],
+  "required_skills": [
+    "商业计划书",
+    "路演答辩",
+    "市场分析",
+    "产品设计",
+    "团队协作"
+  ],
+  "official_source_url": null,
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": null,
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验。经网络检索，未找到以'中国金融科技创新创业大赛（高校组）'为名的官方全国性赛事。真实存在且名称相近的赛事有：'中国研究生金融科技创新大赛'(cpipc.acge.org.cn，主办：中国学位与研究生教育学会/中国科协青少年科技中心，仅面向研究生)与'工行杯全国大学生金融科技创新大赛'(gonghangbei.com，面向大学生)。本记录字段均未能找到官方依据，保留原值待人工确认；official_source_url原指向百度搜索，已置空。建议核实该赛事准确名称与主办单位。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。注：名称相近的真实赛事为“中国研究生金融科技创新大赛”(cpipc.acge.org.cn，仅面向研究生)与“工行杯全国大学生金融科技创新大赛”(gonghangbei.com)。"
+}

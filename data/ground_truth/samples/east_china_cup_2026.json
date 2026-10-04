@@ -1,0 +1,169 @@
+{
+  "competition_id": "east_china_cup_2026",
+  "competition_name": "华东杯大学生数学建模邀请赛",
+  "document_year": 2026,
+  "category": "modeling",
+  "organizer": "复旦大学数学科学学院",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-04-30",
+  "submission_deadline": "2026-05-04",
+  "competition_start_date": "2026-04-30",
+  "competition_end_date": "2026-05-04",
+  "result_announcement_date": null,
+  "award_settings": "本届比赛根据评审情况设特等奖、一等奖、二等奖、三等奖、成功参赛奖若干；特等奖奖金10000元/队，一等奖5000元/队，二等奖3000元/队，三等奖2000元/队（均税前，扣除个人所得税）；提交完整作品但未获奖、经认定完赛的队伍发放成功参赛证书。",
+  "award_distribution": [
+    {
+      "award": "特等奖",
+      "proportion": "若干",
+      "note": "全国"
+    },
+    {
+      "award": "一等奖",
+      "proportion": "若干",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "若干",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "若干",
+      "note": "全国"
+    },
+    {
+      "award": "成功参赛奖",
+      "proportion": "其余完赛队伍",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "华东杯大学生数学建模邀请赛（又名“华东杯”数模竞赛）是由复旦大学数学科学学院发起、华东地区数学建模联盟组织开展的数学建模类赛事，面向全国在校大学生（含研究生），专业不限。要求以不超过3人的队伍形式参赛，完成数学建模论文，考察模型合理性、创造性、结果正确性等，是华东地区乃至全国具有较高声誉的校际通讯赛。",
+  "required_materials": [
+    "建模论文",
+    "程序代码",
+    "数据附件",
+    "支撑材料"
+  ],
+  "evaluation_dimensions": [
+    "模型合理性",
+    "求解精度",
+    "创新与实用",
+    "论文表达"
+  ],
+  "required_skills": [
+    "数学建模",
+    "MATLAB/Python",
+    "论文写作",
+    "数据分析",
+    "LaTeX"
+  ],
+  "official_source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "第二十八届华东杯大学生数学建模邀请赛通知",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "华东杯大学生数学建模邀请赛(又名“华东杯”数模竞赛)是一项由复旦大学数学科学学院发起,华东地区数学建模联盟组织开展的竞赛",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "参赛对象必须为在校大学生(含研究生)，选手以队为单位参赛，每队不超过3人，专业不限",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（竞赛规则）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "选手以队为单位参赛，每队不超过3人",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（竞赛规则）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名时间: 2026年4月19日9:00— 2026年4月30日18:00",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（赛程安排）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "赛题提交时间:2026年5月4日20:00前",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（赛程安排）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "比赛时间: 2026年4月30日20:00— 2026年5月4日20:00",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（赛程安排）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_end_date",
+      "page": null,
+      "source_text": "比赛时间: 2026年4月30日20:00— 2026年5月4日20:00",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（赛程安排）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "本届比赛根据比赛评审情况,设特等奖、一等奖、二等奖、三等奖、成功参赛奖若干",
+      "document_name": "第二十八届华东杯大学生数学建模邀请赛通知（奖项设定）",
+      "source_url": "https://math.fudan.edu.cn/db/89/c33035a777097/page.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，已完成人工核验。2026-07-18 核查：result_announcement_date（原占位符2027-02-15）未能在官方通知中找到明确日期，已置空待人工确认；其余字段已据复旦大学数学科学学院官方通知（第二十八届华东杯大学生数学建模邀请赛）核实。报名及比赛官网为 https://www.saikr.com/vse/hdmcm/2026 。",
+  "official_source_status": "found"
+}

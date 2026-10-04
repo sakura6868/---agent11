@@ -1,0 +1,130 @@
+{
+  "competition_id": "cad_cam_2026",
+  "competition_name": "全国三维数字化创新设计大赛",
+  "document_year": 2026,
+  "category": "engineering",
+  "organizer": "全国三维数字化创新设计大赛组委会、国家制造业信息化培训中心、全国3D技术推广服务与教育培训联盟（3D动力）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "机械工程",
+    "车辆工程",
+    "土木工程",
+    "材料成型",
+    "力学",
+    "能源与动力工程"
+  ],
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 5,
+  "registration_deadline": "2026-06-30",
+  "submission_deadline": null,
+  "competition_start_date": "2026-10-01",
+  "competition_end_date": "2026-11-30",
+  "result_announcement_date": "2026-11-30",
+  "award_settings": "设全国总决赛特等奖、一等奖、二等奖、三等奖，以及省级/区域赛一、二、三等奖，另设优秀指导教师奖、优秀组织奖。按参赛团队数约30%晋级复赛/省赛。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "全国/省赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "全国/省赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "全国/省赛"
+    }
+  ],
+  "brief_description": "全国三维数字化创新设计大赛（第19届，2026；简称3D大赛）是由全国3D大赛组委会等主办的机械与工程类赛事，设数字工业设计、数字人居、数字文化、元宇宙等方向，面向本科生、研究生，以2-5人团队形式参赛，涵盖CAD/三维数字化/智能制造等内容。原条目标称\"全国大学生数字化设计大赛\"，其CAD/工程方向描述与此赛事高度吻合。",
+  "required_materials": [
+    "实物作品",
+    "设计说明书",
+    "图纸",
+    "演示视频"
+  ],
+  "evaluation_dimensions": [
+    "设计合理",
+    "制作工艺",
+    "创新点",
+    "现场展示"
+  ],
+  "required_skills": [
+    "机械设计",
+    "CAD/UG",
+    "工程制图",
+    "有限元分析",
+    "加工工艺"
+  ],
+  "official_source_url": "https://3dds.3ddl.net/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026 第 19 届全国三维数字化创新设计大赛",
+      "document_name": "关于举办 2026 第 19 届全国三维数字化创新设计大赛（年度竞赛）的报名通知",
+      "source_url": "https://me.wtu.edu.cn/info/1050/15874.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：全国三维数字化创新设计大赛组委会、国家制造业信息化培训中心、全国3D技术推广服务与教育培训联盟(3D动力)、北京光华设计发展基金会",
+      "document_name": "关于举办\"2026 第 19 届全国三维数字化创新设计大赛 数字化设计与制造大赛\"的通知",
+      "source_url": "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=714&met=details",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "每个参赛团队由2-3名在校学生和1-2名指导老师组成",
+      "document_name": "关于举办\"2026 第 19 届全国三维数字化创新设计大赛 数字化设计与制造大赛\"的通知",
+      "source_url": "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=714&met=details",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "初赛报名：即日起至 2026 年6 月 30 日 24:00",
+      "document_name": "关于举办 2026 第 19 届全国三维数字化创新设计大赛（年度竞赛）的报名通知",
+      "source_url": "https://me.wtu.edu.cn/info/1050/15874.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "official_source_url",
+      "page": null,
+      "source_text": "大赛官网 https://3dds.3ddl.net/",
+      "document_name": "关于举办 2026 第 19 届全国三维数字化创新设计大赛（年度竞赛）的报名通知",
+      "source_url": "https://me.wtu.edu.cn/info/1050/15874.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：原名称\"全国大学生数字化设计大赛\"未检索到对应官方赛事，其CAD/工程制图/有限元分析等方向描述与\"全国三维数字化创新设计大赛\"（3D大赛，第19届2026）高度吻合，已据此更正；team原1-5人有误（官方为2-5人，部分赛道2-3人），已更正；年度竞赛赛程：初赛报名至6/30、作品提交至7/8、复赛/省赛8-9月、全国总决赛10-11月。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "official_source_status": "found"
+}

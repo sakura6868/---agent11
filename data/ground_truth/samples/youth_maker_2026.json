@@ -1,0 +1,129 @@
+{
+  "competition_id": "youth_maker_2026",
+  "competition_name": "全国大学生微创业行动",
+  "document_year": 2026,
+  "category": "innovation",
+  "organizer": "KAB全国推广办公室、广发证券社会公益基金会（主办）；广发证券股份有限公司、中国青年报社（支持）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 5,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "遴选30个“微创之星”年度微创业项目给予创业扶持资金（2025年扶持资金总额100万元），颁发证书并推荐参加成果发布会与投融资活动。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生微创业行动（广发证券·KAB大学生微创业行动）是由KAB全国推广办公室、广发证券社会公益基金会主办，广发证券股份有限公司、中国青年报社支持的创新创业扶持活动，面向在校大学生及35周岁以内创业青年，通过项目征集、微创营、生态会等形式扶持大学生微创业项目。",
+  "required_materials": [
+    "商业计划书",
+    "路演PPT",
+    "项目原型",
+    "财务预测"
+  ],
+  "evaluation_dimensions": [
+    "创新性",
+    "商业价值",
+    "团队能力",
+    "落地可行"
+  ],
+  "required_skills": [
+    "商业计划书",
+    "路演答辩",
+    "市场分析",
+    "产品设计",
+    "团队协作"
+  ],
+  "official_source_url": "https://finance.sina.cn/2025-09-01/detail-infnyunh1071622.d.html",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "official_source_status": "found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "official_source_status",
+      "page": null,
+      "source_text": "2026年广发证券·KAB大学生微创业行动生态会于7月17日至19日在北京举办。",
+      "document_name": "2026年广发证券·KAB大学生微创业行动生态会来了（中国青年报）",
+      "source_url": "https://news.cyol.com/gb/live/articles/lives/content_ajeqyGSBAj.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "本次活动由KAB全国推广办公室、广发证券社会公益基金会主办,北京邮电大学联合主办,广发证券股份有限公司、中国青年报社支持。",
+      "document_name": "2026年广发证券·KAB大学生微创业行动生态会来了（中国青年报）",
+      "source_url": "https://news.cyol.com/gb/live/articles/lives/content_ajeqyGSBAj.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "征集对象及报名流程:1.在校大学生及35周岁以内创业青年。",
+      "document_name": "关于2025年广发证券·KAB大学生微创业行动征集项目的通知（中国青年报/新浪）",
+      "source_url": "https://finance.sina.cn/2025-09-01/detail-infnyunh1071622.d.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "award_settings",
+      "page": null,
+      "source_text": "活动遴选出获得资金扶持的30个微创业项目,创业扶持资金总额100万元。",
+      "document_name": "关于2025年广发证券·KAB大学生微创业行动征集项目的通知（中国青年报/新浪）",
+      "source_url": "https://finance.sina.cn/2025-09-01/detail-infnyunh1071622.d.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    },
+    {
+      "field": "official_source_status",
+      "page": null,
+      "source_text": "自2015年起,广发证券与中国青年报社KAB全国推广办公室合作,发起'大学生微创业行动'。截至2025年,该行动已连续举办11年。",
+      "document_name": "践行长期主义:广发证券九载护航,助力大湾区青年创业梦落地（新浪财经）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-02-02/doc-inhkmmye8039430.shtml?cref=cj",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "2026-07-19 复核：经中国青年报报道核验，2026年“广发证券·KAB大学生微创业行动”确已举办（生态会2026-07-17至19北京），主办为KAB全国推广办公室、广发证券社会公益基金会，支持单位为广发证券、中国青年报社——official_source_status 改为 found。已更正：organizer 由“KAB全国推广办公室”补全为含广发证券社会公益基金会；eligible_students 由“毕业生（毕业5年内）”更正为“毕业生（35周岁以内）”（2025征集通知明确“在校大学生及35周岁以内创业青年”）。团队规模（1-5）及是否必须组队未见2026官方章程明确说明，保留原值待确认。2026年具体项目征集起止日期未见官方通知直接佐证（2025年为9月1日至10月31日），日期字段置 null；本记录因直接依据为中国青年报媒体报道（组织方自身发布平台），trusted_level 维持 B、data_status 为 unverified。"
+}

@@ -1,0 +1,94 @@
+{
+  "competition_id": "ncccu_program_2026",
+  "competition_name": "2026年第八届全国高校计算机能力挑战赛—程序设计挑战赛（区域赛/省赛）",
+  "document_year": 2026,
+  "organizer": "全国高等学校计算机教育研究会",
+  "category": "programming",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": "2026-11-25",
+  "submission_deadline": null,
+  "registration_deadline_at": null,
+  "submission_deadline_at": null,
+  "deadline_timezone_basis": "campus_default",
+  "required_materials": [
+    "在线选择题答案与编程题代码（按报名语言科目）"
+  ],
+  "required_skills": [
+    "Python",
+    "数据结构",
+    "算法"
+  ],
+  "official_source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+  "official_source_status": "found",
+  "source_acquired_date": "2026-10-04",
+  "last_verified_at": "2026-10-04",
+  "doc_version": "2026_official_2026-10-04",
+  "data_status": "verified",
+  "trusted_level": "A",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "source_text": "大赛的参赛对象是高校所有专业在校生，本研组（本科、研究生）和高职组（高职、高专）分别评奖。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+      "document_name": "ncccu_program_2026_official.html",
+      "document_sha256": "c9f32d8c7943f11adc7b4c33f88ae55a10e5a0692c8c33e9258813f391a0231c",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_min",
+      "source_text": "区域赛赛段个人赛各科目收取报名、考试及评审费人民币80元/科。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+      "document_name": "ncccu_program_2026_official.html",
+      "document_sha256": "c9f32d8c7943f11adc7b4c33f88ae55a10e5a0692c8c33e9258813f391a0231c",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "team_max",
+      "source_text": "区域赛赛段个人赛各科目收取报名、考试及评审费人民币80元/科。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+      "document_name": "ncccu_program_2026_official.html",
+      "document_sha256": "c9f32d8c7943f11adc7b4c33f88ae55a10e5a0692c8c33e9258813f391a0231c",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "registration_deadline",
+      "source_text": "区域赛/省赛报名：2026年7月9日—11月25日",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+      "document_name": "ncccu_program_2026_official.html",
+      "document_sha256": "c9f32d8c7943f11adc7b4c33f88ae55a10e5a0692c8c33e9258813f391a0231c",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    },
+    {
+      "field": "required_materials",
+      "source_text": "编程题不设提交次数限制。",
+      "source_url": "https://www.ncccu.org.cn/index/Paper/case4.html",
+      "document_name": "ncccu_program_2026_official.html",
+      "document_sha256": "c9f32d8c7943f11adc7b4c33f88ae55a10e5a0692c8c33e9258813f391a0231c",
+      "page": null,
+      "trusted_level": "A",
+      "acquired_date": "2026-10-04",
+      "last_verified_at": "2026-10-04"
+    }
+  ],
+  "brief_description": "2026年第八届全国高校计算机能力挑战赛—程序设计挑战赛（区域赛/省赛）",
+  "notes": "个人赛，人数1由官方个人赛形式确定。C/C++/Java/Python分科报名；80元/科，区域赛11月29日。 时刻未明示时区时使用校园UTC+08:00假设；最终以官网及学校审核为准。"
+}

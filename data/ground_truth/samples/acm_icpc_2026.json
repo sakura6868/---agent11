@@ -1,0 +1,115 @@
+{
+  "competition_id": "acm_icpc_2026",
+  "competition_name": "ACM-ICPC国际大学生程序设计竞赛",
+  "document_year": 2026,
+  "category": "programming",
+  "organizer": "ICPC基金会（早年由美国计算机协会ACM主办，现由ICPC Foundation独立运营）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "人工智能",
+    "信息安全",
+    "数据科学与大数据技术",
+    "网络空间安全"
+  ],
+  "team_required": true,
+  "team_min": 3,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": "2026-09-01",
+  "competition_end_date": "2026-12-31",
+  "result_announcement_date": null,
+  "award_settings": "设金奖、银奖、铜奖、优胜奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "金奖",
+      "proportion": "约10%",
+      "note": "区域赛"
+    },
+    {
+      "award": "银奖",
+      "proportion": "约20%",
+      "note": "区域赛"
+    },
+    {
+      "award": "铜奖",
+      "proportion": "约30%",
+      "note": "区域赛"
+    },
+    {
+      "award": "优胜奖",
+      "proportion": "其余",
+      "note": "区域赛"
+    }
+  ],
+  "brief_description": "ACM-ICPC国际大学生程序设计竞赛是由ICPC基金会主办的程序设计类赛事，主要面向本科生、研究生。以3人一队形式参赛，每队共用1台电脑，考察算法正确性、时间与空间复杂度等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "源代码",
+    "设计文档",
+    "答辩PPT",
+    "自测报告"
+  ],
+  "evaluation_dimensions": [
+    "算法正确性",
+    "时间与空间复杂度",
+    "代码规范",
+    "创新性"
+  ],
+  "required_skills": [
+    "Python",
+    "C/C++",
+    "算法与数据结构",
+    "Java",
+    "Git"
+  ],
+  "official_source_url": "https://icpc.pku.edu.cn/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：ICPC基金会（ICPC Foundation）；早期由美国计算机协会（ACM）主办，现由ICPC基金会独立运营",
+      "document_name": "2026年ACM-ICPC国际大学生程序设计竞赛赛事说明（赛氪报名页）",
+      "source_url": "https://new.saikr.com/vse/58124",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "队伍组成：每队3名正式队员+1名教练/领队；以队伍形式进行竞赛，每个队伍由来自同一个高校的3名在校生组成",
+      "document_name": "2026年ICPC国际大学生程序设计竞赛全国邀请赛（深圳）报名通知",
+      "source_url": "https://sds.cuhk.edu.cn/node/2358",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_schedule",
+      "page": null,
+      "source_text": "亚洲区域赛：每年9月-12月；全球总决赛：次年5月下旬",
+      "document_name": "大学生必码！助你加分获奖的优质赛事（参赛时间轴）",
+      "source_url": "https://www.cuggw.cn/3g/show.asp?d=24530&m=1",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "B"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】主办单位（ICPC基金会）与每队3人已据官方/权威通知核实。ICPC采用校赛→省赛→区域赛→亚洲区决赛→全球总决赛晋级体系，2026赛季亚洲区域赛通常为9–12月，各赛区报名/比赛具体日期由承办高校另行通知，故 registration_deadline、submission_deadline、result_announcement_date 置空，仅保留赛季区间（2026-09-01至2026-12-31）。原占位数据（2026-08）非2026赛季区域赛常规时间，已更正。team_min/team_max 由原占位1-3修正为3人/队。",
+  "official_source_status": "found"
+}

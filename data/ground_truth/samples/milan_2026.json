@@ -1,0 +1,133 @@
+{
+  "competition_id": "milan_2026",
+  "competition_name": "第十届米兰设计周—中国高校设计学科师生优秀作品展",
+  "document_year": 2026,
+  "category": "design",
+  "organizer": "米兰设计周—中国高校设计学科师生优秀作品展组委会",
+  "eligible_students": [
+    "本科生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-04-10",
+  "submission_deadline": "2026-04-04",
+  "competition_start_date": "2026-04-01",
+  "competition_end_date": "2026-06-30",
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖作品/团队颁发证书。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "由组委会确定",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "由组委会确定",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "由组委会确定",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "若干",
+      "note": "省赛"
+    }
+  ],
+  "brief_description": "米兰设计周—中国高校设计学科师生优秀作品展是由米兰设计周—中国高校设计学科师生优秀作品展组委会主办的、入选全国普通高校学科竞赛排行榜的艺术设计类赛事，面向全国高校在籍本科生、专科生（师生展亦含教师），以1-3人组队提交设计作品，考察创意性、表现力与主题契合度。",
+  "required_materials": [
+    "作品创作文件",
+    "作品展示海报",
+    "作品信息表（含承诺书与版权声明）"
+  ],
+  "evaluation_dimensions": [
+    "创意性",
+    "表现力",
+    "完整性",
+    "主题契合"
+  ],
+  "required_skills": [
+    "平面设计",
+    "创意构思",
+    "排版",
+    "视频制作",
+    "手绘"
+  ],
+  "official_source_url": "http://milan-aap.org.cn/#/",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v2",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "2026第十届米兰设计周—中国高校设计学科师生优秀作品展",
+      "document_name": "关于举办2026第十届米兰设计周—中国高校设计学科师生优秀作品展的通知（成都大学）",
+      "source_url": "https://cxcyxy.cdu.edu.cn/info/1019/4203.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "主办单位：米兰设计周-中国高校设计学科师生优秀作品展组委会",
+      "document_name": "关于组织参加2026第十届米兰设计周——中国高校设计学科师生优秀作品展的通知（武汉设计工程学院）",
+      "source_url": "https://jwc.wids.edu.cn/view/29632.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "线上报名 2025年10月-2026年4月10日；院校审核及个人缴费、院校缴费截止日期：2026年4月10日23:59截止。",
+      "document_name": "关于举办2026第十届米兰设计周—中国高校设计学科师生优秀作品展的通知（成都大学）",
+      "source_url": "https://cxcyxy.cdu.edu.cn/info/1019/4203.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "作品征集及个人上传：即日起 - 2026年4月4日23:59截止。",
+      "document_name": "关于举办2026第十届米兰设计周—中国高校设计学科师生优秀作品展的通知（成都大学）",
+      "source_url": "https://cxcyxy.cdu.edu.cn/info/1019/4203.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "全国高校在籍注册的本科生、专科生均可报名参赛。",
+      "document_name": "【竞赛通知-2026002】第十届米兰设计周-中国高校设计学科师生优秀作品展（辽宁传媒学院）",
+      "source_url": "https://www.lncu.edu.cn/cxcyxy/28608.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "作品创作类作者不超过3人；视频类动态作者不超过5人。",
+      "document_name": "【竞赛通知-2026002】第十届米兰设计周-中国高校设计学科师生优秀作品展（辽宁传媒学院）",
+      "source_url": "https://www.lncu.edu.cn/cxcyxy/28608.html",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "依据米兰设计周官方官网（milan-aap.org.cn）及多所高校转发通知核验。原记录日期（2026-09/10月）为错误占位，已更正为2026年真实赛程：官方线上报名至2026年4月10日、作品上传截止2026年4月4日；省赛评审2026年4-5月、国赛评审2026年5-6月（本表competition日期取省赛—国赛窗口）。原eligible_students含“研究生”不严谨，官方明确为在籍本科生、专科生（师生展亦含教师，不在学生范围）。team_max按图片类≤3人记录，视频类可≤5人。result_announcement_date：国赛奖项信息2026年7-8月发布，未给确切日期，置空。各专项/命题赛道截止时间不同，以官网各赛道策略单为准。",
+  "official_source_status": "found"
+}

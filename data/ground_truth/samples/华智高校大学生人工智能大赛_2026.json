@@ -1,0 +1,44 @@
+{
+  "competition_id": "华智高校大学生人工智能大赛_2026",
+  "competition_name": "华智·高校大学生人工智能大赛",
+  "document_year": 2026,
+  "category": "robotics_ai",
+  "organizer": "中国移动通信联合会教育与科学技术研究院、中国国土经济学会产业创新专业委员会（技术支持：赛氪网）",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生",
+    "高职高专生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": false,
+  "team_min": 1,
+  "team_max": 1,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-08-09",
+  "competition_end_date": "2026-11-15",
+  "award_settings": "各场次、各组别独立评审评奖，颁发电子版与纸质版荣誉证书",
+  "award_distribution": [],
+  "brief_description": "面向全国高校各年级各专业的人工智能知识类竞赛，以AI基础概念、技术原理与应用场景为考查核心，全部采用客观题型，线上监考考试，设四场考试可任选一场。",
+  "required_materials": [],
+  "evaluation_dimensions": [
+    "AI基础概念",
+    "技术原理",
+    "应用场景理解"
+  ],
+  "required_skills": [
+    "人工智能基础知识"
+  ],
+  "official_source_url": "https://www.saikr.com/vse/HZRGZN",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 赛氪 saikr.com/vse/HZRGZN。报名 2026-07-01 至 2026-09-20；考试四场：8-09、9-20、10-18、11-15，每场任选60分钟。数据待人工核验。 无对应完整官方原文的报名/提交日期已清空为未知；不根据往年规律或候选占位日期推断。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

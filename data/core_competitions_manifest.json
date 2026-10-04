@@ -1,0 +1,48 @@
+{
+  "selected_count": 5,
+  "source_pool_count": 16,
+  "acquired_date": "2026-07-16",
+  "last_verified_at": "2026-07-16",
+  "competitions": [
+    {
+      "competition_id": "china_softcup_2026",
+      "document_path": "data/official_sources/china_softcup_2026_official.pdf",
+      "parsed_path": "data/parsed/china_softcup_2026.json",
+      "ground_truth_path": "data/ground_truth/samples/china_softcup_2026.json",
+      "source_url": "https://ie.rzvtc.cn/uploads/cms._document/20260623/82f4a7db5494734c27acf5c7aeac867e.pdf",
+      "sha256": "09d7ccaa30ad5c0ac867ac686ee5dc13c4c9775dac505da847c3e2b018dc55a1"
+    },
+    {
+      "competition_id": "fwb_2026",
+      "document_path": "data/official_sources/fwb_2026_official.pdf",
+      "parsed_path": "data/parsed/fwb_2026.json",
+      "ground_truth_path": "data/ground_truth/samples/fwb_2026.json",
+      "source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+      "sha256": "081e3bf46bfdd0c8fb5d14d3b532b9024f5292f601d4fbca484778923bab0c10"
+    },
+    {
+      "competition_id": "jsj_sj_2026",
+      "document_path": "data/official_sources/jsj_sj_2026_official.pdf",
+      "parsed_path": "data/parsed/jsj_sj_2026.json",
+      "ground_truth_path": "data/ground_truth/samples/jsj_sj_2026.json",
+      "source_url": "https://jwc.swjtu.edu.cn/download/ueditor/jsp/upload/file/20260403/1775202363348070358.pdf",
+      "sha256": "bde65667286678b084243e35ad403ed35a0bf5de856f9407467aa420ee38e6a1"
+    },
+    {
+      "competition_id": "mcm_cn_2025",
+      "document_path": "data/official_sources/mcm_cn_2025_official.pdf",
+      "parsed_path": "data/parsed/mcm_cn_2025.json",
+      "ground_truth_path": "data/ground_truth/samples/mcm_cn_2025.json",
+      "source_url": "https://jyt.ah.gov.cn/group3/M00/13/0D/wKg86miQG0mAMBEzABk9Bm02MUo485.pdf",
+      "sha256": "df8eca9de27392264a42db6a944c2d1c864325f8ba90054568b196d7b972c765"
+    },
+    {
+      "competition_id": "sanchuang_2026",
+      "document_path": "data/official_sources/sanchuang_2026_official.pdf",
+      "parsed_path": "data/parsed/sanchuang_2026.json",
+      "ground_truth_path": "data/ground_truth/samples/sanchuang_2026.json",
+      "source_url": "https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2025-12-22/2002947054786838528_%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E8%A7%84%E5%88%99.pdf",
+      "sha256": "ecc8164720a3ca368c42057a6ac520129e517f2a5faa57e71018416c40974dba"
+    }
+  ]
+}

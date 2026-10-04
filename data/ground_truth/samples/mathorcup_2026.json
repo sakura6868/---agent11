@@ -1,0 +1,119 @@
+{
+  "competition_name": "MathorCup 高校数学建模挑战赛（数学应用挑战赛）",
+  "document_year": 2026,
+  "organizer": "中国优选法统筹法与经济数学研究会",
+  "category": "modeling",
+  "eligible_students": [
+    "本科生",
+    "研究生",
+    "专科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": null,
+  "team_max": 3,
+  "registration_deadline": "2026-04-16",
+  "submission_deadline": "2026-04-21",
+  "required_materials": [
+    "竞赛作品（PDF）",
+    "签字承诺书（PDF或JPG）",
+    "支撑材料（RAR或ZIP，可选）"
+  ],
+  "evaluation_dimensions": [],
+  "required_skills": [
+    "数学建模",
+    "计算机编程",
+    "论文写作"
+  ],
+  "official_source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "registration_deadline",
+      "page": 1,
+      "source_text": "报名时间：从即日起至2026年4月16日中午12时止。报名截止后不能更改报名信息，且不再受理补报名。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": 1,
+      "source_text": "竞赛时间：2026年4月17日上午8时至2026年4月21日上午9时。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": 1,
+      "source_text": "本竞赛面向高校教师、在校研究生、本科生和专科生，分别设置赛题和设立奖项。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 1,
+      "source_text": "选手自由组队，以队为单位报名参赛（不允许跨校组队，每队最多3名学生，最多1名指导教师）。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 1,
+      "source_text": "选手自由组队，以队为单位报名参赛（不允许跨校组队，每队最多3名学生，最多1名指导教师）。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 2,
+      "source_text": "所有参赛队必须以PDF格式提交中文版竞赛作品。提交步骤请参见将在开赛前发布的《MathorCup数学应用挑战赛竞赛作品格式及提交规范》，打印承诺书并签字。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "打印承诺书并签字，通过拍照或扫描的方式生成PDF文件或JPG图片。与竞赛相关的其他所有支撑材料（包括程序、数据和结果等）要一并压缩打包上传。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_skills",
+      "page": 1,
+      "source_text": "提升参赛者运用数学方法和计算机技术解决实际应用问题的能力。",
+      "document_name": "第十六届 MathorCup 数学应用挑战赛报名通知.pdf",
+      "source_url": "https://files.mathorcup.org/uploads/files/20260310/1773130436711565.pdf",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "人工逐页核验组委会盖章报名通知。通知只明确每队最多3名学生，未明确下限，因此team_min保持null；通知未给出评分维度，因此evaluation_dimensions保持空数组。",
+  "official_source_status": "found"
+}

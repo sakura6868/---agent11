@@ -1,0 +1,50 @@
+{
+  "competition_id": "全球大学生生命科学挑战赛第一届_2026",
+  "competition_name": "全球大学生生命科学挑战赛（第一届）",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "生命科学开放联盟（总决赛承办：全国高校生物医药区域技术转移转化粤港澳大湾区中心；区赛承办：清华大学、上海科技大学、武汉大学、中山大学、四川大学、吉林大学）",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 6,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": "2026-10-01",
+  "competition_end_date": "2026-11-30",
+  "award_settings": "分区赛、总决赛两阶段，具体奖项详见竞赛通知附件",
+  "award_distribution": [],
+  "brief_description": "首届“人工智能+生命科学”旗舰赛事，宗旨为“真问题、真数据、真验证”，聚焦AI驱动的药物设计与虚拟筛选、基因编辑工具、递送载体创新研发，设六大区赛片区与全国总决赛。",
+  "required_materials": [
+    "项目方案",
+    "模型代码",
+    "结果报告"
+  ],
+  "evaluation_dimensions": [
+    "模型可复现",
+    "结论可解释",
+    "问题驱动",
+    "创新性"
+  ],
+  "required_skills": [
+    "机器学习",
+    "生物信息学",
+    "Python",
+    "分子建模"
+  ],
+  "official_source_url": "https://wcums.scu.edu.cn/info/1011/2869.htm",
+  "source_acquired_date": "2026-08-10",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-08-10，来源 四川大学华西临床医学院通知 wcums.scu.edu.cn/info/1011/2869.htm。首届赛事，区赛与总决赛定于 2026 年 10-11 月；每队不超过6人、指导老师不超过3人。报名截止日期通知未明示，暂留 null。数据待人工核验。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

@@ -1,0 +1,84 @@
+{
+  "competition_id": "spatial_data_2026",
+  "competition_name": "全国大学生空间数据分析竞赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "相关地理信息学会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "统计学",
+    "数据科学与大数据技术",
+    "计算机科学与技术",
+    "经济学",
+    "信息管理与信息系统",
+    "数学与应用数学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "全国大学生空间数据分析竞赛（待核实）是由相关地理信息学会主办的数据科学类赛事，主要面向本科生、研究生。要求统计学、数据科学与大数据技术、计算机科学与技术等的同学以组队形式参与，考察方法科学、结论可靠等能力。注：该赛事名称未能找到官方依据，建议人工确认赛事真实性。",
+  "required_materials": [
+    "分析报告",
+    "建模代码",
+    "数据集",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "可视化表达",
+    "创新应用"
+  ],
+  "required_skills": [
+    "Python",
+    "数据分析",
+    "机器学习",
+    "SQL",
+    "数据可视化"
+  ],
+  "official_source_url": null,
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "C",
+  "data_status": "unverified",
+  "official_source_status": "not_found",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考，正式报名请以主办单位官方通知为准。\n【核验2026-07-18】未能找到“全国大学生空间数据分析竞赛”这一名称的官方依据。相近且已核实的赛事为“苍穹杯全国大学生空间信息技术大赛”（中国测绘学会、苍穹数码技术股份有限公司主办，团队1-4人）与“全国高校GIS技能大赛”（中国地理学会、中国地理信息产业协会主办），建议人工确认本赛事是否为上述赛事之一的异称或确为虚构。原赛期均为占位值且无来源，已全部置空待人工确认；official_source_url 原 baidu 搜索链接非权威来源，已置空。【核实结论 2026-07-18】未找到官方链接，数据来源待确认，请勿当作定论。注：名称相近的真实赛事为“苍穹杯全国大学生空间信息技术大赛”（中国测绘学会主办）与“全国高校GIS技能大赛”。"
+}

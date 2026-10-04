@@ -1,0 +1,63 @@
+{
+  "competition_id": "中国大学生医学技术技能大赛_2026",
+  "competition_name": "中国大学生医学技术技能大赛",
+  "document_year": 2026,
+  "category": "life_science",
+  "organizer": "教育部高等学校国家级实验教学示范中心联席会（临床医学组）等；北京大学医学部承办官网",
+  "eligible_students": [
+    "本科生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 4,
+  "registration_deadline": null,
+  "submission_deadline": null,
+  "result_announcement_date": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "award_settings": "分赛道设一、二、三等奖及单项优胜奖，并设优秀指导教师奖。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "全国"
+    }
+  ],
+  "brief_description": "教育部认可、纳入全国普通高校大学生竞赛排行榜的医学类顶级赛事，涵盖临床医学、护理、预防、中医等多赛道，以团队临床技能操作为考核核心。",
+  "required_materials": [
+    "校赛报名表",
+    "临床操作考核"
+  ],
+  "evaluation_dimensions": [
+    "临床思维",
+    "操作规范",
+    "团队协作",
+    "人文关怀"
+  ],
+  "required_skills": [
+    "临床技能",
+    "护理操作",
+    "团队协作"
+  ],
+  "official_source_url": "https://medu.bjmu.edu.cn/cms/show.action?code=publish_4af037e16e264f60016eaa7dea950ef4&siteid=100001",
+  "source_acquired_date": "2026-07-20",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": null,
+  "official_source_status": "found",
+  "notes": "自动发现于 2026-07-19，来源 中国大学生医学技术技能大赛官网 medu.bjmu.edu.cn（52jingsai 赛事日历收录）。该赛事2026年报名多在1-6月进行、国赛于年中举办，具体赛道与截止日期因校/因赛道而异，数据待人工核验。",
+  "evidence": [],
+  "doc_version": "2026_v1"
+}

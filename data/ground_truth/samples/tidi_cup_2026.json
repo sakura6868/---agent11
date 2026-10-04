@@ -1,0 +1,145 @@
+{
+  "competition_id": "tidi_cup_2026",
+  "competition_name": "泰迪杯数据挖掘挑战赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "泰迪杯数据挖掘挑战赛组织委员会、广东泰迪智能科技股份有限公司（联合：重庆市工业与应用数学学会、广东省工业与应用数学学会、广西数学学会、河北省工业与应用数学学会、河南省运筹学会、湖北省工业与应用数学学会、江苏省运筹学会、四川省现场统计学会、浙江省应用数学研究会、人民邮电出版社、北京泰迪云智信息技术研究院）",
+  "eligible_students": [
+    "专科生",
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-04-10",
+  "submission_deadline": "2026-04-24",
+  "competition_start_date": "2026-04-11",
+  "competition_end_date": "2026-04-24",
+  "result_announcement_date": "2026-06-11",
+  "award_settings": "设一等奖、二等奖、三等奖、优秀奖，对获奖团队颁发证书并可推荐更高层级赛事。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "约5%",
+      "note": "全国"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "约15%",
+      "note": "全国"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "约25%",
+      "note": "全国"
+    },
+    {
+      "award": "优秀奖",
+      "proportion": "其余",
+      "note": "省市赛"
+    }
+  ],
+  "brief_description": "泰迪杯数据挖掘挑战赛是由泰迪杯数据挖掘挑战赛组织委员会、广东泰迪智能科技股份有限公司等主办的数据挖掘类赛事，主要面向专科生、本科生、研究生（专业不限）。要求参赛者以1-3人组队形式参与，考察数据预处理的完整性、对实际领域背景的理解、挖掘模型构建的创造性、结果的正确性等能力，是提升实践能力与综合素养的重要平台。",
+  "required_materials": [
+    "分析报告",
+    "建模代码",
+    "数据集",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "可视化表达",
+    "创新应用"
+  ],
+  "required_skills": [
+    "Python",
+    "数据分析",
+    "机器学习",
+    "SQL",
+    "数据可视化"
+  ],
+  "official_source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "2026年(第14届)“泰迪杯”数据挖掘挑战赛组织单位：泰迪杯数据挖掘挑战赛组织委员会、广东泰迪智能科技股份有限公司、重庆市工业与应用数学学会、广东省工业与应用数学学会等。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "eligible_students",
+      "page": null,
+      "source_text": "在校的研究生、本科生、专科生都可以队为单位参赛，每队不超过3人（须属于同一所学校），专业不限。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "每队不超过3人（须属于同一所学校），专业不限，并将使用相同的题目。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名起讫时间：2026年2月1日-4月10日。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "挑战赛时间：2026年4月11日-4月24日（公布全部数据）。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "submission_deadline",
+      "page": null,
+      "source_text": "提交作品截止时间：2026年4月24日（16:00:00之前）。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "result_announcement_date",
+      "page": null,
+      "source_text": "成绩公布时间：2026年6月11日。",
+      "document_name": "2026年(第14届)“泰迪杯”数据挖掘挑战赛通知",
+      "source_url": "https://www.tipdm.org/dssj14/2527.jhtml",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "已于2026-07-18经官方通知（www.tipdm.org，泰迪杯数据挖掘挑战赛组委会）核验：2026年为第14届，报名2026-02-01至04-10，竞赛2026-04-11至04-24，作品提交截止2026-04-24，成绩公布2026-06-11；专业不限，专科/本科/研究生均可，每队不超过3人。原模板中的报名/提交/竞赛日期（2026-12至2027-01）及“相关学会”主办、年级/专业限制均为占位错误，已更正。",
+  "official_source_status": "found"
+}

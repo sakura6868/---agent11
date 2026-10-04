@@ -1,0 +1,120 @@
+{
+  "competition_id": "bigdata_skill_2026",
+  "competition_name": "全国大学生大数据技能竞赛",
+  "document_year": 2026,
+  "category": "data",
+  "organizer": "天津市大数据协会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "统计学",
+    "数据科学与大数据技术",
+    "计算机科学与技术",
+    "经济学",
+    "信息管理与信息系统",
+    "数学与应用数学"
+  ],
+  "team_required": true,
+  "team_min": 1,
+  "team_max": 3,
+  "registration_deadline": "2026-07-24",
+  "submission_deadline": null,
+  "competition_start_date": null,
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "设学生奖项，分研究生组、本科组、专科生组，允许跨年级、跨专业、跨校组队；具体奖项比例以组委会公布为准。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "",
+      "note": "各组"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "",
+      "note": "各组"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "",
+      "note": "各组"
+    }
+  ],
+  "brief_description": "全国大学生大数据技能竞赛是由天津市大数据协会主办的线上数据建模类赛事，面向研究生、本科、专科学生，以1-3人团队参赛，赛题以数据分析、数据挖掘为主，重点考察机器学习与建模能力。",
+  "required_materials": [
+    "分析报告",
+    "建模代码",
+    "数据集",
+    "答辩PPT"
+  ],
+  "evaluation_dimensions": [
+    "方法科学",
+    "结论可靠",
+    "可视化表达",
+    "创新应用"
+  ],
+  "required_skills": [
+    "Python",
+    "数据分析",
+    "机器学习",
+    "SQL",
+    "数据可视化"
+  ],
+  "official_source_url": "https://www.mojinghub.com/competitions/data/2026",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "competition_name",
+      "page": null,
+      "source_text": "全国大学生大数据技能竞赛",
+      "document_name": "模竞-数据科学与人工智能竞赛实践平台（赛事问答）",
+      "source_url": "https://www.mojinghub.com/news/113",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "证书加盖天津市大数据协会公章",
+      "document_name": "模竞-数据科学与人工智能竞赛实践平台（赛事问答）",
+      "source_url": "https://www.mojinghub.com/news/113",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_required",
+      "page": null,
+      "source_text": "每队 1–3 人，指导老师不计入人数",
+      "document_name": "模竞-数据科学与人工智能竞赛实践平台（赛事问答）",
+      "source_url": "https://www.mojinghub.com/news/113",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "报名截止至2026 年 7 月 24 日 06:00",
+      "document_name": "模竞-数据科学与人工智能竞赛实践平台（赛事问答）",
+      "source_url": "https://www.mojinghub.com/news/113",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，尚未完成人工核验；仅供导航参考。经2026-07-18核验：竞赛名称、主办方（天津市大数据协会）、1-3人组队及报名截止2026-07-24已确认（来源：mojinghub.com赛事问答）。仅报名截止时间有明确依据；提交作品、竞赛、结果公布等具体时间未在该来源中给出，原占位日期字段置空，请以官网mojinghub.com为准。",
+  "official_source_status": "found"
+}

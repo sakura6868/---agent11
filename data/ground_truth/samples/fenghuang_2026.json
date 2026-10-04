@@ -1,0 +1,136 @@
+{
+  "competition_id": "fenghuang_2026",
+  "competition_name": "中国高校计算机大赛-网络技术挑战赛",
+  "document_year": 2026,
+  "category": "software",
+  "organizer": "全国高等学校计算机教育研究会",
+  "eligible_students": [
+    "本科生",
+    "研究生"
+  ],
+  "allowed_grades": [
+    "大二",
+    "大三",
+    "大四"
+  ],
+  "allowed_majors": [
+    "计算机科学与技术",
+    "软件工程",
+    "网络空间安全",
+    "人工智能",
+    "电气信息",
+    "物联网工程",
+    "网络工程"
+  ],
+  "team_required": true,
+  "team_min": 2,
+  "team_max": 6,
+  "registration_deadline": "2026-04-14",
+  "submission_deadline": null,
+  "competition_start_date": "2026-03-04",
+  "competition_end_date": null,
+  "result_announcement_date": null,
+  "award_settings": "资格赛不设置奖项；选拔赛按赛区设一、二、三等奖（比例约10%、20%、40%）并颁发电子证书；挑战赛设特等奖（不超2名）及一、二、三等奖若干。",
+  "award_distribution": [
+    {
+      "award": "一等奖",
+      "proportion": "挑战赛按参赛规模设，含特等奖",
+      "note": "全国挑战赛"
+    },
+    {
+      "award": "二等奖",
+      "proportion": "若干",
+      "note": "全国挑战赛"
+    },
+    {
+      "award": "三等奖",
+      "proportion": "若干",
+      "note": "全国挑战赛"
+    },
+    {
+      "award": "选拔赛一/二/三等奖",
+      "proportion": "10%/20%/40%",
+      "note": "分赛区"
+    }
+  ],
+  "brief_description": "中国高校计算机大赛-网络技术挑战赛（简称C4-网络技术挑战赛，2026年为第十一届）由全国高等学校计算机教育研究会主办，是入选中国高等教育学会“全国普通高校大学生竞赛排行榜”的赛事。面向高校计算机类、网络空间安全类、软件工程类、人工智能与智能制造类、电气信息类等专业的在校本科生与研究生，以2-6人团队为单位参赛，分为创意(A)与攻关(B)两大系列，考察网络技术创新与应用能力。",
+  "required_materials": [
+    "软件作品",
+    "演示视频",
+    "设计文档",
+    "源代码"
+  ],
+  "evaluation_dimensions": [
+    "功能完整",
+    "技术创新",
+    "用户体验",
+    "工程质量"
+  ],
+  "required_skills": [
+    "前端开发",
+    "后端开发",
+    "数据库",
+    "UI设计",
+    "项目管理"
+  ],
+  "official_source_url": "http://net.c4best.cn",
+  "source_acquired_date": "2026-07-18",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_v1",
+  "evidence": [
+    {
+      "field": "organizer",
+      "page": null,
+      "source_text": "第十一届(2026年)“中国高校计算机大赛”继续由全国高等学校计算机教育研究会主办",
+      "document_name": "2026年第十一届“中国高校计算机大赛-网络技术挑战赛”报名通知",
+      "source_url": "https://today.hit.edu.cn/article/2026/03/09/127938",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": null,
+      "source_text": "以不少于2名、不多于6名学生组成的团队为参赛单位",
+      "document_name": "2026年第十一届“中国高校计算机大赛-网络技术挑战赛”报名通知（参赛对象）",
+      "source_url": "https://sise.uestc.edu.cn/info/1030/14165.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": null,
+      "source_text": "以不少于2名、不多于6名学生组成的团队为参赛单位",
+      "document_name": "2026年第十一届“中国高校计算机大赛-网络技术挑战赛”报名通知（参赛对象）",
+      "source_url": "https://sise.uestc.edu.cn/info/1030/14165.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": null,
+      "source_text": "官网报名时间: 2026年3月4日 ——4月14日",
+      "document_name": "第十一届中国高校计算机大赛-网络技术挑战赛报名通知（电子科技大学）",
+      "source_url": "https://sise.uestc.edu.cn/info/1030/14165.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    },
+    {
+      "field": "competition_start_date",
+      "page": null,
+      "source_text": "竞赛报名于2026年3月4日启动，2026年4月14日截止",
+      "document_name": "2026年“中国高校计算机大赛-网络技术挑战赛”竞赛通知（成都信息工程大学）",
+      "source_url": "https://www.cuit.edu.cn/info/1006/16180.htm",
+      "acquired_date": "2026-07-18",
+      "last_verified_at": "2026-07-18",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "由公开赛事名录整理的结构化参考字段，已完成人工核验。2026-07-18 核查：organizer“全国高等学校计算机教育研究会”与官方一致（已补充证据）。原 team_min=1、team_max=5 有误，已更正为2-6人。competition_start_date 取报名启动2026-03-04。该赛事为资格赛—选拔赛—挑战赛三阶段作品赛，无单一作品提交截止，submission_deadline 置空；挑战赛（全国总决赛）具体日期通知未明确，competition_end_date 与 result_announcement_date 置空待人工确认。原 id 命名“fenghuang”与赛事无直接关联，仅作文件标识保留。",
+  "official_source_status": "found"
+}

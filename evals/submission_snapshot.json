@@ -1,0 +1,41 @@
+{
+  "version": "v1.3-competition",
+  "snapshot_at": "2026-10-04T01:00:00+08:00",
+  "records": 201,
+  "official_source_found": 165,
+  "source_ready": 17,
+  "open_source_ready": 11,
+  "open_ids": [
+    "aic_6g_2026",
+    "aic_energy_2026",
+    "aic_interconnect_2026",
+    "apmcm_autumn_2026",
+    "mathorcup_data_2026",
+    "ncccu_ai_2026",
+    "ncccu_data_2026",
+    "ncccu_digital_2026",
+    "ncccu_office_2026",
+    "ncccu_program_2026",
+    "swb_autumn_2026"
+  ],
+  "formal": {
+    "passed": 15,
+    "total": 15
+  },
+  "regression": 168,
+  "subtests": 26,
+  "templates": {
+    "passed": 806,
+    "total": 806
+  },
+  "browser": {
+    "passed": 8,
+    "total": 8
+  },
+  "evaluation_fixture_date": "2026-10-03",
+  "dataset_sha256": "12076f99fe5d2b83390b0ef1f945587ba408663c39d711ffc3d5bbe30e9dfcdf",
+  "video_sha256": "ef3a0ce1bff3cedd3a3256371d7577d29fcad0e341bce938c4751322ba46fcda",
+  "real_user_validation": false,
+  "live_model_planning_validated": false,
+  "cloud_rotation_verified": false
+}

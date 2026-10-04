@@ -1,0 +1,82 @@
+{
+  "competition_id": "fwb_2026",
+  "competition_name": "中国大学生服务外包创新创业大赛",
+  "document_year": 2026,
+  "organizer": "中国大学生服务外包创新创业大赛组织委员会",
+  "category": "software",
+  "eligible_students": [
+    "本科生",
+    "高职高专生",
+    "毕业生（毕业5年内）"
+  ],
+  "allowed_grades": null,
+  "allowed_majors": null,
+  "team_required": true,
+  "team_min": null,
+  "team_max": 5,
+  "registration_deadline": "2026-03-20",
+  "submission_deadline": null,
+  "required_materials": [],
+  "evaluation_dimensions": [],
+  "required_skills": [],
+  "official_source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+  "source_acquired_date": "2026-07-16",
+  "trusted_level": "B",
+  "data_status": "unverified",
+  "last_verified_at": "2026-07-18",
+  "doc_version": "2026_official_pdf_v1",
+  "evidence": [
+    {
+      "field": "eligible_students",
+      "page": 3,
+      "source_text": "参赛对象。全国高等学校（本科类和高职高专类院校）具有正式学籍的全日制在校学生（含2026年应届毕业生）及毕业不超过5年（2021年后毕业）的大学生。",
+      "document_name": "关于举办第十七届中国大学生服务外包创新创业大赛的通知.pdf",
+      "source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_min",
+      "page": 3,
+      "source_text": "参赛名额。参赛队每队队员数量上限5人，指导老师数量上限2人。",
+      "document_name": "关于举办第十七届中国大学生服务外包创新创业大赛的通知.pdf",
+      "source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "team_max",
+      "page": 3,
+      "source_text": "参赛名额。参赛队每队队员数量上限5人，指导老师数量上限2人。",
+      "document_name": "关于举办第十七届中国大学生服务外包创新创业大赛的通知.pdf",
+      "source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "registration_deadline",
+      "page": 4,
+      "source_text": "本届大赛采取网络报名方式，报名时间为2026年2月11日至2026年3月20日16:00止，参赛团队可通过大赛官方网站进行报名。",
+      "document_name": "关于举办第十七届中国大学生服务外包创新创业大赛的通知.pdf",
+      "source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    },
+    {
+      "field": "required_materials",
+      "page": 3,
+      "source_text": "具体说明参见《第十七届中国大学生服务外包创新创业大赛参赛手册》。",
+      "document_name": "关于举办第十七届中国大学生服务外包创新创业大赛的通知.pdf",
+      "source_url": "https://www.fwwb.org.cn/attached/file/20260211/20260211154941_13.pdf",
+      "acquired_date": "2026-07-16",
+      "last_verified_at": "2026-07-16",
+      "trusted_level": "A"
+    }
+  ],
+  "notes": "人工逐页核验组委会正式通知。通知只明确队员上限5人，未明确下限；材料清单被下放到参赛手册，因此required_materials保持空数组，不据此推测。报名截止的16:00时刻保留在证据原文中。",
+  "official_source_status": "found"
+}

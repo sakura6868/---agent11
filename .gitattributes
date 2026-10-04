@@ -1,0 +1,4 @@
+# Official snapshots must retain downloaded bytes for SHA-256 validation.
+data/official_sources/** -text -whitespace
+# Ground Truth fingerprints must be identical in Windows and Linux checkouts.
+data/ground_truth/**/*.json text eol=lf
