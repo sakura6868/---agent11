@@ -47,7 +47,7 @@ Linux/macOS 可运行 `bash start.sh`。Docker 可复制 `.env.example` 为 `.en
 ## 交付内容
 
 - [技术文档](submission/02_技术文档.md) · [架构](docs/ARCHITECTURE.md)
-- [正式演示视频（用户指定，约3分28秒）](demo/演示视频.mp4)
+- [正式演示视频（用户指定，约3分28秒（208.05秒））](demo/演示视频.mp4)
 - [正式评测](docs/QUANTITATIVE_EVALUATION.md) · [模板报告](evals/report.md)
 - [数据与隐私说明](docs/COMPLIANCE.md) · [第三方组件说明](docs/THIRD_PARTY_NOTICES.md)
 
