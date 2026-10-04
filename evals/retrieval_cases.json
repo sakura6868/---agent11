@@ -1,0 +1,22 @@
+[
+  {"competition_id":"mathorcup_data_2026","question":"报名最晚到什么时候？","fields":["registration_deadline","registration_deadline_at"]},
+  {"competition_id":"mathorcup_data_2026","question":"报名截止日期是什么？","fields":["registration_deadline","registration_deadline_at"]},
+  {"competition_id":"mathorcup_data_2026","question":"我们组队可以几个人？","fields":["team_min","team_max"]},
+  {"competition_id":"mathorcup_data_2026","question":"参赛队伍人数上限是多少？","fields":["team_max","team_min"]},
+  {"competition_id":"mathorcup_data_2026","question":"专科生能参加吗？","fields":["eligible_students"]},
+  {"competition_id":"mathorcup_data_2026","question":"参赛对象有哪些？","fields":["eligible_students"]},
+  {"competition_id":"mathorcup_data_2026","question":"最终要交哪些材料？","fields":["required_materials"]},
+  {"competition_id":"mathorcup_data_2026","question":"需要提交源代码吗？","fields":["required_materials"]},
+  {"competition_id":"mathorcup_data_2026","question":"比赛结束日期是什么？","fields":["competition_end_date"]},
+  {"competition_id":"mathorcup_data_2026","question":"初赛结束时间是什么？","fields":["competition_end_date"]},
+  {"competition_id":"aic_interconnect_2026","question":"报名截止到哪天？","fields":["registration_deadline","registration_deadline_at"]},
+  {"competition_id":"aic_interconnect_2026","question":"报名最晚什么时候？","fields":["registration_deadline","registration_deadline_at"]},
+  {"competition_id":"aic_interconnect_2026","question":"团队最多几个人？","fields":["team_min","team_max"]},
+  {"competition_id":"aic_interconnect_2026","question":"可以单人参加吗？","fields":["team_min","team_max"]},
+  {"competition_id":"aic_interconnect_2026","question":"专科学生可以报名吗？","fields":["eligible_students"]},
+  {"competition_id":"aic_interconnect_2026","question":"参赛对象有哪些？","fields":["eligible_students"]},
+  {"competition_id":"aic_interconnect_2026","question":"要交什么材料？","fields":["required_materials"]},
+  {"competition_id":"aic_interconnect_2026","question":"需要提交演示视频吗？","fields":["required_materials"]},
+  {"competition_id":"aic_interconnect_2026","question":"作品提交截止时间？","fields":["submission_deadline","submission_deadline_at"]},
+  {"competition_id":"aic_interconnect_2026","question":"提交成果要包含说明文档吗？","fields":["required_materials"]}
+]

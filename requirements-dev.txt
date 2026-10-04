@@ -1,4 +1,5 @@
 -r requirements.txt
 pytest>=8.0
 pytest-subtests>=0.14
+hypothesis==6.168.3       # MPL-2.0：开发阶段自动边界测试，不进入运行时依赖
 imageio-ffmpeg>=0.6

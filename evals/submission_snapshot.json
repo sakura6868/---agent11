@@ -22,7 +22,7 @@
     "passed": 15,
     "total": 15
   },
-  "regression": 168,
+  "regression": 182,
   "subtests": 26,
   "templates": {
     "passed": 806,
@@ -31,6 +31,20 @@
   "browser": {
     "passed": 8,
     "total": 8
+  },
+  "retrieval_comparison": {
+    "character_overlap": {
+      "top1_passed": 18,
+      "total": 20,
+      "recall_at_3_passed": 19,
+      "mrr": 0.9292
+    },
+    "jieba_bm25plus": {
+      "top1_passed": 19,
+      "total": 20,
+      "recall_at_3_passed": 20,
+      "mrr": 0.9667
+    }
   },
   "evaluation_fixture_date": "2026-10-03",
   "dataset_sha256": "12076f99fe5d2b83390b0ef1f945587ba408663c39d711ffc3d5bbe30e9dfcdf",

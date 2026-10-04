@@ -456,6 +456,10 @@ def _resolve_competition_versioned(
         if len(names) > 1:
             return None, None, "你提到了多个赛事，请明确本次要查询的赛事名称。"
         return _implicit_version_result(exact[0], exact)
+    from agent.name_suggestions import suggest_names
+    suggestions = suggest_names(q, comps)
+    if suggestions:
+        return None, None, "赛事名称可能有笔误，你是否指：" + "、".join(suggestions) + "？请发送完整名称及年份确认后再查询规则。"
     if "mathorcup" in q.lower():
         pool = [c for c in comps if "mathorcup" in c.competition_name.lower()]
         if "春季" in q and "大数据" in q:

@@ -32,6 +32,7 @@ Linux/macOS 可运行 `bash start.sh`。Docker 可复制 `.env.example` 为 `.en
 - 有状态的目标规划：检索、核验证据、资格检查、机会比较、组合优化、执行清单。可选模型只在允许的工具中选择下一步，最多两次；无效选择回退。
 - 周容量与已有项目共同约束组合；任务、材料和截止节点联动。
 - 来源变化进入人工审核，用户会话及个人资源访问受所有权校验。
+- 默认使用中文分词与 BM25Plus 检索原始证据；赛事名称笔误先提示候选并要求确认。
 
 ## 验证
 
@@ -39,10 +40,11 @@ Linux/macOS 可运行 `bash start.sh`。Docker 可复制 `.env.example` 为 `.en
 .\venv\Scripts\python.exe -m pip install -r requirements-dev.txt
 .\venv\Scripts\python.exe evals/run_formal_evaluation.py
 .\venv\Scripts\python.exe evals/run_eval.py
+.\venv\Scripts\python.exe evals/run_retrieval_comparison.py
 .\venv\Scripts\python.exe scripts/check_submission_materials.py --video demo/演示视频.mp4 --require-video
 ```
 
-本版回归168项及26子测试、正式用例15/15、模板806/806。浏览器检查使用离线模式；模板回归不是独立人工标注准确率，工作量与收益是规划估计，真实学生效果和在线模型效果尚未验证。
+本版回归182项及26子测试、正式用例15/15、模板806/806。新增中文检索小规模对照的 Top-1 为19/20，原字符重叠为18/20。既有浏览器检查使用离线模式；模板和检索工程对照不是独立准确率，工作量与收益是规划估计，真实学生效果和在线模型效果尚未验证。
 
 ## 交付内容
 

@@ -143,17 +143,17 @@
     }
   ],
   "regression": {
-    "tests_run": 168,
-    "passed": 168,
+    "tests_run": 182,
+    "passed": 182,
     "failures": 0,
     "errors": 0,
     "subtests_passed": 26,
     "successful": true,
-    "output": "168 passed, 26 subtests passed in 10.51s"
+    "output": "182 passed, 26 subtests passed in 12.76s"
   },
   "freeze": null,
   "fixture_date": "2026-10-03",
   "dataset_sha256": "12076f99fe5d2b83390b0ef1f945587ba408663c39d711ffc3d5bbe30e9dfcdf",
-  "code_sha256": "0e68f380bfe2b6e469e799ce017ca60d148baad342a0cf684d6c6aa79f684263",
+  "code_sha256": "860ca306d0c09a96b983e2a26d19d2435fc692dd66a5984c077dfe69981f6b81",
   "competition_snapshot_sha256": "c06e31061e48f2fa99ff20a1fd8f3d873ab1e7981f4815e09bce7121b57a7944"
 }

@@ -49,7 +49,7 @@ DEFAULT_INCLUDE_FILES = (
     ".dockerignore",
 )
 EXCLUDED_PARTS = {
-    "__pycache__", ".git", ".github", "venv", "venv312", "design-concepts", "backups", "tmp", "voice-previews", "_archive", ".playwright-cli"
+    "__pycache__", ".git", ".github", ".hypothesis", "venv", "venv312", "design-concepts", "backups", "tmp", "voice-previews", "_archive", ".playwright-cli"
 }
 EXCLUDED_SUFFIXES = {".db", ".sqlite", ".sqlite3", ".pyc", ".pyo", ".zip"}
 EXCLUDED_NAMES = {".env", "campus_agent.db"}

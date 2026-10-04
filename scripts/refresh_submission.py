@@ -20,12 +20,14 @@ def main():
     formal=json.loads((ROOT/'evals/formal_results.json').read_text(encoding='utf-8-sig'))
     templates=json.loads((ROOT/'evals/metrics.json').read_text(encoding='utf-8-sig'))
     browser=json.loads((ROOT/'evals/planning_browser_results.json').read_text(encoding='utf-8-sig'))
+    retrieval=json.loads((ROOT/'evals/retrieval_comparison.json').read_text(encoding='utf-8-sig'))
     video=ROOT/'demo/演示视频.mp4'
     report=dict(version=(ROOT/'VERSION').read_text().strip(),snapshot_at=current.isoformat(),records=len(records),
       official_source_found=sum(c.official_source_status=='found' for c in records),source_ready=len(ready),
       open_source_ready=len(opened),open_ids=[c.competition_id for c in opened],formal=formal['formal_summary'],
       regression=formal['regression']['tests_run'],subtests=formal['regression']['subtests_passed'],
       templates=dict(passed=templates['passed'],total=templates['total_cases']),browser=browser['summary'],
+      retrieval_comparison=retrieval['summary'],
       evaluation_fixture_date=formal['fixture_date'],dataset_sha256=formal['dataset_sha256'],
       video_sha256=hashlib.sha256(video.read_bytes()).hexdigest() if video.exists() else None,
       real_user_validation=False,live_model_planning_validated=False,cloud_rotation_verified=False)
@@ -43,9 +45,12 @@ def main():
 | 正式独立标注用例 | {report['formal']['passed']}/{report['formal']['total']} |
 | 回归测试 | {report['regression']} 通过，另 {report['subtests']} 个子测试 |
 | 自动生成模板回归 | {report['templates']['passed']}/{report['templates']['total']}，不作为独立标注准确率 |
-| 实际浏览器规划检查 | {report['browser']['passed']}/{report['browser']['total']}，桌面及 390px 手机 |
+| 既有浏览器规划检查 | {report['browser']['passed']}/{report['browser']['total']}，桌面及 390px 手机 |
+| 新增检索工程对照 | Top-1：旧字符重叠18/20，jieba + BM25Plus 19/20；Recall@3：19/20→20/20 |
 
 正式与模板评测使用固定日期 {report['evaluation_fixture_date']}；目录开放统计使用上面的提交时刻。两者用途不同。详见 [定量评测](QUANTITATIVE_EVALUATION.md)、[模板报告](../evals/report.md) 和 [浏览器报告](../evals/planning_browser_results.json)。
+
+检索对照覆盖两项赛事的20条开发者编写问题，不是独立留出集、整体问答准确率或真实用户研究。开源增强包含中文分词与BM25Plus、近似名称确认提示，以及Hypothesis生成的输入与HTTP接口边界验证。浏览器报告来自本轮开源增强之前，本轮新增路径以回归与接口测试验证。详见 [检索对照](../evals/retrieval_comparison.json) 和 [开源说明](THIRD_PARTY_NOTICES.md)。
 
 新增五个赛道均保存官方 HTML/PDF、字段原文定位、获取日期与 SHA256；见 [新增来源清单](../data/official_sources/open_2026/manifest.json)。同一大赛的不同赛道分别统计，不能说成五个独立大赛。DMT 队伍下限未知，继续作为候选，未为了扩大推荐覆盖补造规则。
 

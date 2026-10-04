@@ -9,6 +9,11 @@ pdfplumber>=0.11
 python-docx>=1.1
 requests>=2.28              # LLM 润色层 + 联网补充检索的 HTTP 客户端（核心，必装；缺失会导致线上 LLM/联网全部关闭）
 httpx2>=2.0.0              # Starlette TestClient（自动回归测试）
+cn2an>=0.5.24,<0.6         # MIT：中文数字约束解析（十小时、两场、三人等）
+json-repair==0.*           # MIT：修复模型返回的轻微JSON语法错误，随后仍执行严格白名单校验
+jieba==0.42.1             # MIT：离线中文检索分词
+rank-bm25==0.2.2          # Apache-2.0：赛事隔离的 BM25Plus 证据排序
+rapidfuzz==3.14.3         # MIT：兼容 Python 3.10 的名称纠错候选，禁止自动替换赛事
 
 # —— 以下均为可选依赖，应用内置等价实现，未安装也能完整运行 ——
 # 构建 Docker / 本地部署时省略它们，镜像更小、装得更快更稳。

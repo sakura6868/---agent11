@@ -57,6 +57,13 @@ def test_planning_completes_without_writing_profile_or_projects(planner_user):
     assert db.get_user_profile(planner_user).model_dump() == before
     assert all(step["status"] == "succeeded" for step in result["trace"])
 
+    chinese = run_planning_task("每周不超过十小时，只参加两场比赛，目标是获奖", user_id=planner_user)
+    assert chinese["planning"]["constraints"]["weekly_hours"] == 10
+    assert chinese["planning"]["constraints"]["max_competitions"] == 2
+    assert chinese["planning"]["constraints"]["goal"] == "award"
+    assert "本轮每周预算 10 小时" in chinese["answer"]
+    assert db.get_user_profile(planner_user).model_dump() == before
+
 
 def test_zero_capacity_never_invents_time_or_a_feasible_plan(planner_user):
     result = run_planning_task("每周0小时，最多参加两场比赛", user_id=planner_user)
@@ -64,6 +71,16 @@ def test_zero_capacity_never_invents_time_or_a_feasible_plan(planner_user):
     assert not result["recommendations"]
     assert all(not p["items"] for p in result["planning"]["plans"])
     assert db.get_user_profile(planner_user).weekly_available_hours == 20
+
+    fractional = run_planning_task("每周10.5小时，最多参加两场比赛", user_id=planner_user)
+    assert fractional["planning"]["status"] == "needs_input"
+    assert not fractional["recommendations"]
+    assert "每周可投入时间请使用整数小时" in fractional["answer"]
+
+    excessive = run_planning_task("每周十小时，最多参加五场比赛", user_id=planner_user)
+    assert excessive["planning"]["status"] == "needs_input"
+    assert not excessive["recommendations"]
+    assert "最多参赛数量须在1—4场之间" in excessive["answer"]
 
 
 def test_expired_target_stops_before_eligibility_or_optimization(planner_user):
@@ -117,6 +134,11 @@ def test_unregistered_tools_and_extra_arguments_are_rejected():
         tool, selector = choose_tool("规划", ["compare_opportunities", "optimize_portfolio"], [])
     assert tool == "compare_opportunities"
     assert selector == "policy_fallback"
+
+    with patch("agent.planner.llm.is_llm_enabled", return_value=True), patch("agent.planner.llm._post_chat", return_value='```json\n{"tool":"optimize_portfolio",}\n```'):
+        tool, selector = choose_tool("规划", ["compare_opportunities", "optimize_portfolio"], [])
+    assert tool == "optimize_portfolio"
+    assert selector == "model_repaired"
 
 
 def test_planner_never_sends_raw_question_or_private_profile_to_model():

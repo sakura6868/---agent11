@@ -1,0 +1,556 @@
+{
+  "scope": "20 developer-labeled queries, two competitions; no held-out or real-user validation",
+  "fixture_sha256": "1ed1813f3ded215d8463c4476594358e3483f0b733a655f81eeaa61e3c319f0f",
+  "summary": {
+    "character_overlap": {
+      "top1_passed": 18,
+      "total": 20,
+      "recall_at_3_passed": 19,
+      "mrr": 0.9292
+    },
+    "jieba_bm25plus": {
+      "top1_passed": 19,
+      "total": 20,
+      "recall_at_3_passed": 20,
+      "mrr": 0.9667
+    }
+  },
+  "cases": [
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "报名最晚到什么时候？",
+      "fields": [
+        "registration_deadline",
+        "registration_deadline_at"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline_at",
+          "registration_deadline",
+          "competition_end_date"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline_at",
+          "registration_deadline",
+          "competition_end_date"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "报名截止日期是什么？",
+      "fields": [
+        "registration_deadline",
+        "registration_deadline_at"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline_at",
+          "registration_deadline",
+          "competition_end_date"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline_at",
+          "registration_deadline",
+          "competition_end_date"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "我们组队可以几个人？",
+      "fields": [
+        "team_min",
+        "team_max"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "参赛队伍人数上限是多少？",
+      "fields": [
+        "team_max",
+        "team_min"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max",
+          "required_materials"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_max",
+          "team_min",
+          "eligible_students"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "专科生能参加吗？",
+      "fields": [
+        "eligible_students"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students",
+          "team_min",
+          "team_max"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "参赛对象有哪些？",
+      "fields": [
+        "eligible_students"
+      ],
+      "character_overlap": {
+        "top1": false,
+        "recall_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "retrieved_fields": [
+          "team_min",
+          "team_max",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students",
+          "team_min",
+          "team_max"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "最终要交哪些材料？",
+      "fields": [
+        "required_materials"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "需要提交源代码吗？",
+      "fields": [
+        "required_materials"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "比赛结束日期是什么？",
+      "fields": [
+        "competition_end_date"
+      ],
+      "character_overlap": {
+        "top1": false,
+        "recall_at_3": false,
+        "reciprocal_rank": 0.25,
+        "retrieved_fields": [
+          "registration_deadline_at",
+          "registration_deadline",
+          "required_materials"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "competition_end_date",
+          "registration_deadline_at",
+          "registration_deadline"
+        ]
+      }
+    },
+    {
+      "competition_id": "mathorcup_data_2026",
+      "question": "初赛结束时间是什么？",
+      "fields": [
+        "competition_end_date"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "competition_end_date",
+          "required_materials",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "competition_end_date",
+          "registration_deadline_at",
+          "registration_deadline"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "报名截止到哪天？",
+      "fields": [
+        "registration_deadline",
+        "registration_deadline_at"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline",
+          "registration_deadline_at",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline",
+          "registration_deadline_at",
+          "submission_deadline"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "报名最晚什么时候？",
+      "fields": [
+        "registration_deadline",
+        "registration_deadline_at"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline",
+          "registration_deadline_at",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "registration_deadline",
+          "registration_deadline_at",
+          "submission_deadline"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "团队最多几个人？",
+      "fields": [
+        "team_min",
+        "team_max"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "可以单人参加吗？",
+      "fields": [
+        "team_min",
+        "team_max"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max",
+          "eligible_students"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "team_min",
+          "team_max"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "专科学生可以报名吗？",
+      "fields": [
+        "eligible_students"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students",
+          "team_min",
+          "team_max"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students",
+          "registration_deadline",
+          "registration_deadline_at"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "参赛对象有哪些？",
+      "fields": [
+        "eligible_students"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students",
+          "team_min",
+          "team_max"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "eligible_students",
+          "team_min",
+          "team_max"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "要交什么材料？",
+      "fields": [
+        "required_materials"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "submission_deadline",
+          "submission_deadline_at"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "required_materials",
+          "submission_deadline"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "需要提交演示视频吗？",
+      "fields": [
+        "required_materials"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "submission_deadline",
+          "submission_deadline_at"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "submission_deadline",
+          "submission_deadline_at"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "作品提交截止时间？",
+      "fields": [
+        "submission_deadline",
+        "submission_deadline_at"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "submission_deadline",
+          "submission_deadline_at",
+          "registration_deadline"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": false,
+        "recall_at_3": true,
+        "reciprocal_rank": 0.3333333333333333,
+        "retrieved_fields": [
+          "registration_deadline",
+          "registration_deadline_at",
+          "submission_deadline"
+        ]
+      }
+    },
+    {
+      "competition_id": "aic_interconnect_2026",
+      "question": "提交成果要包含说明文档吗？",
+      "fields": [
+        "required_materials"
+      ],
+      "character_overlap": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "submission_deadline",
+          "submission_deadline_at"
+        ]
+      },
+      "jieba_bm25plus": {
+        "top1": true,
+        "recall_at_3": true,
+        "reciprocal_rank": 1.0,
+        "retrieved_fields": [
+          "required_materials",
+          "required_materials",
+          "submission_deadline"
+        ]
+      }
+    }
+  ]
+}

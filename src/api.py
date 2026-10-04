@@ -60,7 +60,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 import db
-from rag.store import get_rag, embedding_backend
+from rag.store import get_rag, embedding_backend, retrieval_backend
 from recommendation.engine import eligibility_gate, recommend_for_user, recommend_teammates
 from trust import assess_recommendation_readiness, assess_source_readiness
 from contest_clock import contest_now
@@ -239,6 +239,7 @@ def health() -> dict:
         "database": database_status,
         "date": contest_now().date().isoformat(),
         "embedding_backend": embedding_backend(),
+        "retrieval_backend": retrieval_backend(),
         "llm_backend": "openai-compatible" if is_llm_enabled() else "disabled",
     }
 

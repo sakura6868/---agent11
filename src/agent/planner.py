@@ -6,6 +6,9 @@ import re
 from time import perf_counter
 from uuid import uuid4
 
+import cn2an
+from json_repair import loads as repair_json_loads
+
 import db
 from agent import llm
 from contest_clock import contest_now
@@ -25,21 +28,48 @@ TOOL_LABELS = {
 }
 
 
+_NUMBER_TOKEN = r"(?:\d+(?:\.\d+)?|[零〇一二两三四五六七八九十百点]+)"
+
+
+def _number_value(raw: str | None) -> int | float | None:
+    """Parse a scoped Arabic/Chinese number without rewriting the whole question."""
+    if not raw:
+        return None
+    try:
+        value = float(raw) if re.fullmatch(r"\d+(?:\.\d+)?", raw) else float(cn2an.cn2an(raw, "smart"))
+    except (TypeError, ValueError):
+        return None
+    return int(value) if value.is_integer() else value
+
+
 def _constraints(question: str) -> dict:
-    hours = re.search(r"(?:每周|一周|每星期)\s*(?:只有|只能|能投入|可投入|投入|有|最多)?\s*(\d{1,3})\s*(?:个)?\s*(?:小时|h)", question, re.I)
-    team = re.search(r"(?:我们|团队|队伍|组队|改成|人数)\s*(?:有|是|为|共)?\s*([一二两三四五六七八九十]|\d{1,2})\s*(?:个)?人", question)
-    number = {"一": 1, "二": 2, "两": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9, "十": 10}
-    count = re.search(r"(?:最多|不超过|选|参加|安排|规划)\s*([一二两三四]|[1-4])\s*(?:场|个)", question)
+    hours = re.search(
+        rf"(?:每周|一周|每星期)\s*(?:只有|只能|能投入|可投入|投入|有|最多|至多|不超过|上限(?:是|为)?)?\s*({_NUMBER_TOKEN})\s*(?:个)?\s*(?:小时|h)",
+        question,
+        re.I,
+    )
+    team = re.search(
+        rf"(?:我们|团队|队伍|组队|改成|人数)\s*(?:有|是|为|共)?\s*({_NUMBER_TOKEN})\s*(?:个)?人",
+        question,
+    )
+    count = re.search(
+        rf"(?:最多|至多|不超过|只(?:选|参加|安排)?|选|参加|安排|规划)\s*({_NUMBER_TOKEN})\s*(?:场|个)",
+        question,
+    )
     category = next((value for words, value in [
         (("数学建模", "数模"), "modeling"), (("程序设计", "算法竞赛", "编程"), "programming"),
         (("数字媒体", "设计类", "Office", "办公软件"), "design"), (("能源", "机器人"), "robotics_ai"),
     ] if any(word.lower() in question.lower() for word in words)), None)
     return {
-        "weekly_hours": int(hours.group(1)) if hours else None,
-        "team_size": number.get(team.group(1), int(team.group(1)) if team and team.group(1).isdigit() else None) if team else None,
-        "max_competitions": number.get(count.group(1), int(count.group(1)) if count and count.group(1).isdigit() else 3) if count else 3,
+        "weekly_hours": _number_value(hours.group(1)) if hours else None,
+        "team_size": _number_value(team.group(1)) if team else None,
+        "max_competitions": _number_value(count.group(1)) if count else 3,
         "category": category,
-        "goal": "growth" if any(word in question for word in ("学习", "成长", "练习", "提升")) else "balanced",
+        "goal": (
+            "award" if any(word in question for word in ("获奖", "拿奖", "冲奖", "得奖"))
+            else "growth" if any(word in question for word in ("学习", "成长", "练习", "提升"))
+            else "balanced"
+        ),
     }
 
 
@@ -77,11 +107,19 @@ def choose_tool(question: str, allowed: list[str], observations: list[dict], mod
         json.dumps({"goal": objective, "available_tools": allowed, "observations": observations}, ensure_ascii=False),
         model=model, timeout=6,
     )
+    selector = "model"
     try:
         action = json.loads(response or "{}")
-        if set(action) == {"tool"} and action["tool"] in allowed:
-            return action["tool"], "model"
-    except (ValueError, TypeError, KeyError):
+    except (ValueError, TypeError):
+        try:
+            action = repair_json_loads(response or "{}")
+            selector = "model_repaired"
+        except (ValueError, TypeError):
+            action = {}
+    try:
+        if isinstance(action, dict) and set(action) == {"tool"} and action["tool"] in allowed:
+            return action["tool"], selector
+    except (TypeError, KeyError):
         pass
     return allowed[0], "policy_fallback"
 
@@ -180,15 +218,19 @@ def run_planning_task(question: str, user_id=None, competition_id=None, model=No
     profile = turn_profile.model_copy(deep=True) if turn_profile else None
     invalid = []
     if constraints["weekly_hours"] is not None:
-        if not 0 <= constraints["weekly_hours"] <= 168:
+        if not isinstance(constraints["weekly_hours"], int):
+            invalid.append("每周可投入时间请使用整数小时")
+        elif not 0 <= constraints["weekly_hours"] <= 168:
             invalid.append("每周可投入时间须在0—168小时之间")
         elif profile:
             profile.weekly_available_hours = constraints["weekly_hours"]
     if constraints["team_size"] is not None:
-        if not 1 <= constraints["team_size"] <= 10:
+        if not isinstance(constraints["team_size"], int) or not 1 <= constraints["team_size"] <= 10:
             invalid.append("请提供1—10人的实际团队人数")
         elif profile:
             profile.expected_team_size = constraints["team_size"]
+    if not isinstance(constraints["max_competitions"], int) or not 1 <= constraints["max_competitions"] <= 4:
+        invalid.append("最多参赛数量须在1—4场之间")
     state = dict(catalog=db.get_all_competitions(), constraints=constraints, profile=profile, question=question,
                  projects=db.list_user_projects(user_id) if profile else [], now=contest_now(),
                  competition_id=competition_id, invalid_constraints=invalid)
@@ -266,7 +308,7 @@ def run_planning_task(question: str, user_id=None, competition_id=None, model=No
                         profile.weekly_available_hours != saved_profile.weekly_available_hours
                         or profile.expected_team_size != saved_profile.expected_team_size
                         or profile.education_level != saved_profile.education_level)),
-                    "planner_mode": "model_assisted" if any(d["selector"] == "model" for d in decisions) else "offline_policy"}
+                    "planner_mode": "model_assisted" if any(d["selector"].startswith("model") for d in decisions) else "offline_policy"}
     return dict(run_id="agent_" + uuid4().hex, question=question, intent="plan", resolved_competition=competition_id,
                 resolved_name=next((c.competition_name for c in state["catalog"] if c.competition_id == competition_id), None),
                 answer="\n".join(lines), citations=citations, gate={}, score={}, recommendations=recommendations,

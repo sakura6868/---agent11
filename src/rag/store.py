@@ -6,7 +6,7 @@
     metadata 再叠加 competition_id/year/version 三重过滤，双保险隔离）。
   - 检索结果附带页码与原文证据（完整 Citation：文档名/官方链接/获取日期/
     最后核验/可信等级），供前端角标展示。
-  - 数据源来自真实数据库 db.get_all_competitions()（21 份按赛事/年份/赛道隔离的数据），
+  - 数据源来自真实数据库 db.get_all_competitions()（按赛事/年份/赛道隔离），
     不再硬编码样例，实现「接 DB 的赛事 ID」。
 
 Chroma 连接（生产可切真实服务）：
@@ -15,15 +15,14 @@ Chroma 连接（生产可切真实服务）：
     真实 Chroma 服务端（HttpClient），业务代码无需改动。
 
 embedding（诚实标注的混合检索架构）：
-  - 默认优先使用 sentence-transformers 的 all-MiniLM-L6-v2（all-MiniLM-L6-v2 已离线
-    打包到本地缓存 ~88MB，零联网即可加载）。当本地模型存在时，RAG 默认即为「真·语义检索」。
+  - all-MiniLM-L6-v2 为可选模型，源码不分发权重；本地缓存存在时可启用语义检索。
   - 检索融合三层信号（详见 docs/RAG_ARCHITECTURE.md）：
       ① 语义向量余弦（MiniLM 句向量，可命中 paraphrase，如「组队几个人」≈ team_max）；
-      ② 关键词重叠（lexical，兜底精确术语召回）；
+      ② 中文分词重叠（lexical，兜底精确术语召回）；
       ③ 结构化字段召回（报名截止/专业限制等字段级精确匹配）。
     最终以 0.8*语义 + 0.2*关键词 混合打分重排，兼顾语义泛化与术语精确。
-  - 环境变量 RAG_USE_ST=0 强制关闭（退回轻量哈希向量 + 关键词），=1 强制开启；
-    不设则「本地有模型即自动开启」，缺失模型时优雅降级到轻量向量 + 关键词检索。
+  - RAG_USE_ST=0 关闭语义，使用 jieba + BM25Plus 原文检索；=1 尝试开启语义。
+    不设则本地缓存存在时尝试开启，缺失模型时使用 BM25Plus。
 
 检索流程：
   DB -> ingest(每赛事字段+证据构造检索块，带 metadata) -> add
@@ -46,6 +45,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import db  # 延迟可用的数据访问层（用于 Chroma 不可用时的本地降级检索）
 from schemas import Citation, Competition
+from rag.lexical import scores as lexical_scores, tokens, query_tokens
 
 # ---------------------------------------------------------------------------
 # Embedding：优先 sentence-transformers，回退轻量哈希向量
@@ -127,6 +127,13 @@ def embed(texts: list[str]) -> list[list[float]]:
 
 def embedding_backend() -> str:
     return "sentence-transformers/all-MiniLM-L6-v2" if _try_load_st() is not None else "light-hash-256"
+
+
+def retrieval_backend() -> str:
+    """Embedding and actual retrieval are separate capabilities."""
+    if _try_load_st() is not None:
+        return "semantic+token-overlap"
+    return "jieba+bm25plus"
 
 
 def _has_real_embedding() -> bool:
@@ -285,6 +292,8 @@ class CompetitionRAG:
               绕开 Chroma 仍能获得真正的语义召回，引用 100% 来自官方标注。
         - 无真实 embedding（离线轻量向量）→ 本地关键词重叠检索。
         三种路径都强制 competition_id 隔离。"""
+        if top_k <= 0:
+            return []
         comp = db.get_competition(competition_id)  # type: ignore[name-defined]
         if comp is None:
             return []
@@ -304,7 +313,7 @@ class CompetitionRAG:
                     print(f"[rag] Chroma 检索异常，降级到语义本地检索：{exc}")
             return self._semantic_local_query(comp, question, top_k)
 
-        # 离线轻量向量模式：本地关键词重叠检索
+        # 无语义模型时：离线中文 BM25Plus 检索
         return self._local_query(comp, question, top_k)
 
     def _query_chroma(
@@ -360,26 +369,20 @@ class CompetitionRAG:
         return [item.model_copy(deep=True) for item in comp.evidence if item.source_text.strip()]
 
     def _local_query(self, comp: Competition, question: str, top_k: int) -> list[Citation]:
-        """离线关键词重叠检索（不依赖任何外部服务）。"""
+        """中文分词 + BM25Plus，索引范围只包含当前赛事的原始证据。"""
         blocks = self._build_blocks(comp)
-        q = (question or "").lower()
-        scored = []
-        for b in blocks:
-            t = b.source_text.lower()
-            overlap = sum(1 for ch in set(q) if ch in t)
-            if overlap == 0:
-                continue
-            scored.append((overlap, b))
+        values = lexical_scores(question or "", tuple((b.source_text, b.field) for b in blocks))
+        scored = [(value, block) for value, block in zip(values, blocks) if value > 0]
         scored.sort(key=lambda x: -x[0])
-        return [b for _, b in scored[:top_k]]
+        return [b for _, b in scored[:max(0, top_k)]]
 
     def _lexical_score(self, q: str, text: str) -> float:
-        """关键词重叠度（归一化），作为混合检索的 lexical 信号。"""
-        qt = set((q or "").lower())
+        """中文词项重叠度（归一化），作为可选语义检索的 lexical 信号。"""
+        qt = set(query_tokens(q or ""))
         if not qt:
             return 0.0
-        t = (text or "").lower()
-        hit = sum(1 for ch in qt if ch in t)
+        t = set(tokens(text or ""))
+        hit = len(qt.intersection(t))
         return hit / len(qt)
 
     def _semantic_local_query(self, comp: Competition, question: str, top_k: int) -> list[Citation]:

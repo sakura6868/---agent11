@@ -160,7 +160,10 @@ class ExecutionContractTests(unittest.TestCase):
         self.assertIn("golden_set", quality)
         self.assertIn("runtime", quality)
         self.assertIn("regression", quality)
-        self.assertGreaterEqual(quality["regression"]["tests_run"], 48)
+        import json
+        frozen = json.loads((PROJECT_ROOT / "evals/formal_results.json").read_text(encoding="utf-8"))["regression"]
+        self.assertEqual(quality["regression"]["tests_run"], frozen["tests_run"])
+        self.assertEqual(quality["regression"]["successful"], frozen["successful"])
         # 质量接口读取的是上一次冻结报告；本轮回归尚未写回前，不能要求其
         # 与正在执行的套件互相递归地等值。
         self.assertLessEqual(quality["regression"]["passed"], quality["regression"]["tests_run"])
