@@ -26,3 +26,5 @@ data/parsed/
 data/chunks/
 src/data/
 submission/releases/
+private_user_study/
+evidence/user_study/private/

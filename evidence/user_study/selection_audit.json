@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "study_id": "campus_agent_offline_user_study_2026_10",
+  "status": "team_reported_aggregate_unverified",
+  "baseline_task_rows": 1913,
+  "retained_task_rows": 1777,
+  "removed_task_rows": 136,
+  "removed_by_classification": [
+    {"task_id": "T04", "outcome": "failed", "count": 60},
+    {"task_id": "T05", "outcome": "failed", "count": 72},
+    {"task_id": "T05", "outcome": "timeout", "count": 4}
+  ],
+  "success_observations_added": 0,
+  "explanation": "公开文件记录团队报告的聚合筛选轨迹；没有个人行、原编号、逐条排除理由或复核人，不能替代私有审计台账。",
+  "row_level_audit_verified": false
+}

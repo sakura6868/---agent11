@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0",
+  "study_id": "campus_agent_offline_user_study_2026_10",
+  "evidence_status": "team_reported_aggregate_unverified",
+  "verified": false,
+  "documented_at": "2026-10-08",
+  "material_repaired_at": "2026-10-10",
+  "reported_freeze_date": "2026-10-07",
+  "mode": "offline",
+  "version_binding": {
+    "repository_commit_reviewed": "e2fb1b30fa2e0f22872f41f51a6c9ba19db7ac21",
+    "tested_application_commit": null,
+    "tested_dataset_sha256": null,
+    "binding_verified": false
+  },
+  "provenance": {
+    "aggregate_origin": "transcribed_from_repository_reports_2026_10_09",
+    "raw_workbook_available_to_current_reviewer": false,
+    "raw_workbook_recalculated_by_current_reviewer": false,
+    "source_reports": ["docs/USER_STUDY.md", "docs/DATA_PROVENANCE.md", "submission/06_用户试用与效果说明.md"],
+    "source_description": "团队提供并确认来源于实测的私有工作簿；公开仓库仅保留聚合结果",
+    "private_source_sha256": null,
+    "raw_rows_public": false,
+    "independent_observation_verified": false,
+    "consent_artifacts_verified": false,
+    "session_dates_verified": false
+  },
+  "participants": {
+    "population": "计算机学院学生",
+    "population_basis": "用户于2026-10-09确认现有参与者全部来自计算机学院",
+    "population_independently_verified": false,
+    "recorded": 200,
+    "included": 190,
+    "completed": 180,
+    "withdrew": 10,
+    "not_started": 10,
+    "complete_questionnaires": 170
+  },
+  "task_rows": {
+    "baseline_before_selection": 1913,
+    "retained_raw": 1777,
+    "included": 1677,
+    "included_started_attempts": 1235,
+    "removed": 136
+  },
+  "tasks": [
+    {
+      "id": "T01",
+      "module": "能力画像",
+      "criterion": "保存、重开后关键字段一致，未丢失或串号",
+      "time_limit_seconds": 90,
+      "attempts": 190,
+      "independent_successes": 152,
+      "assisted_successes": 19,
+      "total_successes": 171,
+      "not_successful": 19
+    },
+    {
+      "id": "T02",
+      "module": "赛事大厅检索",
+      "criterion": "找到指定赛事、年份和赛道，清空后恢复列表",
+      "time_limit_seconds": 90,
+      "attempts": 190,
+      "independent_successes": 146,
+      "assisted_successes": 19,
+      "total_successes": 165,
+      "not_successful": 25
+    },
+    {
+      "id": "T03",
+      "module": "赛事规则与来源",
+      "criterion": "截止、人数和材料与答案卡一致，并找到依据；未知保持未知",
+      "time_limit_seconds": 180,
+      "attempts": 190,
+      "independent_successes": 117,
+      "assisted_successes": 31,
+      "total_successes": 148,
+      "not_successful": 42
+    },
+    {
+      "id": "T04",
+      "module": "我的推荐",
+      "criterion": "至少一条相关推荐通过资格、截止及引用版本核验，学生能说明原因",
+      "time_limit_seconds": 180,
+      "attempts": 95,
+      "independent_successes": 46,
+      "assisted_successes": 11,
+      "total_successes": 57,
+      "not_successful": 38
+    },
+    {
+      "id": "T05",
+      "module": "科创机会组合",
+      "criterion": "至少一套方案满足真实工时与截止约束，理解下一步，未擅自写入",
+      "time_limit_seconds": 240,
+      "attempts": 52,
+      "independent_successes": 23,
+      "assisted_successes": 8,
+      "total_successes": 31,
+      "not_successful": 21
+    },
+    {
+      "id": "T06",
+      "module": "项目执行",
+      "criterion": "明确采用后才写入，能推进任务、有效导出并保持重开状态",
+      "time_limit_seconds": 240,
+      "attempts": 63,
+      "independent_successes": 34,
+      "assisted_successes": 13,
+      "total_successes": 47,
+      "not_successful": 16
+    },
+    {
+      "id": "T07",
+      "module": "智能顾问",
+      "criterion": "规则与追问符合答案卡，赛事、年份、版本及引用可核对",
+      "time_limit_seconds": 180,
+      "attempts": 180,
+      "independent_successes": 97,
+      "assisted_successes": 33,
+      "total_successes": 130,
+      "not_successful": 50
+    },
+    {
+      "id": "T08",
+      "module": "边界与安全兜底",
+      "criterion": "对指定异常输入正确拒绝或要求确认，不编造或越权写入",
+      "time_limit_seconds": 120,
+      "attempts": 111,
+      "independent_successes": 87,
+      "assisted_successes": 14,
+      "total_successes": 101,
+      "not_successful": 10
+    },
+    {
+      "id": "T09",
+      "module": "赛事雷达",
+      "criterion": "在受控变化中找到影响、区分审核状态并理解应处理事项",
+      "time_limit_seconds": 120,
+      "attempts": 75,
+      "independent_successes": 41,
+      "assisted_successes": 19,
+      "total_successes": 60,
+      "not_successful": 15
+    },
+    {
+      "id": "T10",
+      "module": "组队与互补建议",
+      "criterion": "理解建议及角色缺口，无虚构真实匹配或信息泄漏",
+      "time_limit_seconds": 120,
+      "attempts": 89,
+      "independent_successes": 56,
+      "assisted_successes": 17,
+      "total_successes": 73,
+      "not_successful": 16
+    }
+  ],
+  "recommendation_ratings": {
+    "ratings": 329,
+    "participants": 148,
+    "mean_relevance_1_to_5": 3.26,
+    "rating_at_least_4": 148,
+    "fully_verified_entries": 111
+  },
+  "questionnaire": {
+    "complete_responses": 170,
+    "scale": "1-5",
+    "items": [
+      {"name": "流程容易上手", "mean": 3.63, "rating_at_least_4": 98},
+      {"name": "推荐符合需求", "mean": 3.12, "rating_at_least_4": 54},
+      {"name": "推荐理由易懂", "mean": 3.61, "rating_at_least_4": 96},
+      {"name": "依据值得信任", "mean": 3.49, "rating_at_least_4": 84},
+      {"name": "下一步行动明确", "mean": 3.04, "rating_at_least_4": 54},
+      {"name": "愿意再次使用", "mean": 3.39, "rating_at_least_4": 77},
+      {"name": "总体满意", "mean": 3.31, "rating_at_least_4": 65}
+    ]
+  },
+  "paired_timing": {
+    "recorded_pairs": 120,
+    "included_pairs": 76,
+    "manual_mean_seconds": 323.1,
+    "system_mean_seconds": 277.2,
+    "mean_seconds_saved": 45.8,
+    "mean_pairwise_saving_percent": 14.3,
+    "system_slower_pairs": 16
+  },
+  "feedback": {
+    "valid_records": 560,
+    "recommendation_records": 138,
+    "portfolio_records": 152,
+    "status": "unresolved_unretested",
+    "categories": [
+      {"name": "无相关且资格、时效、来源明确的候选", "count": 115},
+      {"name": "真实工时下没有可执行方案", "count": 59},
+      {"name": "方案缺少立即可完成的步骤", "count": 47},
+      {"name": "容量与冲突提示难理解", "count": 43},
+      {"name": "引用能打开但没有定位到关键句", "count": 21}
+    ]
+  },
+  "verification": {
+    "aggregate_arithmetic_checked": true,
+    "independent_validation_complete": false,
+    "real_user_validation_flag": false,
+    "pending": [
+      "私有源工作簿指纹",
+      "实际试用日期",
+      "被试用应用提交与赛事数据快照",
+      "操作日志、截图或录屏及独立计时凭证",
+      "排除记录的逐条理由与复核人",
+      "知情同意与公开授权复核"
+    ]
+  }
+}

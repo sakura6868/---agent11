@@ -11,6 +11,7 @@ sys.path.insert(0,str(ROOT))
 from schemas import Competition
 from evals.run_eval import load_competitions
 from trust import assess_source_readiness, is_registerable_now
+from scripts.analyze_user_study import calculate, read_json, sha256, verification_supported
 
 def main():
     records=load_competitions(ROOT)
@@ -22,6 +23,24 @@ def main():
     browser=json.loads((ROOT/'evals/planning_browser_results.json').read_text(encoding='utf-8-sig'))
     retrieval=json.loads((ROOT/'evals/retrieval_comparison.json').read_text(encoding='utf-8-sig'))
     video=ROOT/'demo/演示视频.mp4'
+    user_report=read_json(ROOT/'evals/user_study_results.json')
+    user_audit=read_json(ROOT/'evidence/user_study/selection_audit.json')
+    user_computed=calculate(user_report,user_audit)
+    user_summary=dict(
+      population=user_report['participants']['population'],
+      population_basis=user_report['participants']['population_basis'],
+      status=user_report['evidence_status'],
+      included_participants=user_report['participants']['included'],
+      complete_questionnaires=user_report['participants']['complete_questionnaires'],
+      aggregate_sha256=sha256(ROOT/'evals/user_study_results.json'),
+      aggregate_hash_mode='text-lf-normalized-sha256',
+      source_workbook_available=user_report['provenance']['raw_workbook_available_to_current_reviewer'],
+      selection_sensitivity=user_computed['selection_sensitivity'])
+    task_labels={'T04':'推荐','T05':'组合'}
+    sensitivity_text='；'.join(
+      f"{task_labels[item['task_id']]}基线{item['successes']}/{item['baseline_attempts']}（{item['baseline_success_percent']:.1f}%），"
+      f"移除{item['removed_unsuccessful_attempts']}条未成功记录后为{item['successes']}/{item['retained_attempts']}（{item['retained_success_percent']:.1f}%）"
+      for item in user_computed['selection_sensitivity'])
     report=dict(version=(ROOT/'VERSION').read_text().strip(),snapshot_at=current.isoformat(),records=len(records),
       official_source_found=sum(c.official_source_status=='found' for c in records),source_ready=len(ready),
       open_source_ready=len(opened),open_ids=[c.competition_id for c in opened],formal=formal['formal_summary'],
@@ -30,13 +49,14 @@ def main():
       retrieval_comparison=retrieval['summary'],
       evaluation_fixture_date=formal['fixture_date'],dataset_sha256=formal['dataset_sha256'],
       video_sha256=hashlib.sha256(video.read_bytes()).hexdigest() if video.exists() else None,
-      real_user_validation=False,live_model_planning_validated=False,cloud_rotation_verified=False)
+      real_user_validation=verification_supported(user_report),live_model_planning_validated=False,cloud_rotation_verified=False,
+      user_study=user_summary)
     (ROOT/'evals/submission_snapshot.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     text=f'''# 当前提交快照
 
 版本：{report['version']}。目录统计时刻：{current.isoformat()}。唯一机器可读口径为 [submission_snapshot.json](../evals/submission_snapshot.json)。本版仅附当前验收报告。
 
-| 项目 | 本版实测 |
+| 项目 | 已记录工程结果 |
 |---|---|
 | 赛事目录 | {len(records)} 条，不能全部正式推荐 |
 | 找到官方来源 | {report['official_source_found']} 条；有来源不等于证据齐全 |
@@ -60,7 +80,15 @@ def main():
 
 生产启动检查拒绝短密钥、占位密钥、用户与管理员共用密钥、调试管理员登录及通配 CORS；生产默认禁用演示账号。默认不配置云端数据库或模型密钥，源码与归档有凭据模式扫描。云端凭据管理与生产验收不包含在离线验证范围内，`cloud_rotation_verified=false` 不代表平台状态已被验证。
 
-本次不包含真实学生试用研究；不宣称提升获奖率、节省多少时间或线上新版本已经部署。自动来源扫描需要平台配置，人工审核之前不改写正式赛事事实。
+## 用户提供的试用记录分析
+
+产品聚焦计算机学院学生的编程、人工智能、数据分析、网络安全与软件创新参赛场景。用户于2026-10-09确认全部参与者来自计算机学院；这是团队确认口径，身份尚未独立核验。
+
+团队报告纳入{user_summary['included_participants']}人，完整问卷{user_summary['complete_questionnaires']}份；当前聚合JSON从公开报告转录，原始工作簿未提供，本次只校验公开聚合算术。详见[用户试用分析](USER_STUDY.md)、[聚合统计](../evals/user_study_results.json)与[证据索引](../evidence/user_study/README.md)。试用日期、版本、原始操作凭证、授权及逐条排除依据仍待核对，独立用户效果验证标记为{str(report['real_user_validation']).lower()}。
+
+筛选敏感性：{sensitivity_text}。基线由报告聚合数重建，成功数没有增加，不用保留子集比例代表整体效果。
+
+用户统计不覆盖原工程结果。在线模型、真实通知同步、生产部署和获奖率仍未验证；自动来源扫描需要平台配置，人工审核之前不改写正式赛事事实。
 '''
     (ROOT/'docs/SUBMISSION_STATUS.md').write_text(text,encoding='utf-8')
     print(json.dumps({k:report[k] for k in ('records','official_source_found','source_ready','open_source_ready','templates','browser')},ensure_ascii=False))

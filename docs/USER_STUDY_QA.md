@@ -1,43 +1,37 @@
 # 用户试用材料核验记录
 
-核验范围：新增聚合统计、文档、链接、快照、筛选分类和公开范围。不重新运行业务验收，不核验原始学生操作真实性。
+材料修复日期：2026-10-10。范围为公开聚合数、筛选审计、校验脚本、文件链接和SHA-256；不核验原始学生操作真实性，不重跑原业务验收。
 
-文档补充日期2026-10-08，统计冻结日期2026-10-07。
+## 修复来源
 
-## 已执行结果
+远端提交 `25f55b8` 包含用户研究文档，但缺少被引用的统计JSON、筛选审计、复算脚本、校验器、单元测试和指纹清单。工作区及远端分支没有找到源工作簿或这些文件，不能保留“已经重算工作簿”和“原文件指纹已确认”的陈述。
 
-`python scripts/check_user_study_materials.py`：12/12项材料检查通过。
+本轮从现有公开报告转录聚合计数，明确标注 `team_reported_aggregate_unverified`。用户于2026-10-09确认参与者全部来自计算机学院；学院归属记录为团队声明，未独立核验。
 
-| ID | 检查 | 结果 |
-| --- | --- | --- |
-| US-QA-01 | 聚合数量、成功率、配对耗时和筛选算术一致 | 通过 |
-| US-QA-02 | 独立筛选附件与统计JSON内嵌审计一致 | 通过 |
-| US-QA-03 | 提交快照、统计指纹及效果验证状态一致 | 通过 |
-| US-QA-04 | 待补原始证据未被标成已独立验证 | 通过 |
-| US-QA-05 | 详细报告十个任务的分子分母与成功类型一致 | 通过 |
-| US-QA-06 | 参赛附件七个任务行与详细报告一致 | 通过 |
-| US-QA-07 | 八项问卷均分与高分人数一致 | 通过 |
-| US-QA-08 | 配对耗时表与统计JSON一致，保留子集范围 | 通过 |
-| US-QA-09 | 十六份相关文档的仓库内链接可解析 | 通过 |
-| US-QA-10 | 六项证据索引文件存在且指纹一致 | 通过 |
-| US-QA-11 | 公开聚合未包含参与者行ID、邮箱或源工作簿 | 通过 |
-| US-QA-12 | 七份原工程结果文件与基础提交逐字节一致 | 通过 |
+## 实际检查
 
-`python -m unittest scripts.test_user_study_evidence -v`：14/14项测试通过，覆盖正确报表、错误比例、协助成功漏记、负数、零分母、重复任务、推荐分母不一致、计时不一致、筛选不一致、缺指纹、缺报告，以及有数据但凭证未闭环的状态。测试只检查校验器，不是新增学生样本。
+| 检查 | 结果与范围 |
+| --- | --- |
+| 聚合算术 | 十个任务的独立/协助成功、未成功与分母一致；总尝试为1,235 |
+| 筛选一致性 | 1,913减136等于1,777；移除分类计数一致，逐条排除理由仍未提供 |
+| 筛选敏感性 | T04基线36.8%、保留60.0%；T05基线24.2%、保留59.6%，成功数不变 |
+| 单元测试 | `python -m unittest scripts.test_user_study_evidence -v`：14项通过 |
+| 仓库内链接 | `python scripts/check_user_study_materials.py`：检查README及docs/submission/evidence中的相对链接 |
+| 提交快照 | 自动读取聚合数、记录其SHA-256；证据不完整时保持 `real_user_validation=false` |
+| 文件指纹 | 清单覆盖10个公开文本，统一LF换行后计算SHA-256；兼容Windows/Linux检出，清单自身不自引用 |
+| 材料与视频 | `python scripts/check_submission_materials.py --video demo/演示视频.mp4 --require-video`：22项材料，视频208.05秒 |
 
-`python scripts/check_submission_materials.py --video demo/演示视频.mp4 --require-video`：22项必需材料齐全；原正式视频208.05秒，符合3—5分钟要求。本轮未更换或重录视频。
+14项单元测试覆盖聚合一致性、错误比例、协助成功漏记、负数、零分母、重复任务、推荐分母、计时不一致、筛选不一致、缺指纹、缺报告、错误验证声明、文件被修改和根目录/嵌套链接。测试验证校验器，不新增学生样本。
 
-`git diff --check`：通过。复算前后源工作簿指纹一致，未修改源文件。原工程结果包括正式结果、模板结果、模板报告、检索对照、浏览器结果、发布验收及安全扫描，均未改写；本轮未重跑业务验收。
-
-## 可重复检查
+## 复现顺序
 
 ```bash
+python scripts/analyze_user_study.py
 python scripts/refresh_submission.py
-python scripts/check_user_study_materials.py --write-manifest --document-date 2026-10-08
+python scripts/check_user_study_materials.py --write-manifest --document-date 2026-10-10
+python scripts/check_user_study_materials.py
 python -m unittest scripts.test_user_study_evidence -v
 python scripts/check_submission_materials.py --video demo/演示视频.mp4 --require-video
 ```
 
-重新生成指纹前须先审核文档和数据的实际变更。指纹更新不补齐原始凭证，不自动认可新的真实性、授权或效果结论。
-
-原始凭证、实际日期、被试用版本、排除理由及授权复核待补，不能因材料校验通过就宣称独立用户效果验证已完成。
+第一次运行可在缺清单时生成；以后仅在审核过真实变更后更新清单。指纹证明文件一致性，不证明研究真实性。源工作簿指纹为null，实际试用日期、版本绑定、原始操作凭证、授权和逐条排除理由仍待采集者提供。原工程报告保留原日期及结果。

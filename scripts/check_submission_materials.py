@@ -29,6 +29,12 @@ REQUIRED_FILES = (
     "docs/QUANTITATIVE_EVALUATION.md",
     "start.ps1",
     "start.sh",
+    "submission/06_用户试用与效果说明.md",
+    "docs/USER_STUDY.md",
+    "docs/USER_STUDY_QA.md",
+    "evals/user_study_results.json",
+    "evidence/user_study/selection_audit.json",
+    "evidence/user_study/manifest.json",
 )
 VIDEO_SUFFIXES = {".mp4", ".mov", ".webm"}
 MIN_VIDEO_SECONDS = 180

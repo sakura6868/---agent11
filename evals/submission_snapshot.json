@@ -51,5 +51,35 @@
   "video_sha256": "3848660c395a4badd502f0dff0bb3081d1afe59650e50bba816affb891e85c8d",
   "real_user_validation": false,
   "live_model_planning_validated": false,
-  "cloud_rotation_verified": false
+  "cloud_rotation_verified": false,
+  "user_study": {
+    "population": "计算机学院学生",
+    "population_basis": "用户于2026-10-09确认现有参与者全部来自计算机学院",
+    "status": "team_reported_aggregate_unverified",
+    "included_participants": 190,
+    "complete_questionnaires": 170,
+    "aggregate_sha256": "5290527abdc4c33594c3d2f62516899de1b24777b5e070f56fc0e2c1d3daf93e",
+    "aggregate_hash_mode": "text-lf-normalized-sha256",
+    "source_workbook_available": false,
+    "selection_sensitivity": [
+      {
+        "task_id": "T04",
+        "retained_attempts": 95,
+        "removed_unsuccessful_attempts": 60,
+        "baseline_attempts": 155,
+        "successes": 57,
+        "baseline_success_percent": 36.8,
+        "retained_success_percent": 60.0
+      },
+      {
+        "task_id": "T05",
+        "retained_attempts": 52,
+        "removed_unsuccessful_attempts": 76,
+        "baseline_attempts": 128,
+        "successes": 31,
+        "baseline_success_percent": 24.2,
+        "retained_success_percent": 59.6
+      }
+    ]
+  }
 }
