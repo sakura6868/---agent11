@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "document_date": "2026-10-10",
-  "scope": "public aggregate, method, audit and validation files; excludes manifest itself",
+  "document_date": "2026-10-11",
+  "scope": "current public study documents and validation files, plus historical aggregate and audit; excludes manifest itself",
   "authenticity_verified": false,
   "hash_mode": "text-lf-normalized-sha256",
-  "limitations": "Hashes establish file identity only. No raw workbook, student identity or consent evidence was verified.",
+  "limitations": "Hashes establish file identity only. Arithmetic checks apply to the historical aggregate, not the current 24-person report. No current raw workbook, student identity or consent evidence was verified.",
   "files": {
     "evals/user_study_results.json": "5290527abdc4c33594c3d2f62516899de1b24777b5e070f56fc0e2c1d3daf93e",
     "evidence/user_study/selection_audit.json": "ce2df62ea3ecd649ffa2985fbf4dfb15e6b2f7af3fa4999782f50729ca9d4920",
-    "evidence/user_study/README.md": "51ce15b19228dca7f08cbd8a18758f525272aa33a262e129e949e61ee6ec3397",
-    "docs/USER_STUDY.md": "4a3544aa8a3f0eda5b8ea535384f8e923cdc806047fa64c6c4688bd007a5c217",
-    "docs/USER_STUDY_QA.md": "34ab0e8e834ce5fdd8cc6caba5245d538d51b90d873d8ddb99de59073adf52eb",
-    "docs/DATA_PROVENANCE.md": "380574b9948e1402f29446fa9acee4da6d98269184419fa4491ce34bcbee404a",
-    "submission/06_用户试用与效果说明.md": "c14c00b4cba3364b0b50d879e504662e8e7e833e8c7c663a883ad9a6a75508ae",
+    "evidence/user_study/README.md": "7c1e5bbd1537280d8b001c05b5a17faf85fd2345955ac24092a99ddf519f13ff",
+    "docs/USER_STUDY.md": "afde35dd4936e11b24fc509aeac3d6c7663933caa1622f18d01442aa9b43df01",
+    "docs/USER_STUDY_QA.md": "edc145fa36ba8c48c61f67a56b701a53a67c21a4264bb1d860b6474d4fd265ff",
+    "docs/DATA_PROVENANCE.md": "b814174b20912da70ad8c9c63fe36970e52ddb88150813c99081f12d0e01f680",
+    "submission/06_用户试用与效果说明.md": "8729889b8bc190af27477db957eaef68bbf87ba189038200042ce975df155494",
     "scripts/analyze_user_study.py": "5e11faf2476442a0c893c656843e1fe2cc31cc4aba4d1d5bb1b72d9126c7f79c",
-    "scripts/check_user_study_materials.py": "f33006f65bed143b487a226546aa407ccf472f76cda353b958a01fd8ec703a72",
+    "scripts/check_user_study_materials.py": "aa0f73d4975ebe0acd6f6c3a7d7a02213a84279883d7081d72468a89ded2d64a",
     "scripts/test_user_study_evidence.py": "2bec000df8f054c54001d82ac2e2cae67a87d184033255fd3d855281a193e6e6"
   }
 }

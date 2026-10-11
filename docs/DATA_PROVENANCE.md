@@ -1,6 +1,6 @@
 # 数据来源与证据边界
 
-更新日期：2026-10-11。当前用户效果按《数据3.xlsx》逐行复算；旧JSON作为历史保留。只改文档，赛事记录、业务代码和原工程结果未改变。
+更新日期：2026-10-11。当前用户效果沿用团队报告的《数据3.xlsx》逐行复算结果；旧JSON作为历史保留。最终整理更新提交入口与公开文件指纹，赛事记录、业务代码和原工程结果未改变。
 
 ## 1. 数据类别与用途
 
@@ -56,9 +56,9 @@
 
 ### 历史批次不覆盖当前批次
 
-[旧聚合JSON](../evals/user_study_results.json)、[旧筛选审计](../evidence/user_study/selection_audit.json)及[旧指纹清单](../evidence/user_study/manifest.json)保留旧批次轨迹，不能用于当前24人分母或新版文档指纹。此前移除136条未成功记录的历史只属于旧批次，本轮没有据此删除记录，也不将两批比例差异解释为优化收益。历史说明见[更新前报告](https://github.com/sakura6868/---agent11/blob/04f76a3a0bb5191da511e541213781644cb740e8/docs/USER_STUDY.md)。
+[旧聚合JSON](../evals/user_study_results.json)、[旧筛选审计](../evidence/user_study/selection_audit.json)及Git历史中的[旧指纹清单](https://github.com/sakura6868/---agent11/blob/04f76a3a0bb5191da511e541213781644cb740e8/evidence/user_study/manifest.json)保留旧批次轨迹，不能用于当前24人分母。此前移除136条未成功记录的历史只属于旧批次，本轮没有据此删除记录，也不将两批比例差异解释为优化收益。历史说明见[更新前报告](https://github.com/sakura6868/---agent11/blob/04f76a3a0bb5191da511e541213781644cb740e8/docs/USER_STUDY.md)。
 
-本轮仅更新文档，旧统计与校验脚本仍使用旧JSON，尚未发布本批次机器可读附件或新版清单。不得把旧校验通过当作新版文档已匹配指纹。
+最终整理已更新[公开文件清单](../evidence/user_study/manifest.json)，仅用于文件身份核对。统计与材料校验中的聚合计算仍使用旧JSON，尚未发布当前批次机器可读统计或工作簿复算程序；文件清单通过不代表当前24人数据已复算或独立核验。
 
 ## 4. 工程评测不改称学生实测
 

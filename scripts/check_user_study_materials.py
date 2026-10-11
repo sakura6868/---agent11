@@ -83,10 +83,10 @@ def write_manifest(root: Path, document_date: str) -> None:
     manifest = {
         "schema_version": "1.0",
         "document_date": document_date,
-        "scope": "public aggregate, method, audit and validation files; excludes manifest itself",
+        "scope": "current public study documents and validation files, plus historical aggregate and audit; excludes manifest itself",
         "authenticity_verified": False,
         "hash_mode": "text-lf-normalized-sha256",
-        "limitations": "Hashes establish file identity only. No raw workbook, student identity or consent evidence was verified.",
+        "limitations": "Hashes establish file identity only. Arithmetic checks apply to the historical aggregate, not the current 24-person report. No current raw workbook, student identity or consent evidence was verified.",
         "files": {name: sha256(root / name) for name in EVIDENCE_FILES},
     }
     path = root / MANIFEST_PATH
@@ -130,7 +130,7 @@ def check_materials(root: Path, *, verify_hashes: bool = True) -> list[str]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--write-manifest", action="store_true")
-    parser.add_argument("--document-date", default="2026-10-10")
+    parser.add_argument("--document-date", default="2026-10-11")
     args = parser.parse_args()
     errors = check_materials(ROOT, verify_hashes=not args.write_manifest)
     if errors:
@@ -144,8 +144,8 @@ def main() -> int:
             for error in errors:
                 print(f"FAIL {error}")
             return 1
-    print("PASS aggregate arithmetic, selection counts, local links, snapshot state and SHA-256 manifest")
-    print("PENDING independent validation: raw workbook, dates, application version, observations and consent evidence")
+    print("PASS public file SHA-256 manifest and local links; historical aggregate arithmetic, selection counts and snapshot consistency")
+    print("PENDING current 24-person study: raw-workbook recomputation and independent validation of dates, application version, observations and consent")
     return 0
 
 

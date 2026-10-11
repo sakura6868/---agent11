@@ -7,12 +7,13 @@
 | US-01 | [当前试用报告](../../docs/USER_STUDY.md) | 24人、240任务及评价、问卷、计时的逐行复算汇总 |
 | US-02 | [当前效果附件](../../submission/06_用户试用与效果说明.md) | 参赛与答辩摘要 |
 | US-03 | [当前材料核验](../../docs/USER_STUDY_QA.md) | 表内一致性检查与未核验事项 |
+| US-04 | [当前公开文件指纹](manifest.json) | 最终整理后的文件身份；不认证当前24人操作或统计 |
 | HIST-01 | [旧聚合JSON](../../evals/user_study_results.json) | 历史批次，不是当前数据表结果 |
 | HIST-02 | [旧筛选审计](selection_audit.json) | 历史批次轨迹，不能用于当前24人分母 |
-| HIST-03 | [旧指纹清单](manifest.json) | 更新前文件清单，不覆盖本次改后文档 |
+| HIST-03 | [旧指纹清单](https://github.com/sakura6868/---agent11/blob/04f76a3a0bb5191da511e541213781644cb740e8/evidence/user_study/manifest.json) | Git历史保留的更新前清单 |
 | HIST-04 | [旧复算脚本](../../scripts/analyze_user_study.py) | 只读取旧聚合JSON，不读取当前工作簿 |
 
-源文件SHA-256：`9b28f35eb56c9ed800a7e54dc9001d57d0fc3a8f95694f488c00c8c28ee0fe6c`。本轮仅改文档，没有更新历史JSON、脚本或机器可读指纹清单。文件身份核对与操作真实性核验分别进行。
+团队报告的源文件SHA-256：`9b28f35eb56c9ed800a7e54dc9001d57d0fc3a8f95694f488c00c8c28ee0fe6c`。最终整理已更新公开文件指纹；历史统计JSON未改变，当前工作簿未纳入清单或重新读取。文件身份核对与操作真实性核验分别进行。
 
 ## 当前表内索引与实际凭证
 

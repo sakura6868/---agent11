@@ -8,4 +8,6 @@
 
 当前用户记录的逐行复算结果见[用户试用报告](../docs/USER_STUDY.md)与[效果附件](../submission/06_用户试用与效果说明.md)。当前采用《数据3.xlsx》逐行复算：24名参与者、240次任务，推荐与组合评价各72条；24份即时及24份同人后续问卷，63个双方独立成功主对照。推荐总完成22/24（91.7%），独立18/24（75.0%）；组合总完成21/24（87.5%），独立16/24（66.7%）。总完成包含协助，失败和超时均计入分母。 均分、计时与凭证状态详见报告，不把用户完成率、自动测试通过率与检索Top-1混用。
 
-本目录[user_study_results.json](user_study_results.json)及submission_snapshot.json中的user_study字段保留旧批次结果，不是当前工作簿统计。scripts/analyze_user_study.py读取旧JSON，不能复算当前24人；旧材料校验器按旧指纹清单检查，文档更新后的指纹失配详见[材料核验](../docs/USER_STUDY_QA.md)。本轮仅上传文档，没有发布新版JSON或脚本。
+本目录[user_study_results.json](user_study_results.json)及submission_snapshot.json中的user_study字段保留旧批次结果，不是当前工作簿统计。scripts/analyze_user_study.py读取旧JSON，不能复算当前24人。最终整理已更新公开材料指纹，`scripts/check_user_study_materials.py`校验文件身份、相对链接及旧聚合一致性，范围见[材料核验](../docs/USER_STUDY_QA.md)；没有发布当前批次的机器可读统计或工作簿复算程序。
+
+`scripts/refresh_submission.py`仍使用旧用户聚合生成快照，会覆盖当前手工整合的提交说明，不用于本次定稿。复查材料请使用[提交入口](../SUBMISSION.md)中的只读检查命令。
